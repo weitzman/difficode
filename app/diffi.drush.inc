@@ -28,7 +28,9 @@ function diffi_drush_command() {
 function drush_diffi_loop_init() {
   // Use shallow clone with git 1.9? https://blog.oio.de/2014/02/06/better-support-for-shallow-clones-in-git-1-9/
   $exec = 'git clone %s %s';
-  $return = drush_shell_exec($exec, REPO_URL, REPO_PATH);
+  if (!drush_shell_exec($exec, REPO_URL, REPO_PATH)) {
+    return drush_set_error('Unable to git clone.');
+  }
 }
 
 /**
@@ -43,6 +45,11 @@ function drush_diffi_loop() {
 
       $client = new Client();
       $crawler = $client->request('GET', $recipe->url);
+      $status = $client->getResponse()->getStatus();
+      if ($status != 200) {
+        drush_log($recipe->url . ' returned ' . $status, 'warning');
+        continue;
+      }
       $html = $crawler->filter($recipe->selector)->html();
       $return = diffi_commit($html, $object);
     }
@@ -59,12 +66,15 @@ function diffi_commit($html, $object) {
   }
 
   $exec = 'git add %s && git commit -am %s';
+  // @todo only add+commit when stuff changes. then add error handling in that case.
   $return = drush_shell_cd_and_exec($target_directory, $exec, $target, 'Diffi!');
 }
 
 function diffi_push ($repo_path) {
   $exec = 'git push';
-  $return = drush_shell_cd_and_exec($repo_path, $exec);
+  if (!$return = drush_shell_cd_and_exec($repo_path, $exec)) {
+    return drush_set_error('Unable to git push');
+  }
 }
 
 function diffi_autoload() {
