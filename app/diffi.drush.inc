@@ -2,7 +2,7 @@
 
 use Goutte\Client;
 
-define('REPO_URL', 'git@github.com:weitzman/diffi.git');
+define('REPO_URL', getenv('DIFFI_USER') . ':' . getenv('DIFFI_PASS') . '@github.com:weitzman/diffi.git');
 define('REPO_PATH', drush_tempdir() . '/diffidata');
 
 // Clone repo
