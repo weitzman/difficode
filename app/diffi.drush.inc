@@ -33,9 +33,10 @@ function drush_diffi_loop_init() {
     return drush_set_error('Unable to git clone.');
   }
   else {
-    drush_shell_exec('git config --global user.email "diffibot@diffi.com"');
-    drush_shell_exec('git config --global user.name "Diffi Bot"');
-    drush_shell_exec('git config --global push.default simple');
+    drush_shell_exec('cd %s', REPO_PATH);
+    drush_shell_exec('git config user.email "diffibot@diffi.com"');
+    drush_shell_exec('git config user.name "Diffi Bot"');
+    drush_shell_exec('git config push.default simple');
   }
 }
 
@@ -68,15 +69,11 @@ function drush_diffi_loop() {
 
 function diffi_commit($html, $it) {
   $target = diffi_target($it);
-  $target_directory = dirname($target);
-  if (!file_exists($target)) {
-    $return = mkdir($target_directory, 0777);
-    file_put_contents($target, $html);
-  }
+  file_force_contents($target, $html);
 
   $exec = 'git add %s && git commit -am %s';
   // @todo only add+commit when stuff changes. then add error handling in that case.
-  $return = drush_shell_cd_and_exec($target_directory, $exec, $target, 'Diffi!');
+  $return = drush_shell_cd_and_exec(dirname($target), $exec, $target, 'Diffi!');
 }
 
 function diffi_push ($repo_path) {
@@ -103,4 +100,15 @@ function diffi_target($it) {
   $target_file = basename($recipe_path);
   $target_directory = REPO_PATH . '/' . (basename(dirname($recipe_path)));
   return $target_directory . '/' . str_replace('.json', '.html', $target_file);
+}
+
+// Creates dirs if needed then file_put_contents().
+// http://php.net/manual/en/function.file-put-contents.php#84180
+function file_force_contents($dir, $contents){
+  $parts = explode('/', $dir);
+  $file = array_pop($parts);
+  $dir = '';
+  foreach($parts as $part)
+    if(!is_dir($dir .= "/$part")) mkdir($dir);
+  return file_put_contents("$dir/$file", $contents);
 }
