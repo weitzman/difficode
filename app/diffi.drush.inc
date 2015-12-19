@@ -35,6 +35,7 @@ function drush_diffi_loop_init() {
   else {
     drush_shell_exec('git config --global user.email "diffibot@diffi.com"');
     drush_shell_exec('git config --global user.name "Diffi Bot"');
+    drush_shell_exec('git config --global push.default simple');
   }
 }
 
