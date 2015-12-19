@@ -26,10 +26,14 @@ function diffi_drush_command() {
  * .
  */
 function drush_diffi_loop_init() {
-  // Use shallow clone with git 1.9? https://blog.oio.de/2014/02/06/better-support-for-shallow-clones-in-git-1-9/
+  // @todo Use shallow clone with git 1.9? https://blog.oio.de/2014/02/06/better-support-for-shallow-clones-in-git-1-9/
   $exec = 'git clone %s %s';
   if (!drush_shell_exec($exec, REPO_URL, REPO_PATH)) {
     return drush_set_error('Unable to git clone.');
+  }
+  else {
+    drush_shell_exec('git config --global user.email "diffibot@diffi.com"');
+    drush_shell_exec('git config --global user.name "Diffi Bot"');
   }
 }
 
