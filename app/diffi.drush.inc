@@ -70,9 +70,9 @@ function diffi_commit($html, $it) {
   $target = diffi_target($it);
   file_force_contents($target, $html);
 
-  $exec = 'git add %s && git commit -am %s';
-  // @todo only add+commit when stuff changes. then add error handling in that case.
-  $return = drush_shell_cd_and_exec(dirname($target), $exec, $target, 'Diffi!');
+  $exec = 'git add %s && git commit -am "%s"';
+  $msg = 'Update to ' . $target . '.';
+  $return = drush_shell_cd_and_exec(dirname($target), $exec, $target, $target);
 }
 
 function diffi_push ($repo_path) {
