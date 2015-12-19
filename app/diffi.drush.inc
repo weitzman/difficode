@@ -26,6 +26,7 @@ function diffi_drush_command() {
  * .
  */
 function drush_diffi_loop_init() {
+  drush_shell_exec('rm -rf %s"', REPO_PATH);
   // @todo Use shallow clone with git 1.9? https://blog.oio.de/2014/02/06/better-support-for-shallow-clones-in-git-1-9/
   $exec = 'git clone %s %s';
   if (!drush_shell_exec($exec, REPO_URL, REPO_PATH)) {
