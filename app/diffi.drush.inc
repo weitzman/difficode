@@ -3,7 +3,7 @@
 use Goutte\Client;
 
 define('REPO_URL', 'https://' . getenv('DIFFI_USER') . ':' . getenv('DIFFI_PASS') . '@github.com/weitzman/diffi.git');
-define('REPO_PATH', drush_tempdir() . '/diffidata');
+define('REPO_PATH',  '/tmp/diffidata'); // drush_tempdir()
 
 // Clone repo
 // Loop recipes
