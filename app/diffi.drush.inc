@@ -33,10 +33,9 @@ function drush_diffi_loop_init() {
     return drush_set_error('Unable to git clone.');
   }
   else {
-    drush_shell_exec('cd %s', REPO_PATH);
-    drush_shell_exec('git config user.email "diffibot@diffi.com"');
-    drush_shell_exec('git config user.name "Diffi Bot"');
-    drush_shell_exec('git config push.default simple');
+    drush_shell_cd_and_exec(REPO_PATH, 'git config user.email "diffibot@diffi.com"');
+    drush_shell_cd_and_exec(REPO_PATH, 'git config user.name "Diffi Bot"');
+    drush_shell_cd_and_exec(REPO_PATH, 'git config push.default simple');
   }
 }
 
