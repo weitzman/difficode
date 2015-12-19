@@ -44,10 +44,12 @@ function drush_diffi_loop_init() {
  */
 function drush_diffi_loop() {
   $path = dirname(__DIR__) . '/recipes';
-  $objects = new RecursiveIteratorIterator(new RecursiveDirectoryIterator($path));
-  foreach($objects as $name => $object){
-    if (!$object->isDir()) {
-      $recipe = json_decode(file_get_contents($object->getPathname()));
+  $it = new RecursiveIteratorIterator(new RecursiveDirectoryIterator($path));
+  $it->rewind();
+  while($it->valid()) {
+    if (!$it->isDir()) {
+      drush_log('Fetch ' . $it->key());
+      $recipe = json_decode(file_get_contents($it->getPathname()));
 
       $client = new Client();
       $crawler = $client->request('GET', $recipe->url);
@@ -57,14 +59,15 @@ function drush_diffi_loop() {
         continue;
       }
       $html = $crawler->filter($recipe->selector)->html();
-      $return = diffi_commit($html, $object);
+      $return = diffi_commit($html, $it);
     }
+    $it->next();
   }
   diffi_push(REPO_PATH);
 }
 
-function diffi_commit($html, $object) {
-  $target = diffi_target($object);
+function diffi_commit($html, $it) {
+  $target = diffi_target($it);
   $target_directory = dirname($target);
   if (!file_exists($target)) {
     $return = mkdir($target_directory, 0777);
@@ -95,8 +98,8 @@ function diffi_autoload() {
   }
 }
 
-function diffi_target($object) {
-  $recipe_path = $object->getPathname();
+function diffi_target($it) {
+  $recipe_path = $it->getPathname();
   $target_file = basename($recipe_path);
   $target_directory = REPO_PATH . '/' . (basename(dirname($recipe_path)));
   return $target_directory . '/' . str_replace('.json', '.html', $target_file);
