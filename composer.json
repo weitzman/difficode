@@ -1,6 +1,6 @@
 {
   "name": "weitzman/diffi",
-  "description": "A version controlled archive of web policies.",
+  "description": "An app for building a version controlled archive of web policies.",
   "minimum-stability": "dev",
   "prefer-stable": true,
   "license": "unlicense",
