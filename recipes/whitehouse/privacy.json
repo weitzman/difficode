@@ -1,6 +1,6 @@
 {
   "url":"http://www.whitehouse.gov/privacy",
-  "selector":"div.longpage-body",
+  "selector":"#content",
   "enabled":1
 }
 
