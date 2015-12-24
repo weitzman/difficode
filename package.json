@@ -16,7 +16,11 @@
     "url": "https://github.com/weitzman/difficode/issues"
   },
   "homepage": "https://github.com/weitzman/difficode",
+  "engines": {
+    "node": "4.2.4"
+  },
   "dependencies": {
+    "cheerio": "^0.19.0",
     "mkdirp": "^0.5.1",
     "sync-request": "^2.1.0"
   }
