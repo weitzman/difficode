@@ -1,0 +1,23 @@
+{
+  "name": "difficode",
+  "version": "1.0.0",
+  "description": "An app for tracking web page changes over time",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/weitzman/difficode.git"
+  },
+  "author": "Moshe Weitzman",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/weitzman/difficode/issues"
+  },
+  "homepage": "https://github.com/weitzman/difficode",
+  "dependencies": {
+    "mkdirp": "^0.5.1",
+    "sync-request": "^2.1.0"
+  }
+}
