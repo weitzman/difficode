@@ -1,5 +1,5 @@
 {
   "url":"https://www.apple.com/privacy/privacy-policy/",
-  "selector":"div.section-content",
+  "selector":"div.main",
   "enabled":1
 }
