@@ -31,12 +31,16 @@ function cook() {
         var $ = cheerio.load(body);
         var selected = $(jsonContent.selector).html();
         if (selected) {
-          fs.writeFileSync(target_base + '.selected.html', selected); // {"encoding": "utf8"}
+          target = target_base + '.selected.html';
+          mkdirp(target);
+          fs.writeFileSync(target, selected); // {"encoding": "utf8"}
         }
         // Get Markdown version
-        var res2 = request.post('http://fuckyeahmarkdown.com/go/', {form:{html:body}, retry: true});
+        var res2 = request('POST', 'http://fuckyeahmarkdown.com/go/', {form:{html:body}, retry: true});
         var body2 = res2.body.toString();
-        fs.writeFileSync(target_base + '.md', body2);
+        target = target_base + '.md';
+        mkdirp(target);
+        fs.writeFileSync(target, body2);
 
         var msg = 'Update to ' +  path.dirname(target) + '.';
         exec('git add .', {cwd: path.dirname(target)});
