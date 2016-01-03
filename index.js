@@ -23,15 +23,21 @@ function cook() {
       var res = request('GET', jsonContent.url, {retry: true});
       try {
         var body = res.body.toString();
-        target = find_target(item);
-        mkdirp(target  + '.html');
-        fs.writeFileSync(target + '.html', body);
+        target_base = find_target(item);
+        target = '.html';
+        mkdirp(target);
+        fs.writeFileSync(target, body);
 
         var $ = cheerio.load(body);
         var selected = $(jsonContent.selector).html();
         if (selected) {
-          fs.writeFileSync(target + '.selected.html', selected); // {"encoding": "utf8"}
+          fs.writeFileSync(target_base + '.selected.html', selected); // {"encoding": "utf8"}
         }
+        // Get Markdown version
+        var res2 = request.post('http://fuckyeahmarkdown.com/go/', {form:{html:body}, retry: true});
+        var body2 = res2.body.toString();
+        fs.writeFileSync(target_base + '.md', body2);
+
         var msg = 'Update to ' +  path.dirname(target) + '.';
         exec('git add .', {cwd: path.dirname(target)});
         exec('git diff-index --quiet HEAD || git commit -m "' + msg + '"', {cwd: path.dirname(target)});
