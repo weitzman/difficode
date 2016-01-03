@@ -35,7 +35,7 @@ function cook() {
           fs.writeFileSync(target, selected); // {"encoding": "utf8"}
         }
         // Get Markdown version
-        var res2 = request('POST', 'http://fuckyeahmarkdown.com/go/', {form:{html:body}, retry: true});
+        var res2 = request('GET', 'http://fuckyeahmarkdown.com/go/', {qs: {'u': jsonContent.url}});
         var body2 = res2.body.toString();
         target = target_base + '.md';
         fs.writeFileSync(target, body2);
