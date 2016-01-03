@@ -22,17 +22,18 @@ function cook() {
     try {
       var res = request('GET', jsonContent.url, {retry: true});
       try {
-        var body = res.body.toString();
         var $ = cheerio.load(body);
+        target = find_target(item);
+        mkdirp(target  + '.html');
+        var body = res.body.toString();
+        fs.writeFileSync(target + '.html', body);
         var selected = $(jsonContent.selector).html();
         if (selected) {
-          target = find_target(item);
-          mkdirp(target);
-          fs.writeFileSync(target, selected); // {"encoding": "utf8"}
-          var msg = 'Update to ' + target + '.';
-          exec('git add ' + path.basename(target), {cwd: path.dirname(target)});
-          exec('git diff-index --quiet HEAD || git commit -m "' + msg + '"', {cwd: path.dirname(target)});
+          fs.writeFileSync(target + '.selected.html', selected); // {"encoding": "utf8"}
         }
+        var msg = 'Update to ' +  path.dirname(target) + '.';
+        exec('git add .', {cwd: path.dirname(target)});
+        exec('git diff-index --quiet HEAD || git commit -m "' + msg + '"', {cwd: path.dirname(target)});
       }
       catch(ex) {
         console.log(ex);
@@ -57,7 +58,7 @@ function init() {
 function find_target(recipe_path) {
   target_file = path.basename(recipe_path, '.json');
   target_directory = REPO_PATH + '/' + path.basename(path.dirname(recipe_path));
-  return target_directory + '/' + target_file + '.html';
+  return target_directory + '/' + target_file;
 }
 
 function walk(dir) {
