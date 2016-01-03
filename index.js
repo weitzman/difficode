@@ -24,7 +24,7 @@ function cook() {
       try {
         var body = res.body.toString();
         target_base = find_target(item);
-        target = '.html';
+        target = target_base + '.html';
         mkdirp(target);
         fs.writeFileSync(target, body);
 
