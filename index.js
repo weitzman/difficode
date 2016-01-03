@@ -23,23 +23,21 @@ function cook() {
       var res = request('GET', jsonContent.url, {retry: true});
       try {
         var body = res.body.toString();
-        target_base = find_target(item);
-        target = target_base + '.html';
-        mkdirp(target);
+        var target_base = find_target(item);
+        var target = target_base + '.html';
+        mkdirp.sync(path.dirname(target));
         fs.writeFileSync(target, body);
 
         var $ = cheerio.load(body);
         var selected = $(jsonContent.selector).html();
         if (selected) {
           target = target_base + '.selected.html';
-          mkdirp(target);
           fs.writeFileSync(target, selected); // {"encoding": "utf8"}
         }
         // Get Markdown version
         var res2 = request('POST', 'http://fuckyeahmarkdown.com/go/', {form:{html:body}, retry: true});
         var body2 = res2.body.toString();
         target = target_base + '.md';
-        mkdirp(target);
         fs.writeFileSync(target, body2);
 
         var msg = 'Update to ' +  path.dirname(target) + '.';
@@ -76,10 +74,14 @@ function walk(dir) {
   var results = [];
   var list = fs.readdirSync(dir);
   list.forEach(function(file) {
-    file = dir + '/' + file;
-    var stat = fs.statSync(file);
-    if (stat && stat.isDirectory()) results = results.concat(walk(file));
-    else results.push(file);
+    var full_path = dir + '/' + file;
+    var stat = fs.statSync(full_path);
+    if (stat && stat.isDirectory()) results = results.concat(walk(full_path));
+    else {
+      if (file != '.DS_Store') {
+        results.push(full_path);
+      }
+    }
   });
   return results;
 }
