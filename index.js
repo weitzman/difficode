@@ -22,11 +22,12 @@ function cook() {
     try {
       var res = request('GET', jsonContent.url, {retry: true});
       try {
-        var $ = cheerio.load(body);
+        var body = res.body.toString();
         target = find_target(item);
         mkdirp(target  + '.html');
-        var body = res.body.toString();
         fs.writeFileSync(target + '.html', body);
+
+        var $ = cheerio.load(body);
         var selected = $(jsonContent.selector).html();
         if (selected) {
           fs.writeFileSync(target + '.selected.html', selected); // {"encoding": "utf8"}
