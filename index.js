@@ -20,7 +20,13 @@ function cook() {
     if (jsonContent.enabled != 1) { return; }
 
     try {
-      var res = request('GET', jsonContent.url, {retry: true});
+      var options = {
+        // Facebook (and possibly others) require a real browser.
+        headers: {'User-Agent': 'Mozilla/5.0 (iPad; U; CPU OS 3_2_1 like Mac OS X; en-us) AppleWebKit/531.21.10 (KHTML, like Gecko) Mobile/7B405'},
+        qs: {'u': jsonContent.url},
+        retry: true
+      };
+      var res = request('GET', jsonContent.url, options);
       try {
         var body = res.body.toString();
         var target_base = find_target(item);
