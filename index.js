@@ -46,10 +46,10 @@ function cook() {
         fs.writeFileSync(target_base + '.md', body2);
 
         // Add any changes to git index.
-        exec('git add .', {cwd: target_base_dir});
+        exec('git add *', {cwd: target_base_dir});
 
         // Write a 'full' variant if either above variant has changed. Otherwise, too many commits.
-        var output = exec('git diff-index --quiet HEAD', {cwd: target_base_dir});
+        var output = exec('git diff-index HEAD', {cwd: target_base_dir});
         if (output.length > 0) {
           fs.writeFileSync(target_base + '.html', body);
           exec('git add .', {cwd: target_base_dir});
