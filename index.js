@@ -24,25 +24,33 @@ function cook() {
       try {
         var body = res.body.toString();
         var target_base = find_target(item);
-        var target = target_base + '.html';
-        mkdirp.sync(path.dirname(target));
-        fs.writeFileSync(target, body);
+        var target_base_dir = path.dirname(target_base);
+        mkdirp.sync(target_base_dir);
 
+        // Get selection variant.
         var $ = cheerio.load(body);
         var selected = $(jsonContent.selector).html();
         if (selected) {
-          target = target_base + '.selected.html';
-          fs.writeFileSync(target, selected); // {"encoding": "utf8"}
+          fs.writeFileSync(target_base + '.selected.html', selected); // {"encoding": "utf8"}
         }
-        // Get Markdown version
+
+        // Get Markdown variant.
         var res2 = request('GET', 'http://fuckyeahmarkdown.com/go/', {qs: {'u': jsonContent.url}});
         var body2 = res2.body.toString();
-        target = target_base + '.md';
-        fs.writeFileSync(target, body2);
+        fs.writeFileSync(target_base + '.md', body2);
 
-        var msg = 'Update to ' +  path.dirname(target) + '.';
-        exec('git add .', {cwd: path.dirname(target)});
-        exec('git diff-index --quiet HEAD || git commit -m "' + msg + '"', {cwd: path.dirname(target)});
+        // Add any changes to git index.
+        exec('git add .', {cwd: target_base_dir});
+
+        // Write a 'full' variant if either above variant has changed. Otherwise, too many commits.
+        var output = exec('git diff-index --quiet HEAD', {cwd: target_base_dir});
+        if (output.length > 0) {
+          fs.writeFileSync(target_base + '.html', body);
+          exec('git add .', {cwd: target_base_dir});
+        }
+
+        var msg = 'Update to ' +  target_base_dir + '.';
+        exec('git diff-index --quiet HEAD || git commit -m "' + msg + '"', {cwd: target_base_dir});
       }
       catch(ex) {
         console.log(ex);
