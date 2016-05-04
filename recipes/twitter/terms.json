@@ -1,0 +1,5 @@
+{
+  "url":"https://twitter.com/tos?lang=en",
+  "selector":".UserPolicy_content",
+  "enabled":1
+}
