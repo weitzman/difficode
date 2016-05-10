@@ -1,5 +1,5 @@
 {
   "url":"https://www.lyft.com/terms",
   "selector":"main",
-  "enabled":1
+  "enabled":0,
 }
