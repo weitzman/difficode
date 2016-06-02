@@ -38,12 +38,23 @@ function cook() {
         var selected = $(jsonContent.selector).html();
         if (selected) {
           fs.writeFileSync(target_base + '.selected.html', selected); // {"encoding": "utf8"}
+
+          // Get Markdown variant.
+          var options = {
+            method: 'POST',
+            url: 'http://fuckyeahmarkdown.com/go/',
+            headers: {
+              'cache-control': 'no-cache',
+              'content-type': 'application/x-www-form-urlencoded'
+            },
+            body: 'html=' + encodeURIComponent(selected)
+          }
+          var res = request('POST', 'http://fuckyeahmarkdown.com/go/', options);
+          var body2 = res.getBody();
+          fs.writeFileSync(target_base + '.md', body2);
         }
 
-        // Get Markdown variant.
-        var res2 = request('GET', 'http://fuckyeahmarkdown.com/go/', {qs: {'u': jsonContent.url}});
-        var body2 = res2.body.toString();
-        fs.writeFileSync(target_base + '.md', body2);
+
 
         // Add any changes to git index.
         exec('git add *', {cwd: target_base_dir});
