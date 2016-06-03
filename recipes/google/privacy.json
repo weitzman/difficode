@@ -1,4 +1,4 @@
 {
   "url":"https://www.google.com/intl/en/policies/privacy/",
-  "selector":"#maia-main"
+  "selector":".maia-article"
 }
