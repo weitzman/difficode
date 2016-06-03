@@ -17,7 +17,7 @@ function cook() {
   walk(recipes_path).forEach(function (item) {
     var contents = fs.readFileSync(item);
     var jsonContent = JSON.parse(contents);
-    if (jsonContent.enabled != 1) { return; }
+    if (jsonContent.enabled == 0) { return; }
 
     try {
       var options = {
