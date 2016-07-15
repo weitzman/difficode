@@ -11,7 +11,6 @@ const REPO_PATH = '/tmp/diffidata';
 
 init();
 cook();
-exec('cd ' + REPO_PATH + ' && git push');
 
 function cook() {
   var recipes_path = __dirname + '/recipes';
@@ -62,7 +61,7 @@ function processHtml(html, selector, target_base) {
 
 function processGit(body, target_base_dir, target_base) {
   try {
-    console.log('Git: ' + target_base_dir);
+    console.log('Git: ' + target_base);
     // Add any changes to git index.
     exec('git add *', {cwd: target_base_dir});
 
@@ -76,6 +75,7 @@ function processGit(body, target_base_dir, target_base) {
     var msg = 'Update to ' +  target_base_dir + '.';
     var cmd = 'git diff-index --quiet HEAD || git commit -m "' + msg + '"';
     exec(cmd, {cwd: target_base_dir});
+    exec('git push', {cwd: REPO_PATH});
   }
   catch(ex) {
     console.log(ex);
