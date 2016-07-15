@@ -11,7 +11,7 @@ const REPO_PATH = '/tmp/diffidata';
 
 init();
 cook();
-// exec('cd ' + REPO_PATH + ' && git push');
+exec('cd ' + REPO_PATH + ' && git push');
 
 function cook() {
   var recipes_path = __dirname + '/recipes';
