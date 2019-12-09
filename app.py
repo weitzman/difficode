@@ -37,7 +37,8 @@ def get_filepaths(directory):
         for filename in files:
             # Join the two strings in order to form the full filepath.
             filepath = os.path.join(root, filename)
-            file_paths.append(filepath)
+            if filename != 'maintainers.json':
+                file_paths.append(filepath)
 
     return file_paths
 

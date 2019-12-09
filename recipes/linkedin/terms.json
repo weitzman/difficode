@@ -2,9 +2,5 @@
   "url":"https://www.linkedin.com/legal/user-agreement",
   "selector":"#main",
   "enabled":0,
-  "reason": "Javascript required",
-  "maintainer": {
-    "name": "Moshe Weitzman",
-    "email": "weitzman@tejasa.com"
-  }
+  "reason": "Javascript required"
 }

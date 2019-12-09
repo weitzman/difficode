@@ -2,9 +2,5 @@
   "url": "https://www.verizonmedia.com/policies/us/en/verizonmedia/terms/otos/index.html",
   "selector": "main",
   "enabled": 1,
-  "reason": "",
-  "maintainer": {
-    "name": "Moshe Weitzman",
-    "email": "weitzman@tejasa.com"
-  }
+  "reason": ""
 }

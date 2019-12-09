@@ -3,9 +3,5 @@
   "url":"https://my.xfinity.com/terms/web/",
   "selector":"#main",
   "enabled":0,
-  "reason": "Javascript required",
-  "maintainer": {
-    "name": "Moshe Weitzman",
-    "email": "weitzman@tejasa.com"
-  }
+  "reason": "Javascript required"
 }
