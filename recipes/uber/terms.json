@@ -1,5 +1,5 @@
 {
   "url":"https://www.uber.com/legal/terms/us/",
-  "selector":"#maincontent",
+  "selector":"article",
   "enabled":1
 }

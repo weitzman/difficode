@@ -1,5 +1,5 @@
 {
-  "url":"http://my.xfinity.com/privacy/2016-04/",
-  "selector":"#primary",
+  "url":"https://www.xfinity.com/Corporate/Customers/Policies/CustomerPrivacy",
+  "selector":"main",
   "enabled":1
 }

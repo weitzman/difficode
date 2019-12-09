@@ -1,5 +1,5 @@
 {
   "url":"https://www.apple.com/legal/internet-services/terms/site.html",
-  "selector":"div#main",
+  "selector":"main",
   "enabled":1
 }

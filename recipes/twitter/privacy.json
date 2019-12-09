@@ -1,5 +1,5 @@
 {
   "url":"https://twitter.com/privacy?lang=en",
-  "selector":"#Node--107",
+  "selector":"main",
   "enabled":1
 }

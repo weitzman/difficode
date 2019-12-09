@@ -1,5 +1,5 @@
 {
-  "url":"https://www.verizonwireless.com/b2c/globalText?textName=CUSTOMER_AGREEMENT&jspName=footer/customerAgreement.jsp",
-  "selector":"#bodyContainer",
+  "url":"https://www.verizonwireless.com/legal/notices/customer-agreement/",
+  "selector":"#bodyWrapperGridLayout",
   "enabled":1
 }

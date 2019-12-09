@@ -1,5 +1,5 @@
 {
-  "url":"https://www.uber.com/legal/privacy/users/en",
-  "selector":"article",
+  "url":"https://www.uber.com/global/en/privacy/notice/",
+  "selector":"#main",
   "enabled":1
 }

@@ -1,5 +1,10 @@
 {
   "url":"https://www.linkedin.com/legal/privacy-policy",
   "selector":"div#main",
-  "enabled":1
+  "enabled":0,
+  "reason": "Javascript required",
+  "maintainer": {
+    "name": "Moshe Weitzman",
+    "email": "weitzman@tejasa.com"
+  }
 }
