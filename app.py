@@ -97,13 +97,13 @@ def process(item):
         with open(path_no_extension + '.md', "w") as fh:
             fh.write(markdown)
         # Write a 'full' and 'selected' variants if markdown variant has changed. Otherwise, too many commits.
+        subprocess.run(['git', 'add', '.'], cwd=path_dirname, check=True)
         result = subprocess.run(['git', 'diff', 'HEAD', '--exit-code'], cwd=path_dirname, capture_output=True)
         if result.returncode >= 1:
             with open(path_no_extension + '.selected.html', "w") as fh:
                 fh.write(selected)
             with open(path_no_extension + '.html', "w") as fh:
                 fh.write(str(soup))
-            subprocess.run(['git', 'add', '.'], cwd=path_dirname, check=True)
             msg = 'Update to ' + item['dirname'] + '.'
             subprocess.run(['git', 'commit', '-m', msg], cwd=path_dirname, check=True)
     # Approach from https://stackoverflow.com/a/4992124/265501
