@@ -1,5 +1,5 @@
 {
-  "url":"https://www.google.com/policies/terms/",
-  "selector":"#maia-main",
+  "url":"https://policies.google.com/terms",
+  "selector":"div[role=\"article\"]",
   "enabled":1
 }

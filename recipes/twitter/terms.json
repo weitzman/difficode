@@ -1,5 +1,5 @@
 {
   "url":"https://twitter.com/tos?lang=en",
-  "selector":"#Node--108",
+  "selector":"main",
   "enabled":1
 }

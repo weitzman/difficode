@@ -1,5 +1,10 @@
 {
   "url":"https://www.lyft.com/privacy",
-  "selector":"main",
-  "enabled":1
+  "selector":"article",
+  "enabled":0,
+  "reason": "Javascript required",
+  "maintainer": {
+    "name": "Moshe Weitzman",
+    "email": "weitzman@tejasa.com"
+  }
 }

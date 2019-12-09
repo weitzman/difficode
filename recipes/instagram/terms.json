@@ -1,5 +1,5 @@
 {
-  "url":"https://www.instagram.com/about/legal/terms/",
-  "selector":".nav-page-content",
+  "url":"https://help.instagram.com/581066165581870/",
+  "selector":"#faq-page",
   "enabled":1
 }

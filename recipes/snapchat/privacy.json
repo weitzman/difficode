@@ -1,5 +1,5 @@
 {
   "url":"https://www.snapchat.com/privacy",
-  "selector":".column",
+  "selector":"main",
   "enabled":1
 }

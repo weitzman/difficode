@@ -1,5 +1,5 @@
 {
-  "url":"https://www.snapchat.com/terms",
-  "selector":".column",
+  "url":"https://www.snap.com/en-US/terms",
+  "selector":"main",
   "enabled":1
 }

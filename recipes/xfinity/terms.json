@@ -1,6 +1,11 @@
 
 {
-  "url":"http://my.xfinity.com/terms/web/archive/",
-  "selector":"#privacy-module",
-  "enabled":0
+  "url":"https://my.xfinity.com/terms/web/",
+  "selector":"#main",
+  "enabled":0,
+  "reason": "Javascript required",
+  "maintainer": {
+    "name": "Moshe Weitzman",
+    "email": "weitzman@tejasa.com"
+  }
 }

@@ -1,4 +1,5 @@
 {
-  "url":"https://www.google.com/intl/en/policies/privacy/",
-  "selector":".maia-article"
+  "url":"https://policies.google.com/privacy",
+  "selector":"div[role=\"article\"]",
+  "enabled":1
 }
