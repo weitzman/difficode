@@ -19,7 +19,7 @@ def init():
     subprocess.run(['git', 'config', 'user.name', 'Diffi Bot'], cwd=REPO_PATH, check=True)
     subprocess.run(['git', 'config', 'push.default', 'simple'], cwd=REPO_PATH, check=True)
     # @todo Use alternate branch when developing
-    #subprocess.run(['git', 'checkout', 'python'], cwd=REPO_PATH, check=True)
+    # subprocess.run(['git', 'checkout', 'python'], cwd=REPO_PATH, check=True)
 
 
 # From https://stackoverflow.com/questions/3207219/how-do-i-list-all-files-of-a-directory#3207973
@@ -104,14 +104,16 @@ def process(item):
             with open(path_no_extension + '.html', "w") as fh:
                 fh.write(str(soup))
             subprocess.run(['git', 'add', '.'], cwd=path_dirname, check=True)
-            msg = 'Update to ' + path_dirname + '.'
+            msg = 'Update to ' + item['dirname'] + '.'
             subprocess.run(['git', 'commit', '-m', msg], cwd=path_dirname, check=True)
     # Approach from https://stackoverflow.com/a/4992124/265501
     except (KeyboardInterrupt, SystemExit):
         raise
     except Exception as e:
-        # report error and proceed
-        logging.warning(e)
+        # Report warning and proceed
+        logging.warning('Error processing ' + item['path_full'] + '.', exc_info=True)
+    else:
+        logging.info('Successfully processed %s', item['path_full'])
 
 
 init()
