@@ -18,8 +18,8 @@ def init():
     subprocess.run(['git', 'config', 'user.email', 'diffibot@diffi.com'], cwd=REPO_PATH, check=True)
     subprocess.run(['git', 'config', 'user.name', 'Diffi Bot'], cwd=REPO_PATH, check=True)
     subprocess.run(['git', 'config', 'push.default', 'simple'], cwd=REPO_PATH, check=True)
-    # @todo temp
-    subprocess.run(['git', 'checkout', 'python'], cwd=REPO_PATH, check=True)
+    # @todo Use alternate branch when developing
+    #subprocess.run(['git', 'checkout', 'python'], cwd=REPO_PATH, check=True)
 
 
 # From https://stackoverflow.com/questions/3207219/how-do-i-list-all-files-of-a-directory#3207973
