@@ -1,3 +1,4 @@
+import importlib
 import json
 import os
 from requests_html import HTMLSession
@@ -37,7 +38,7 @@ def get_filepaths(directory):
         for filename in files:
             # Join the two strings in order to form the full filepath.
             filepath = os.path.join(root, filename)
-            if filename != 'maintainers.json':
+            if filename != 'maintainers.json' and os.path.splitext(filename)[1] not in ['.py', '.pyc']:
                 file_paths.append(filepath)
 
     return file_paths
@@ -53,7 +54,7 @@ def get_jsons(paths):
     for path in paths:
         with open(path, 'r') as fp:
             obj = json.load(fp)
-            obj['path_full'] = path
+            obj['recipe_full'] = path
             obj['dirname'] = os.path.basename(os.path.dirname(path))
             data.append(obj)
 
@@ -66,10 +67,15 @@ def process(item):
     :param item:
     """
     if not bool(item.get('enabled', True)):
-        logging.info(item['path_full'] + ' is disabled.')
+        logging.info(item['recipe_full'] + ' is disabled.')
         return
 
     try:
+        # Setup boring variables.
+        filename = os.path.basename(item['recipe_full'])
+        path_dirname = REPO_PATH + '/' + item['dirname']
+        path_no_extension = path_dirname + '/' + os.path.splitext(filename)[0]
+
         # Make request using Request package. Catch exception on any error.
         headers = {
             'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:71.0) Gecko/20100101 Firefox/71.0',
@@ -83,18 +89,23 @@ def process(item):
 
         html = r.text
         soup = BeautifulSoup(html, 'html.parser')
-        for blackout in item.get('blackouts', []):
-            soup.find(blackout).replace_with('')
-
         selected = html
         if item['selector']:
             selected = str(soup.select(item['selector'])[0])
         if selected == "[]":
-            logging.warning(item['selector'] + ' selector not found at ' + item['url'] + ' for ' + item['path_full'])
+            logging.warning(item['selector'] + ' selector not found at ' + item['url'] + ' for ' + item['recipe_full'])
+
+        # Run any 'clean' script (e.g. https://github.com/weitzman/difficode/tree/master/recipes/facebook/cookies.py)
+        try:
+            cleaner = item['recipe_full'].replace('.json', '').replace('/', '.')
+            module = importlib.import_module(cleaner)
+            selected = module.clean(selected)
+        except ImportError:
+            pass
+        except Exception as e:
+            logging.warning('Error cleaning ' + item['recipe_full'] + '.', exc_info=True)
+
         markdown = tomd.convert(selected)
-        filename = os.path.basename(item['path_full'])
-        path_dirname = REPO_PATH + '/' + item['dirname']
-        path_no_extension = path_dirname + '/' + os.path.splitext(filename)[0]
         with open(path_no_extension + '.md', "w") as fh:
             fh.write(markdown)
         # Write a 'full' and 'selected' variants if markdown variant has changed. Otherwise, too many commits.
@@ -112,9 +123,9 @@ def process(item):
         raise
     except Exception as e:
         # Report warning and proceed
-        logging.warning('Error processing ' + item['path_full'] + '.', exc_info=True)
+        logging.warning('Error processing ' + item['recipe_full'] + '.', exc_info=True)
     else:
-        logging.info('Successfully processed %s', item['path_full'])
+        logging.info('Successfully processed %s', item['recipe_full'])
 
 
 init()
