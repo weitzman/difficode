@@ -85,15 +85,18 @@ def process(item):
         r.raise_for_status()
 
         if 'js' in item and bool(item['js']):
-            r.html.render()
+            r.html.render() # keep_page=True
+            # Gives warning about await/async. Help wanted.
+            # r.html.page.screenshot({'path': 'example.png'})
 
         html = r.text
         soup = BeautifulSoup(html, 'html.parser')
         selected = html
         if item['selector']:
-            selected = str(soup.select(item['selector'])[0])
-        if selected == "[]":
-            logging.warning(item['selector'] + ' selector not found at ' + item['url'] + ' for ' + item['recipe_full'])
+            if soup.select(item['selector']):
+                selected = str(soup.select(item['selector'])[0])
+            else:
+                logging.warning(item['selector'] + ' selector not found at ' + item['url'] + ' for ' + item['recipe_full'])
 
         # Run any 'clean' script (e.g. https://github.com/weitzman/difficode/tree/master/recipes/facebook/cookies.py)
         try:

@@ -2,6 +2,6 @@
 {
   "url":"https://my.xfinity.com/terms/web/",
   "selector":"#main",
-  "enabled":0,
+  "enabled":1,
   "reason": "Javascript required"
 }
