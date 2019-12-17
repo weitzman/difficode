@@ -20,7 +20,7 @@ class Diffi(object):
         filepaths = self.get_filepaths('recipes')
         for path in filepaths:
             self.process(path)
-        # subprocess.run(['git', 'push'], cwd=self.repo_path)
+        subprocess.run(['git', 'push'], cwd=self.repo_path)
 
     def clone(self):
         subprocess.run(['rm', '-rf', self.repo_path])
