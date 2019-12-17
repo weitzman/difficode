@@ -109,6 +109,7 @@ def process(item):
             logging.warning('Error cleaning ' + item['recipe_full'] + '.', exc_info=True)
 
         markdown = tomd.convert(selected)
+        os.makedirs(os.path.dirname(path_no_extension), exist_ok=True)
         with open(path_no_extension + '.md', "w") as fh:
             fh.write(markdown)
         # Write a 'full' and 'selected' variants if markdown variant has changed. Otherwise, too many commits.
