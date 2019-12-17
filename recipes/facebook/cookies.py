@@ -7,6 +7,7 @@ def clean(selected):
     """
     soup = BeautifulSoup(selected, 'html.parser')
     links = soup.select('a[data-lynx-mode="asynclazy"]', href=True)
-    for link in links:
+    links2 = soup.select('a[data-lynx-mode="async"]', href=True)
+    for link in links+links2:
         link['href'] = ''
     return str(soup)
