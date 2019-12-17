@@ -12,10 +12,13 @@ import fire
 class Diffi(object):
     def __init__(self, repo_path='/tmp/diffidata'):
         self.repo_path = repo_path
-        self.repo_url = 'https://' + os.environ['DIFFI_USER'] + ':' + os.environ[
-            'DIFFI_PASS'] + '@github.com/weitzman/diffi.git'
+        self.repo_url = 'https://' + os.environ.get('DIFFI_USER', '') + ':' + os.environ.get(
+            'DIFFI_PASS', '') + '@github.com/weitzman/diffi.git'
 
     def all(self):
+        """
+        Process all recipes in the /recipes directory.
+        """
         self.clone()
         filepaths = self.get_filepaths('recipes')
         for path in filepaths:
@@ -32,6 +35,9 @@ class Diffi(object):
         subprocess.run(['git', 'push'], cwd=self.repo_path)
 
     def clone(self):
+        """
+        Clone the Diffi repo and configure git so that it can commit and push (if permitted).
+        """
         subprocess.run(['rm', '-rf', self.repo_path])
         # @todo Use shallow clone with git 1.9? https://blog.oio.de/2014/02/06/better-support-for-shallow-clones-in-git-1-9/
         subprocess.run(['git', 'clone', self.repo_url, self.repo_path], check=True)
@@ -44,7 +50,7 @@ class Diffi(object):
     # From https://stackoverflow.com/questions/3207219/how-do-i-list-all-files-of-a-directory#3207973
     def get_filepaths(self, directory):
         """
-        This function will generate the file names in a directory
+        Generate the file names in a directory
         tree by walking the tree either top-down or bottom-up. For each
         directory in the tree rooted at directory top (including top itself),
         it yields a 3-tuple (dirpath, dirnames, filenames).
@@ -65,6 +71,7 @@ class Diffi(object):
         """
         Fetch HTML, parse it, write it to target
         :param path_recipe:
+          A relative path (from repo root) to a recipe file. Example: recipes/apple/privacy.json
         """
         with open(path_recipe, 'r') as fp:
             item = json.load(fp)
