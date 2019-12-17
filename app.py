@@ -72,8 +72,9 @@ class Diffi(object):
         # Setup boring variables.
         dirname = os.path.basename(os.path.dirname(path_recipe))
         filename = os.path.basename(path_recipe)
+        file_no_extension = os.path.splitext(filename)[0]
         path_dirname = self.repo_path + '/' + dirname
-        path_no_extension = path_dirname + '/' + os.path.splitext(filename)[0]
+        path_no_extension = path_dirname + '/' + file_no_extension
 
         if not bool(item.get('enabled', True)):
             logging.info(path_recipe + ' is disabled.')
@@ -114,18 +115,20 @@ class Diffi(object):
         markdown = tomd.convert(selected)
 
         os.makedirs(path_dirname, exist_ok=True)
-        with open(path_no_extension + '.md', "w") as fh:
+        path_md = path_no_extension + '.md'
+        with open(path_md, "w") as fh:
             fh.write(markdown)
 
         # Write a 'full' and 'selected' variants if markdown variant has changed. Otherwise, too many commits.
-        subprocess.run(['git', 'add', '.'], cwd=path_dirname, check=True)
+        subprocess.run(['git', 'add', path_md], cwd=path_dirname, check=True)
         result = subprocess.run(['git', 'diff', 'HEAD', '--exit-code'], cwd=path_dirname, capture_output=True)
         if result.returncode >= 1:
             with open(path_no_extension + '.selected.html', "w") as fh:
                 fh.write(str(BeautifulSoup(selected, 'html.parser').prettify()))
             with open(path_no_extension + '.html', "w") as fh:
                 fh.write(str(soup))
-            msg = 'Update to ' + dirname + '.'
+            subprocess.run(['git', 'add', '.'], cwd=path_dirname, check=True)
+            msg = 'Update to ' + dirname + '/' + file_no_extension + '.'
             subprocess.run(['git', 'commit', '-m', msg], cwd=path_dirname, check=True)
 
 
