@@ -19,7 +19,16 @@ class Diffi(object):
         self.clone()
         filepaths = self.get_filepaths('recipes')
         for path in filepaths:
-            self.process(path)
+            try:
+                self.process(path)
+            # Approach from https://stackoverflow.com/a/4992124/265501
+            except (KeyboardInterrupt, SystemExit):
+                raise
+            except Exception as e:
+                # Report warning and proceed
+                logging.warning('Error processing ' + path + '.', exc_info=True)
+            else:
+                logging.info('Successfully processed %s', path)
         subprocess.run(['git', 'push'], cwd=self.repo_path)
 
     def clone(self):
@@ -70,63 +79,57 @@ class Diffi(object):
             logging.info(path_recipe + ' is disabled.')
             return
 
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:71.0) Gecko/20100101 Firefox/71.0',
+            'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+        }
+        session = HTMLSession()
+        r = session.get(item['url'], headers=headers)
+        r.raise_for_status()
+        if 'js' in item and bool(item['js']):
+            r.html.render()  # keep_page=True
+            # Gives warning about await/async. Help wanted.
+            # r.html.page.screenshot({'path': 'example.png'})
+        html = r.text
+        soup = BeautifulSoup(html, 'html.parser')
+        selected = html
+        if item['selector']:
+            if soup.select(item['selector']):
+                selected = str(soup.select(item['selector'])[0])
+            else:
+                logging.warning(
+                    item['selector'] + ' selector not found at ' + item['url'])
+        # Run any 'clean' script e.g. https://github.com/weitzman/difficode/tree/master/recipes/facebook/cookies.py.
         try:
-            headers = {
-                'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:71.0) Gecko/20100101 Firefox/71.0',
-                'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
-            }
-            session = HTMLSession()
-            r = session.get(item['url'], headers=headers)
-            r.raise_for_status()
-            if 'js' in item and bool(item['js']):
-                r.html.render()  # keep_page=True
-                # Gives warning about await/async. Help wanted.
-                # r.html.page.screenshot({'path': 'example.png'})
-            html = r.text
-            soup = BeautifulSoup(html, 'html.parser')
-            selected = html
-            if item['selector']:
-                if soup.select(item['selector']):
-                    selected = str(soup.select(item['selector'])[0])
-                else:
-                    logging.warning(
-                        item['selector'] + ' selector not found at ' + item['url'])
-            # Run any 'clean' script e.g. https://github.com/weitzman/difficode/tree/master/recipes/facebook/cookies.py.
-            try:
-                cleaner = path_recipe.replace('.json', '').replace('/', '.')
-                module = importlib.import_module(cleaner)
-                selected = module.clean(selected)
-            except ImportError:
-                pass
-            except Exception as e:
-                logging.warning('Error cleaning ' + path_recipe + '.', exc_info=True)
-
-            markdown = tomd.convert(selected)
-
-            os.makedirs(path_dirname, exist_ok=True)
-            with open(path_no_extension + '.md', "w") as fh:
-                fh.write(markdown)
-
-            # Write a 'full' and 'selected' variants if markdown variant has changed. Otherwise, too many commits.
-            result = subprocess.run(['git', 'diff', 'HEAD', '--exit-code'], cwd=path_dirname, capture_output=True)
-            if result.returncode >= 1:
-                with open(path_no_extension + '.selected.html', "w") as fh:
-                    fh.write(str(BeautifulSoup(selected, 'html.parser').prettify()))
-                with open(path_no_extension + '.html', "w") as fh:
-                    fh.write(str(soup))
-                subprocess.run(['git', 'add', '.'], cwd=path_dirname, check=True)
-                msg = 'Update to ' + dirname + '.'
-                subprocess.run(['git', 'commit', '-m', msg], cwd=path_dirname, check=True)
-
-        # Approach from https://stackoverflow.com/a/4992124/265501
-        except (KeyboardInterrupt, SystemExit):
-            raise
+            cleaner = path_recipe.replace('.json', '').replace('/', '.')
+            module = importlib.import_module(cleaner)
+            selected = module.clean(selected)
+        except ImportError:
+            pass
         except Exception as e:
-            # Report warning and proceed
-            logging.warning('Error processing ' + path_recipe + '.', exc_info=True)
-        else:
-            logging.info('Successfully processed %s', path_recipe)
+            logging.warning('Error cleaning ' + path_recipe + '.', exc_info=True)
+
+        markdown = tomd.convert(selected)
+
+        os.makedirs(path_dirname, exist_ok=True)
+        with open(path_no_extension + '.md', "w") as fh:
+            fh.write(markdown)
+
+        # Write a 'full' and 'selected' variants if markdown variant has changed. Otherwise, too many commits.
+        result = subprocess.run(['git', 'diff', 'HEAD', '--exit-code'], cwd=path_dirname, capture_output=True)
+        if result.returncode >= 1:
+            with open(path_no_extension + '.selected.html', "w") as fh:
+                fh.write(str(BeautifulSoup(selected, 'html.parser').prettify()))
+            with open(path_no_extension + '.html', "w") as fh:
+                fh.write(str(soup))
+            subprocess.run(['git', 'add', '.'], cwd=path_dirname, check=True)
+            msg = 'Update to ' + dirname + '.'
+            subprocess.run(['git', 'commit', '-m', msg], cwd=path_dirname, check=True)
 
 
 if __name__ == '__main__':
+    # From https://stackoverflow.com/a/29402868/265501.
+    if os.getenv('DEBUGGING'):
+        logging.basicConfig(level=logging.INFO)
+
     fire.Fire(Diffi)
