@@ -85,7 +85,7 @@ def process(item):
         r.raise_for_status()
 
         if 'js' in item and bool(item['js']):
-            r.html.render() # keep_page=True
+            r.html.render()  # keep_page=True
             # Gives warning about await/async. Help wanted.
             # r.html.page.screenshot({'path': 'example.png'})
 
@@ -96,7 +96,8 @@ def process(item):
             if soup.select(item['selector']):
                 selected = str(soup.select(item['selector'])[0])
             else:
-                logging.warning(item['selector'] + ' selector not found at ' + item['url'] + ' for ' + item['recipe_full'])
+                logging.warning(
+                    item['selector'] + ' selector not found at ' + item['url'] + ' for ' + item['recipe_full'])
 
         # Run any 'clean' script (e.g. https://github.com/weitzman/difficode/tree/master/recipes/facebook/cookies.py)
         try:
@@ -132,9 +133,10 @@ def process(item):
         logging.info('Successfully processed %s', item['recipe_full'])
 
 
-init()
-filepaths = get_filepaths('recipes')
-data = get_jsons(filepaths)
-for item in data:
-    process(item)
-subprocess.run(['git', 'push'], cwd=REPO_PATH)
+if __name__ == '__main__':
+    init()
+    filepaths = get_filepaths('recipes')
+    data = get_jsons(filepaths)
+    for item in data:
+        process(item)
+    # subprocess.run(['git', 'push'], cwd=REPO_PATH)
