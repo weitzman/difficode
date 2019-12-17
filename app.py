@@ -87,6 +87,8 @@ class Diffi(object):
         r = session.get(item['url'], headers=headers)
         r.raise_for_status()
         if 'js' in item and bool(item['js']):
+            html_original = r.text
+            # @todo The html before and after this call is always the same!
             r.html.render()  # keep_page=True
             # Gives warning about await/async. Help wanted.
             # r.html.page.screenshot({'path': 'example.png'})
@@ -116,13 +118,13 @@ class Diffi(object):
             fh.write(markdown)
 
         # Write a 'full' and 'selected' variants if markdown variant has changed. Otherwise, too many commits.
+        subprocess.run(['git', 'add', '.'], cwd=path_dirname, check=True)
         result = subprocess.run(['git', 'diff', 'HEAD', '--exit-code'], cwd=path_dirname, capture_output=True)
         if result.returncode >= 1:
             with open(path_no_extension + '.selected.html', "w") as fh:
                 fh.write(str(BeautifulSoup(selected, 'html.parser').prettify()))
             with open(path_no_extension + '.html', "w") as fh:
                 fh.write(str(soup))
-            subprocess.run(['git', 'add', '.'], cwd=path_dirname, check=True)
             msg = 'Update to ' + dirname + '.'
             subprocess.run(['git', 'commit', '-m', msg], cwd=path_dirname, check=True)
 
