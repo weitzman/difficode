@@ -12,9 +12,9 @@ To get started:
 1. Change into new dir: `cd difficode`
 1. Get dependencies: `pip install -r requirements.txt`
 1. Some commands you may want to run
-  1. Process all recipes: `python app.py all`
-  1. Process one recipe: `python app.py process recipes/uber/privacy.json`
-  1. Increase log verbosity via an env variable `DEBUGGING=1 app.py all`
+    - Process all recipes: `python app.py all`
+    - Process one recipe: `python app.py process recipes/uber/privacy.json`
+    - Increase log verbosity via an env variable `DEBUGGING=1 app.py all`
   
 Misc
 =========
