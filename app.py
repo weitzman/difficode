@@ -76,7 +76,7 @@ class Diffi(object):
         # subprocess.run(['git', 'checkout', 'python'], cwd=self.repo_path, check=True)
 
     # From https://stackoverflow.com/questions/3207219/how-do-i-list-all-files-of-a-directory#3207973
-    def get_filepaths(self, directory):
+    def get_filepaths(self, directory: str) -> list:
         """
         Generate the file names in a directory
         tree by walking the tree either top-down or bottom-up. For each
@@ -95,7 +95,7 @@ class Diffi(object):
 
         return file_paths
 
-    def process(self, path_recipe):
+    def process(self, path_recipe: str) -> None:
         """
         Fetch HTML, parse it, write it to target
         :param path_recipe:
