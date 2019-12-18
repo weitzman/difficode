@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import importlib
 import json
 import os
@@ -8,6 +10,28 @@ import subprocess
 import logging
 import fire
 
+"""
+Fetch URLs from 'recipe' JSON files, transform them into Markdown, and save to a new repo.
+
+Examples:
+  - app.py all:
+      Process all recipes.
+  - DEBUGGING=1 app.py all
+      Set an environment variable to see more debug messages.
+  - app.py process recipes/user.privacy.json
+      Process one recipe.
+  - app.py --repo_path=mydata
+      Save output data to a custom directory.
+
+As with any Fire CLI, you can append '--' followed by any Flags to any command.
+The Flags available for all Fire CLIs are:
+  --help
+  --interactive
+  --trace
+  --separator=SEPARATOR
+  --completion
+  --verbose
+"""
 
 class Diffi(object):
     def __init__(self, repo_path='/tmp/diffidata'):
