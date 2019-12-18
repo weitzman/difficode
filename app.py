@@ -132,7 +132,7 @@ class Diffi(object):
 
         # Write a 'full' and 'selected' variants if markdown variant has changed. Otherwise, too many commits.
         subprocess.run(['git', 'add', path_md], cwd=path_dirname, check=True)
-        result = subprocess.run(['git', 'diff', 'HEAD', '--exit-code'], cwd=path_dirname, capture_output=True)
+        result = subprocess.run(['git', 'diff', 'HEAD', '--exit-code'], cwd=path_dirname)
         if result.returncode >= 1:
             with open(path_no_extension + '.selected.html', encoding='utf-8', mode="w") as fh:
                 fh.write(str(BeautifulSoup(selected, 'html.parser').prettify()))
