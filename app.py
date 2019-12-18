@@ -32,7 +32,11 @@ class Diffi(object):
                 logging.warning('Error processing ' + path + '.', exc_info=True)
             else:
                 logging.info('Successfully processed %s', path)
-        subprocess.run(['git', 'push'], cwd=self.repo_path)
+        if os.environ.get('DIFFI_USER'):
+            # Avoid push if it would likely fail.
+            subprocess.run(['git', 'push'], cwd=self.repo_path)
+        else:
+            logging.warning('Skip push due to missing DIFFI_USER')
 
     def clone(self):
         """
@@ -123,16 +127,16 @@ class Diffi(object):
 
         os.makedirs(path_dirname, exist_ok=True)
         path_md = path_no_extension + '.md'
-        with open(path_md, "w") as fh:
+        with open(path_md, encoding='utf-8', mode="w") as fh:
             fh.write(markdown)
 
         # Write a 'full' and 'selected' variants if markdown variant has changed. Otherwise, too many commits.
         subprocess.run(['git', 'add', path_md], cwd=path_dirname, check=True)
         result = subprocess.run(['git', 'diff', 'HEAD', '--exit-code'], cwd=path_dirname, capture_output=True)
         if result.returncode >= 1:
-            with open(path_no_extension + '.selected.html', "w") as fh:
+            with open(path_no_extension + '.selected.html', encoding='utf-8', mode="w") as fh:
                 fh.write(str(BeautifulSoup(selected, 'html.parser').prettify()))
-            with open(path_no_extension + '.html', "w") as fh:
+            with open(path_no_extension + '.html', encoding='utf-8', mode="w") as fh:
                 fh.write(str(soup))
             subprocess.run(['git', 'add', '.'], cwd=path_dirname, check=True)
             msg = 'Update to ' + dirname + '/' + file_no_extension + '.'
