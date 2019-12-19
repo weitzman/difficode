@@ -57,10 +57,10 @@ def all():
         logging.warning('Skip push due to missing permissions.')
 
 
-def load(path):
+def load(path: str) -> Recipe:
     """
     Load one Recipe based on a .json file.
-    :param string path: A relative path(from repo root) to a recipe file. Example: 'recipes/apple/privacy.json'.
+    :param path: A relative path (from repo root) to a recipe file. Example: 'recipes/apple/privacy.json'.
     """
     with open(path, 'r') as fp:
         item = json.load(fp)
@@ -104,8 +104,10 @@ def __get_filepaths(directory: str) -> list:
     return file_paths
 
 def __repo_url():
-    return 'https://' + os.environ.get('DIFFI_USER', '') + ':' + os.environ.get(
-        'DIFFI_PASS', '') + '@github.com/weitzman/diffi.git'
+    user = os.environ.get('DIFFI_USER', '')
+    pw = os.environ.get('DIFFI_PASS', '')
+    url = os.environ.get('DIFFI_URL', 'github.com/weitzman/diffi.git')
+    return f'https://{user}:{pw}@{url}'
 
 def __repo_path():
     return os.environ.get('REPO_PATH', '/tmp/diffidata')

@@ -15,14 +15,14 @@ To get started:
     - Process all recipes: `app.py all`
     - Process one recipe: `app.py load recipes/uber/privacy.json process`
     - Increase log verbosity via an env variable `DEBUGGING=1 app.py all`
-    - Write output to a custom dir: `REPO_PATH=/my/path app.py all`. Defaults to /tmp/diffidata.
+    - Write output to a custom dir: `REPO_PATH=/my/path app.py all`. Defaults to `/tmp/diffidata`.
     
 Recipes
 =========
 - A recipe is JSON file. [Example](https://github.com/weitzman/difficode/blob/master/recipes/uber/privacy.json).
     - url: The web page to fetch
     - selector: A [CSS selector](https://www.sitepoint.com/css-selectors/) so we can extract only the policy content, and not page navigation.
-    - [See all properties in its class](recipe.py). 
+    - [See all properties in the Recipe class](recipe.py). 
 - Ideally a recipe directory contains a [maintainers.json file](https://github.com/weitzman/difficode/blob/master/recipes/lyft/maintainers.json). A maintainer helps fix problems when the policy web page changes or moves.
 - A recipe can have a accompanying Python script what does arbitrary cleanup before Markdown is extracted. [Example](https://github.com/weitzman/difficode/blob/master/recipes/facebook/cookies.py).
 - Why not add more recipes by submitting a PR to this repo?
