@@ -13,21 +13,21 @@ To get started:
 1. Get dependencies: `pip install -r requirements.txt`
 1. Some commands you may want to run
     - Process all recipes: `app.py all`
-    - Process one recipe: `app.py process recipes/uber/privacy.json`
+    - Process one recipe: `app.py load recipes/uber/privacy.json process`
     - Increase log verbosity via an env variable `DEBUGGING=1 app.py all`
+    - Write output to a custom dir: `REPO_PATH=/my/path app.py all`. Defaults to /tmp/diffidata.
     
 Recipes
 =========
-- A recipe is small JSON file. [Example](https://github.com/weitzman/difficode/blob/master/recipes/uber/privacy.json).
+- A recipe is JSON file. [Example](https://github.com/weitzman/difficode/blob/master/recipes/uber/privacy.json).
     - url: The web page to fetch
     - selector: A [CSS selector](https://www.sitepoint.com/css-selectors/) so we can extract only the policy content, and not page navigation.
-    - @todo write a JSON schema describing all the supported properties. 
+    - [See all properties in its class](recipe.py). 
 - Ideally a recipe directory contains a [maintainers.json file](https://github.com/weitzman/difficode/blob/master/recipes/lyft/maintainers.json). A maintainer helps fix problems when the policy web page changes or moves.
 - A recipe can have a accompanying Python script what does arbitrary cleanup before Markdown is extracted. [Example](https://github.com/weitzman/difficode/blob/master/recipes/facebook/cookies.py).
 - Why not add more recipes by submitting a PR to this repo?
   
 Misc
 =========
-- Processed files are stored at /tmp/diffidata by default. Customize via `--repo_path=/path/to/dir`
 - This app runs daily at [Heroku](https://dashboard.heroku.com/apps/difficode/).
-- Make sure you have Python 3.6 or higher: `python3 --version`.
+- Make sure you have Python 3.7 or higher: `python3 --version`.
