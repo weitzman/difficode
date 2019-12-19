@@ -26,6 +26,15 @@ Recipes
 - Ideally a recipe directory contains a [maintainers.json file](https://github.com/weitzman/difficode/blob/master/recipes/lyft/maintainers.json). A maintainer helps fix problems when the policy web page changes or moves.
 - A recipe can have a accompanying Python script what does arbitrary cleanup before Markdown is extracted. [Example](https://github.com/weitzman/difficode/blob/master/recipes/facebook/cookies.py).
 - Why not add more recipes by submitting a PR to this repo?
+
+Giants
+============
+We stand on the shoulders of giants.
+
+- [Requests-HTML](https://github.com/psf/requests-html). Make HTTP Requests. 
+- [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/). Parse HTML.
+- [Python Fire](https://github.com/google/python-fire). Make a CLI based on your existing objects and functions.
+- [jsons](https://github.com/ramonhagenaars/jsons). (De)serializing JSON into Python objects. 
   
 Misc
 =========
