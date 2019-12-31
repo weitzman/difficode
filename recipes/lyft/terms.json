@@ -1,6 +1,5 @@
 {
   "url":"https://www.lyft.com/terms",
   "selector": "article",
-  "enabled": false,
-  "reason": "Even with requests-html this won't render to HTML",
+  "enabled": 1,
 }

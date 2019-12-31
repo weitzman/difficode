@@ -13,7 +13,7 @@ To get started:
 1. Get dependencies: `pip install -r requirements.txt`
 1. Some commands you may want to run
     - Process all recipes: `app.py all`
-    - Process one recipe: `app.py load recipes/uber/privacy.json process`
+    - Process one recipe: `app.py one recipes/uber/privacy.json`
     - Increase log verbosity via an env variable `DEBUGGING=1 app.py all`
     - Write output to a custom dir: `REPO_PATH=/my/path app.py all`. Defaults to `/tmp/diffidata`.
     
