@@ -1,6 +1,6 @@
 {
   "url":"https://www.linkedin.com/legal/privacy-policy",
   "selector":"div#main",
-  "enabled":0,
+  "enabled":1,
   "reason": "Javascript required"
 }

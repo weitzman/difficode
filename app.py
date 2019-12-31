@@ -6,7 +6,10 @@ import subprocess
 import logging
 import fire
 import jsons
+from requests_html import AsyncHTMLSession
 from recipe import Recipe
+
+asession = AsyncHTMLSession()
 
 """
 Fetch URLs from 'recipe' JSON files, transform them into Markdown, and save to a new repo.
@@ -38,10 +41,11 @@ def all():
     """
     __clone()
     filepaths = __get_filepaths('recipes')
+    recipes = []
     for path in filepaths:
         try:
             recipe = load(path)
-            recipe.process()
+            recipes.append(recipe)
         # Approach from https://stackoverflow.com/a/4992124/265501
         except (KeyboardInterrupt, SystemExit):
             raise
@@ -50,12 +54,23 @@ def all():
             logging.warning('Error processing ' + path + '.', exc_info=True)
         else:
             logging.info('Successfully processed %s', path)
-    if os.environ.get('DIFFI_USER'):
+    results = asession.run(*recipes)
+    # asession.close()
+    # See https://dashboard.heroku.com/apps/difficode/settings
+    if os.environ.get('DIFFI_USER') and bool(os.environ.get('ON_HEROKU', False)):
         # Avoid push if it would likely fail.
         subprocess.run(['git', 'push'], cwd=__repo_path())
     else:
         logging.warning('Skip push due to missing permissions.')
 
+
+def one(path: str):
+    """
+    Process one recipes from the /recipes directory.
+    """
+    recipe = load(path)
+    results = asession.run(recipe)
+    # asession.close()
 
 def load(path: str) -> Recipe:
     """
@@ -66,6 +81,7 @@ def load(path: str) -> Recipe:
         item = json.load(fp)
         item['path'] = path
         item['path_repo'] = __repo_path()
+        item['asession'] = asession
         return jsons.load(item, Recipe)
 
 
@@ -98,7 +114,7 @@ def __get_filepaths(directory: str) -> list:
         for filename in files:
             # Join the two strings in order to form the full filepath.
             filepath = os.path.join(root, filename)
-            if filename != 'maintainers.json' and os.path.splitext(filename)[1] not in ['.py', '.pyc']:
+            if filename != 'maintainers.json' and os.path.splitext(filename)[1] not in ['.py', '.pyc', '.js']:
                 file_paths.append(filepath)
 
     return file_paths
@@ -117,5 +133,6 @@ if __name__ == '__main__':
     # From https://stackoverflow.com/a/29402868/265501.
     if os.getenv('DEBUGGING'):
         logging.basicConfig(level=logging.INFO)
+        os.putenv('PYTHONASYNCIODEBUG', '1')
 
     fire.Fire()
