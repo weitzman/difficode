@@ -8,7 +8,7 @@ fake-useragent==0.1.11
 fire==0.2.1
 idna==2.8
 jsons==1.1.0
-lxml==4.4.2
+lxml==4.9.1
 parse==1.12.1
 pyee==6.0.0
 pyppeteer==0.0.25
