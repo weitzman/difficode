@@ -1,0 +1,23 @@
+{
+  "url": "https://www.tiktok.com/legal/page/us/privacy-policy/en",
+  "selector": "#policy-card, [data-testid='policy-card'], main, body",
+  "enabled": 1,
+  "rules": [
+    {"name": "remove-header", "filter": "header", "replacement": ""},
+    {"name": "remove-nav", "filter": "nav", "replacement": ""},
+    {"name": "remove-footer", "filter": "footer", "replacement": ""},
+    {"name": "remove-loading-animation", "filter": "svg[id*='tux']", "replacement": ""},
+    {"name": "remove-sidebar", "filter": ".hidden.md\\:block", "replacement": ""},
+    {"name": "remove-lang-selector", "filter": ".lang-selection", "replacement": ""},
+    {"name": "remove-sticky-nav", "filter": ".fixed.w-full", "replacement": ""},
+    {"name": "remove-logo", "filter": "img[alt='TikTok']", "replacement": ""},
+    {"name": "remove-brand-links", "filter": "a[href='https://www.tiktok.com']", "replacement": ""},
+    {"name": "remove-toc-list", "filter": "ul:first-of-type", "replacement": ""},
+    {"name": "remove-toc-links", "filter": "a[href='#']", "replacement": ""},
+    {"name": "remove-region-selector", "filter": "*:contains('U.S.')", "replacement": ""},
+    {"name": "remove-empty-sections", "filter": ".dark\\:bg-black.h-screen", "replacement": ""},
+    {"name": "remove-cookies", "filter": "[class*='cookie']", "replacement": ""},
+    {"name": "remove-ads", "filter": "[class*='ad']", "replacement": ""},
+    {"name": "remove-tracking", "filter": "[class*='track']", "replacement": ""}
+  ]
+}

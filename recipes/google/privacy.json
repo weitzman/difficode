@@ -1,0 +1,5 @@
+{
+  "url":"https://policies.google.com/privacy",
+  "selector":"div[role=\"article\"]",
+  "enabled":1
+}

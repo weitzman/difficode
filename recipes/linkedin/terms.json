@@ -1,0 +1,6 @@
+{
+  "url":"https://www.linkedin.com/legal/user-agreement",
+  "selector":"#main",
+  "enabled":0,
+  "reason": "Javascript required"
+}

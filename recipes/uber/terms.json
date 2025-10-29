@@ -1,0 +1,14 @@
+{
+  "url":"https://www.uber.com/legal/terms/us/",
+  "selector":"[data-testid='content-group-dynamic']",
+  "enabled":1,
+  "rules": [
+    {"name": "remove-nav", "filter": "nav", "replacement": ""},
+    {"name": "remove-header", "filter": "header", "replacement": ""},
+    {"name": "remove-footer", "filter": "footer", "replacement": ""},
+    {"name": "remove-cookies", "filter": "[class*='cookie']", "replacement": ""},
+    {"name": "remove-banner", "filter": "[class*='banner']", "replacement": ""},
+    {"name": "remove-menu", "filter": "[role='menu']", "replacement": ""},
+    {"name": "remove-navigation", "filter": "[role='navigation']", "replacement": ""}
+  ]
+}

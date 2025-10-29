@@ -1,0 +1,5 @@
+{
+  "url": "https://slack.com/terms-of-service/user",
+  "selector": ".legal-content",
+  "enabled": 1
+}

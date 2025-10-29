@@ -1,0 +1,5 @@
+{
+  "url": "https://slack.com/transparency-report",
+  "selector": ".legal-content",
+  "enabled": 1
+}
