@@ -99,7 +99,6 @@ class RecipeFetcher {
 
     /**
      * Clean output directory or subdirectory
-     * Preserves .git directory when cleaning the main output directory
      */
     cleanOutput(targetDir = null) {
         const cleanDir = targetDir || this.outputDir;
@@ -110,26 +109,7 @@ class RecipeFetcher {
         }
 
         console.log(`🧹 Cleaning directory: ${cleanDir}`);
-
-        // If cleaning the main output directory, preserve .git submodule
-        if (cleanDir === this.outputDir && fs.existsSync(path.join(cleanDir, '.git'))) {
-            // Clean only subdirectories, preserve .git
-            const items = fs.readdirSync(cleanDir);
-            for (const item of items) {
-                if (item !== '.git') {
-                    const itemPath = path.join(cleanDir, item);
-                    if (fs.statSync(itemPath).isDirectory()) {
-                        fs.rmSync(itemPath, { recursive: true, force: true });
-                        console.log(`🗑️  Removed: ${itemPath}`);
-                    }
-                }
-            }
-        } else {
-            // Safe to remove entire directory (subdirectory or non-git output)
-            fs.rmSync(cleanDir, { recursive: true, force: true });
-        }
-        
-        console.log(`✅ Cleaned: ${cleanDir}\n`);
+        fs.rmSync(cleanDir, { recursive: true, force: true });
     }
 
     /**
@@ -242,7 +222,10 @@ class RecipeFetcher {
 
         } catch (error) {
             console.error(`Error processing ${relativePath}: ${error.message}\n`);
-            this.recordError(relativePath, 'processing_error', error.message);
+            // Only record processing error if no other error was already recorded for this recipe
+            if (!this.errors.some(e => e.recipe === relativePath)) {
+                this.recordError(relativePath, 'processing_error', error.message);
+            }
         }
     }
 
@@ -261,8 +244,9 @@ class RecipeFetcher {
      */
     validateRecipe(recipe, relativePath) {
         if (!recipe.enabled) {
+            const reason = recipe.reason || 'No reason provided';
             console.log('Recipe disabled, skipping\n');
-            this.recordError(relativePath, 'disabled_recipe', 'Recipe is disabled');
+            this.recordError(relativePath, 'disabled_recipe', reason);
             return false;
         }
 
@@ -386,7 +370,7 @@ class RecipeFetcher {
      * Write error report to report.md file
      */
     async writeErrorReport() {
-        const reportPath = path.join(this.outputDir, 'report.md');
+        const reportPath = 'report.md';
         
         try {
             let report = '# Recipe Processing Report\n\n';

@@ -1,5 +1,6 @@
 {
   "url": "https://slack.com/dmca-policy",
-  "selector": ".legal-content",
-  "enabled": 0
+  "selector": ".legal-content", 
+  "enabled": 0,
+  "reason": "Page structure changed"
 }

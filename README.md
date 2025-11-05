@@ -1,6 +1,8 @@
 # Diffi - Legal Agreement Change Tracking
 
-A simple Node application which processes 'recipe' files and records their output in a separate repo at https://gitlab.com/weitzman/diffi. A recipe is a small JSON file detailing the URL of an organization's Privacy policy or Terms of Service. We record changes to those files in our "data" Git repository. This provides an excellent history of changes. In addition to saving a full HTML file, we save a Markdown variant for easy browsing and change presentation.
+See the [output](/output) subdirectory for a historical record of many legal agreements on the web.
+
+A simple Node application which processes 'recipe' files and records their output in the /output directory. A recipe is a small JSON file detailing the URL of an organization's Privacy policy or Terms of Service. This provides an excellent history of changes. In addition to saving a full HTML file, we save a Markdown variant for easy browsing and change presentation.
 
 ## Recipe Format
 
@@ -18,11 +20,22 @@ Recipes are JSON files that define how to extract content from web pages:
 }
 ```
 
+Example of a disabled recipe:
+```json
+{
+  "url": "https://example.com/broken-page",
+  "selector": "#content",
+  "enabled": 0,
+  "reason": "Site requires authentication"
+}
+```
+
 ### Recipe Fields
 
 - **url** (required): The URL to fetch content from
 - **selector** (optional): CSS selector for the main content area (defaults to `body`)
 - **enabled** (required): 1 to enable, 0 to disable this recipe
+- **reason** (optional): When recipe is disabled, explanation for why it's disabled
 - **rules** (optional): Array of turndown.js rules for removing unwanted elements
 
 ### Turndown.js Rules
@@ -84,11 +97,9 @@ node fetch-recipes.js --recipes recipes/uber/privacy.json --clean
 
 The `--clean` option intelligently determines what to clean based on the recipes specified:
 
-- `node fetch-recipes.js --clean` → Cleans entire `./output/` directory (preserves `.git` submodule)
+- `node fetch-recipes.js --clean` → Cleans entire `./output/` directory
 - `node fetch-recipes.js --recipes recipes/uber/ --clean` → Cleans `./output/uber/` directory
 - `node fetch-recipes.js --recipes recipes/uber/privacy.json --clean` → Cleans `./output/uber/` directory
-
-**Important**: When cleaning the main output directory, the `.git` directory is preserved since the output directory is a git submodule. Only company subdirectories are removed.
 
 ## Output
 

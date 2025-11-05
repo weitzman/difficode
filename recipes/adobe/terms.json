@@ -1,6 +1,7 @@
 {
   "url": "https://www.adobe.com/legal/terms.html",
   "selector": ".article-wrapper",
-  "enabled": 1,
+  "enabled": 0,
+  "reason": "HTTP2 protocol error - site blocking automated access",
   "rules": []
 }

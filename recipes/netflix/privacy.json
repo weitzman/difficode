@@ -1,6 +1,6 @@
 {
   "url": "https://help.netflix.com/legal/privacy",
-  "selector": ".article-content",
+  "selector": "div.content",
   "enabled": 1,
   "rules": []
 }
