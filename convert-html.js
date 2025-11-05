@@ -74,6 +74,33 @@ function generateHeader(url, selector) {
 }
 
 /**
+ * Apply Turndown rules to clean HTML elements
+ */
+function applyRulesToHTML(elements, rules) {
+    if (!rules?.length) {
+        return elements;
+    }
+    
+    // Apply each rule to clean the HTML
+    rules.forEach(rule => {
+        if (rule.name && rule.filter && rule.replacement !== undefined) {
+            elements.forEach(element => {
+                const targetElements = element.querySelectorAll(rule.filter);
+                targetElements.forEach(target => {
+                    if (rule.replacement === "") {
+                        target.remove();
+                    } else {
+                        target.outerHTML = rule.replacement;
+                    }
+                });
+            });
+        }
+    });
+    
+    return elements;
+}
+
+/**
  * Convert HTML to Markdown with optional CSS selector and rules
  */
 function convertToMarkdown(html, url, selector, rules) {
@@ -85,20 +112,28 @@ function convertToMarkdown(html, url, selector, rules) {
         
         if (!result?.elements?.length || !result.elements[0]) {
             console.error('No content found');
-            return { markdown: null, selectorFound: false };
+            return { markdown: null, selectorFound: false, cleanedHTML: null };
         }
         
-        const turndown = createTurndownService(rules);
-        const markdown = elementsToMarkdown(result.elements, turndown);
+        // Apply rules to clean the HTML first
+        const cleanedElements = applyRulesToHTML(result.elements, rules);
+        
+        // Generate cleaned HTML from the cleaned elements
+        const cleanedHTML = cleanedElements.map(element => element.outerHTML).join('\n');
+        
+        // Create turndown service without rules since we already applied them
+        const turndown = new TurndownService(TURNDOWN_CONFIG);
+        const markdown = elementsToMarkdown(cleanedElements, turndown);
         
         return {
             markdown: generateHeader(url, selector) + markdown,
-            selectorFound: result.selectorFound
+            selectorFound: result.selectorFound,
+            cleanedHTML: cleanedHTML
         };
         
     } catch (error) {
         console.error('Error converting to markdown:', error.message);
-        return { markdown: null, selectorFound: false };
+        return { markdown: null, selectorFound: false, cleanedHTML: null };
     }
 }
 

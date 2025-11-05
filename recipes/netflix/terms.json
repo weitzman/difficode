@@ -2,5 +2,7 @@
   "url": "https://help.netflix.com/legal/termsofuse",
   "selector": "div.content",
   "enabled": 1,
-  "rules": []
+  "rules": [
+    {"name": "csrf", "filter": "meta[name=\"_csrf\"]", "replacement": ""}
+  ]
 }

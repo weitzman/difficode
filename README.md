@@ -82,6 +82,12 @@ node fetch-recipes.js --recipes recipes/uber/ --clean
 
 # Clean single recipe output
 node fetch-recipes.js --recipes recipes/uber/privacy.json --clean
+
+# Save HTML files in addition to Markdown
+node fetch-recipes.js --html
+
+# Save HTML files for specific recipe
+node fetch-recipes.js --recipes recipes/uber/privacy.json --html
 ```
 
 ### Command Line Options
@@ -91,6 +97,7 @@ node fetch-recipes.js --recipes recipes/uber/privacy.json --clean
 - `--clean`: Clean output directory before processing
   - With `--recipes`: cleans only the corresponding output subdirectory
   - Without `--recipes`: cleans the entire output directory
+- `--html`: Save cleaned HTML files in addition to Markdown files
 - `--help`: Show usage information
 
 ### Cleaning Behavior
@@ -104,8 +111,8 @@ The `--clean` option intelligently determines what to clean based on the recipes
 ## Output
 
 For each recipe, the tool generates:
-- `agreements/[company]/[recipe-name].html` - Raw HTML content
-- `agreements/[company]/[recipe-name].md` - Converted markdown content
+- `agreements/[company]/[recipe-name].md` - Converted markdown content (always)
+- `agreements/[company]/[recipe-name].html` - Cleaned HTML content (only with `--html` flag)
 
 ## Examples
 

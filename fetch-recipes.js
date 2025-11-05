@@ -89,9 +89,10 @@ const PathUtils = {
 };
 
 class RecipeFetcher {
-    constructor(recipesDir = './recipes', outputDir = './agreements') {
+    constructor(recipesDir = './recipes', outputDir = './agreements', saveHtml = false) {
         this.recipesDir = recipesDir;
         this.outputDir = outputDir;
+        this.saveHtml = saveHtml;
         this.errors = [];
         this.processedCount = 0;
         this.successCount = 0;
@@ -324,16 +325,19 @@ class RecipeFetcher {
                 fs.mkdirSync(outputPath.dir, { recursive: true });
             }
 
-            // Save raw HTML
-            const htmlFile = path.join(outputPath.dir, `${outputPath.name}.html`);
-            fs.writeFileSync(htmlFile, html);
-            console.log(`Saved: ${htmlFile}`);
-
-            // Convert and save markdown
-            const markdownFile = path.join(outputPath.dir, `${outputPath.name}.md`);
+            // Convert to markdown first to get cleaned HTML
             const result = convertToMarkdown(html, recipe.url, recipe.selector, recipe.rules);
             
             if (result.markdown) {
+                // Save cleaned HTML only if --html flag is provided
+                if (this.saveHtml) {
+                    const htmlFile = path.join(outputPath.dir, `${outputPath.name}.html`);
+                    fs.writeFileSync(htmlFile, result.cleanedHTML || html);
+                    console.log(`Saved: ${htmlFile}`);
+                }
+
+                // Save markdown
+                const markdownFile = path.join(outputPath.dir, `${outputPath.name}.md`);
                 fs.writeFileSync(markdownFile, result.markdown);
                 console.log(`Saved: ${markdownFile}`);
                 
@@ -454,7 +458,8 @@ function parseArgs() {
         recipesDir: './recipes',
         outputDir: './agreements',
         shouldClean: false,
-        showHelp: false
+        showHelp: false,
+        saveHtml: false
     };
 
     for (let i = 0; i < args.length; i++) {
@@ -472,6 +477,9 @@ function parseArgs() {
             case '--clean':
                 config.shouldClean = true;
                 break;
+            case '--html':
+                config.saveHtml = true;
+                break;
             case '--help':
                 config.showHelp = true;
                 break;
@@ -485,12 +493,13 @@ function parseArgs() {
  * Show help information
  */
 function showHelp() {
-    console.log('Usage: node fetch-recipes.js [--recipes <path>] [--output <dir>] [--clean]');
+    console.log('Usage: node fetch-recipes.js [--recipes <path>] [--output <dir>] [--clean] [--html]');
     console.log('  --recipes <path>  Recipe file or directory (default: ./recipes)');
     console.log('  --output <dir>    Output directory (default: ./agreements)');
     console.log('  --clean           Clean output directory before processing');
     console.log('                    - With --recipes: cleans specific output subdirectory');
     console.log('                    - Without --recipes: cleans entire output directory');
+    console.log('  --html            Save cleaned HTML files in addition to Markdown files');
     console.log('');
     console.log('Examples:');
     console.log('  node fetch-recipes.js --recipes recipes/facebook/privacy.json --clean');
@@ -510,7 +519,7 @@ async function main() {
         process.exit(0);
     }
 
-    const fetcher = new RecipeFetcher(config.recipesDir, config.outputDir);
+    const fetcher = new RecipeFetcher(config.recipesDir, config.outputDir, config.saveHtml);
     
     // Handle cleaning if requested
     if (config.shouldClean) {
