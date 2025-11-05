@@ -1,6 +1,6 @@
 # Content from: https://www.lyft.com/terms
 
-Selector used: article
+Selector used: #main-container
 
 ---
 

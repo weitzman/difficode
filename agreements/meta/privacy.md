@@ -143,13 +143,13 @@ In this Policy we list the kinds of information we collect. Here are some import
 
 [
 
-![](https://scontent-bos5-1.xx.fbcdn.net/v/t15.5256-10/281090250_1081227039141468_3847597327654246963_n.jpg?stp=cp0_dst-jpg_e15_fr_q65_tt6&_nc_cat=103&ccb=1-7&_nc_sid=b07905&_nc_ohc=eShmxOEzIo4Q7kNvwFDC5B7&_nc_oc=AdmXhbon8Bl6Op9eb513hMi3NNfOKabH6LOsxV8OqXU23T8RQdp0E0BkR9UnKDkAAeY&_nc_zt=23&_nc_ht=scontent-bos5-1.xx&_nc_gid=HMxb0kz1412XGp9inMewWg&oh=00_AfjRIPMyFIbmM2rAzqt__-STBNQ_EFXWe7qYAComTtnbHg&oe=69119151)
+![](https://scontent-bos5-1.xx.fbcdn.net/v/t15.5256-10/281090250_1081227039141468_3847597327654246963_n.jpg?stp=cp0_dst-jpg_e15_fr_q65_tt6&_nc_cat=103&ccb=1-7&_nc_sid=b07905&_nc_ohc=eShmxOEzIo4Q7kNvwFDC5B7&_nc_oc=AdmXhbon8Bl6Op9eb513hMi3NNfOKabH6LOsxV8OqXU23T8RQdp0E0BkR9UnKDkAAeY&_nc_zt=23&_nc_ht=scontent-bos5-1.xx&_nc_gid=fG_jLnV59zK49K5Ip9EZ_Q&oh=00_AfiMC7G6lQ4adTS3eNwyaEpcbRqD0CWK-Bv_SWDeLn7Cag&oe=69119151)
 
 Play Video
 
 
 
-](/video_redirect/?src=https%3A%2F%2Fvideo-bos5-1.xx.fbcdn.net%2Fo1%2Fv%2Ft2%2Ff2%2Fm69%2FAQPHbM1Y6Ilbyq0xANe0c481oa-MEy1SbKZX1Pbetrpb11aIhZwqsYrqdvKXj04fR-dbc6N31R7SO_GQylrXx6l1.mp4%3Fstrext%3D1%26_nc_cat%3D101%26_nc_sid%3D8bf8fe%26_nc_ht%3Dvideo-bos5-1.xx.fbcdn.net%26_nc_ohc%3DGf8p-K_a2jcQ7kNvwG4kIV4%26efg%3DeyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5GQUNFQk9PSy4uQzMuNjQwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTExMzU1MjIzOTY2MzUyNCwiYXNzZXRfYWdlX2RheXMiOjEyNjksInZpX3VzZWNhc2VfaWQiOjEwMTI4LCJkdXJhdGlvbl9zIjoxMDMsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%253D%253D%26ccb%3D17-1%26_nc_gid%3DHMxb0kz1412XGp9inMewWg%26_nc_zt%3D28%26_nc_rml%3D0%26oh%3D00_AfiUwB2-ej4O57Gl0pA8o6T57yN6yMuL9bnc86q9LypF0Q%26oe%3D691177B5%26bitrate%3D203999%26tag%3Dsve_sd&source=misc&id=1078484169415755&noredirect=0&watermark=0&__tn__=F)
+](/video_redirect/?src=https%3A%2F%2Fvideo-bos5-1.xx.fbcdn.net%2Fo1%2Fv%2Ft2%2Ff2%2Fm69%2FAQPHbM1Y6Ilbyq0xANe0c481oa-MEy1SbKZX1Pbetrpb11aIhZwqsYrqdvKXj04fR-dbc6N31R7SO_GQylrXx6l1.mp4%3Fstrext%3D1%26_nc_cat%3D101%26_nc_sid%3D8bf8fe%26_nc_ht%3Dvideo-bos5-1.xx.fbcdn.net%26_nc_ohc%3DGf8p-K_a2jcQ7kNvwG4kIV4%26efg%3DeyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5GQUNFQk9PSy4uQzMuNjQwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTExMzU1MjIzOTY2MzUyNCwiYXNzZXRfYWdlX2RheXMiOjEyNjksInZpX3VzZWNhc2VfaWQiOjEwMTI4LCJkdXJhdGlvbl9zIjoxMDMsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%253D%253D%26ccb%3D17-1%26_nc_gid%3DfG_jLnV59zK49K5Ip9EZ_Q%26_nc_zt%3D28%26_nc_rml%3D0%26oh%3D00_Afj2zOsiAjpzvGFSqKKNgLSVweXOasnYIrx9QRYgOArzIQ%26oe%3D6911AFF5%26bitrate%3D203999%26tag%3Dsve_sd&source=misc&id=1078484169415755&noredirect=0&watermark=0&__tn__=F)
 
 The information we collect and process about you depends on how you use our [Products\[3\]](#annotation-3). For example, we collect different information if you sell furniture on Marketplace than if you post a reel on Instagram. When you use our Products, we collect some information about you [even if you don't have an account\[4\]](#annotation-4).
 
@@ -191,7 +191,7 @@ We also collect your contacts’ information, such as their name and email addre
 
 If you don’t use Meta Products, or use them without an account, your information might still be collected. [Learn more](https://www.facebook.com/help/637205020878504) about how Meta uses contact information uploaded by account holders.
 
-Learn how to upload and delete contacts on [Facebook](https://www.facebook.com/help/561688620598358?helpref=related) and [Messenger](https://www.facebook.com/help/messenger-app/838237596230667), or how to connect your device's contact list on [Instagram](https://lm.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F195069860617299%3Fhelpref%3Drelated&h=AT2EN5RwizlpXoC0wZJAsTnYdOpWaVS6upC71xWruYNZrDHzQ7p3FgSKfCzjorYHiOTJwpJBqOF8zsrK4GL3NNSLprRl-Ibs_01nI9JqZD5B2ixkHWSbZ_51-t8n7JDGW-NHYvbN7V2rdTyEBMPDPW9WEbs).
+Learn how to upload and delete contacts on [Facebook](https://www.facebook.com/help/561688620598358?helpref=related) and [Messenger](https://www.facebook.com/help/messenger-app/838237596230667), or how to connect your device's contact list on [Instagram](https://lm.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F195069860617299%3Fhelpref%3Drelated&h=AT3k7hzKje2HWcJ2Z9EcAL28yhJUWSbshca0atuqmkoGffMTrgM4H_ACI4BF9wgAUT4DfD38N3PWNpeKF6scQTjYxonKMPFqh5m_wAuBss37YGJoPtmi34OYJbpJAOf-JVnFvl7BrYKKwccUmac5haEbNoE).
 
 ## Information we collect or infer about you based on others’ activity
 
@@ -564,7 +564,7 @@ Some people, businesses, organizations and bodies share information with Meta bu
 *   Companies or organizations that provide content, including videos, photos, and audio
 *   Law enforcement
 *   Government authorities
-*   Professional and non-profit groups, like [NGOs](https://lm.facebook.com/l.php?u=https%3A%2F%2Fabout.fb.com%2Fnews%2F2017%2F07%2Fglobal-internet-forum-to-counter-terrorism-to-hold-first-meeting-in-san-francisco%2F&h=AT3_T1P2Hdj-wm3w5g_qlQkOAm3LdmzSa-Q5nSp4InwMPSRaWRbKwgFbUXnmdNZHbMPoZzFbK1l4_PzFEgPxEyi-YHX1V9DNvkrWeufIH9q5TxfMrSL_QOCvruNcn78QSRBPRSXkOmpYWjxh0hZTidmvkqmAlAfy4uGJ1UPP), and charities
+*   Professional and non-profit groups, like [NGOs](https://lm.facebook.com/l.php?u=https%3A%2F%2Fabout.fb.com%2Fnews%2F2017%2F07%2Fglobal-internet-forum-to-counter-terrorism-to-hold-first-meeting-in-san-francisco%2F&h=AT1g4OF1axSg5PKGPBH13AYemx71T34CkYX0J7IFfE9oGB7Cup4YT2vaw9sRgquE-pSp1r0au7UgxLdg0EnituzU70l43FlKyxwcWdKxcmwrZIdM36ZkLdAB5EiiARVdVKnCFmMakYH6dKl_nXRfnJlTdjQ), and charities
 *   Academic and research institutions, like universities, non-profit research groups and think tanks
 
 ### Third-party public sources
@@ -622,13 +622,13 @@ Here are some of the ways we use your information:
 
 [
 
-![](https://scontent-bos5-1.xx.fbcdn.net/v/t15.13418-10/279567742_435745928315922_3536471018405745288_n.jpg?stp=cp0_dst-jpg_e15_fr_q65_tt6&_nc_cat=110&ccb=1-7&_nc_sid=89b6a1&_nc_ohc=OwgAw8vXgnUQ7kNvwHeTJew&_nc_oc=AdnZJ4hz7EpuIBQG_RSrscIBcU7O6W5bD_krnHCK56K1QKTx5ovKAorQmhalmOxPGKo&_nc_zt=23&_nc_ht=scontent-bos5-1.xx&_nc_gid=HMxb0kz1412XGp9inMewWg&oh=00_AfgsLavbxNKCvRHYOv8X1Sv0BDaRD_0stCTKg6Z7M5vpJA&oe=6911904A)
+![](https://scontent-bos5-1.xx.fbcdn.net/v/t15.13418-10/279567742_435745928315922_3536471018405745288_n.jpg?stp=cp0_dst-jpg_e15_fr_q65_tt6&_nc_cat=110&ccb=1-7&_nc_sid=89b6a1&_nc_ohc=OwgAw8vXgnUQ7kNvwHeTJew&_nc_oc=AdnZJ4hz7EpuIBQG_RSrscIBcU7O6W5bD_krnHCK56K1QKTx5ovKAorQmhalmOxPGKo&_nc_zt=23&_nc_ht=scontent-bos5-1.xx&_nc_gid=fG_jLnV59zK49K5Ip9EZ_Q&oh=00_AfiR_vX1yDS9JGTdZikC1FV5MMSr7mRYHy_HJVc-nrFH2g&oe=6911904A)
 
 Play Video
 
 
 
-](/video_redirect/?src=https%3A%2F%2Fvideo-bos5-1.xx.fbcdn.net%2Fo1%2Fv%2Ft2%2Ff2%2Fm69%2FAQPUz9KSP4EcCINy-riSUXWL1EoZotE38pje73xlXjDGAc7XGvezM3ARLrzpTwLP1_Wh1OS130onddLBRMneYbK5.mp4%3Fstrext%3D1%26_nc_cat%3D1%26_nc_sid%3D8bf8fe%26_nc_ht%3Dvideo-bos5-1.xx.fbcdn.net%26_nc_ohc%3D4Oq3-XzwHNUQ7kNvwGBFXeB%26efg%3DeyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5GQUNFQk9PSy4uQzMuNDI2LnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6Mjc2OTI5MDMxOTA2NzE5LCJhc3NldF9hZ2VfZGF5cyI6MTI4MSwidmlfdXNlY2FzZV9pZCI6MTAxMjgsImR1cmF0aW9uX3MiOjk0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%253D%26ccb%3D17-1%26_nc_gid%3DHMxb0kz1412XGp9inMewWg%26_nc_zt%3D28%26_nc_rml%3D0%26oh%3D00_Afg2YEyRfxmH_bIzkiS_4WGSNMWWxkJEN7BG_cQ2zCJVTQ%26oe%3D69119885%26bitrate%3D156415%26tag%3Dsve_sd&source=misc&id=3234506963505309&noredirect=0&watermark=0&__tn__=F)
+](/video_redirect/?src=https%3A%2F%2Fvideo-bos5-1.xx.fbcdn.net%2Fo1%2Fv%2Ft2%2Ff2%2Fm69%2FAQPUz9KSP4EcCINy-riSUXWL1EoZotE38pje73xlXjDGAc7XGvezM3ARLrzpTwLP1_Wh1OS130onddLBRMneYbK5.mp4%3Fstrext%3D1%26_nc_cat%3D1%26_nc_sid%3D8bf8fe%26_nc_ht%3Dvideo-bos5-1.xx.fbcdn.net%26_nc_ohc%3D4Oq3-XzwHNUQ7kNvwGBFXeB%26efg%3DeyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5GQUNFQk9PSy4uQzMuNDI2LnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6Mjc2OTI5MDMxOTA2NzE5LCJhc3NldF9hZ2VfZGF5cyI6MTI4MSwidmlfdXNlY2FzZV9pZCI6MTAxMjgsImR1cmF0aW9uX3MiOjk0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%253D%26ccb%3D17-1%26_nc_gid%3DfG_jLnV59zK49K5Ip9EZ_Q%26_nc_zt%3D28%26_nc_rml%3D0%26oh%3D00_Afg1VccceqUTZGRj7ZwQ-HgkIaYrWRJPOlrkZ3pa5vn9zQ%26oe%3D69119885%26bitrate%3D156415%26tag%3Dsve_sd&source=misc&id=3234506963505309&noredirect=0&watermark=0&__tn__=F)
 
 We use [information we collect](#1-WhatInformationDoWe) to provide a personalized experience to you, including ads, along with the other purposes we explain in detail below.
 
@@ -640,7 +640,7 @@ Here are the ways we use your information:
 
 ## To provide, personalize and improve our Products
 
-We use information we have to provide and improve our [Products\[28\]](#annotation-28). This includes personalizing features, content and [recommendations](https://www.facebook.com/help/1257205004624246), such as your [Facebook Feed\[29\]](#annotation-29), [Instagram Feed](https://lm.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F1986234648360433%2F&h=AT3ZTy012IeWGo09fwshxYIAx9KVTNvsqKBNZxPsxqpMzV69-hcjqrM7kfOPNarnrqFqUe-kTZ7nXVqDuZZm9NkzgZk9tpkzieKeDgR3YzoXsk89WlBZSzjiIEEVmZQXzm67efEZIT7Pa6iRBi6HYaGM1gQ), Stories and ads. We use [information with special protections](#1.subpage.1-YourActivityAndInformation) you choose to provide for these purposes, but not to show you ads.
+We use information we have to provide and improve our [Products\[28\]](#annotation-28). This includes personalizing features, content and [recommendations](https://www.facebook.com/help/1257205004624246), such as your [Facebook Feed\[29\]](#annotation-29), [Instagram Feed](https://lm.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F1986234648360433%2F&h=AT0mLLKBbccvuitZoVvslrL3OW-M07ucf5m6flljElJtZzJbGeXbKFg55ceyL3oCMlsvViyPYGPmqP2sjaNogFAorzxxTCanjfqJcXiGduI9GWwfaM8SAm6oRuYbGYKxv71TtsQRqYKiFsOaOM834g13Ugw), Stories and ads. We use [information with special protections](#1.subpage.1-YourActivityAndInformation) you choose to provide for these purposes, but not to show you ads.
 
 Read more about how we use information to provide, personalize and improve our Products:
 
@@ -717,7 +717,7 @@ How to turn Instagram location services on or off
 
 ![](https://static.xx.fbcdn.net/rsrc.php/v4/yf/r/8Hrej50UHOv.png)
 
-](https://lm.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F171821142968851&h=AT3r3sea4f4De-p_Uy7fthTqUpP9nVNcjVhP5ugNraaO-Jh1F0gNIHI1rlDVU8fOTtedA_hPMMTb-SMUscQ-Z1s5VjXoOrd4gKS7YLzv5H53bot2dcZxAHzJH018oZSR9xJpVQwlYXlR_Q1xY_hcxhtQfik)
+](https://lm.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F171821142968851&h=AT3LpO2MGlk0YFXGnO8BJKiZCidVLhC40LL1K5Pc2UaPICQFGIrxy4dfgw529L1fOmi6QwUNR3KhR1LvUa9MbHFj9J2lrJkqMNYIuhypeZcfjbWrqVTmIuVAvKL9WYICbAxagdTUZ-yBUoL9rTaDbAV2ZoY)
 
 [Manage location settings](https://mbasic.facebook.com/privacy/policy/printable/?back_id=link-collection-3&link_dialog=LOCATION&entry=0)
 
@@ -769,13 +769,13 @@ Here are some ways we promote safety, security and integrity. We work to:
 *   Find and address violations of our terms or policies. In some cases, the decisions we make about violations are reviewed by the [Oversight Board](https://www.oversightboard.com/). They may use information we have when they review our decisions. [Learn more](https://www.oversightboard.com/data-policy/) about how the Oversight Board processes information.
 *   Investigate suspicious activity. [Learn more](https://www.meta.com/help/policies/safety/new-ways-to-combat-scams/) about how we help protect you and others from impersonation and identity misuse through face analysis.
 *   Detect, prevent and combat harmful or unlawful behavior
-*   [Identify and combat disparities and racial bias](https://lm.facebook.com/l.php?u=https%3A%2F%2Fabout.fb.com%2Fnews%2F2021%2F11%2Finclusive-products-through-race-data-measurement%2F&h=AT3-9BrqgDkQV4P8h4npGlFcGNSyCj2IpSHMGlYJIl525k_ErFfUrhI8DWZ6zK1Aax5oaSS5GMpoFAG8nUd7IY8jidsPY8Bf-Xt9-ctBnmCqtqkBOBUGDFGhypYqVLDTxKwPHLLiYeN_BN8iXBmXH7kFVxU) against historically marginalized communities
+*   [Identify and combat disparities and racial bias](https://lm.facebook.com/l.php?u=https%3A%2F%2Fabout.fb.com%2Fnews%2F2021%2F11%2Finclusive-products-through-race-data-measurement%2F&h=AT1gOEUbJCd-ucA6ASoLyatt51qYBHcW50MlsUvhzQo5DBIv_ArFN4-9e1o_cNPUxCsWyGq5tQyyI8jXU8Hvoeak2JIauVIl58qFSG-bL9Mgk6E5Ofv1KNxedXpi8vBqI7sNdh2zvIybdaz01k71-zad5gs) against historically marginalized communities
 *   Detect and prevent spam and other bad experiences
 *   [Detect when someone needs help](https://www.facebook.com/safety/wellbeing/suicideprevention) and provide support
 *   Detect and stop threats to our personnel and property
 *   Maintain the integrity of our Products
 
-[Learn more](https://lm.facebook.com/l.php?u=https%3A%2F%2Ftransparency.fb.com%2F&h=AT09Lh53r6s0EEXVhI9oFUNLP-VmsAXhv9JTlnZmj96qDvZn-EiGmz1mtNYN0R-ldr0i6YdAPJSd2aVTD4CY7XwlvmLVcvJ7tjV1kssMLQFdZWGjcCewwqn8iH-5EvH9dMkGX16jgX4_K-TFgw5Z4Aw7bpo) about how we work to keep Meta a safe place for everyone.
+[Learn more](https://lm.facebook.com/l.php?u=https%3A%2F%2Ftransparency.fb.com%2F&h=AT2UDRAEotlh-NcjtR33kbs5oXIJ3exINzBzak1EdIgTmj6o3fKF-E4n8rLMjEdnT5mbpvnhJbQiGhvlSk97Dzz_MZv_URGOCjhfCE8XE4zCN0vz_9-CvmhuZ_fgnJriHC1P2xLhuUA4wVI_-kVT3IInG6U) about how we work to keep Meta a safe place for everyone.
 
 ## Take control
 
@@ -852,7 +852,7 @@ Here are some examples of our research:
 *   We’ve collaborated with academics and industry experts to help improve internet access and quality in rural areas
 *   We support research in areas like artificial intelligence and machine learning
 
-[Learn more](https://lm.facebook.com/l.php?u=https%3A%2F%2Fresearch.fb.com%2F&h=AT3TJ6qQ0lovzLh1R6CcKeh2pOuj2B19-MPK6gFUwU9JFZJSvtGdUXfXqY1qQUQWWMx6RClleGmIktYsTUBNbd3897Q3tbnEnuc4pI9HE9lkmbyGd2ZLl139028MGLW3EVz5rp-JNNr8eK3UX-Z7E6jGuTY) about our research programs
+[Learn more](https://lm.facebook.com/l.php?u=https%3A%2F%2Fresearch.fb.com%2F&h=AT257na_xFkv089ZaitdaKNjl7haUAvAKzV5ygBz18tij_EbfMieUbGtZNt_fmil0dfAzYfN-ogNcELjfQh5pXg6atQ2PF_g3MGIzX68rLLTKwDNNeT7871Vt6seSkEd_bK16ylI7fqaOv3plhHtsegt_KU) about our research programs
 
 ## More in the Privacy Policy
 
@@ -870,13 +870,13 @@ Why and how we process your information
 
 [
 
-![](https://scontent-bos5-1.xx.fbcdn.net/v/t15.13418-10/279733714_5142373929182316_8342528022315053785_n.jpg?stp=cp0_dst-jpg_e15_fr_q65_tt6&_nc_cat=109&ccb=1-7&_nc_sid=89b6a1&_nc_ohc=C8ldp30rg6EQ7kNvwFaB9sr&_nc_oc=AdnEQB_99Y86GOR2DUJZMjT8CXazp6rg9EePloLQWw73hJi5z3EwLPCDdqU2T6-A8V0&_nc_zt=23&_nc_ht=scontent-bos5-1.xx&_nc_gid=HMxb0kz1412XGp9inMewWg&oh=00_AfjbNGYawKfysQ7iOgIcAQE4Trjf2Nhp00EP3Z4OduJZxg&oe=69117CEE)
+![](https://scontent-bos5-1.xx.fbcdn.net/v/t15.13418-10/279733714_5142373929182316_8342528022315053785_n.jpg?stp=cp0_dst-jpg_e15_fr_q65_tt6&_nc_cat=109&ccb=1-7&_nc_sid=89b6a1&_nc_ohc=C8ldp30rg6EQ7kNvwFaB9sr&_nc_oc=AdnEQB_99Y86GOR2DUJZMjT8CXazp6rg9EePloLQWw73hJi5z3EwLPCDdqU2T6-A8V0&_nc_zt=23&_nc_ht=scontent-bos5-1.xx&_nc_gid=fG_jLnV59zK49K5Ip9EZ_Q&oh=00_Afj71vTlYpL7A0QtrXcTQ7KWTTBxrg2mTbtCs0mWZ7Q-yQ&oe=6911B52E)
 
 Play Video
 
 
 
-](/video_redirect/?src=https%3A%2F%2Fvideo-bos5-1.xx.fbcdn.net%2Fo1%2Fv%2Ft2%2Ff2%2Fm412%2FAQNwCDCi85yE9yJOmvKsTTbUuP-YgGPxZfhhAzg5mAsmKDFWNymmniO-vrrhvevL6uhEEtOnilnApKHu77z8BdjG.mp4%3F_nc_cat%3D109%26_nc_sid%3D8bf8fe%26_nc_ht%3Dvideo-bos5-1.xx.fbcdn.net%26_nc_ohc%3DRsoJN9t8DQkQ7kNvwHbZu2R%26efg%3DeyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5GQUNFQk9PSy4uQzMuNDI2LnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MzYxMTg3OTk4MjM5MTg0NiwiYXNzZXRfYWdlX2RheXMiOjEyNjksInZpX3VzZWNhc2VfaWQiOjEwMTI4LCJkdXJhdGlvbl9zIjo5NywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9%26ccb%3D17-1%26_nc_gid%3DHMxb0kz1412XGp9inMewWg%26_nc_zt%3D28%26_nc_rml%3D0%26oh%3D00_AfjB1l8K54xSjmXqsS8LY3kWq81VZMO8-JVLhcm7hmyFKg%26oe%3D69119B2A%26bitrate%3D152144%26tag%3Dsve_sd&source=misc&id=313266294163634&noredirect=0&watermark=0&__tn__=F)
+](/video_redirect/?src=https%3A%2F%2Fvideo-bos5-1.xx.fbcdn.net%2Fo1%2Fv%2Ft2%2Ff2%2Fm412%2FAQNwCDCi85yE9yJOmvKsTTbUuP-YgGPxZfhhAzg5mAsmKDFWNymmniO-vrrhvevL6uhEEtOnilnApKHu77z8BdjG.mp4%3F_nc_cat%3D109%26_nc_sid%3D8bf8fe%26_nc_ht%3Dvideo-bos5-1.xx.fbcdn.net%26_nc_ohc%3DRsoJN9t8DQkQ7kNvwHbZu2R%26efg%3DeyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5GQUNFQk9PSy4uQzMuNDI2LnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MzYxMTg3OTk4MjM5MTg0NiwiYXNzZXRfYWdlX2RheXMiOjEyNjksInZpX3VzZWNhc2VfaWQiOjEwMTI4LCJkdXJhdGlvbl9zIjo5NywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9%26ccb%3D17-1%26_nc_gid%3DfG_jLnV59zK49K5Ip9EZ_Q%26_nc_zt%3D28%26_nc_rml%3D0%26oh%3D00_AfgQtOdCIzQU-DkzOMZHYbjFU10nON7vNI-328V8jhzkJw%26oe%3D69119B2A%26bitrate%3D152144%26tag%3Dsve_sd&source=misc&id=313266294163634&noredirect=0&watermark=0&__tn__=F)
 
 We use [information across your accounts on our Products](https://www.meta.com/help/accounts-center/Information-used-across-accounts/) to:
 
@@ -912,7 +912,7 @@ One reason we use your information across [devices\[40\]](#annotation-40) is to 
 
 ### Examples of when we use manual review
 
-*   Our reviewers help us promote safety, security and integrity across our Products. For example, reviewers can look for and remove content that violates our terms and policies and keep content that doesn’t break our terms and policies available. Their work supplements our [technology that detects violations](https://lm.facebook.com/l.php?u=https%3A%2F%2Ftransparency.fb.com%2Fen-gb%2Fenforcement%2Fdetecting-violations%2Ftechnology-detects-violations%2F&h=AT0WcgeRHbGaGKsO9RDbSM53tFtJ0triL9PtWjrBm4B0geFJJnJbXdIHf97JigXZTURQI7lo6kTDKlB4LNdFEcOnHa7-v3vL0lGz2TEHCyHqvMUseopWqzDLqpIago4ZBM4cf3OzyKI1hghgia7vAZSJjmY).
+*   Our reviewers help us promote safety, security and integrity across our Products. For example, reviewers can look for and remove content that violates our terms and policies and keep content that doesn’t break our terms and policies available. Their work supplements our [technology that detects violations](https://lm.facebook.com/l.php?u=https%3A%2F%2Ftransparency.fb.com%2Fen-gb%2Fenforcement%2Fdetecting-violations%2Ftechnology-detects-violations%2F&h=AT0xOdiz1iLU-0E7rAdCqbA9Qx8OA9L9O4i_uM5Q46SXr5W_edmCv2AHx2z1MO7xtQNpQPOl4R-2ia77WBno9_zi8hpbZrbXlI17EsdRhKa6HDolBxxEdGYhE7MJzwxWn6iQdTNX1mO4CyOPVVCgqCbLmSk).
 *   When our algorithms detect that [someone might need help](https://www.facebook.com/safety/wellbeing/suicideprevention), a reviewer can review their post and offer support if needed.
 *   We also use manual review to analyze content to train our algorithms to review content the same way a person would. This improves our automatic processing, which in turn helps us improve our products.
 
@@ -920,7 +920,7 @@ One reason we use your information across [devices\[40\]](#annotation-40) is to 
 
 Our reviewers work at Meta, for [Meta Companies](https://www.facebook.com/help/111814505650678?ref=tos) or for a trusted [service provider\[41\]](#annotation-41). We require every reviewer who's allowed access to your information to meet privacy and security standards.
 
-[Learn more](https://lm.facebook.com/l.php?u=https%3A%2F%2Ftransparency.fb.com%2Fpolicies%2Fimproving%2Fprioritizing-content-review%2F&h=AT0lqLfEqc3P3-JPGiVbMCkYEhr1xIXhbT0hsyVFXbvhRRydFRvUX68e-7PI8HKwI0RD1lSDHNu9BJ3DuUrLmnBoCdKK8Q9NIN-5eit0GBKJZ0KHD-hgxTKcMfT6ItG_7QGylDSpFOBmdVfkN4Onu8FXpGw) about how Meta prioritizes content for manual review.
+[Learn more](https://lm.facebook.com/l.php?u=https%3A%2F%2Ftransparency.fb.com%2Fpolicies%2Fimproving%2Fprioritizing-content-review%2F&h=AT2ViTeHDitle_JGnJegRUHMANY3uAnKqiZxY9MR9A7n96YWvrycriBR9LXC7GMMj9ihwtXykR3jme3ArGrMBLj0O9DJuoJDbFBrAH9DdQ2ecgpbS8JmlfvfC3wjXHQQWaXgMlQMhsnmk1eXWRZDPbeKzq0) about how Meta prioritizes content for manual review.
 
 28
 
@@ -934,7 +934,7 @@ This Policy describes the information we, Meta Platforms, Inc., process to provi
 
 ## How we personalize your Facebook Feed
 
-Your Facebook Feed is unique to you. We order (or “rank”) the content you can see in your Feed, and you can [learn more](https://lm.facebook.com/l.php?u=https%3A%2F%2Ftransparency.fb.com%2Fen-gb%2Ffeatures%2Franking-and-content%2F&h=AT0MWfLBORmsnDiWowVWmsKe3rWzOnbduLoR8KoZOow6k2x98JksvwM2nHyn20PLPK6CXZ5p02ELbKD-RKAWeXOaHkjn4yPVIvS30iYgxPdJcfdlKDU5AiF59svFm6d1SxPsq4e14A1mAoxPULVnr2gmszU) about the different types of signals we use to rank it. We also suggest content that’s relevant to you.
+Your Facebook Feed is unique to you. We order (or “rank”) the content you can see in your Feed, and you can [learn more](https://lm.facebook.com/l.php?u=https%3A%2F%2Ftransparency.fb.com%2Fen-gb%2Ffeatures%2Franking-and-content%2F&h=AT0P83ki9sKgF1Zd_GCN8LbfSQs4SLFh0_LgjRbTkRlE5x4rf6e8cLfCB4rSi4LZNJIYUenTXVENZagasAyqTlw2xQHl0qOjqdmWHqeJvA-ACh-xYzBTwLyS0J_uJCGz5iJvZ7qztJLAYb1Hpr3wLK38mQA) about the different types of signals we use to rank it. We also suggest content that’s relevant to you.
 
 Many things influence the content you see in your Feed.
 
@@ -959,7 +959,7 @@ How to manage your Instagram Feed
 
 ![](https://static.xx.fbcdn.net/rsrc.php/v4/yf/r/8Hrej50UHOv.png)
 
-](https://lm.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F505299634436870%2F%3Fparent_cms_id%3D1986234648360433&h=AT0m4ni1dgDwPZE3JcnrkHk0mN8Y5FyHGltA8FZ7AXrKVOnfF8VEvCBe0yRDCFt3tElzqxa8QMOA5IsQxskZ_uL2I_Fyr1fooGXsYeRC2XUL2RWy24dv4Ra-D6zS7PmxLd8usIlB92tXBAODMQBDIXxJ0nk)
+](https://lm.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F505299634436870%2F%3Fparent_cms_id%3D1986234648360433&h=AT0dVqRs-0jQEnoIe33mv7KuJwgERKjaoBnsHHMlCoEmQ8rBs_4ROHnVNc_uo5LK7LCIIf8mEPrB9r-JikNVHlN7_JFFH1844jc8-g1K6leu5vyhO9HuTQH7mq5nCK_PHSIxLjYzlJC6UdofgqdLUU7_ZrY)
 
 [Manage Facebook Feed](https://mbasic.facebook.com/feed_preferences/home/)
 
@@ -1126,7 +1126,7 @@ People and businesses can also see some of your activity on our Products. This i
 
 Some of our Products might provide you with settings that allow others to see when you're active on our Products, such as “active status.” In some cases, we also offer settings that allow others to see when you’re active in a particular section of one of our Products, like a message thread, game or event, or when you last used one of our Products.
 
-Learn how to update your Active Status on [Facebook](https://www.facebook.com/help/215888465102253?helpref=faq_content) and [Messenger](https://www.facebook.com/help/messenger-app/278118979024443), or how to update your Activity Status on [Instagram](https://lm.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F1164377657035425&h=AT2nvoPdUrVuVYOe8OYl2-GFQHjls3IK5fy1O0fUD8hfjbhs5Az4hQW6eQGkOj3YbDr27eOfknCQf34BkkLeCyxR-rBwD0Sr3fPeX_6ZUjA35Cy3aRqY_KGLI8jr97eEz6ZVghfjXxj-p9j6ihSNi0ni5SE).
+Learn how to update your Active Status on [Facebook](https://www.facebook.com/help/215888465102253?helpref=faq_content) and [Messenger](https://www.facebook.com/help/messenger-app/278118979024443), or how to update your Activity Status on [Instagram](https://lm.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F1164377657035425&h=AT1srlSm7nZpe7zXOEYmXDoqKkz0wMNLBwEUlyO5Soz7FTpWuG7Hsht5C_XCsoyDoDPaF4xehWrFn6e212PilQnD3eXdpM569vh-sSNY5pvhtjL19rE7gy-HHWWEVrumoRWquq1ff5AxwVrqRVUPS_VoGUM).
 
 ## When you interact with a supervised user
 
@@ -1165,7 +1165,7 @@ Remove a tag from a photo or video on Instagram
 
 ![](https://static.xx.fbcdn.net/rsrc.php/v4/yf/r/8Hrej50UHOv.png)
 
-](https://lm.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F178891742266091&h=AT3xFWhpv_zi5c0rUXbOBs5B6ugBEMLEq_SbzN8eU79FWbLa-3-CpMuTEE-L0O0oXBsz7EWhZNB3mlshPbST77CO3G1tQ95lZC-qasYCKju3spCPEgVV6fEupLSqiFmTaGAR-qqwJJ1FduOG_QVLELcxayM)
+](https://lm.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F178891742266091&h=AT1qZBtMlHnpNdEQ6kW4IbERVmseMeLCQEV9LZ5J0vRZqZRn_xyN2cqACKboTNRu9Y7UPxkztY1BFit1x6qlvC1qTszmfaqIZ0PcfhEtngsA8rVDRxAO4rP-cyzZFcYngq8eXYC9WsvsaRnPw7IEPvQXDpE)
 
 [Manage tags](https://www.facebook.com/0/allactivity/?category_key=manageyourtags&audience=EVERYONE&manage_mode=1)
 
@@ -1192,7 +1192,7 @@ For example, if you comment on Marketplace, a Facebook Page or a public Instagra
 
 ## Where can public content be shared?
 
-We, you and people using our Products can send public content (like your profile photo, or information you share on a Facebook Page or public Instagram account) to anyone on, across or off our Products. For example, users can share it in a public forum, or it can appear in search results on the internet or our [research tools](https://lm.facebook.com/l.php?u=https%3A%2F%2Ftransparency.meta.com%2Fresearchtools%2Fmeta-content-library&h=AT2GcqCW5O6nYV_IcCzZZPy7YUYHyTdekwTTaTA2iXNl-6KNLDSCOztGP_n1q44ArXPxbHka33lCpDVIFsZdXhPYHEljsKCeGu2rKDajWH8qjsvtEaJkMu7Qlc03VfhU3UDGiuUhO6Smf_9egJaVpM8ERVE).
+We, you and people using our Products can send public content (like your profile photo, or information you share on a Facebook Page or public Instagram account) to anyone on, across or off our Products. For example, users can share it in a public forum, or it can appear in search results on the internet or our [research tools](https://lm.facebook.com/l.php?u=https%3A%2F%2Ftransparency.meta.com%2Fresearchtools%2Fmeta-content-library&h=AT08XYQ5wc6xsbLJP1Xl8DJiHxS1jDGvUEmZYfbj2nj40KSTgfFOFouBt32scZgChx7iI1CiwogEnsOtGBbBHMf8HDiH9mEScgGH0heo63KvgC0W3X6OsL-MjOrko8Uk-hq8v82-AQbMl6XNBEZd1M3L5Ik).
 
 Public content can also be seen, accessed, reshared or downloaded through third-party services, like:
 
@@ -1215,7 +1215,7 @@ How to make a public account private on Instagram
 
 ![](https://static.xx.fbcdn.net/rsrc.php/v4/yf/r/8Hrej50UHOv.png)
 
-](https://lm.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F448523408565555&h=AT2I0mVzcxei5b5mbKFPFccQ_42axdWsrlgPbYCtLAn2wdK-b3ftyB2T43jUqXVc_tIddIxXIMcGvAo47PpiggJcO0C-Jq0GcWw2MP_cGCUrUngbjt5XkyXnvhhJvZMeTydmQqbHfcj3Xjkke6AzR6UwbhRk16bEGPE8Jnha)
+](https://lm.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F448523408565555&h=AT232Z2QjcZVBrkGntKvijvU2y_fO9JSmCEBZJppmWExEMsdvOPkVj1pXGz0dx6CpnG8MNVacbuRTBWIF1zY_hr8DdfiRbi_lFxYU-5eniXpCDLaATqI-6dh_CQKBK2rIV_XGtFTCGGJ700HLf-nVTRc410)
 
 [Manage public information](https://mbasic.facebook.com/privacy/policy/printable/?back_id=link-collection-7&link_dialog=PRIVACY_CHECKUP&entry=0)
 
@@ -1268,7 +1268,7 @@ How to manage apps and websites on Instagram
 
 ![](https://static.xx.fbcdn.net/rsrc.php/v4/yf/r/8Hrej50UHOv.png)
 
-](https://lm.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F1144624522593085&h=AT00n9-duStPzGGmE5kr44HzLZ9xQzcCE5FgbP8arBDrUvR0Wbt50IDTP6U3x6_HKHcqyKxyXwrkMzWg6gvOxFUF26pR1x07TL_AG6U1uxryLkQ0oqdC7WrEaCB6_g4iSbiQ9oJ_0lzsT9MM0rYuuUbPJH8)
+](https://lm.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F1144624522593085&h=AT2RxgclQGAMBwEXN4qTc4hhRoQHBdIHMyckPSdjId_MGxqb1r-YtXOdQ_XOMR1HO38n9bGGN6SR-S8NoA78eZSj5qm9YHb9o1fG5rsKdkeQpPmy3hPeGHOWQzTP-Kwjn66axEfLrGFryLuVLgBKa_B7gsI)
 
 [Manage apps and websites](https://mbasic.facebook.com/privacy/policy/printable/?back_id=link-collection-8&link_dialog=MANAGE_APPS&entry=0)
 
@@ -1326,7 +1326,7 @@ On Facebook, the audience can be made up of:
 *   Yourself
 *   The members of a single community, such as a group
 
-On Instagram, you can set the audience for what you share by choosing between a private or public account. With a [private account](https://lm.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F448523408565555&h=AT2LrtmWkTJeBx2LLj_dTaXp1e08pZA0N6-PfSpckXPSY4n17rSjm-OZfZmFgdTwj6FvERctP_0j6pMO7enEu-8JPDhLmEZM6LkK3iT1LRvMHVqXdEavFF9nRStrBHcMD1C3u-zBFx2iwY3khjCews0l16k), only followers you approve can see what you share. With a public account, your posts and other content on Instagram can be seen by anyone, on or off our Products, including if they don’t have an account. You can restrict the audience for your content by blocking individual accounts from viewing them. You can also create a close friends list for certain types of content that only the people on that list can see.
+On Instagram, you can set the audience for what you share by choosing between a private or public account. With a [private account](https://lm.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F448523408565555&h=AT1habZnsUWpE31o2yCxkwvG8PkCK5dD9O94pHUDNDk-gVaR4djTg4LSy9JSV3yb9AWDXgXHmoxkCh1TXt9C29y7WuGbFa5xxt_RFEUkNdp6hRJtb3bke0DAQIT7rgB-3nZu_RojoO9GqoqhkqT5fqACGO8), only followers you approve can see what you share. With a public account, your posts and other content on Instagram can be seen by anyone, on or off our Products, including if they don’t have an account. You can restrict the audience for your content by blocking individual accounts from viewing them. You can also create a close friends list for certain types of content that only the people on that list can see.
 
 ## Take control
 
@@ -1527,7 +1527,7 @@ Research goals include supporting:
 *   Public interest
 *   Health and well-being
 
-When sharing information with external researchers, we ensure the privacy of our users is protected. [Learn more](https://lm.facebook.com/l.php?u=https%3A%2F%2Ftransparency.fb.com%2Fen-gb%2Fresearchtools%2F&h=AT2ySo_FCWaaUbdVg3YL5t9Zk_FL13OOcrsgjMwTQo5T-FmbaoK701Q91P_oOZidw55uYE7XQ47ZDAreUAIZxQkshwqpfELL025m9iC1Yc42W7nO5y8-mG7gZuccW7HgaPDaS-5cwP8in2jq5RiJ4_RAdhg) about the privacy-safe research we support.
+When sharing information with external researchers, we ensure the privacy of our users is protected. [Learn more](https://lm.facebook.com/l.php?u=https%3A%2F%2Ftransparency.fb.com%2Fen-gb%2Fresearchtools%2F&h=AT1JU-k47Ks1y1EadLCDUXjJnY4DjfaWp1bbmIAz82mrVqHR7GHMXcm2GUUiJxpAQBN_p0rfT7NV4vbvaS_hLCxXD1qlvI8yYLRoPX3Dr73HvAQfseT3zc7zzPlSsHQcbG47et4DECDjpvKRa6jG-RFRUK0) about the privacy-safe research we support.
 
 ## AI integrations
 
@@ -1631,7 +1631,7 @@ If you have an account:
 
 If you don't have an account:
 
-*   You can use the [Digital Advertising Alliance](https://lm.facebook.com/l.php?u=https%3A%2F%2Foptout.aboutads.info%2F%3Fc%3D2&h=AT0g7n2PsD4NQXgefIyHUtx-fgCGqWsCEjwSE7ck-2j40g8en1QWw_SzKDZ4KbhVyoMjOoW95yWT3yZ3_xQYcZkLChaTxyiEnZkPhfZJsSOHeBevgZMmODHiHPEHGMwBsbkWY-J5i1zChXrhZi7X1ye0S7M) industry opt-out platform on your web browser. If you live in Canada, you can use the [Digital Advertising Alliance of Canada](https://lm.facebook.com/l.php?u=https%3A%2F%2Fyouradchoices.ca%2F&h=AT1lm4_Ppe_wWnNgOJKrAX0G9xhSilP8pP0yXh5WsqD7PhoALGSWZfa0Umx-Zzri27wE9_bWwb8sR5Mbtj9AdwiOAZk-Ve2DWL7OnL-zRaPtXs2v94FSPKfxwfDhEjMeWS-IeKLSw0c5VMMOwQsi7D2Vd9k) industry opt-out platform. Certain ad blockers and tools to restrict cookies can interfere with your ability to opt out.
+*   You can use the [Digital Advertising Alliance](https://lm.facebook.com/l.php?u=https%3A%2F%2Foptout.aboutads.info%2F%3Fc%3D2&h=AT1ND_FUu5bP1nEV92NCHe9YvEaYJgDRKBO7dvpYGGi7s_rxxeXJRuZ4ojpmL5JAyuKvawJCFMJvGJeFKdExz3rMkR93Ikft2c_YTyeI8PnAEnSJJLMoTTt12PkFaL4aWRLFJ6CBSrIzhIH7clagU0z4O4k) industry opt-out platform on your web browser. If you live in Canada, you can use the [Digital Advertising Alliance of Canada](https://lm.facebook.com/l.php?u=https%3A%2F%2Fyouradchoices.ca%2F&h=AT1MAnhBQsOP61_kYntqrxRImL5hpD98FZGNTJvS15ovxM_l-5wNQEl7iyqvDoD9WHMzDd48Fbfky0C10-_46ExNzoYThnC__TIM18XN7nGeTvYO1lTr7np9arT4sH03TVSmhYnsdJ_ASPw12xWvgP1MmKM) industry opt-out platform. Certain ad blockers and tools to restrict cookies can interfere with your ability to opt out.
 *   Check your mobile device settings. Device manufacturers provide different ways to opt out.
 
 [Return to top![](https://static.xx.fbcdn.net/rsrc.php/v4/yC/r/si3BXjWAx4Y.png)](#)
@@ -1808,7 +1808,7 @@ Delete your information or account \[64\]
 
 ](#annotation-64)
 
-You can learn more about how privacy works on [Facebook](https://www.facebook.com/privacy/center/) and on [Instagram](https://lm.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F196883487377501%3Fref%3Ddp&h=AT0t6K-oTgeXclQCg3HxYl4ynq1HTUf3AaeUP3iX2559435BdfioRT4F709SttGmAOSI-g89ruIPQ0Nd__adikSGOdbQJvx54Y_y6Tjdq4MTDveGEFwYteCpDl93F3K4VyebNScqb4Cc6R8EiRmfzvalN8g), and in the [Facebook Help Center](https://www.facebook.com/help/). If you have questions about this policy, you can [contact us](https://lm.facebook.com/l.php?u=https%3A%2F%2Fhelp.meta.com%2Fsupport%2Fprivacy&h=AT2pAp6fHWn4-aK8ZTxHX5qCRPCPNt0VYRGIUq6FmCKb4SDh3ldHM-UnOIlWE2CGTHuvB0VHH3Ros7Mzi8QfA7rD8aeCk79bNFtgPKyv-YuCKwqteCGRGJJPu-FTkMhXPfwa2Cb0FPSgkKR1lrENnAWhAzA8kXGAzUWOCl_a) as described below. In some countries, you may also be able to contact the Data Protection Officer for Meta Platforms, Inc., and depending on your jurisdiction, you may also contact your local Data Protection Authority (“DPA”) directly.
+You can learn more about how privacy works on [Facebook](https://www.facebook.com/privacy/center/) and on [Instagram](https://lm.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F196883487377501%3Fref%3Ddp&h=AT2nDGSQAcd8RCghOCsXyBNnFhpj24jMfwktJUqlCwuaQRFdPz-32wYVFyA7mj6bhFO892GaJDWI_fh-zaUeV0ojuGzk2iGeRSMoDTGG5VMw-R2AijimVNz2gYRuV6AZmDvKhI9n4cIxNmVDv6nFTieiNYQ), and in the [Facebook Help Center](https://www.facebook.com/help/). If you have questions about this policy, you can [contact us](https://lm.facebook.com/l.php?u=https%3A%2F%2Fhelp.meta.com%2Fsupport%2Fprivacy&h=AT1XNfn8ATbN3apugefr8UY-6VsQkiUmetk1tbjdIRWV79KdzQqIBgLQClv94D6kKQkc8fFDSOz9s68MXSmiEhv2DZid0SS0v6J9imW9c_gVIHHa9bLzBKmiOO4Bq0muRYOs3_mPrq_CYH2V4iD-48T1bYY) as described below. In some countries, you may also be able to contact the Data Protection Officer for Meta Platforms, Inc., and depending on your jurisdiction, you may also contact your local Data Protection Authority (“DPA”) directly.
 
 62
 
@@ -1826,7 +1826,7 @@ If you have an account:
 
 If you don't have an account:
 
-*   You can use the [Digital Advertising Alliance](https://lm.facebook.com/l.php?u=https%3A%2F%2Foptout.aboutads.info%2F%3Fc%3D2&h=AT3IAUXtIPefetxs_T9Z8JqqipVEjQ0fFjBFT7_bzv0_pCJTnkJTDpl7vLqJtHGzwzICC2ps3owibV5sOJ9YvcgBrAw62R_CAC0cU5Bp04EexYpbXWYbR4KgCqIonBlIdb9LzFCwO1diKJ_I6tRevIOwy7A) industry opt-out platform on your web browser. If you live in Canada, you can use the [Digital Advertising Alliance of Canada](https://lm.facebook.com/l.php?u=https%3A%2F%2Fyouradchoices.ca%2F&h=AT3UQhLzj4BKIDRRPnVu9RL9qGPDTzzTu_agfMBlvPhX7LGDZUgQGrTlKn13g7E1In2htZ5kDl3aPKuNMuYph2oh4zfxj2cOf7Fe5zXRE1aBBPOb6bz9A6R_DQDG1kT7jd1lWH_8N22qTw_jmQJAVe1hdk8) industry opt-out platform. Certain ad blockers and tools to restrict cookies can interfere with your ability to opt out.
+*   You can use the [Digital Advertising Alliance](https://lm.facebook.com/l.php?u=https%3A%2F%2Foptout.aboutads.info%2F%3Fc%3D2&h=AT2gOE9KgO7BiZN-htqpvEk7vRAxRRPb8DSJrOUsfQ3wVfKAOqlTBzxSJ1X4C3SSZI0cc0ohoHOcSJMzKnOeIcyjG7HJdaZLrSfM8oNFljrNRe9WbEHUxZReWQQwkSvcxHloPqgnXYZ5dX7L5y-Nxx6pR-o) industry opt-out platform on your web browser. If you live in Canada, you can use the [Digital Advertising Alliance of Canada](https://lm.facebook.com/l.php?u=https%3A%2F%2Fyouradchoices.ca%2F&h=AT1-KHCTaFxGhBdNEWkfAw64Mmm7YFuGCESFISoIWDa6cDtTfvAp9yDPhhiRpvYutRva_hlA33r-INX54EkPIjcQW1Wt1rPgf5RtTu5KaBsV-fZt-7hniwX64o8mW7ocG_GxJG4nrgk2Dc5GBUPbeooB9XU) industry opt-out platform. Certain ad blockers and tools to restrict cookies can interfere with your ability to opt out.
 *   Check your mobile device settings. Device manufacturers provide different ways to opt out.
 
 63
@@ -1841,8 +1841,8 @@ In certain cases and subject to applicable law, you have the right to [port your
 
 To delete your information, you can:
 
-*   **Find and delete specific information.** We offer tools you can use to delete certain information. For example, you can use Delete buttons to delete content you’ve posted to your account. You can also use tools like [activity log](/privacy/policy/logging/?target=POLICY_PLATFORM_LINK_COLLECTION%3AACTIVITY_LOG&element=privacy_policy_inline_text&containing_element_id=POLICY_ANNOTATION%3A6.ex.2-DeleteYourInformationOr&redirect_uri=https%3A%2F%2Fwww.facebook.com%2F0%2Fallactivity%2F%3Fentry_point%3Dprivacy_center%26should_load_landing_page%3D1) on Facebook to send content to the trash in bulk. When you delete content, it’s no longer visible to other users. Visit the [Facebook Help Center](https://www.facebook.com/help/356107851084108) or [Instagram Help Center](https://lm.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F711062676142607&h=AT2povWUfBvoXflHauhJ0LCQ3jWUqTUaxbC5D1vkUIulSugQXH6_SLIRxMJ29EbdTaE3ycDqXF7JveZ9a5er7XUvJNeCQN1Cdgeh-8WjrHdqIdtUPJSpSd4G2QzxVdzmQ7K8us4opD_ZWwnvfbro0W8LlFc) to learn what happens when you delete your content or move it to [trash](https://www.facebook.com/help/3094200253964092).
-*   **Permanently delete your account.** If you delete your account on [Facebook](https://www.facebook.com/help/224562897555674) or [Instagram](https://lm.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F370452623149242&h=AT1Lp43dxZvdeoGMXhCz7BhbVgqI6ouAuKmfwm7B3BYlKq6mXjg9IIa8RcO2kFwrVR-RfJRD8Q0CA7je2fIhzu58cx-pHWdu_LaxgKHpCR-VaEsuLpC6AlyQkZWsrDaMa7Pj7vdbMz5qzVKOFbUYdI_0Igw), we delete your information, including the things you’ve posted, such as your photos and status updates, unless we need to keep it as described in ["How long do we keep your information?"](#8-HowLongDoWe) Once your account is [permanently deleted](https://www.facebook.com/help/250563911970368/?ref=dp) you won’t be able to reactivate it, and you won’t be able to retrieve information, including content you’ve posted.
+*   **Find and delete specific information.** We offer tools you can use to delete certain information. For example, you can use Delete buttons to delete content you’ve posted to your account. You can also use tools like [activity log](/privacy/policy/logging/?target=POLICY_PLATFORM_LINK_COLLECTION%3AACTIVITY_LOG&element=privacy_policy_inline_text&containing_element_id=POLICY_ANNOTATION%3A6.ex.2-DeleteYourInformationOr&redirect_uri=https%3A%2F%2Fwww.facebook.com%2F0%2Fallactivity%2F%3Fentry_point%3Dprivacy_center%26should_load_landing_page%3D1) on Facebook to send content to the trash in bulk. When you delete content, it’s no longer visible to other users. Visit the [Facebook Help Center](https://www.facebook.com/help/356107851084108) or [Instagram Help Center](https://lm.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F711062676142607&h=AT3y_qpLvIYJh8hloiRd4kfZ700WS-SjR4vb9ze5gDPzdRZ9CStgyehvgKT7Fv_ieRW1OFcsek1e0kROEctbvPd1F6tJXErKQeCIfCVaey7xwYnL3gXGVCWlE7ZPYbvNMG1drVeAuhzTR5XRhuchNsCP06k) to learn what happens when you delete your content or move it to [trash](https://www.facebook.com/help/3094200253964092).
+*   **Permanently delete your account.** If you delete your account on [Facebook](https://www.facebook.com/help/224562897555674) or [Instagram](https://lm.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F370452623149242&h=AT2peibdO8udTXlGt8uoLdzPfLK-de1HmSp9dPOUa2UY7mKC4FNpGOJqdi4NvQ4Qw2H7mG-Wt_bCRDXNKuueoBZnAU_hzHtuKBcR2GkcjByQEdV_WpgII-hYKA9Smg2cIhIw_0pZrELLTKT_T75tgp_0yW8), we delete your information, including the things you’ve posted, such as your photos and status updates, unless we need to keep it as described in ["How long do we keep your information?"](#8-HowLongDoWe) Once your account is [permanently deleted](https://www.facebook.com/help/250563911970368/?ref=dp) you won’t be able to reactivate it, and you won’t be able to retrieve information, including content you’ve posted.
 
 ### How long does it take to delete your information?
 
@@ -1923,8 +1923,8 @@ In some cases, we may preserve your information based on the above reasons even 
 
 To delete your information, you can:
 
-*   **Find and delete specific information.** We offer tools you can use to delete certain information. For example, you can use Delete buttons to delete content you’ve posted to your account. You can also use tools like [activity log](/privacy/policy/logging/?target=POLICY_PLATFORM_LINK_COLLECTION%3AACTIVITY_LOG&element=privacy_policy_inline_text&containing_element_id=POLICY_ANNOTATION%3A6.ex.2-DeleteYourInformationOr&redirect_uri=https%3A%2F%2Fwww.facebook.com%2F0%2Fallactivity%2F%3Fentry_point%3Dprivacy_center%26should_load_landing_page%3D1) on Facebook to send content to the trash in bulk. When you delete content, it’s no longer visible to other users. Visit the [Facebook Help Center](https://www.facebook.com/help/356107851084108) or [Instagram Help Center](https://lm.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F711062676142607&h=AT3anAlLJY-2qcX3E7z3nDfSOLVPTMCPkVSH_k7c-acA0KqCud8twGfps8lNMSwzyhHiEdrd6wwOV9k2EI9IgvM94V0blT3uQeD7GXnciih_4oVrZQSnnn8NERKFAt4zwlsGsVSpsoncqUwWlvjlymTGe1M) to learn what happens when you delete your content or move it to [trash](https://www.facebook.com/help/3094200253964092).
-*   **Permanently delete your account.** If you delete your account on [Facebook](https://www.facebook.com/help/224562897555674) or [Instagram](https://lm.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F370452623149242&h=AT0JzHbnfEjg4aXVrBWi8x6p43JMVyUhdjWueTmiU2hegrL_XcDWk-rst0AAAND1y9Vl92p0y4z5mpmTy1FgGxvZ_2-ZTRbXwL5tpBKOSMCy7JmSYTnmBuunxLadq3DNhDxr_5qE17AMB4Gk6HPYBuzrsyQ), we delete your information, including the things you’ve posted, such as your photos and status updates, unless we need to keep it as described in ["How long do we keep your information?"](#8-HowLongDoWe) Once your account is [permanently deleted](https://www.facebook.com/help/250563911970368/?ref=dp) you won’t be able to reactivate it, and you won’t be able to retrieve information, including content you’ve posted.
+*   **Find and delete specific information.** We offer tools you can use to delete certain information. For example, you can use Delete buttons to delete content you’ve posted to your account. You can also use tools like [activity log](/privacy/policy/logging/?target=POLICY_PLATFORM_LINK_COLLECTION%3AACTIVITY_LOG&element=privacy_policy_inline_text&containing_element_id=POLICY_ANNOTATION%3A6.ex.2-DeleteYourInformationOr&redirect_uri=https%3A%2F%2Fwww.facebook.com%2F0%2Fallactivity%2F%3Fentry_point%3Dprivacy_center%26should_load_landing_page%3D1) on Facebook to send content to the trash in bulk. When you delete content, it’s no longer visible to other users. Visit the [Facebook Help Center](https://www.facebook.com/help/356107851084108) or [Instagram Help Center](https://lm.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F711062676142607&h=AT38ILOy21serEjtKbkuuKgOzRRwVTOfDbW6cGfxO7oK05GJbOWzwRCmSyTWHwO3CRuqYGTiYaYB9P11-ewOHdKpIGrxLEeyXWr24BETO4HTZtcv0zfbyMYJUgbdGaAjWP56IVzMGxf1FO1nK2ePDzr6TX4) to learn what happens when you delete your content or move it to [trash](https://www.facebook.com/help/3094200253964092).
+*   **Permanently delete your account.** If you delete your account on [Facebook](https://www.facebook.com/help/224562897555674) or [Instagram](https://lm.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F370452623149242&h=AT2mXE1kn4PJqJ_n2dDzmpvk6Zt7rXPSZLwS9VOqf7JJlMb3pEWRL_PBAWjhGCi0PDvkfr0BR1PjhpEVha4JTmNiZ3NVkWpXr5ybuV1WZzw_yYShmziJMAPw2-Gm3LJNJmixiqK7dOv4ST_-JKPeDbQTQ34), we delete your information, including the things you’ve posted, such as your photos and status updates, unless we need to keep it as described in ["How long do we keep your information?"](#8-HowLongDoWe) Once your account is [permanently deleted](https://www.facebook.com/help/250563911970368/?ref=dp) you won’t be able to reactivate it, and you won’t be able to retrieve information, including content you’ve posted.
 
 ### How long does it take to delete your information?
 
@@ -2023,7 +2023,7 @@ This Policy describes the information we, Meta Platforms, Inc., process to provi
 We rely on appropriate mechanisms for international data transfers. For example, for [information we collect](#1-WhatInformationDoWe):
 
 *   We utilize [standard contractual clauses](https://www.facebook.com/help/566994660333381?ref=dp) approved by the European Commission and by other relevant authorities.
-*   We rely on determinations from the European Commission, and from other relevant authorities, about whether other countries have [adequate levels of data protection.](https://lm.facebook.com/l.php?u=https%3A%2F%2Fec.europa.eu%2Finfo%2Flaw%2Flaw-topic%2Fdata-protection%2Finternational-dimension-data-protection%2Fadequacy-decisions_en&h=AT02mGLR-wjSNhMmesSkx-oLs3WhJpTARpY4ESl_C0IGJ43dxBsHuf8UHv9bpLdPK5y3H4GeJ9o0WrcF9zG38TClC8QPN36yvABN-VmjcLn1phIVRlJlCOcl3FlwqqcSWQ2FzyEKKskYEfv4BUOpkT7rWJs)
+*   We rely on determinations from the European Commission, and from other relevant authorities, about whether other countries have [adequate levels of data protection.](https://lm.facebook.com/l.php?u=https%3A%2F%2Fec.europa.eu%2Finfo%2Flaw%2Flaw-topic%2Fdata-protection%2Finternational-dimension-data-protection%2Fadequacy-decisions_en&h=AT2tPH9Ywb24YzDLmjo1LyQjdQvEVy-aMc8sDryKy1kt7LKXTrJg72hFjwH5jYxP7yWKdJUG1DSXUBRA7nPEXWsCCor8gTPJ1VmKR8aVX1wUI_7a6BDsEsLC4UMBvvVXfH2gmutSVBg14PR5nTTJ-TMRnRk)
 *   We use equivalent mechanisms under applicable laws that apply to data transfers to the United States and other relevant countries.
 
 [Return to top![](https://static.xx.fbcdn.net/rsrc.php/v4/yC/r/si3BXjWAx4Y.png)](#)
@@ -2057,9 +2057,9 @@ A person, business, organization or body that is not part of the Meta Companies
 We respond to legal requests where we’re required by law to do so, and at times where we're not compelled by law, but a response:
 
 *   May affect users in that jurisdiction, and
-*   Is consistent with internationally recognized standards including, for example, our [Corporate Human Rights Policy](https://lm.facebook.com/l.php?u=https%3A%2F%2Fabout.fb.com%2Fwp-content%2Fuploads%2F2021%2F04%2FFacebooks-Corporate-Human-Rights-Policy.pdf&h=AT2Difc9vRreo1668x88_kOhW5Juqdi5q49zsgMDKFnXR2QlbP7eTrK5vvr_Thj6-Kwx8x4SEjDprB45LPVLV6yoqTTJ7tMhrciJb4n5XFKzriRam057mH4eqcqGQBBGiomYUhLDFrjz_H91z-5SdEw5APM).
+*   Is consistent with internationally recognized standards including, for example, our [Corporate Human Rights Policy](https://lm.facebook.com/l.php?u=https%3A%2F%2Fabout.fb.com%2Fwp-content%2Fuploads%2F2021%2F04%2FFacebooks-Corporate-Human-Rights-Policy.pdf&h=AT2TvcAcTPJ57Nn4ohQ8yTFIWDuOj6QRuMfLF4K3M2CVAIk3yXhgIdwUUyArIKAedO09hUNkXYwft5P-Wq9wrEUX4UUFE1eaGDEqb4R9mXN87QmUHI5llq0eR70oPkwxUCDW0H7Peiq5tvG-3ZeDYndjoos).
 
-Learn more about [government requests](https://lm.facebook.com/l.php?u=https%3A%2F%2Ftransparency.fb.com%2Fdata%2Fgovernment-data-requests%2Ffurther-asked-questions&h=AT37_ODUpEhb2kMU9iKJqIRJ4cDqao1X_ob-V6fCtQ8F0S6ZGg24aJMp8xoMz-0ZMTTu_2VeSfgirLybMjFwBPuIN31qy2kpblriYnBfNUdz89FukCzI2xKK7c5zWqvDUYYfEO9s3X6icfunJM7n2LtWe80) and [how we’ve responded.](https://lm.facebook.com/l.php?u=https%3A%2F%2Ftransparency.fb.com%2Fdata%2Fgovernment-data-requests&h=AT3Lise7JpIQl6tbbEbD7GwP9kUlDHiYrmfNYrAhanImsgVOmc_353h7BPuxMRNEIbU8InD3xn4pmb1ojcXUm45HdlIqj_la2tDiTnS_LfG9LAXpRGqWicCRWnMcfj6SM92M_EB6QlYF8JiKq2zjtsdOE3U)
+Learn more about [government requests](https://lm.facebook.com/l.php?u=https%3A%2F%2Ftransparency.fb.com%2Fdata%2Fgovernment-data-requests%2Ffurther-asked-questions&h=AT0Yp8E2RQDgYaNpynmE5LxjvMzvuFELTNmL5kSy_m-MP6QiGxTKJZFA-h-u5ebOo3lkgY8LVNvMrFMycpwI6eEPXI9CbvG8APGXZT0jzuDvWoUl2jihId8iRrSLCsv26gxODE6eFUXvqCTPMj6Wc_mkKOQ) and [how we’ve responded.](https://lm.facebook.com/l.php?u=https%3A%2F%2Ftransparency.fb.com%2Fdata%2Fgovernment-data-requests&h=AT1IOQawgF6YULLVrXhgiWaghz5nvUF4JR_u2HJjeMK8MLQ4qIks1-I_eiaK_bC8r6myou4T1htDhR671ybVVZo0HByJ7NsreBb0UPNaKfIVj-6_9rDIFoqYj9R04_tFWrO7oaqMYO4gW6rYIDgDzcpmr-c)
 
 79
 
@@ -2151,9 +2151,9 @@ You can learn more about the consumer privacy rights that may be available to yo
 
 # How to contact Meta with questions
 
-You can learn more about how privacy works on [Facebook](https://www.facebook.com/help/238318146535333) and on [Instagram](https://lm.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F196883487377501%3Fref%3Ddp&h=AT3zZOn0m1tNIRwxG-LADPdyXOxsKEH_KI3rLyU3DY-BJ5MFq1Zh_AkV5RskwMiLgv47d7otSzjU_oecyiLH8Jk1vpDhkZRJPhE4t5fVlQxCFDPcn1z2K_k-EFvcydo8BSteejoXR01MEB2eLLShaB6Yrng) and in the [Facebook Help Center](https://www.facebook.com/help/). If you have questions about this Policy or have questions, complaints or requests regarding your information, you can contact us as described below.
+You can learn more about how privacy works on [Facebook](https://www.facebook.com/help/238318146535333) and on [Instagram](https://lm.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F196883487377501%3Fref%3Ddp&h=AT0TRodxADcXhS9Xe1GFAa3SbC-GqAgNZTXdCnd11ZvaZoclu7lvpbLc5qpkr4OcDLxVVBwRl5d7IA35djOaDsisE8ya5fFMWH3TQs-H7LlXy71P409h6lP7AyA6RtFiutxZszR0DpsaJDLwK1v7glX_6rw) and in the [Facebook Help Center](https://www.facebook.com/help/). If you have questions about this Policy or have questions, complaints or requests regarding your information, you can contact us as described below.
 
-You can contact us [online](https://lm.facebook.com/l.php?u=https%3A%2F%2Fhelp.meta.com%2Fsupport%2Fprivacy&h=AT0FaUv_bnuERKtLlYPKvhjogkx2m_bumMGdrJbt0cL8HshsSYNw4VCy4XiV1NCs2nhAiHnPNaXz2vG4sbrpcWKGHZNv-Ynh6JWTBE9LvvbK6xSsZSgSFWh3XbJIlwQcEgs-5Ed5_JdbpJxrRlf4yuiCpew) or by mail at:
+You can contact us [online](https://lm.facebook.com/l.php?u=https%3A%2F%2Fhelp.meta.com%2Fsupport%2Fprivacy&h=AT3KALyW9kKVevcLV2WXqTV1fcZrQ4_IIPBJMxep9TKjZ8wut_4TpOsSz1IfFbkPaLNDTqqpqJdkBPwKReADMTjNoM5DYG88apyI9eoIpypTMmxTlbWHISRluN0IOfPCPcH-bc92Qjy28UFe6UcAoPzGH6E) or by mail at:
 
 Meta Platforms, Inc.
 
@@ -2175,7 +2175,7 @@ The categories of information we use, and why and how information is processed, 
 
 Personalizing the [Meta Products\[85\]](#annotation-85) (other than ads, see below): Our systems automatically process information we collect and store associated with you and others to assess and understand your interests and your preferences and provide you personalized experiences across the Meta Products in accordance with our terms. This is how we:
 
-*   Personalize features and content (such as your [Facebook Feed](https://www.facebook.com/help/166738576721085?ref=dp), [Instagram Feed](https://lm.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F1986234648360433&h=AT2u4cYwqdEvJ580k69J28iE4-wbCHbeKBq5WnXfMQjH6nlffqt2ysRTYTcVthFGnSoUroFmlyKJjthP2EuCkz3nYED9GB-a-VfqUlfv3uAhYdhy4Yo6TomYkYjSvlYj5QV_fy6JO3bgZEu8UEo0xXySJHM) and Stories);
+*   Personalize features and content (such as your [Facebook Feed](https://www.facebook.com/help/166738576721085?ref=dp), [Instagram Feed](https://lm.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F1986234648360433&h=AT1WK1fum4QLxnOgqNeAe-JSJsPHMBXTPBwZSo4MOpQ4h_oQu30jqI89m7xYfUhzyd0NAxxZYgbGMVaf1789hBtAPBEfj2wAwSfv6iJKY39UI8TeW-chsHpKUmKPDOvS3l0Y2QifbUeKQoxge0Aw-OAuu5E) and Stories);
 *   Make suggestions for you (such as people you may know, groups or events that you may be interested in or topics that you may want to follow) on and off our products.
 
 [Learn more](https://www.facebook.com/help/119468292028768) about how we use information about you to personalize your experience on and across Meta Products and how we choose the ads that you see.
@@ -2228,7 +2228,7 @@ If you decide to add a WhatsApp account to an Accounts Center with other account
 
 *   To associate your accounts on Meta Company Products with your WhatsApp account in the same Accounts Center and share your information with WhatsApp.
 
-Note: the list below is about information from Meta. For information that WhatsApp shares with Meta see the [WhatsApp Help Center article](https://lm.facebook.com/l.php?u=https%3A%2F%2Ffaq.whatsapp.com%2F1303762270462331&h=AT2vVSW_1iWKQoriGlswIfCikOMhFvAfD020fEFOWigkmm-0WLh8M9jkERFL_cOCXuQmkEBedCUEiffZ7GsPsWpGYrpowzkqfIIvC9jYBHVxrJh66pB8q4x3ButF4UsWmxcmZ8pTakwVE_lXWLqBu_N93pw).
+Note: the list below is about information from Meta. For information that WhatsApp shares with Meta see the [WhatsApp Help Center article](https://lm.facebook.com/l.php?u=https%3A%2F%2Ffaq.whatsapp.com%2F1303762270462331&h=AT0bIoeS5nSbGj78g1IgtbN-QDX0VC3SMsCul-1Jc3cQmCFGzMCLHwkPQ0WV6gF_5ficJ6emdz6KBb_tEID7vqm7aIwRkzHb9surZazJt-jfwh6J8gcGLJQpEYxOgbMUg4fU_6tGbZgvkUWYxPeMAbn4dxg).
 
 [Your activity and information you provide](#1.subpage.1-YourActivityAndInformation)
 
@@ -2297,7 +2297,7 @@ Promoting safety, integrity and security on and across the Meta Products: The Me
 *   Detect and stop threats to our personnel and property, and
 *   Maintain the integrity of our Products.
 
-For more information on safety, integrity and security generally on Meta Products, visit the [Facebook Security Help Center](https://www.facebook.com/help/379220725465972) and [Instagram Security Tips](https://lm.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F369001149843369&h=AT01MIU7uyY4_zlIXT9whkL5WamYzdN_aar5R21B1wX_EKPHnrQCGrJkJADaRNgpWO6nym6O7NKiAiLbxJHAklFXmXtcX_cSPi4VH8XEhJvtnZjY_4VXkeT9XfQaXrewq7rO-jBOjFyeGl1jPWIqR405C6w).
+For more information on safety, integrity and security generally on Meta Products, visit the [Facebook Security Help Center](https://www.facebook.com/help/379220725465972) and [Instagram Security Tips](https://lm.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F369001149843369&h=AT1DynhyU3H-K25VUeUq9Jbv1NdhM5t90UMG5-XpbIKiUNlBcC2JjXAcSwntU72XmwiHiC9Wvg68biE3-mdvdjOX7AopQLyA731arVEoU8WBNwJRzZ4-f3uHkwY_7tfrQttDXawRQ6LeJTWC0vrrsA7EBWc).
 
 [Your activity and information you provide:](#1.subpage.1-YourActivityAndInformation):
 
@@ -2545,7 +2545,7 @@ Research and innovate for social good:
 *   We collect, store, combine, analyze and apply automatic processing techniques like aggregation of information as well as manual (human) review, and share information, as necessary to research and innovate for social good in this way.
 *   We support research in areas like artificial intelligence and machine learning.
 
-[Learn more](https://lm.facebook.com/l.php?u=https%3A%2F%2Fresearch.fb.com%2F&h=AT1sKoQI4rT1VCI0nQEGM1rEJo34uBEV4KRRwJhqWUVMf1pinb5lYplX6UYXWz4xckzmkVszNSqHgj_cvbNhUoZ_qYODg0DOOx9xFYWvE1VzhZHSjKCLRrs7KbA2I2Mj9lED81Ye-M7toR4v2Vf4LGiuwhA) about our research programs.
+[Learn more](https://lm.facebook.com/l.php?u=https%3A%2F%2Fresearch.fb.com%2F&h=AT2tC5ZYE-nUzjW9PvDJTW2uZ6Zu5n9EEgoT-ykJ96AnUoZ4s2635RrpEZwrJ8Mb2IvvzfffC_kSDoEezR34pZKIkR0qwmf9V900VSZ4boBxTjMkUyzm-ldJPENnGFQOnGAydkjfk-m1bf6BatMTGnecQh0) about our research programs.
 
 [Your activity and information you provide](#1.subpage.1-YourActivityAndInformation):
 

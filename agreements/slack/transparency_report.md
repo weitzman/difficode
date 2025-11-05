@@ -1,8 +1,62 @@
-# Content from: https://slack.com/transparency-report
+# Content from: https://slack.com/trust/data-request/transparency-report
 
-Selector used: .legal-content
+Selector used: #main
 
 ---
+
+# Transparency Report
+
+## Trust navigation
+
+Additional Policies PagesClose Legal Navigation
+
+### Getting started
+
+*   [Overview](https://slack.com/trust)
+
+### Privacy
+
+Privacy
+
+*   [Slack Privacy Policy](https://slack.com/trust/privacy/privacy-policy)
+*   [Privacy FAQ](https://slack.com/trust/privacy/privacy-faq)
+
+### Data Requests
+
+Data Requests
+
+*   [Data Request Overview](https://slack.com/trust/data-requests)
+*   [Data Request Policy](https://slack.com/trust/data-request/user-data-request-policy)
+*   [Transparency Report](https://www.salesforce.com/privacy/resources/#transparency)
+
+### Compliance
+
+Compliance
+
+*   [Cookie Policy](https://slack.com/trust/compliance/cookie-policy)
+*   [Slack's GDPR Commitment](https://slack.com/trust/compliance/gdpr)
+*   [California Consumer Privacy Act (CCPA) FAQ](https://slack.com/trust/compliance/ccpa-faq)
+*   [CCPA Metric Disclosure](https://slack.com/trust/compliance/ccpa-metric-disclosure)
+*   [FERPA Compliance](https://slack.com/ferpa-compliance)
+
+### Security
+
+Security
+
+*   [Overview](https://slack.com/security)
+
+### Data Management
+
+Data Management
+
+*   [Transparency and Control](https://slack.com/trust/data-management)
+*   [Privacy principles: Search, Learning, and Intelligence](https://slack.com/trust/data-management/privacy-principles)
+
+### Legal
+
+Data Management
+
+*   [Legal Overview](https://slack.com/legal)
 
 **To see the most recent report, [please click here](https://www.salesforce.com/privacy/resources/#transparency).**
 

@@ -1,5 +1,5 @@
 {
-  "url": "https://slack.com/transparency-report",
-  "selector": ".legal-content",
+  "url": "https://slack.com/trust/data-request/transparency-report",
+  "selector": "#main",
   "enabled": 1
 }

@@ -1,5 +1,5 @@
 {
-  "url": "https://slack.com/gdpr",
-  "selector": ".legal-content",
+  "url": "https://slack.com/trust/compliance/gdpr",
+  "selector": "#main",
   "enabled": 1
 }

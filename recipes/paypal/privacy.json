@@ -1,5 +1,5 @@
 {
-  "url":"https://www.paypal.com/webapps/mpp/ua/privacy-full",
-  "selector":".center-block",
+  "url":"https://www.paypal.com/us/legalhub/paypal/privacy-full",
+  "selector":"#content-wrapper",
   "enabled":1
 }

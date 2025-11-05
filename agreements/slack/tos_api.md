@@ -1,8 +1,60 @@
 # Content from: https://slack.com/terms-of-service/api
 
-Selector used: .legal-content
+Selector used: #main
 
 ---
+
+# Slack API Terms of Service
+
+## Legal navigation
+
+Additional Terms PagesClose Legal Navigation
+
+### Getting started
+
+*   [Overview](https://slack.com/policies)
+
+### Terms
+
+Terms
+
+*   [Main Services Agreement](https://slack.com/main-services-agreement)
+*   [User Terms of Service](https://slack.com/terms-of-service/user)
+*   [Slack Supplemental Terms](/slack-supplemental-terms)
+*   [API Terms of Service](https://slack.com/terms-of-service/api)
+*   [Slack Marketplace Agreement](https://slack.com/terms-of-service/slack-marketplace)
+*   [Slack Partner Program Terms & Conditions](https://slack.com/terms-of-service/partners)
+*   [Slack Developer Program Agreement](https://slack.com/terms-of-service/slack-developer-program)
+*   [Slack Brand Terms of Service](https://slack.com/terms-of-service/slack-brand)
+
+### Policies
+
+Policies
+
+*   [Acceptable Use Policy](https://slack.com/acceptable-use-policy)
+*   [Slack Subprocessors](/slack-subprocessors)
+*   [Slack Affiliates](https://slack.com/affiliates)
+*   [DMCA Policy](https://www.salesforce.com/company/legal/intellectual/)
+*   [Multi-year Accessibility Plan](https://slack.com/accessibility-plan)
+
+### Security
+
+Security
+
+*   [Security Practices](https://slack.com/security-practices)
+*   [Report a Vulnerability](https://slack.com/report-vulnerability)
+
+### Slack Community
+
+Slack Community
+
+*   [Slack Community Forum Terms of Service](https://slack.com/terms-of-service/community)
+
+### Archives
+
+Archives
+
+*   [Terms & Policy Archives](https://slack.com/policy-archives)
 
 **Effective: October 10, 2025**
 

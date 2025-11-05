@@ -1,5 +1,6 @@
 {
   "url":"https://www.lyft.com/terms",
-  "selector":"article",
-  "enabled":"1"
+  "selector":"#main-container",
+  "enabled":"0",
+  "reason": "403 error"
 }

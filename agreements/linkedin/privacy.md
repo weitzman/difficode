@@ -1,48 +1,8 @@
 # Content from: https://www.linkedin.com/legal/privacy-policy
 
-Selector used: div#main
+Selector used: main
 
 ---
-
-[Skip to main content](#lithograph-app)
-
- ![LinkedIn Logo](https://static.licdn.com/aero-v1/sc/h/6zm111mce7vohqze950ilreo4) ![LinkedIn Logo](https://static.licdn.com/aero-v1/sc/h/5g0hjlcng3j5pgn50n2et1ca2)
-
-Open navigation Close navigation
-
-*   [User Agreement](https://linkedin.com/legal/user-agreement)
-    
-    *   [Summary of User Agreement](https://linkedin.com/legal/user-agreement-summary)
-        
-    
-*   [Privacy Policy](https://linkedin.com/legal/privacy-policy)
-    
-*   [Professional Community Policies](https://linkedin.com/legal/professional-community-policies)
-    
-*   [Cookie Policy](https://linkedin.com/legal/cookie-policy)
-    
-*   [Copyright Policy](https://linkedin.com/legal/copyright-policy)
-    
-*   [Regional Info](https://privacy.linkedin.com/regionalinfo)
-    
-    *   [EU Notice](https://linkedin.com/legal/privacy/eu)
-        
-    *   [California Privacy Disclosure](https://linkedin.com/legal/california-privacy-disclosure)
-        
-    *   [U.S. State Privacy Laws](https://www.linkedin.com/legal/privacy/usa)
-        
-    
-
-*   [User Agreement](https://linkedin.com/legal/user-agreement)
-    *   [Summary of User Agreement](https://linkedin.com/legal/user-agreement-summary)
-*   [Privacy Policy](https://linkedin.com/legal/privacy-policy)
-*   [Professional Community Policies](https://linkedin.com/legal/professional-community-policies)
-*   [Cookie Policy](https://linkedin.com/legal/cookie-policy)
-*   [Copyright Policy](https://linkedin.com/legal/copyright-policy)
-*   [Regional Info](https://privacy.linkedin.com/regionalinfo)
-    *   [EU Notice](https://linkedin.com/legal/privacy/eu)
-    *   [California Privacy Disclosure](https://linkedin.com/legal/california-privacy-disclosure)
-    *   [U.S. State Privacy Laws](https://www.linkedin.com/legal/privacy/usa)
 
 ![](https://media.licdn.com/dms/image/v2/C4D08AQFXY7ga83Bafw/croft-frontend-shrinkToFit1024/croft-frontend-shrinkToFit1024/0/1598658592736?e=2147483647&v=beta&t=67ATyf8-3XnHufZtjTwE3_A6AzXU_zgz6GULBKHLBCQ) 
 
@@ -465,54 +425,4 @@ Key Terms
     
     #### Consent
     
-    Where we process data based on consent, we will ask for your explicit consent. You may withdraw your consent at any time, but that will not affect the lawfulness of the processing of your personal data prior to such withdrawal. Where we rely on contract, we will ask that you agree to the processing of personal data that is necessary for entering into or performance of your contract with us. We will rely on legitimate interests as a basis for data processing where the processing of your data is not overridden by your interests or fundamental rights and freedoms. 
-    
-
-*   LinkedIn © 2025
-*   [About](https://about.linkedin.com?trk=content_footer-about)
-*   [Accessibility](https://www.linkedin.com/accessibility?trk=content_footer-accessibility)
-*   [User Agreement](https://www.linkedin.com/legal/user-agreement?trk=content_footer-user-agreement)
-*   [Privacy Policy](https://www.linkedin.com/legal/privacy-policy?trk=content_footer-privacy-policy)
-*   [Cookie Policy](https://www.linkedin.com/legal/cookie-policy?trk=content_footer-cookie-policy)
-*   [Copyright Policy](https://www.linkedin.com/legal/copyright-policy?trk=content_footer-copyright-policy)
-*   [Brand Policy](https://brand.linkedin.com/policies?trk=content_footer-brand-policy)
-*   [Guest Controls](https://www.linkedin.com/psettings/guest-controls?trk=content_footer-guest-controls)
-*   [Community Guidelines](https://www.linkedin.com/help/linkedin/answer/34593?trk=content_footer-community-guide)
-*   *   العربية (Arabic)
-    *   বাংলা (Bangla)
-    *   Čeština (Czech)
-    *   Dansk (Danish)
-    *   Deutsch (German)
-    *   Ελληνικά (Greek)
-    *   **English (English)**
-    *   Español (Spanish)
-    *   فارسی (Persian)
-    *   Suomi (Finnish)
-    *   Français (French)
-    *   हिंदी (Hindi)
-    *   Magyar (Hungarian)
-    *   Bahasa Indonesia (Indonesian)
-    *   Italiano (Italian)
-    *   עברית (Hebrew)
-    *   日本語 (Japanese)
-    *   한국어 (Korean)
-    *   मराठी (Marathi)
-    *   Bahasa Malaysia (Malay)
-    *   Nederlands (Dutch)
-    *   Norsk (Norwegian)
-    *   ਪੰਜਾਬੀ (Punjabi)
-    *   Polski (Polish)
-    *   Português (Portuguese)
-    *   Română (Romanian)
-    *   Русский (Russian)
-    *   Svenska (Swedish)
-    *   తెలుగు (Telugu)
-    *   ภาษาไทย (Thai)
-    *   Tagalog (Tagalog)
-    *   Türkçe (Turkish)
-    *   Українська (Ukrainian)
-    *   Tiếng Việt (Vietnamese)
-    *   简体中文 (Chinese (Simplified))
-    *   正體中文 (Chinese (Traditional))
-    
-    Language
+    Where we process data based on consent, we will ask for your explicit consent. You may withdraw your consent at any time, but that will not affect the lawfulness of the processing of your personal data prior to such withdrawal. Where we rely on contract, we will ask that you agree to the processing of personal data that is necessary for entering into or performance of your contract with us. We will rely on legitimate interests as a basis for data processing where the processing of your data is not overridden by your interests or fundamental rights and freedoms.

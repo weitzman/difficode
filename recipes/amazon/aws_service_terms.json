@@ -1,0 +1,5 @@
+{
+  "url": "https://aws.amazon.com/service-terms/",
+  "selector": "#aws-service-terms",
+  "enabled": 1
+}

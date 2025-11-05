@@ -1,57 +1,8 @@
-# Content from: https://www.paypal.com/webapps/mpp/ua/useragreement-full
+# Content from: https://www.paypal.com/us/legalhub/paypal/useragreement-full
 
-Selector used: #main
+Selector used: #content-wrapper
 
 ---
-
-Menu
-
-[Back To Home Page](/us/legalhub/home?country.x=US&locale.x=en_US)
-
-*   [About Your Account](#top)
-    *   [Opening a PayPal Account](#opening-account)
-    *   [Closing Your PayPal Account](#closing-account)
-    *   [Link or Unlink a Payment Method](#linking-funding)
-    *   [Authorization to Charge Your Payment Method](#authorization-charge)
-    *   [Receiving Funds, Holding a Balance, or Transferring Funds](#holding-balance)
-    *   [Managing Your Money in Multiple Currencies](#currency-conversion)
-    *   [Taxes and Information Reporting](#taxes-info-reporting)
-    *   [Account Statements](#account-statements)
-*   [Sending Money and Buying](#sending-money)
-    *   [Sending Money to a Friend or Family Member](#sending-money)
-    *   [Fees for Sending Money to Friends and Family](#fees-for-sending-money)
-    *   [Buying Something From, Donating to, or Returning Something to, a Seller Who Accepts PayPal](#buying)
-    *   [Payment Method Used for My Transaction](#payment-methods)
-    *   [Loyalty Cards](#loyalty-cards)
-    *   [PayPal Rewards Program](#reward-program)
-    *   [PayPal’s Purchase Protection Program](#purchase-protection)
-*   [Selling and Accepting Payments](#accepting-payments)
-    *   [Accepting Payments](#accepting-payment)
-    *   [Transaction Fees for Online and In-Store Payments](#transaction-fees)
-    *   [Refunds, Reversals and Chargebacks](#refunds-reversals-chargebacks)
-    *   [PayPal’s Seller Protection Program](#seller-protection)
-    *   [PayPal Advertising Program](#advertising-program)
-*   [Restricted Activities, Holds, and Other Actions We May Take](#restricted-activities)
-    *   [Restricted Activities](#s4-restricted-activities)
-    *   [Actions We May Take if You Engage in Any Restricted Activities](#actions)
-    *   [Holds, Limitations, and Reserves](#holds-limitations)
-    *   [Court Orders, Regulatory Requirements, or Other Legal Processes](#court-orders)
-*   [Liability for Unauthorized Transactions and Other Errors](#unauthorized-transactions)
-    *   [Protection from Unauthorized Transactions](#s5-unauthorized-transactions)
-    *   [Error Resolution](#error-resolution)
-    *   [Processing Errors](#processing-errors)
-    *   [Returning Unauthorized or Excess Business Account Debits](#return-unauth-biz-acc-debits)
-    *   [Remittance Transfer Errors](#remittance-errors)
-*   [Other Legal Terms](#other)
-    *   [Communications Between You and Us](#communications)
-    *   [PayPal’s Rights](#paypals-rights)
-    *   [Indemnification and Limitation of Liability](#indemnification)
-    *   [Disclaimer of Warranty and Release](#disclaimer-warranty)
-    *   [Agreement to Arbitrate](#agreement-arbitrate)
-    *   [Intellectual Property](#intellectual-property)
-    *   [Miscellaneous](#miscellaneous)
-
-Download Printable PDF
 
 # PAYPAL USER AGREEMENT
 
@@ -1269,5 +1220,3 @@ Any personal data provided to you by PayPal in connection with the PayPal servic
 *   [Licenses](/us/webapps/mpp/licenses)
 
 PayPal is located at 2211 N 1st St. San Jose, CA 95131
-
-(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.nonce='BV1uhMwfJp6lL4ZCyXR3dNfjUFXjTT66A7a0rfjSR/PJhfJG';d.innerHTML="window.\_\_CF$cv$params={r:'999f28619b9eda66',t:'MTc2MjM3NTEzOC4wMDAwMDA='};var a=document.createElement('script');a.nonce='BV1uhMwfJp6lL4ZCyXR3dNfjUFXjTT66A7a0rfjSR/PJhfJG';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')\[0\].appendChild(a);";b.getElementsByTagName('head')\[0\].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();

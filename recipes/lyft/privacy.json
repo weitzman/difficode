@@ -1,6 +1,5 @@
 {
   "url":"https://www.lyft.com/privacy",
-  "selector":"article",
-  "enabled":0,
-  "reason": "Javascript required"
+  "selector":"#privacy",
+  "enabled":1
 }

@@ -1,30 +1,8 @@
-# Content from: https://www.paypal.com/webapps/mpp/ua/privacy-full
+# Content from: https://www.paypal.com/us/legalhub/paypal/privacy-full
 
-Selector used: .center-block
+Selector used: #content-wrapper
 
 ---
-
-Menu
-
-[Back To Home Page](/us/legalhub/home?country.x=US&locale.x=en_US)
-
-*   [PayPal Privacy Statement](#paypal_privacy_statement)
-    *   [Overview](#1)
-    *   [Non-Account Holders and Fastlane Profile Users](#2)
-    *   [Categories of Personal Information We Collect](#3)
-    *   [How is Personal Information used?](#4)
-    *   [Do We Disclose Personal Information, and why?](#5)
-    *   [How long does PayPal store your Personal Information?](#6)
-    *   [How Do We Use Cookies and Tracking Technologies?](#7)
-    *   [Your Data Protection Rights](#8)
-    *   [How Do We Protect Your Personal Information?](#9)
-    *   [Can Children Use Our Services?](#10)
-    *   [Definitions](#11)
-    *   [Our Contact Information](#12)
-    *   [CCPA California Notice at Collection](#13)
-    *   [US Consumer Privacy Notice](#14)
-
-Download Printable PDF
 
 # PayPal Privacy Statement
 
@@ -773,5 +751,3 @@ Nevada: If your PayPal or Xoom account or Fastlane profile has a Nevada mailing
 *   [Licenses](/us/webapps/mpp/licenses)
 
 PayPal is located at 2211 N 1st St. San Jose, CA 95131
-
-(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.nonce='RzYRpJZZxKbnKAcHNyK7TD9aCXzpbVR4SXq1Dx0rcHf0d61O';d.innerHTML="window.\_\_CF$cv$params={r:'999f2839cbfd8fb1',t:'MTc2MjM3NTEzMS4wMDAwMDA='};var a=document.createElement('script');a.nonce='RzYRpJZZxKbnKAcHNyK7TD9aCXzpbVR4SXq1Dx0rcHf0d61O';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')\[0\].appendChild(a);";b.getElementsByTagName('head')\[0\].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();

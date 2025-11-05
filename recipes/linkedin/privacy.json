@@ -1,6 +1,8 @@
 {
   "url":"https://www.linkedin.com/legal/privacy-policy",
-  "selector":"div#main",
+  "selector":"main",
   "enabled":1,
-  "reason": "Javascript required"
+  "rules": [
+    {"name": "remove-footer", "filter": "footer", "replacement": ""}
+  ]
 }
