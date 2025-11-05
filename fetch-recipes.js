@@ -96,17 +96,37 @@ class RecipeFetcher {
 
     /**
      * Clean output directory or subdirectory
+     * Preserves .git directory when cleaning the main output directory
      */
     cleanOutput(targetDir = null) {
         const cleanDir = targetDir || this.outputDir;
         
-        if (fs.existsSync(cleanDir)) {
-            console.log(`🧹 Cleaning directory: ${cleanDir}`);
-            fs.rmSync(cleanDir, { recursive: true, force: true });
-            console.log(`✅ Cleaned: ${cleanDir}\n`);
-        } else {
+        if (!fs.existsSync(cleanDir)) {
             console.log(`📁 Directory doesn't exist: ${cleanDir}\n`);
+            return;
         }
+
+        console.log(`🧹 Cleaning directory: ${cleanDir}`);
+
+        // If cleaning the main output directory, preserve .git submodule
+        if (cleanDir === this.outputDir && fs.existsSync(path.join(cleanDir, '.git'))) {
+            // Clean only subdirectories, preserve .git
+            const items = fs.readdirSync(cleanDir);
+            for (const item of items) {
+                if (item !== '.git') {
+                    const itemPath = path.join(cleanDir, item);
+                    if (fs.statSync(itemPath).isDirectory()) {
+                        fs.rmSync(itemPath, { recursive: true, force: true });
+                        console.log(`🗑️  Removed: ${itemPath}`);
+                    }
+                }
+            }
+        } else {
+            // Safe to remove entire directory (subdirectory or non-git output)
+            fs.rmSync(cleanDir, { recursive: true, force: true });
+        }
+        
+        console.log(`✅ Cleaned: ${cleanDir}\n`);
     }
 
     /**
@@ -229,9 +249,14 @@ class RecipeFetcher {
             return false;
         }
 
-        if (!recipe.url || !recipe.selector) {
-            console.log('Missing required fields (url, selector), skipping\n');
+        if (!recipe.url) {
+            console.log('Missing required field (url), skipping\n');
             return false;
+        }
+
+        // Set default selector if not provided
+        if (!recipe.selector) {
+            recipe.selector = 'body';
         }
 
         return true;

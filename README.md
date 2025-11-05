@@ -21,7 +21,7 @@ Recipes are JSON files that define how to extract content from web pages:
 ### Recipe Fields
 
 - **url** (required): The URL to fetch content from
-- **selector** (required): CSS selector for the main content area
+- **selector** (optional): CSS selector for the main content area (defaults to `body`)
 - **enabled** (required): 1 to enable, 0 to disable this recipe
 - **rules** (optional): Array of turndown.js rules for removing unwanted elements
 
@@ -84,9 +84,11 @@ node fetch-recipes.js --recipes recipes/uber/privacy.json --clean
 
 The `--clean` option intelligently determines what to clean based on the recipes specified:
 
-- `node fetch-recipes.js --clean` → Cleans entire `./output/` directory
+- `node fetch-recipes.js --clean` → Cleans entire `./output/` directory (preserves `.git` submodule)
 - `node fetch-recipes.js --recipes recipes/uber/ --clean` → Cleans `./output/uber/` directory
 - `node fetch-recipes.js --recipes recipes/uber/privacy.json --clean` → Cleans `./output/uber/` directory
+
+**Important**: When cleaning the main output directory, the `.git` directory is preserved since the output directory is a git submodule. Only company subdirectories are removed.
 
 ## Output
 
@@ -101,6 +103,14 @@ For each recipe, the tool generates:
 {
   "url": "https://example.com/terms",
   "selector": ".content",
+  "enabled": 1
+}
+```
+
+### Minimal Recipe (uses default body selector)
+```json
+{
+  "url": "https://example.com/terms",
   "enabled": 1
 }
 ```

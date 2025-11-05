@@ -1,27 +1,6 @@
 {
   "url":"https://help.instagram.com/581066165581870/",
-  "selector":"[role='main'], main, .x1n2onr6.x1ja2u2z.x9f619.x78zum5.xdt5ytf.x2lah0s.x193iq5w, body",
+  "selector":"#help-center-faq-page-container",
   "enabled":1,
-  "rules": [
-    {"name": "remove-nav", "filter": "nav", "replacement": ""},
-    {"name": "remove-header", "filter": "header", "replacement": ""},
-    {"name": "remove-footer", "filter": "footer", "replacement": ""},
-    {"name": "remove-sidebar", "filter": "[role='complementary']", "replacement": ""},
-    {"name": "remove-banner", "filter": "[role='banner']", "replacement": ""},
-    {"name": "remove-search", "filter": "[role='search']", "replacement": ""},
-    {"name": "remove-navigation", "filter": "[role='navigation']", "replacement": ""},
-    {"name": "remove-menu", "filter": "[role='menu']", "replacement": ""},
-    {"name": "remove-menubar", "filter": "[role='menubar']", "replacement": ""},
-    {"name": "remove-searchbox", "filter": "[role='searchbox']", "replacement": ""},
-    {"name": "remove-link-search", "filter": "a[href='/search/']", "replacement": ""},
-    {"name": "remove-link-dialog", "filter": "a[href='/dialog/navigation/']", "replacement": ""},
-    {"name": "remove-empty-links", "filter": "a[href='/']", "replacement": ""},
-    {"name": "remove-help-links", "filter": "a[href*='/1417489251945243']", "replacement": ""},
-    {"name": "remove-images", "filter": "img[src*='Instagram_Glyph']", "replacement": ""},
-    {"name": "remove-lang-selector", "filter": "*:contains('English (US)')", "replacement": ""},
-    {"name": "remove-cookies", "filter": "[class*='cookie']", "replacement": ""},
-    {"name": "remove-ads", "filter": "[class*='ad']", "replacement": ""},
-    {"name": "remove-social", "filter": "[class*='social']", "replacement": ""},
-    {"name": "remove-tracking", "filter": "[class*='track']", "replacement": ""}
-  ]
+  "rules": []
 }
