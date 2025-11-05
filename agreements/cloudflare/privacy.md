@@ -534,4 +534,32 @@ Bahnhofstrasse 10
 6302 Zug  
 Switzerland  
 Attention: Data Protection Officer  
-[dpo@cloudflare.com](mailto:dpo@cloudflare.com)
+[dpo@cloudflare.com](mailto:dpo@cloudflare.com)  
+  
+  
+  
+  
+
+  
+
+### Legal questions
+
+[Website Terms of Use](/website-terms/)
+
+[Self-Serve Subscription Agreement](/website-terms/)
+
+[Service-Specific Terms](/service-specific-terms-overview/)
+
+[Cookie Policy](/cookie-policy/)
+
+[Trust & Safety](/abuse/)
+
+[Transparency Report](/transparency/)
+
+[Domain Registration Agreement](/domain-registration-agreement/)
+
+[Modern Slavery Act Statement](/modern-slavery-act-statement/)
+
+[Third Party Code of Conduct](https://cf-assets.www.cloudflare.com/slt3lc6tev37/284hiWkCYNc49GQpAeBvGN/e137cdac96d1c4cd403c6b525831d284/Third_Party_Code_of_Conduct.pdf)
+
+[Candidate Privacy Policy](/candidate-privacy-notice/)
