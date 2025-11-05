@@ -1,5 +1,5 @@
 {
   "url": "https://www.facebook.com/legal/ai-terms",
-  "selector": "",
+  "selector": "div[role=\"main\"]",
   "enabled": 1
 }
