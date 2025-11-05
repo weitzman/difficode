@@ -87,7 +87,7 @@ node fetch-recipes.js --recipes recipes/uber/privacy.json --clean
 ### Command Line Options
 
 - `--recipes <path>`: Recipe file or directory (default: ./recipes)
-- `--output <dir>`: Output directory (default: ./output)  
+- `--output <dir>`: Output directory (default: ./agreements)  
 - `--clean`: Clean output directory before processing
   - With `--recipes`: cleans only the corresponding output subdirectory
   - Without `--recipes`: cleans the entire output directory
@@ -97,15 +97,15 @@ node fetch-recipes.js --recipes recipes/uber/privacy.json --clean
 
 The `--clean` option intelligently determines what to clean based on the recipes specified:
 
-- `node fetch-recipes.js --clean` → Cleans entire `./output/` directory
-- `node fetch-recipes.js --recipes recipes/uber/ --clean` → Cleans `./output/uber/` directory
-- `node fetch-recipes.js --recipes recipes/uber/privacy.json --clean` → Cleans `./output/uber/` directory
+- `node fetch-recipes.js --clean` → Cleans entire `./agreements/` directory
+- `node fetch-recipes.js --recipes recipes/uber/ --clean` → Cleans `./agreements/uber/` directory
+- `node fetch-recipes.js --recipes recipes/uber/privacy.json --clean` → Cleans `./agreements/uber/` directory
 
 ## Output
 
 For each recipe, the tool generates:
-- `output/[company]/[recipe-name].html` - Raw HTML content
-- `output/[company]/[recipe-name].md` - Converted markdown content
+- `agreements/[company]/[recipe-name].html` - Raw HTML content
+- `agreements/[company]/[recipe-name].md` - Converted markdown content
 
 ## Examples
 

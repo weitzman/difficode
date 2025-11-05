@@ -89,7 +89,7 @@ const PathUtils = {
 };
 
 class RecipeFetcher {
-    constructor(recipesDir = './recipes', outputDir = './output') {
+    constructor(recipesDir = './recipes', outputDir = './agreements') {
         this.recipesDir = recipesDir;
         this.outputDir = outputDir;
         this.errors = [];
@@ -452,7 +452,7 @@ function parseArgs() {
     const args = process.argv.slice(2);
     const config = {
         recipesDir: './recipes',
-        outputDir: './output',
+        outputDir: './agreements',
         shouldClean: false,
         showHelp: false
     };
@@ -487,7 +487,7 @@ function parseArgs() {
 function showHelp() {
     console.log('Usage: node fetch-recipes.js [--recipes <path>] [--output <dir>] [--clean]');
     console.log('  --recipes <path>  Recipe file or directory (default: ./recipes)');
-    console.log('  --output <dir>    Output directory (default: ./output)');
+    console.log('  --output <dir>    Output directory (default: ./agreements)');
     console.log('  --clean           Clean output directory before processing');
     console.log('                    - With --recipes: cleans specific output subdirectory');
     console.log('                    - Without --recipes: cleans entire output directory');
