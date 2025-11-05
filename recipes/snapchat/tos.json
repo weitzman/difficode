@@ -1,5 +1,5 @@
 {
   "url":"https://www.snap.com/en-US/terms",
-  "selector":"main",
+  "selector":"#inc-terms",
   "enabled":1
 }

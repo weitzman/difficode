@@ -4,48 +4,6 @@ Selector used: main
 
 ---
 
-[](/)[Snap Values](/)
-
-Policy
-
-[PolicyYour resource for understanding the rules and policies across Snapchat.](/policy)[Community GuidelinesWe created these guidelines to encourage the broadest range of self-expression, while striving to make sure Snapchatters can use our services safely every day.](/policy/policy-community-guidelines)
-
-[Content GuidelinesAdditional standards for algorithmic recommendation beyond the creator’s friends or subscribers](/policy/content-guidelines-recommendation-eligibility) [Creator Monetization Policy Content must adhere to the policies to be eligible for monetization.](/policy/creator-monetization-policy)
-
-[Advertising PoliciesThese apply to all aspects of advertisements served by Snap.](/policy/advertising-policies)[Commercial Content PolicyApplies to commercial content on the Snap platform other than ads served by Snap.](https://snap.com/en-US/terms/commercial-content?lang=en-US)
-
-Privacy
-
-[Privacy PolicyThis Policy explains how we collect and use your data and how you can control your information.](/privacy/privacy-policy) [Privacy PrinciplesAt Snap, we make your privacy a priority. We know your trust is earned every time you use Snapchat, or any of our other products and Services.](/privacy/privacy-principles)
-
-[Privacy by ProductSaving Snaps was designed with privacy in mind. You control whether your Snaps can be saved within Snapchat.](/privacy/privacy-by-product)[Privacy Through SecurityFeatures and recommendations to help secure your account.](/privacy/privacy-through-security)
-
-[Teens on SnapchatAdditional protections for teens on Snapchat.](/privacy/teens)[Snap and AdsHow we collect, use, and share your data with respect to ads.](/privacy/ads-privacy)
-
-[Privacy CenterPrivacy policies tend to be pretty long — and pretty confusing. That’s why we did our best to make our Privacy Policy brief, clear, and easy-to-read!Learn More](/privacy/privacy-center)
-
-Safety
-
-[Safety CenterHere are some steps you can take to help stay safe!](/safety/safety-center)[Safety PoliciesWe created these safety policies to help our community enhance their relationships with friends, family, and the world.](/safety/safety-policies)[Safety ResourcesWe work with industry experts and non-governmental agencies to provide resources and support to Snapchatters in need.](/safety/safety-resources)
-
-[Safety Advisory BoardMeet Snap's Safety Advisory Board members](/safety/safety-advisory-board)[Council for Digital Well-BeingMeet Snap's Council for Digital Well-Being](/safety/cdwb)[Digital Well-Being IndexSnap's Digital Well-Being Index highlights Gen Z's attitudes and perceptions about life online.](/safety/dwbi)
-
-[Information for Law EnforcementSnap is committed to assisting law enforcement while respecting the privacy and rights of our users.](/safety/safety-enforcement)[Financial SextortionWe work with industry experts and non-governmental agencies to provide resources and support to Snapchatters.](/safety/financial-sextortion)[Combating Illicit DrugsWe work with industry experts and non-governmental agencies to provide resources and support to Snapchatters.](/safety/combating-illicit-drugs)[Report a Safety ConcernIf you ever experience harassment, bullying, or any other safety concern, you can always report it right to us.](/safety/safety-reporting)
-
-[Information for ParentsThe Parent’s Guide to Snapchat covers how Snapchat works, the key protections we offer for teens, how to use our parental controls, and answers common questions.Learn More](https://parents.snapchat.com/?lang=en-US)
-
-Transparency
-
-Transparency Report[Transparency ReportTwice a year, we publish transparency reports to provide insight and visibility into the nature and volume of content and accounts reported to us.](/privacy/transparency)[GlossaryDefinitions of commonly used terms, policies, and operational practices discussed in our transparency report.](/privacy/transparency/glossary) [Previous ReportsTransparency Report archives](/privacy/transparency/previous-reports)
-
-Regional Information[European UnionEU specific information](/privacy/transparency/european-union)[California California specific information](/privacy/transparency/california-transparency-page)[Australia Australia specific information](/privacy/transparency/australia-transparency-page)[IndiaIndia specific information](/privacy/transparency/india-transparency-page)
-
-Resources[ResearchersAccess for researchers](/privacy/transparency/researcher-access)[Ads GalleryFind European Union ads that delivered in the last 12 months and commercial content that’s live right now.](http://adsgallery.snap.com/?lang=en-US)
-
-[AboutIn our Transparency Report, we disclose data regarding our safety efforts across our platform. Here we provide additional context and insight into our safety principles, policies, and practices, as well as links to various safety and privacy resources.Learn More](/privacy/transparency/about)
-
-[News](/news)
-
 Privacy
 
 *   Privacy
@@ -330,40 +288,3 @@ We may change this Privacy Policy from time to time. But when we do, we’ll let
 Contact Us
 
 Have any questions about the information here or wish to contact our Data Protection Officer (DPO)? You can contact us [here](https://help.snapchat.com/hc/requests/new?lang=en-US).
-
-Company
-
-*   [Snap Inc.](https://www.snap.com/?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-*   [Careers](https://careers.snap.com/?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-*   [News](https://newsroom.snap.com/?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-*   [Privacy and Safety](/?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link)
-
-Community
-
-*   [Snapchat Support](https://help.snapchat.com/hc?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-*   [Spectacles Support](https://support.spectacles.com/?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-*   [Community Guidelines](/privacy/transparency/community-guidelines?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link)
-
-Advertising
-
-*   [Snapchat Ads](https://forbusiness.snapchat.com/?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-*   [Advertising Policies](https://www.snap.com/ad-policies?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-*   [Political Ads Library](https://www.snap.com/political-ads?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-*   [Brand Guidelines](https://www.snap.com/brand-guidelines?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-*   [Promotions Rules](https://help.snapchat.com/hc/articles/7047502545044?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-
-Legal
-
-*   [Other Terms & Policies](https://www.snap.com/policies?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-*   [Law Enforcement](/safety/safety-enforcement?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link)
-*   [Cookie Policy](https://www.snap.com/cookie-policy?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-*   [Cookie Settings](https://snap.com/cookie-settings?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-*   [Report Infringement](https://help.snapchat.com/hc/articles/7012332110996?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-
-*   [](https://snap.com/?lang=en-US)
-*   [Privacy Policy](/privacy/privacy-policy?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link)
-*   [Terms of Service](https://www.snap.com/terms?utm_source=values_snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-
-*   Language
-    
-    English (US)
