@@ -14,21 +14,39 @@ const BROWSER_CONFIG = {
         '--disable-setuid-sandbox',
         '--disable-dev-shm-usage',
         '--disable-web-security',
-        '--disable-features=VizDisplayCompositor'
+        '--disable-features=VizDisplayCompositor',
+        '--disable-blink-features=AutomationControlled',
+        '--disable-automation',
+        '--disable-browser-side-navigation',
+        '--disable-gpu',
+        '--no-first-run',
+        '--no-default-browser-check',
+        '--no-pings',
+        '--password-store=basic',
+        '--use-mock-keychain'
     ]
 };
 
 const CONTEXT_CONFIG = {
-    userAgent: 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
-    viewport: { width: 1280, height: 720 },
+    userAgent: 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36',
+    viewport: { width: 1366, height: 768 },
     locale: 'en-US',
     timezoneId: 'America/New_York',
+    deviceScaleFactor: 1,
+    hasTouch: false,
+    isMobile: false,
     extraHTTPHeaders: {
-        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
-        'Accept-Language': 'en-US,en;q=0.5',
-        'Accept-Encoding': 'gzip, deflate, br',
-        'DNT': '1',
-        'Connection': 'keep-alive',
+        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'Accept-Language': 'en-US,en;q=0.9',
+        'Accept-Encoding': 'gzip, deflate, br, zstd',
+        'Cache-Control': 'max-age=0',
+        'Sec-Ch-Ua': '"Google Chrome";v="131", "Chromium";v="131", "Not_A Brand";v="24"',
+        'Sec-Ch-Ua-Mobile': '?0',
+        'Sec-Ch-Ua-Platform': '"macOS"',
+        'Sec-Fetch-Dest': 'document',
+        'Sec-Fetch-Mode': 'navigate',
+        'Sec-Fetch-Site': 'none',
+        'Sec-Fetch-User': '?1',
         'Upgrade-Insecure-Requests': '1'
     }
 };
@@ -282,8 +300,15 @@ class RecipeFetcher {
             // Add stealth measures
             await this.addStealthScript(page);
             
+            // Add random delay before navigation (1-3 seconds)
+            const preNavigationDelay = Math.floor(Math.random() * 2000) + 1000;
+            await page.waitForTimeout(preNavigationDelay);
+            
             console.log('Navigating to URL...');
-            const response = await page.goto(url, { waitUntil: 'networkidle', timeout: 30000 });
+            const response = await page.goto(url, { 
+                waitUntil: 'domcontentloaded', 
+                timeout: 45000 
+            });
             
             // Check HTTP status code
             const status = response.status();
@@ -293,7 +318,12 @@ class RecipeFetcher {
                 return null;
             }
             
-            await page.waitForTimeout(3000); // Wait for dynamic content
+            // Random human-like behavior
+            await this.simulateHumanBehavior(page);
+            
+            // Wait for dynamic content with longer timeout for challenging sites
+            const contentDelay = Math.floor(Math.random() * 3000) + 4000; // 4-7 seconds
+            await page.waitForTimeout(contentDelay);
             
             console.log('Getting page content...');
             return await page.content();
@@ -309,13 +339,109 @@ class RecipeFetcher {
     }
 
     /**
-     * Add stealth measures to avoid detection
+     * Simulate human-like behavior on the page
+     */
+    async simulateHumanBehavior(page) {
+        try {
+            // Random mouse movements
+            await page.mouse.move(
+                Math.floor(Math.random() * 800) + 100,
+                Math.floor(Math.random() * 600) + 100
+            );
+            
+            // Random scroll simulation
+            const scrollAmount = Math.floor(Math.random() * 500) + 200;
+            await page.evaluate((amount) => {
+                window.scrollBy(0, amount);
+            }, scrollAmount);
+            
+            // Small delay
+            await page.waitForTimeout(Math.floor(Math.random() * 1000) + 500);
+            
+            // Scroll back up
+            await page.evaluate(() => {
+                window.scrollTo(0, 0);
+            });
+            
+        } catch (error) {
+            // Ignore errors in simulation - not critical
+        }
+    }
+
+    /**
+     * Add comprehensive stealth measures to avoid detection
      */
     async addStealthScript(page) {
         await page.addInitScript(() => {
+            // Remove webdriver property
             delete navigator.webdriver;
-            Object.defineProperty(navigator, 'plugins', { get: () => [1, 2, 3, 4, 5] });
-            Object.defineProperty(navigator, 'languages', { get: () => ['en-US', 'en'] });
+            
+            // Override navigator properties with realistic values
+            Object.defineProperty(navigator, 'webdriver', {
+                get: () => undefined,
+            });
+            
+            Object.defineProperty(navigator, 'plugins', {
+                get: () => [
+                    { name: 'Chrome PDF Plugin', filename: 'internal-pdf-viewer' },
+                    { name: 'Chrome PDF Viewer', filename: 'mhjfbmdgcfjbbpaeojofohoefgiehjai' },
+                    { name: 'Native Client', filename: 'internal-nacl-plugin' }
+                ],
+            });
+            
+            Object.defineProperty(navigator, 'languages', {
+                get: () => ['en-US', 'en'],
+            });
+            
+            Object.defineProperty(navigator, 'permissions', {
+                get: () => ({
+                    query: () => Promise.resolve({ state: 'granted' }),
+                }),
+            });
+            
+            // Override chrome runtime
+            if (navigator.chrome) {
+                Object.defineProperty(navigator.chrome, 'runtime', {
+                    get: () => ({
+                        onConnect: undefined,
+                        onMessage: undefined,
+                    }),
+                });
+            }
+            
+            // Mock realistic screen properties
+            Object.defineProperty(screen, 'colorDepth', { get: () => 24 });
+            Object.defineProperty(screen, 'pixelDepth', { get: () => 24 });
+            
+            // Override Date to prevent timezone detection inconsistencies
+            const originalDate = Date;
+            Date = class extends originalDate {
+                getTimezoneOffset() { return 300; } // EST timezone offset
+            };
+            
+            // Add realistic connection properties
+            Object.defineProperty(navigator, 'connection', {
+                get: () => ({
+                    effectiveType: '4g',
+                    rtt: 100,
+                    downlink: 2.0,
+                }),
+            });
+            
+            // Remove automation indicators
+            if (window.chrome && window.chrome.runtime && window.chrome.runtime.onConnect) {
+                delete window.chrome.runtime.onConnect;
+            }
+            
+            // Mock realistic battery API
+            Object.defineProperty(navigator, 'getBattery', {
+                get: () => () => Promise.resolve({
+                    charging: true,
+                    chargingTime: 0,
+                    dischargingTime: Infinity,
+                    level: 1,
+                }),
+            });
         });
     }
 

@@ -1,6 +1,6 @@
 {
   "url": "https://www.shopify.com/legal/terms",
-  "selector": ".main-content",
+  "selector": "#main",
   "enabled": 1,
   "rules": []
 }
