@@ -1,0 +1,6 @@
+{
+  "url": "https://www.cloudflare.com/privacypolicy/",
+  "selector": "div.site-content",
+  "enabled": 1,
+  "rules": []
+}

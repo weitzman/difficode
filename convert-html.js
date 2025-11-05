@@ -39,17 +39,17 @@ function createTurndownService(rules) {
  */
 function findElements(document, selector) {
     if (!selector) {
-        return [document.querySelector('body')];
+        return { elements: [document.querySelector('body')], selectorFound: true };
     }
     
     const elements = document.querySelectorAll(selector);
     
     if (elements.length === 0) {
-        console.error(`Selector "${selector}" not found, falling back to body`);
-        return [document.querySelector('body')];
+        console.error(`❌ Selector "${selector}" not found, falling back to body`);
+        return { elements: [document.querySelector('body')], selectorFound: false };
     }
     
-    return Array.from(elements);
+    return { elements: Array.from(elements), selectorFound: true };
 }
 
 /**
@@ -81,21 +81,24 @@ function convertToMarkdown(html, url, selector, rules) {
         const dom = new JSDOM(html);
         const document = dom.window.document;
         
-        const elements = findElements(document, selector);
+        const result = findElements(document, selector);
         
-        if (!elements?.length || !elements[0]) {
+        if (!result?.elements?.length || !result.elements[0]) {
             console.error('No content found');
-            return null;
+            return { markdown: null, selectorFound: false };
         }
         
         const turndown = createTurndownService(rules);
-        const markdown = elementsToMarkdown(elements, turndown);
+        const markdown = elementsToMarkdown(result.elements, turndown);
         
-        return generateHeader(url, selector) + markdown;
+        return {
+            markdown: generateHeader(url, selector) + markdown,
+            selectorFound: result.selectorFound
+        };
         
     } catch (error) {
         console.error('Error converting to markdown:', error.message);
-        return null;
+        return { markdown: null, selectorFound: false };
     }
 }
 
@@ -124,15 +127,19 @@ function main() {
     
     try {
         const html = fs.readFileSync(htmlFile, 'utf8');
-        const markdown = convertToMarkdown(html, url, selector, rules);
+        const result = convertToMarkdown(html, url, selector, rules);
         
-        if (!markdown) {
+        if (!result.markdown) {
             console.error('Failed to convert HTML to markdown');
             process.exit(1);
         }
         
-        fs.writeFileSync(outputFile, markdown);
+        fs.writeFileSync(outputFile, result.markdown);
         console.log(`Converted ${htmlFile} to ${outputFile} using selector: ${selector}`);
+        
+        if (!result.selectorFound) {
+            console.warn(`⚠️  Selector "${selector}" was not found, used body fallback`);
+        }
         
     } catch (error) {
         console.error('Error:', error.message);

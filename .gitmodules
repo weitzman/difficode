@@ -1,3 +1,0 @@
-[submodule "output"]
-	path = output
-	url = git@gitlab.com:weitzman/diffi.git

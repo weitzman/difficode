@@ -1,0 +1,6 @@
+{
+  "url": "https://help.netflix.com/legal/termsofuse",
+  "selector": ".article-content",
+  "enabled": 1,
+  "rules": []
+}

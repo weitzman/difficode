@@ -1,0 +1,6 @@
+{
+  "url": "https://www.adobe.com/privacy.html",
+  "selector": ".article-wrapper",
+  "enabled": 1,
+  "rules": []
+}

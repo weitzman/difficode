@@ -1,0 +1,11 @@
+{
+  "url": "https://aws.amazon.com/service-terms/",
+  "selector": ".lb-content",
+  "enabled": 1,
+  "rules": [
+    {"name": "remove-nav", "filter": "nav", "replacement": ""},
+    {"name": "remove-header", "filter": "header", "replacement": ""},
+    {"name": "remove-footer", "filter": "footer", "replacement": ""},
+    {"name": "remove-sidebar", "filter": ".lb-left-nav", "replacement": ""}
+  ]
+}

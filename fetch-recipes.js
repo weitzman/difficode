@@ -92,6 +92,9 @@ class RecipeFetcher {
     constructor(recipesDir = './recipes', outputDir = './output') {
         this.recipesDir = recipesDir;
         this.outputDir = outputDir;
+        this.errors = [];
+        this.processedCount = 0;
+        this.successCount = 0;
     }
 
     /**
@@ -147,11 +150,19 @@ class RecipeFetcher {
         const jsonFiles = this.getRecipeFiles();
         console.log(`Found ${jsonFiles.length} recipe files\n`);
 
+        // Reset counters for this run
+        this.errors = [];
+        this.processedCount = 0;
+        this.successCount = 0;
+
         for (const filePath of jsonFiles) {
             await this.processRecipe(filePath);
         }
 
         console.log('Recipe fetching completed!');
+        
+        // Write error report after full run
+        await this.writeErrorReport();
     }
 
     /**
@@ -203,30 +214,35 @@ class RecipeFetcher {
     async processRecipe(filePath) {
         const relativePath = PathUtils.getRelativePath(filePath, this.recipesDir);
         console.log(`Processing: ${relativePath}`);
+        this.processedCount++;
 
         try {
             const recipe = this.loadRecipe(filePath);
             
-            if (!this.validateRecipe(recipe)) {
+            if (!this.validateRecipe(recipe, relativePath)) {
                 return;
             }
 
             console.log(`URL: ${recipe.url}`);
             console.log(`Selector: ${recipe.selector}`);
 
-            const html = await this.fetchUrl(recipe.url);
+            const html = await this.fetchUrl(recipe.url, relativePath);
             if (!html) {
-                console.log('Failed to fetch HTML, skipping\n');
+                console.log('❌ Failed to fetch HTML, skipping\n');
                 return;
             }
 
             const outputPath = PathUtils.getOutputPath(relativePath, this.outputDir);
-            await this.saveFiles(outputPath, html, recipe);
+            const success = await this.saveFiles(outputPath, html, recipe, relativePath);
             
-            console.log('✅ Success\n');
+            if (success) {
+                console.log('✅ Success\n');
+                this.successCount++;
+            }
 
         } catch (error) {
             console.error(`Error processing ${relativePath}: ${error.message}\n`);
+            this.recordError(relativePath, 'processing_error', error.message);
         }
     }
 
@@ -243,14 +259,16 @@ class RecipeFetcher {
     /**
      * Validate recipe has required fields
      */
-    validateRecipe(recipe) {
+    validateRecipe(recipe, relativePath) {
         if (!recipe.enabled) {
             console.log('Recipe disabled, skipping\n');
+            this.recordError(relativePath, 'disabled_recipe', 'Recipe is disabled');
             return false;
         }
 
         if (!recipe.url) {
             console.log('Missing required field (url), skipping\n');
+            this.recordError(relativePath, 'missing_url', 'Recipe missing required URL field');
             return false;
         }
 
@@ -265,7 +283,7 @@ class RecipeFetcher {
     /**
      * Fetch URL content using Playwright
      */
-    async fetchUrl(url) {
+    async fetchUrl(url, relativePath) {
         let browser;
         try {
             console.log('Launching browser...');
@@ -277,13 +295,23 @@ class RecipeFetcher {
             await this.addStealthScript(page);
             
             console.log('Navigating to URL...');
-            await page.goto(url, { waitUntil: 'networkidle', timeout: 30000 });
+            const response = await page.goto(url, { waitUntil: 'networkidle', timeout: 30000 });
+            
+            // Check HTTP status code
+            const status = response.status();
+            if (status >= 400) {
+                console.error(`❌ HTTP Error ${status}: Failed to fetch ${url}`);
+                this.recordError(relativePath, 'http_error', `HTTP ${status} error when fetching ${url}`);
+                return null;
+            }
+            
             await page.waitForTimeout(3000); // Wait for dynamic content
             
             console.log('Getting page content...');
             return await page.content();
             
         } catch (error) {
+            this.recordError(relativePath, 'fetch_error', `Playwright fetch failed: ${error.message}`);
             throw new Error(`Playwright fetch failed: ${error.message}`);
         } finally {
             if (browser) {
@@ -306,26 +334,130 @@ class RecipeFetcher {
     /**
      * Save HTML and markdown files
      */
-    async saveFiles(outputPath, html, recipe) {
-        if (!fs.existsSync(outputPath.dir)) {
-            fs.mkdirSync(outputPath.dir, { recursive: true });
+    async saveFiles(outputPath, html, recipe, relativePath) {
+        try {
+            if (!fs.existsSync(outputPath.dir)) {
+                fs.mkdirSync(outputPath.dir, { recursive: true });
+            }
+
+            // Save raw HTML
+            const htmlFile = path.join(outputPath.dir, `${outputPath.name}.html`);
+            fs.writeFileSync(htmlFile, html);
+            console.log(`Saved: ${htmlFile}`);
+
+            // Convert and save markdown
+            const markdownFile = path.join(outputPath.dir, `${outputPath.name}.md`);
+            const result = convertToMarkdown(html, recipe.url, recipe.selector, recipe.rules);
+            
+            if (result.markdown) {
+                fs.writeFileSync(markdownFile, result.markdown);
+                console.log(`Saved: ${markdownFile}`);
+                
+                // Track if selector was not found
+                if (!result.selectorFound) {
+                    this.recordError(relativePath, 'selector_not_found', `Selector "${recipe.selector}" not found, used body fallback`);
+                }
+                
+                return true;
+            } else {
+                console.log('Failed to convert to markdown');
+                this.recordError(relativePath, 'markdown_conversion_error', 'Failed to convert HTML to markdown');
+                return false;
+            }
+        } catch (error) {
+            this.recordError(relativePath, 'file_save_error', `Failed to save files: ${error.message}`);
+            return false;
         }
+    }
 
-        // Save raw HTML
-        const htmlFile = path.join(outputPath.dir, `${outputPath.name}.html`);
-        fs.writeFileSync(htmlFile, html);
-        console.log(`Saved: ${htmlFile}`);
+    /**
+     * Record an error that occurred during processing
+     */
+    recordError(recipePath, errorType, message) {
+        this.errors.push({
+            recipe: recipePath,
+            type: errorType,
+            message: message,
+            timestamp: new Date().toISOString()
+        });
+    }
 
-        // Convert and save markdown
-        const markdownFile = path.join(outputPath.dir, `${outputPath.name}.md`);
-        const markdown = convertToMarkdown(html, recipe.url, recipe.selector, recipe.rules);
+    /**
+     * Write error report to report.md file
+     */
+    async writeErrorReport() {
+        const reportPath = path.join(this.outputDir, 'report.md');
         
-        if (markdown) {
-            fs.writeFileSync(markdownFile, markdown);
-            console.log(`Saved: ${markdownFile}`);
-        } else {
-            console.log('Failed to convert to markdown');
+        try {
+            let report = '# Recipe Processing Report\n\n';
+            report += `## Summary\n\n`;
+            report += `- **Total recipes processed:** ${this.processedCount}\n`;
+            report += `- **Successful:** ${this.successCount}\n`;
+            report += `- **Failed:** ${this.errors.length}\n`;
+            report += `- **Success rate:** ${this.processedCount > 0 ? ((this.successCount / this.processedCount) * 100).toFixed(1) : 0}%\n\n`;
+
+            if (this.errors.length === 0) {
+                report += '## 🎉 All Recipes Processed Successfully!\n\n';
+                report += 'No errors occurred during this run.\n';
+            } else {
+                report += '## ❌ Errors Encountered\n\n';
+                
+                // Group errors by type
+                const errorsByType = {};
+                this.errors.forEach(error => {
+                    if (!errorsByType[error.type]) {
+                        errorsByType[error.type] = [];
+                    }
+                    errorsByType[error.type].push(error);
+                });
+
+                // Write errors by type
+                for (const [errorType, errors] of Object.entries(errorsByType)) {
+                    const typeTitle = this.getErrorTypeTitle(errorType);
+                    report += `### ${typeTitle} (${errors.length})\n\n`;
+                    
+                    errors.forEach(error => {
+                        report += `- **${error.recipe}**: ${error.message}\n`;
+                    });
+                    report += '\n';
+                }
+
+                // Detailed error log
+                report += '## Detailed Error Log\n\n';
+                this.errors.forEach((error, index) => {
+                    report += `### Error ${index + 1}\n`;
+                    report += `- **Recipe:** ${error.recipe}\n`;
+                    report += `- **Type:** ${this.getErrorTypeTitle(error.type)}\n`;
+                    report += `- **Message:** ${error.message}\n\n`;
+                });
+            }
+
+            fs.writeFileSync(reportPath, report);
+            console.log(`📊 Error report written to: ${reportPath}`);
+            
+            if (this.errors.length > 0) {
+                console.log(`⚠️  ${this.errors.length} error(s) occurred during processing. See report.md for details.`);
+            }
+        } catch (error) {
+            console.error(`Failed to write error report: ${error.message}`);
         }
+    }
+
+    /**
+     * Get human-readable title for error type
+     */
+    getErrorTypeTitle(errorType) {
+        const titles = {
+            'disabled_recipe': '🔒 Disabled Recipes',
+            'missing_url': '🌐 Missing URL',
+            'http_error': '🚫 HTTP Errors',
+            'fetch_error': '🔄 Fetch Errors',
+            'markdown_conversion_error': '📝 Markdown Conversion Errors',
+            'file_save_error': '💾 File Save Errors',
+            'processing_error': '⚙️ Processing Errors',
+            'selector_not_found': '🎯 Selector Not Found'
+        };
+        return titles[errorType] || '❓ Unknown Error';
     }
 }
 
