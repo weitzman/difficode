@@ -86,7 +86,7 @@ Attn: Copyright Agent
 865 FM 1209, Building 2  
 Bastrop, TX 78602  
 Reports: [https://help.x.com/forms/dmca](https://help.x.com/forms/dmca)  
-Email: [\[email protected\]](/cdn-cgi/l/email-protection#92f1fde2ebe0fbf5fae6d2eabcf1fdff)
+Email: [\[email protected\]](/cdn-cgi/l/email-protection#c7a4a8b7beb5aea0afb387bfe9a4a8aa)
 
 ### Your Rights and Grant of Rights in the Content
 
@@ -219,7 +219,7 @@ Attn: Copyright Agent
 865 FM 1209, Building 2  
 Bastrop, TX 78602  
 Reports: [https://help.x.com/forms/dmca](https://help.x.com/forms/dmca)  
-Email: [\[email protected\]](/cdn-cgi/l/email-protection#b0d3dfc0c9c2d9d7d8c4f0c89ed3dfdd)
+Email: [\[email protected\]](/cdn-cgi/l/email-protection#6e0d011e171c0709061a2e16400d0103)
 
 ### Your Rights and Grant of Rights in the Content
 

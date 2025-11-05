@@ -14,7 +14,7 @@ This notice describes the personal data (“data”) we collect, how it’s used
 
 Uber Privacy Notice: Drivers and Delivery People
 
-](https://www.uber.com/us/en/privacy-notice-drivers-delivery-people/)
+](https://www.uber.com/global/en/privacy-notice-drivers-delivery-people/)
 
 [
 
@@ -22,33 +22,33 @@ Previous version of the Privacy Notice
 
 ](https://uber.box.com/s/ku2tnx2vo607q86qfdg3scfu2mjm9pyq)
 
-### I. [Overview](https://www.uber.com/us/en/privacy-notice-riders-order-recipients/#overview)
+### I. [Overview](https://www.uber.com/global/en/privacy-notice-riders-order-recipients/#overview)
 
-### II. [Data collections and uses](https://www.uber.com/us/en/privacy-notice-riders-order-recipients/#data-we-collect)
+### II. [Data collections and uses](https://www.uber.com/global/en/privacy-notice-riders-order-recipients/#data-we-collect)
 
-####   A. [Data we collect](https://www.uber.com/us/en/privacy-notice-riders-order-recipients/#data-we-collect)
+####   A. [Data we collect](https://www.uber.com/global/en/privacy-notice-riders-order-recipients/#data-we-collect)
 
-####   B. [How we use data](https://www.uber.com/us/en/privacy-notice-riders-order-recipients/#how-we-use-data)
+####   B. [How we use data](https://www.uber.com/global/en/privacy-notice-riders-order-recipients/#how-we-use-data)
 
-####   C. [Core automated processes](https://www.uber.com/us/en/privacy-notice-riders-order-recipients/#core-automated-processes)
+####   C. [Core automated processes](https://www.uber.com/global/en/privacy-notice-riders-order-recipients/#core-automated-processes)
 
-####   D. [Cookies and related technologies](https://www.uber.com/us/en/privacy-notice-riders-order-recipients/#cookies)
+####   D. [Cookies and related technologies](https://www.uber.com/global/en/privacy-notice-riders-order-recipients/#cookies)
 
-####   E. [Data sharing and disclosure](https://www.uber.com/us/en/privacy-notice-riders-order-recipients/#data-sharing-disclosure)
+####   E. [Data sharing and disclosure](https://www.uber.com/global/en/privacy-notice-riders-order-recipients/#data-sharing-disclosure)
 
-####   F. [Data retention and deletion](https://www.uber.com/us/en/privacy-notice-riders-order-recipients/#data-retention-deletion)
+####   F. [Data retention and deletion](https://www.uber.com/global/en/privacy-notice-riders-order-recipients/#data-retention-deletion)
 
-### III. [Choice and transparency](https://www.uber.com/us/en/privacy-notice-riders-order-recipients/#choice-transparency)
+### III. [Choice and transparency](https://www.uber.com/global/en/privacy-notice-riders-order-recipients/#choice-transparency)
 
-### IV. [Legal information](https://www.uber.com/us/en/privacy-notice-riders-order-recipients/#legal-information)
+### IV. [Legal information](https://www.uber.com/global/en/privacy-notice-riders-order-recipients/#legal-information)
 
-####   A. [Data controllers and Data Protection Officer](https://www.uber.com/us/en/privacy-notice-riders-order-recipients/#data-controllers-data-protection-officer)
+####   A. [Data controllers and Data Protection Officer](https://www.uber.com/global/en/privacy-notice-riders-order-recipients/#data-controllers-data-protection-officer)
 
-####   B. [Our legal bases for using your data](https://www.uber.com/us/en/privacy-notice-riders-order-recipients/#our-legal-bases-for-using-your-data)
+####   B. [Our legal bases for using your data](https://www.uber.com/global/en/privacy-notice-riders-order-recipients/#our-legal-bases-for-using-your-data)
 
-####   C. [Legal framework for data transfers](https://www.uber.com/us/en/privacy-notice-riders-order-recipients/#legal-framework-for-data-transfers)
+####   C. [Legal framework for data transfers](https://www.uber.com/global/en/privacy-notice-riders-order-recipients/#legal-framework-for-data-transfers)
 
-####   D. [Updates to this Privacy Notice](https://www.uber.com/us/en/privacy-notice-riders-order-recipients/#updates-to-this-privacy-notice)
+####   D. [Updates to this Privacy Notice](https://www.uber.com/global/en/privacy-notice-riders-order-recipients/#updates-to-this-privacy-notice)
 
 ## I. Overview
 
@@ -69,7 +69,7 @@ This notice specifically applies if you:
 *   Rent a vehicle through [Uber Car Rentals](https://www.uber.com/us/en/u/uber-rent/) (a “Renter”).
     
 
-This notice does **not** describe Uber’s collection and use of your data if you use Uber to provide (instead of request or receive) services through Uber’s app or websites, including as a driver or delivery person. Uber’s notice describing our collection and use of such data is available [here](https://www.uber.com/us/en/privacy-notice-drivers-delivery-people/*). Those who use Uber to either request, receive or provide services are referred to as “users” in this notice.
+This notice does **not** describe Uber’s collection and use of your data if you use Uber to provide (instead of request or receive) services through Uber’s app or websites, including as a driver or delivery person. Uber’s notice describing our collection and use of such data is available [here](https://www.uber.com/global/en/privacy-notice-drivers-delivery-people/*). Those who use Uber to either request, receive or provide services are referred to as “users” in this notice.
 
 Our privacy practices are subject to applicable laws in the places in which we operate. The types of data processing that such laws require, allow, or prohibit vary globally. Therefore, if you travel across national, state or other geographic borders, Uber's data processing practices described in this notice may differ from those in your home country or territory.
 
