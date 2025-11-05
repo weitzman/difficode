@@ -1,7 +1,5 @@
 {
-  "url": "https://www.adobe.com/privacy.html",
-  "selector": ".article-wrapper",
-  "enabled": 0,
-  "reason": "HTTP2 protocol error - site blocking automated access",
-  "rules": []
+  "url": "https://www.adobe.com/privacy/policy.html",
+  "selector": "main",
+  "enabled": 1
 }
