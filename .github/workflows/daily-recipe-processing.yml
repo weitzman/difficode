@@ -13,10 +13,10 @@ jobs:
     runs-on: ubuntu-latest
     
     steps:
-    - name: Checkout develop branch
+    - name: Checkout main branch
       uses: actions/checkout@v4
       with:
-        ref: develop
+        ref: main
         token: ${{ secrets.GITHUB_TOKEN }}
         
     - name: Setup Node.js
@@ -58,7 +58,7 @@ jobs:
         🤖 Generated with automated workflow
         
         Co-Authored-By: GitHub Actions <noreply@github.com>"
-        git push origin develop
+        git push origin main
         
     - name: No changes summary
       if: steps.changes.outputs.has_changes == 'false'
