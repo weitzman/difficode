@@ -5,7 +5,6 @@
   "main": "convert-html.js",
   "scripts": {
     "fetch": "node fetch-recipes.js",
-    "fetch:php": "php fetch_recipes.php",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
