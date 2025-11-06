@@ -2,5 +2,9 @@
   "url":"https://mbasic.facebook.com/privacy/policy/printable/",
   "selector":"#root",
   "enabled":1,
-  "rules": []
+  "rules": [
+    {"name": "remove-links", "filter": "a[href*=\"l.facebook.com/l.php\"]", "replacement": ""},
+    {"name": "remove-linksm", "filter": "a[href*=\"lm.facebook.com/l.php\"]", "replacement": ""},
+    {"name": "remove-linksm", "filter": "a[href*=\"_nc_gid\"]", "replacement": ""}
+  ]
 }
