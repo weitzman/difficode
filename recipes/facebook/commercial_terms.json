@@ -3,6 +3,6 @@
   "selector": "div[role=\"main\"]",
   "enabled": 1,
   "rules": [
-    {"name": "remove-links", "filter": "a[href*=\"l.facebook.com/l.php\"]", "replacement": ""}
+    {"name": "remove-links", "filter": "a[href*=\"l.facebook.com/l.php\"]", "replacement": "<em>Dynamic link removed</em>"}
   ]
 }
