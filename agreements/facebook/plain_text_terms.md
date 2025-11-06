@@ -133,7 +133,7 @@ We try to make Facebook broadly available to everyone, but you cannot use Facebo
 
 *   You are under 13 years old.
 *   You are a convicted sex offender.
-*   We've previously disabled your account for violations of our Terms, the , or other terms and policies that apply to your use of Facebook. If we disable your account for a violation of our Terms, the , or other terms and policies, you agree not to create another account without our permission. Receiving permission to create a new account is provided at our sole discretion, and does not mean or imply that the disciplinary action was wrong or without cause.
+*   We've previously disabled your account for violations of our Terms, the *Dynamic link removed*, or other terms and policies that apply to your use of Facebook. If we disable your account for a violation of our Terms, the *Dynamic link removed*, or other terms and policies, you agree not to create another account without our permission. Receiving permission to create a new account is provided at our sole discretion, and does not mean or imply that the disciplinary action was wrong or without cause.
 *   You are prohibited from receiving our products, services, or software under applicable laws.
 
 ## 3.2 What you can share and do on Meta Products
@@ -141,7 +141,7 @@ We try to make Facebook broadly available to everyone, but you cannot use Facebo
 We want people to use Meta Products to express themselves and to share content that is important to them, but not at the expense of the safety and well-being of others or the integrity of our community. You therefore agree not to engage in the conduct described below (or to facilitate or support others in doing so):
 
 1.  You may not use our Products to do or share anything:
-    *   That violates these Terms, the , or [other terms and policies](#section_5) that apply to your use of our Products.
+    *   That violates these Terms, the *Dynamic link removed*, or [other terms and policies](#section_5) that apply to your use of our Products.
     *   That is unlawful, misleading, discriminatory or fraudulent (or assists someone else in using our Products in such a way).
     *   That you do not own or have the necessary rights to share.
     *   That infringes or violates someone else's rights, including their intellectual property rights (such as by infringing another’s copyright or trademark, or distributing or selling counterfeit or pirated goods), unless an exception or limitation applies under applicable law.
@@ -154,9 +154,9 @@ We want people to use Meta Products to express themselves and to share content t
 
 We can remove or restrict access to content that is in violation of these provisions. We can also suspend or disable your account for conduct that violates these provisions, as provided in Section 4.2.
 
-If we remove content that you have shared in violation of the , we’ll let you know and explain any options you have to request another review, unless you seriously or repeatedly violate these Terms or if doing so may expose us or others to legal liability; harm our community of users; compromise or interfere with the integrity or operation of any of our services, systems or Products; where we are restricted due to technical limitations; or where we are prohibited from doing so for legal reasons. For information on account suspension or termination, see Section 4.2 below.
+If we remove content that you have shared in violation of the *Dynamic link removed*, we’ll let you know and explain any options you have to request another review, unless you seriously or repeatedly violate these Terms or if doing so may expose us or others to legal liability; harm our community of users; compromise or interfere with the integrity or operation of any of our services, systems or Products; where we are restricted due to technical limitations; or where we are prohibited from doing so for legal reasons. For information on account suspension or termination, see Section 4.2 below.
 
-We work with independent fact-checkers in many jurisdictions to combat misinformation. When content has been rated by fact-checkers, we may add a notice to provide additional context. You can find more information about fact-checking .
+We work with independent fact-checkers in many jurisdictions to combat misinformation. When content has been rated by fact-checkers, we may add a notice to provide additional context. You can find more information about fact-checking *Dynamic link removed*.
 
 To help support our community, we encourage you to [report](https://www.facebook.com/help/181495968648557?ref=tos) content or conduct that you believe violates your rights (including [intellectual property rights](https://www.facebook.com/help/intellectual_property?ref=tos)) or our terms and policies, if this feature exists in your jurisdiction. We also can remove or restrict access to content, features, services, or information if we determine that doing so is reasonably necessary to avoid or mitigate misuse of our services or adverse legal or regulatory impacts to Meta.
 
@@ -249,13 +249,13 @@ You and Meta each agree that any claim, cause of action, or dispute between us t
 *   [Community Payment Terms](https://www.facebook.com/payments_terms): These terms apply to payments made on or through Meta Products.
 *   [Commerce Policies](https://www.facebook.com/policies/commerce): These guidelines outline the policies that apply when you offer products or services for sale on Facebook, Instagram, and WhatsApp.
 *   [Music Guidelines](https://www.facebook.com/legal/music_guidelines): These guidelines outline the policies that apply if you post or share content containing music on any Meta Products.
-*   : These policies apply to partners who advertise across the Meta Products and specify what types of ad content are allowed by partners who advertise across the Meta Products.
+*   *Dynamic link removed*: These policies apply to partners who advertise across the Meta Products and specify what types of ad content are allowed by partners who advertise across the Meta Products.
 *   [Self-Serve Ad Terms](https://www.facebook.com/legal/self_service_ads_terms): These terms apply when you use self-serve advertising interfaces to create, submit, or deliver advertising or other commercial or sponsored activity or content.
 *   [Facebook Pages, Groups and Events Policy](https://www.facebook.com/policies/pages_groups_events): These guidelines apply if you create or administer a Facebook Page, group, or event, or if you use Facebook to communicate or administer a promotion.
 *   [Meta Platform Policy](https://developers.facebook.com/policy/): These terms apply to the use of the set of APIs, SDKs, tools, plugins, code, technology, content, and services that enables others to develop functionality, retrieve data from MetaProducts, or provide data to us.
 *   [Developer Payment Terms](https://developers.facebook.com/policy/credits): These terms apply to developers of applications that use Facebook Payments.
 *   [Meta Brand Resources](https://about.meta.com/brand/resources/): These guidelines outline the policies that apply to use of Meta trademarks, logos, and screenshots.
-*   Recommendations Guidelines: The [Facebook Recommendations Guidelines](https://www.facebook.com/help/1257205004624246/) and outline our standards for recommending and not recommending content.
+*   Recommendations Guidelines: The [Facebook Recommendations Guidelines](https://www.facebook.com/help/1257205004624246/) and *Dynamic link removed* outline our standards for recommending and not recommending content.
 *   [Live Policies](https://www.facebook.com/policies/live): These policies apply to all content broadcast to Facebook Live.
 *   [Avatar Terms](https://www.facebook.com/legal/avatars_terms): These terms apply to the use of our Avatars and our Avatar features, including purchases and acquisitions of Avatar clothing in the Avatar store.
 *   [Meta AI Terms](https://www.facebook.com/legal/ai-terms): These terms govern use of our Generative AI products and features.

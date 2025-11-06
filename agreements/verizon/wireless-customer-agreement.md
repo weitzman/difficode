@@ -22,8 +22,8 @@ Verizon Mobile Customer Agreement
 
 [Review full answer](javascript:void\(0\);)
 
-*   [PDF Version](https://ss7.vzw.com/is/content/VerizonWireless/Footer/cap/customer-agreement-policy-current-en.pdf)
-*   [Audio Version](https://ss7.vzw.com/is/content/VerizonWireless/Footer/cap/customer-agreement-1122-en-ada.mp3)
+*   [PDF Version](https://ss7.vzw.com/is/content/VerizonWireless/ca-1125en-992300-r1)
+*   [Audio Version](https://ss7.vzw.com/is/content/VerizonWireless/ca-update-eng-4q-2025-nov)
 
 **Thanks for choosing Verizon wireless ("Verizon"). This Customer Agreement ("Agreement") describes important information about your wireless Service and our business relationship, including:**
 

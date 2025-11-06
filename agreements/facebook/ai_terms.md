@@ -179,7 +179,7 @@ Deutsch
 
 日本語
 
-[Sign Up](https://www.facebook.com/reg/)[Log In](https://www.facebook.com/login/)[Facebook Lite](https://www.facebook.com/lite/)[Video](https://www.facebook.com/watch/)[Voting Information Center](https://www.facebook.com/votinginformationcenter/?entry_point=c2l0ZQ%3D%3D)[Privacy Policy](https://www.facebook.com/privacy/policy/?entry_point=facebook_page_footer)[Consumer Health Privacy](https://www.facebook.com/privacy/policies/health/?entry_point=facebook_page_footer)[Privacy Center](https://www.facebook.com/privacy/center/?entry_point=facebook_page_footer)
+[Sign Up](https://www.facebook.com/reg/)[Log In](https://www.facebook.com/login/)*Dynamic link removed*[Facebook Lite](https://www.facebook.com/lite/)[Video](https://www.facebook.com/watch/)*Dynamic link removed**Dynamic link removed**Dynamic link removed**Dynamic link removed**Dynamic link removed**Dynamic link removed**Dynamic link removed**Dynamic link removed*[Voting Information Center](https://www.facebook.com/votinginformationcenter/?entry_point=c2l0ZQ%3D%3D)[Privacy Policy](https://www.facebook.com/privacy/policy/?entry_point=facebook_page_footer)[Consumer Health Privacy](https://www.facebook.com/privacy/policies/health/?entry_point=facebook_page_footer)[Privacy Center](https://www.facebook.com/privacy/center/?entry_point=facebook_page_footer)
 
 *   [Privacy](/privacy/policy/?entry_point=comet_dropdown)  ·
 *   [Consumer Health Privacy](/privacy/policies/health/)  ·
