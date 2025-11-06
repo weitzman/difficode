@@ -1,6 +1,5 @@
 {
   "url":"https://www.verizonwireless.com/legal/notices/customer-agreement/",
-  "selector":"main",
-  "enabled":0,
-  "reason":"Page timeout - site may require login or have anti-bot protection"
+  "selector":"#SupportContentWrapper",
+  "enabled":1
 }
