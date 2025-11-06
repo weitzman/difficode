@@ -2,10 +2,10 @@
 
 ## Summary
 
-- **Total recipes processed:** 66
-- **Successful:** 64
+- **Total recipes processed:** 68
+- **Successful:** 66
 - **Failed:** 2
-- **Success rate:** 97.0%
+- **Success rate:** 97.1%
 
 ## ❌ Errors Encountered
 
