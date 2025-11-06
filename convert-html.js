@@ -4,6 +4,19 @@ const fs = require('fs');
 const { JSDOM } = require('jsdom');
 const TurndownService = require('turndown');
 
+// Suppress JSDOM CSS parsing error noise
+const originalConsoleError = console.error;
+console.error = function(message, ...args) {
+    // Filter out CSS stylesheet parsing errors from JSDOM
+    if (typeof message === 'string' && 
+        (message.includes('Could not parse CSS stylesheet') ||
+         message.includes('Error: Could not parse CSS stylesheet'))) {
+        return; // Suppress these specific errors
+    }
+    // Allow all other console.error messages through
+    originalConsoleError.call(console, message, ...args);
+};
+
 // Default TurndownService configuration
 const TURNDOWN_CONFIG = {
     headingStyle: 'atx',
@@ -121,8 +134,8 @@ function convertToMarkdown(html, url, selector, rules) {
         // Generate cleaned HTML from the cleaned elements
         const cleanedHTML = cleanedElements.map(element => element.outerHTML).join('\n');
         
-        // Create turndown service without rules since we already applied them
-        const turndown = new TurndownService(TURNDOWN_CONFIG);
+        // Create turndown service without rules since we already applied them to HTML
+        const turndown = createTurndownService();
         const markdown = elementsToMarkdown(cleanedElements, turndown);
         
         return {
