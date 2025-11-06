@@ -451,32 +451,21 @@ We use cookies to help personalise and improve content and services, provide a s
 
 ## If you have an Instagram account
 
-*   You can use your [ad preferences](https://lm.facebook.com/l.php?u=https%3A%2F%2Faccountscenter.instagram.com%2Fad_preferences&h=AT1IY-4AKoXGRLjJIdPsQKssWxmoCXaULcAOFvRBYFQK6Y-RCd_jQXK6rYVHfPAcA8OiknIB4YNNO-DxPSiXPjXujbvdJX66bOrtJrbY9l5AcUPuP8dCte6Uo_rVJHtdCXzRoMNJA95x3loEkdB6pkQcauU) to learn why you're seeing a particular ad and control how we use information that we collect to show you ads.
-*   To show you better ads we use data that advertisers and other partners provide us about your activity off [Meta Company Products](https://www.facebook.com/help/195227921252400), including websites and apps. You can control whether we use this data to show you ads in your [ad settings](https://lm.facebook.com/l.php?u=https%3A%2F%2Faccountscenter.instagram.com%2Fad_preferences%2Fad_settings%2F&h=AT2NNeM2zuUjUnk4A-s86_9b7onMDZdtxNGYi_8Y-3582dwaIjUjiMPglsgeEl-7dENU-8W0EfK8l_pUL0wHyICaH_PATDXGW-Tb4j3F7Z6Y4VnUm9IZ49bixwsP6kCvDIEuLu60zWLMAHs7A51_rGjt9KJYk3BoLT6M1O6t).
+*   You can use your to learn why you're seeing a particular ad and control how we use information that we collect to show you ads.
+*   To show you better ads we use data that advertisers and other partners provide us about your activity off [Meta Company Products](https://www.facebook.com/help/195227921252400), including websites and apps. You can control whether we use this data to show you ads in your .
 *   You can review Your activity off Meta technologies which is a summary of activity that businesses and organizations share with us about your interactions with them, such as visiting their apps or websites. They use our [Business Tools](https://www.facebook.com/help/2230503797265156), such as Facebook Login or Meta Pixel, to share this information with us. This helps us do things such as give you a more personalized experience on Meta Products. Learn more [about your activity off of Meta technologies](https://www.facebook.com/help/2207256696182627?helpref=faq_content), how we use it and how you can manage it.
 
 ## Everyone
 
-You can opt out of seeing online interest-based ads from Meta and other participating companies through the [Digital Advertising Alliance](https://lm.facebook.com/l.php?u=http%3A%2F%2Fwww.aboutads.info%2Fchoices%2F&h=AT3lBZGovb1nZIYHMA9BxSmAjVh-tYbKBD03VByffjmXj-uTdRMNV-ApeGUaeRWzdHJIQmk_b1-PmapktlQ5G2s05YCc1Lp2Ra4gK7_tTEfLV38rraV9K5bcxnwRVU9_95UO6aQFrdlJq54ptUaA4xSkf3xFBf6CZgIBMSee) in the US, the [Digital Advertising Alliance of Canada](https://lm.facebook.com/l.php?u=http%3A%2F%2Fyouradchoices.ca%2F&h=AT1GoyejU21G44Mxn_dSyGZxFfGHWE43D9cIEhmmDMZWwHx0KFhS5Olcp0mi8szCxWe3HGwN8dfxzLy4IN1v4xsXx-vYzMZd8aPzAeRqCxEraUpvknky9a7cXRPZSbGXFl33mAZMuqyFRlFCwogG-GZ1IsM) in Canada or the [European Interactive Digital Advertising Alliance](https://lm.facebook.com/l.php?u=http%3A%2F%2Fwww.youronlinechoices.eu%2F&h=AT3l5SdtXnVKO3xR7XUDsiNBaYGaERNcHHf4_Hw-mvZYv3E9Si_tW0aVi5p-rcHzSfK96IF-1faAaR-Ds9piU-Sskpi2DxXcvenDqjy-jqCiy0yjmqb9laozfGXl4OwwnL7SLu-qn_g5cSoz7RTXe7YPou0) in Europe. Please note that ad blockers and tools that restrict our cookie use may interfere with these controls.
+You can opt out of seeing online interest-based ads from Meta and other participating companies through the in the US, the in Canada or the in Europe. Please note that ad blockers and tools that restrict our cookie use may interfere with these controls.
 
 ## More information about online advertising
 
 The advertising companies we work with generally use cookies and similar technologies as part of their services. To learn more about how advertisers generally use cookies and the choices they offer, you can review the following resources:
 
-*   [Digital Advertising Alliance](https://lm.facebook.com/l.php?u=http%3A%2F%2Fwww.aboutads.info%2Fchoices%2F&h=AT1dw8kZi9SRrromC0pJDGZZlThR6-jA8mCJF840zC5g5V7ovp5zbIeJXH49xYgZp8sfKXmcunsU2RILiCHElAqdXt94UT71iXOK2JcpRvN4_YYWlYvbKtkCxVog_snTiov2yX-6iZBLjT4JB5oZM2Al4HY)
-*   [Digital Advertising Alliance of Canada](https://lm.facebook.com/l.php?u=http%3A%2F%2Fyouradchoices.ca%2F&h=AT3GAqh4kU6mUXGM3J_QduKtjO4DGmfd17NNvrHpUFx4FUoFIsD2ri4pCn7zs4feE_4c32Hk0hP5rFZgJaKLmxN2dTCUJtCH6LnQJtOWY5pfJ8DrNTsFfTFZdnCukgKspHtZb1xTa1aazJkN750Z5bpBOqE)
-*   [European Interactive Digital Advertising Alliance](https://lm.facebook.com/l.php?u=http%3A%2F%2Fwww.youronlinechoices.eu%2F&h=AT3WckzADZDHZOMO7x_GB1mKM96-C5ycJQ2RfGfwl1Iqs2DePvsUiFnIyJZVh3qPLLv-zdfJjQSjxWz4mJ9CrQZ_VJ5-47Ir9dJa0cBveZ5blejdRdz6kx-_y-WipXpbHFlhn2eYkV1D_IsUIgTupTsV2V9ELcxcCwY7ZAUA)
-
 ## Browser cookie controls
 
 In addition, your browser or device may offer settings that allow you to choose whether browser cookies are set and to delete them. These controls vary by browser, and manufacturers may change both the settings they make available and how they work at any time. As of 23 June 2021, you may find additional information about the controls offered by popular browsers at the links below. Certain parts of the Meta Products may not work properly if you have disabled browser cookie use. Please be aware that these controls are distinct from the controls that we offer you.
-
-*   [Google Chrome](https://lm.facebook.com/l.php?u=https%3A%2F%2Fsupport.google.com%2Fchrome%2Fanswer%2F95647&h=AT0HEtwc2Az1xI9lzhwqmicfSx0AF3ttbrMiz9rxbsFYM6AHMpL2y36lBKEf8Fn32lbMGLc5JOres23U6x0aDy9GuVkg9L1fBhWfGaed87DEHUsU9vFFvxzc8IdsH41N-y3RkvnU3y1EsrJAUN43LNmaS8U)
-*   [Internet Explorer](https://lm.facebook.com/l.php?u=https%3A%2F%2Fsupport.microsoft.com%2Fen-ie%2Fhelp%2F17442%2Fwindows-internet-explorer-delete-manage-cookies&h=AT14zHtZsxVsF7Sf8zRto2ZLd2xHXOHxtOxlZllbksQqEaMfI98OXIWRnWvIuwUq1SXipTZnzgZwQvzAZFw9b0JoAYhZdkj34VtrNIRuRR5vNXGstFkmV-FF2Y2ISIjOwx-Lb62t-ijaU-rHcQevl-iNE4A)
-*   [Firefox](https://lm.facebook.com/l.php?u=https%3A%2F%2Fsupport.mozilla.org%2Fen-US%2Fkb%2Fenhanced-tracking-protection-firefox-desktop&h=AT18CrgO9E35VANRMANa3uS0-UqZjaX9ME7_prjO8_2--90iUOStT-jL-SSzlKKnjB8wFO0-JBvrBJKgdH2H_aQ83eoFaFX8ce4R8spxXUGy8T-FVszJr8_uxne05_zjtj1FfF5M5hZvLXGEtMiBW8KjgHg)
-*   [Safari](https://lm.facebook.com/l.php?u=https%3A%2F%2Fsupport.apple.com%2Fen-ie%2Fguide%2Fsafari%2Fsfri11471%2Fmac&h=AT2IpDSbWE8GpsSz8yPRg-HFowli-DRyWgSCzVVh1FaXLzwYI9RxElvWZrWCDsNI5Sk6b1D5-YC0od_JQqqxZ7T07vPV49QDLr2_sOoABX4cjVoQWcONZIeqnjcVuga9SzOsrvSyPjwlf-RkgBmxluWudtQ)
-*   [Safari Mobile](https://lm.facebook.com/l.php?u=https%3A%2F%2Fsupport.apple.com%2Fen-us%2FHT201265&h=AT1j8bXv5cyr5k8iicAZydO6wxgj3wEvXNGUxRTmlPbfc6dpALuxsJbbVslTEmg3peqhvB9s0p_YOMstIDIZgnD2rJX7il7hK2Bumc52Yo3eiPxu_wKf9xT5_lFFmuROyFtW9zZ0LUF9KveWP60XZJr8K6c)
-*   [Opera](https://lm.facebook.com/l.php?u=https%3A%2F%2Fblogs.opera.com%2Fnews%2F2015%2F08%2Fhow-to-manage-cookies-in-opera%2F&h=AT2yCB1KFNB5kjvqk_3uc82NSznXDggo1qjIzLqVioo8YrHdCyueZqNHWdz-AQviU-0MZQOio4mIuvWMr83Nie5gpxTUMACLpzOKVru-6hM1kkUYDnQ-hD5nEHys4kG8wWJMQ0xGAnvTFcFRT0F7l57QywU)
 
 [Return to top![](https://static.xx.fbcdn.net/rsrc.php/v4/yC/r/si3BXjWAx4Y.png)](#)
 

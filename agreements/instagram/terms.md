@@ -12,9 +12,11 @@ Copy link
 
 Welcome to Instagram!  
   
-These Terms of Use (or “Terms”) govern your access and use of Instagram, except where we expressly state that separate terms (and not these) apply, and provide information about the Instagram Service (the “Service”), outlined below. The Meta Terms of Service do not apply to this Service.  
+These Terms of Use (or "Terms") govern your access and use of Instagram, except where we expressly state that separate terms (and not these) apply, and provide information about the Instagram Service (the "Service"), outlined below. The Meta Terms of Service do not apply to this Service.  
   
 The Instagram Service is one of the [Meta Products](https://www.facebook.com/help/1561485474074139?ref=igtos&helpref=faq_content), provided to you by Meta Platforms, Inc. These Terms of Use therefore constitute an agreement between you and Meta Platforms, Inc. If you do not agree to these Terms, then do not access or use Instagram.  
+  
+**ARBITRATION NOTICE: YOU AGREE THAT DISPUTES BETWEEN YOU AND US WILL BE RESOLVED BY BINDING, INDIVIDUAL ARBITRATION AND YOU WAIVE YOUR RIGHT TO PARTICIPATE IN A CLASS ACTION LAWSUIT OR CLASS-WIDE ARBITRATION. WE EXPLAIN SOME EXCEPTIONS AND HOW YOU CAN OPT OUT OF ARBITRATION BELOW.**  
   
 
 ## **1\. The Instagram Service**
@@ -61,7 +63,7 @@ In return for our commitment to provide the Service, we require you to make the 
 
 **4.1 Who Can Use Instagram.** We want our Service to be as open and inclusive as possible, but we also want it to be safe, secure, and in accordance with the law. So, we need you to commit to a few restrictions in order to be part of the Instagram community.
 
-*   You must be at least 13 years old or the minimum legal age in your country to use Instagram.
+*   You must be at least 13 years old.
 *   You must not be prohibited from receiving any aspect of our Service under applicable laws or engaging in payments related Services if you are on an applicable denied party listing.
 *   We must not have previously disabled your account for violation of law or any of our policies.
 *   You must not be a convicted sex offender.
@@ -116,11 +118,11 @@ In return for our commitment to provide the Service, we require you to make the 
         *   investigate or identify illegal activity or violations of our terms and policies (for example, to identify or investigate misuse of our products or systems);
         *   protect the safety and security of our products, systems, and users;
         *   comply with a legal obligation, such as the preservation of evidence; or
-        *   comply with a request of a judicial or administrative authority, law enforcement or a government agency;
+        *   comply with a request of a judicial or administrative authority, law enforcement, or a government agency;
         
     *   in which case, the content will be retained for no longer than is necessary for the purposes for which it has been retained (the exact duration will vary on a case-by-case basis).
     
-*   If you delete or we disable your account, and you stop accessing or using Instagram, or if this contract is otherwise terminated, then these Terms shall terminate as an agreement between you and us, but this section, the section above called “Your Commitments,” and the section below called "Our Agreement and What Happens if We Disagree" will still apply even after your account is terminated, disabled, or deleted, or this contract is otherwise terminated.
+*   If you delete or we disable your account, and you stop accessing or using Instagram, or if this contract is otherwise terminated, then these Terms shall terminate as an agreement between you and us, but this section, the section above called "Your Commitments," and the section below called "Our Agreement and What Happens if We Disagree" will still apply even after your account is terminated, disabled, or deleted, or this contract is otherwise terminated.
 
   
 
@@ -128,27 +130,38 @@ In return for our commitment to provide the Service, we require you to make the 
 
 **7.1 Our Agreement.**
 
-*   Your use of music on the Service is also subject to our [Music Guidelines](https://www.facebook.com/legal/music_guidelines), and your use of our API is subject to our [Meta Platform Terms and Developer Policies](https://developers.facebook.com/terms). If you use certain other features or related services, additional terms will be made available and will also become a part of our agreement. For example, if you use payment features, you will be asked to agree to the [Community Payment Terms](https://www.facebook.com/payments_terms). If you use Avatars, then the [Avatar Terms](https://help.instagram.com/1823196621218584?helpref=faq_content) also apply. If you use our AI products and features, the [Meta AI Terms](https://www.facebook.com/legal/ai-terms) also apply. If any of those terms conflict with this agreement, those other terms will govern.
+*   Your use of music on the Service is also subject to our [Music Guidelines](https://www.facebook.com/legal/music_guidelines), and your use of our API is subject to our [Meta Platform Terms and Developer Policies](https://developers.facebook.com/terms). If you use certain other features or related services, you will be provided with an opportunity to agree to additional terms that will also become a part of our agreement. For example, if you use payment features, you will be asked to agree to the [Community Payment Terms](https://www.facebook.com/payments_terms). If you use Avatars, then the [Avatar Terms](https://help.instagram.com/1823196621218584?helpref=faq_content) also apply. If you use our AI products and features, the [Meta AI Terms](https://www.facebook.com/legal/ai-terms) also apply. If any of those terms conflict with this agreement, those other terms will govern.
 *   If any aspect of this agreement is unenforceable, the rest will remain in effect.
 *   Any amendment or waiver to our agreement must be in writing and signed by us. If we fail to enforce any aspect of this agreement, it will not be a waiver.
 *   We reserve all rights not expressly granted to you.
 
 **7.2 Who Has Rights Under this Agreement.**
 
-*   This agreement does not give rights to any third parties.
+*   Our past, present, and future affiliates and agents, including Instagram LLC, can invoke our rights under this agreement in the event they become involved in a dispute. Otherwise, this agreement does not give rights to any third parties.
 *   You cannot transfer your rights or obligations under this agreement without our consent.
 *   Our rights and obligations can be assigned to others. For example, this could occur if our ownership changes (as in a merger, acquisition, or sale of assets) or by law.
 
-  
 **7.3 Who Is Responsible if Something Happens.**
 
 *   Our Service is provided "as is," and we can't guarantee it will be safe and secure or will work perfectly all the time. TO THE EXTENT PERMITTED BY LAW, WE ALSO DISCLAIM ALL WARRANTIES, WHETHER EXPRESS OR IMPLIED, INCLUDING THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT.
 *   We also don’t control what people and others do or say, and we aren’t responsible for their (or your) actions or conduct (whether online or offline) or content (including unlawful or objectionable content). We also aren’t responsible for services and features offered by other people or companies, even if you access them through our Service.
-*   Our responsibility for anything that happens on the Service (also called "liability") is limited as much as the law will allow. If there is an issue with our Service, we can't know what all the possible impacts might be. You agree that we won't be responsible ("liable") for any lost profits, revenues, information, or data, or consequential, special, indirect, exemplary, punitive, or incidental damages arising out of or related to these Terms, even if we know they are possible. This includes when we delete your content, information, or account.
+*   Our responsibility for anything that happens on the Service (also called "liability") is limited as much as the law will allow. If there is an issue with our Service, we can't know what all the possible impacts might be. You agree that we won't be responsible ("liable") for any lost profits, revenues, information, or data, or consequential, special, indirect, exemplary, punitive, or incidental damages arising out of or related to these Terms, even if we know they are possible. This includes when we delete your content, information, or account. Our aggregate liability arising out of or relating to these Terms will not exceed the greater of $100 or the amount you have paid us in the past twelve months.
+*   You agree to defend (at our request), indemnify and hold us harmless from and against any claims, liabilities, damages, losses, and expenses, including without limitation, reasonable attorney's fees and costs, arising out of or in any way connected with these Terms or your use of the Service. You will cooperate as required by us in the defense of any claim. We reserve the right to assume the exclusive defense and control of any matter subject to indemnification by you, and you will not in any event settle any claim without our prior written consent.
 
 **7.4 How We Will Handle Disputes.**
 
-If you are a consumer, the laws of the country in which you reside will apply to any claim, cause of action, or dispute you have against us that arises out of or relates to these Terms ("claim"), and you may resolve your claim in any competent court in that country that has jurisdiction over the claim. In all other cases, you agree that the claim must be resolved exclusively in the U.S. District Court for the Northern District of California or a state court located in San Mateo County, that you submit to the personal jurisdiction of either of these courts for the purpose of litigating any such claim, and that the laws of the State of California will govern these Terms and any claim, without regard to conflict of law provisions. Without prejudice to the foregoing, you agree that, in its sole discretion, Meta Platforms Inc. may also bring any claim we have against you related to efforts to abuse, interfere, or engage with our products in unauthorized ways in the country in which you reside that has jurisdiction over the claim.
+*   Except as provided below, **you and we agree that any cause of action, legal claim, or dispute between you and us arising out of or related to these Terms or Instagram ("claim(s)") must be resolved by arbitration on an individual basis. Class actions and class arbitrations are not permitted**; you and we may bring a claim only on your own behalf and cannot seek relief that would affect other Instagram users. If there is a final judicial determination that any particular claim (or a request for particular relief) cannot be arbitrated in accordance with this provision's limitations, then only that claim (or only that request for relief) may be brought in court. All other claims (or requests for relief) remain subject to this provision.
+*   Instead of using arbitration, you or we can bring claims in your local "small claims" court, if the rules of that court will allow it. If you don't bring your claims in small claims court (or if you or we appeal a small claims court judgment to a court of general jurisdiction), then the claims must be resolved by binding, individual arbitration. The American Arbitration Association will administer all arbitrations under its Consumer Arbitration Rules. **You and we expressly waive a trial by jury.**
+    
+    The following claims don't have to be arbitrated and may be brought in court: disputes related to intellectual property (like copyrights and trademarks), violations of our Platform Policy, or efforts to interfere with the Service or engage with the Service in unauthorized ways (for example, automated ways). In addition, issues relating to the scope and enforceability of the arbitration provision are for a court to decide.
+    
+    This arbitration provision is governed by the Federal Arbitration Act.
+    
+    You can opt out of this provision within 30 days of the date that you agreed to these Terms. To opt out, you must send your name, residence address, username, email address or phone number you use for your Instagram account, and a clear statement that you want to opt out of this arbitration agreement, and you must send them here: Meta Platforms, Inc. ATTN: Instagram Arbitration Opt-out, 1601 Willow Rd., Menlo Park, CA 94025.
+*   Before you commence arbitration of a claim, you must provide us with a written Notice of Dispute that includes your name, residence address, username, email address or phone number you use for your Instagram account, a detailed description of the dispute, and the relief you seek. Any Notice of Dispute you send to us should be mailed to Meta Platforms, Inc., ATTN: Instagram Arbitration Filing, 1601 Willow Rd. Menlo Park, CA 94025. Before we commence arbitration, we will send you a Notice of Dispute to the email address you use with your Instagram account, or other appropriate means. If we are unable to resolve a dispute within thirty (30) days after the Notice of Dispute is received, you or we may commence arbitration.
+*   We will pay all arbitration filing fees, administration and hearing costs, and arbitrator fees for any arbitration we bring or if your claims seek less than $75,000 and you timely provided us with a Notice of Dispute. For all other claims, the costs and fees of arbitration shall be allocated in accordance with the arbitration provider's rules, including rules regarding frivolous or improper claims.
+*   For any claim that is not arbitrated or resolved in small claims court, you agree that it will be resolved exclusively in the U.S. District Court for the Northern District of California or a state court located in San Mateo County. You also agree to submit to the personal jurisdiction of either of these courts for the purpose of litigating any such claim.
+*   The laws of the State of California, to the extent not preempted by or inconsistent with federal law, will govern these Terms and any claim, without regard to conflict of law provisions.
 
 **7.5 Unsolicited Material.**
 
