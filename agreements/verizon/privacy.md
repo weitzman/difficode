@@ -8,7 +8,7 @@ Selector used: main
 *   [Privacy Policy Summary](/about/privacy/)
 *   Current: Full Privacy Policy
 
-[English](/about/privacy/fullprivacypolicy) [Español](https://esus.verizon.com/about/privacy/full-privacy-policy)
+[English](/about/privacy/full-privacy-policy) [Español](https://esus.verizon.com/about/privacy/full-privacy-policy)
 
 *We recommend that you view this content online or on your mobile device for a better design and navigation experience and the ability to seamlessly access links and other documents. This version is provided so you can PRINT a version of this content in a single document.*
 
