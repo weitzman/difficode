@@ -1,0 +1,5 @@
+{
+  "url":"https://www.google.com/help/terms_maps/?hl=en_US",
+  "selector":"div[role=\"article\"]",
+  "enabled":1
+}

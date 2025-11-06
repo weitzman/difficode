@@ -1,0 +1,5 @@
+{
+  "url":"https://www.google.com/drive/terms-of-service/",
+  "selector":"section.tos",
+  "enabled":1
+}
