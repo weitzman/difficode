@@ -1,3 +1,5 @@
+
+
 Introduction
 -------------
 The project contains recipe files in the /recipes directory. Each recipe defines a set of rules for converting a legal agreement for a given web site into a Markdown file. Examples of legal agreements are Terms of Service or Privacy Policy. 

@@ -1,5 +1,8 @@
 {
   "url":"https://twitter.com/tos?lang=en",
   "selector":"main",
-  "enabled":1
+  "enabled":1,
+  "rules": [
+    {"name": "remove-links", "filter": "a[href*=\"email-protection\"]", "replacement": ""}
+  ]
 }

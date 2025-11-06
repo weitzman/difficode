@@ -1,5 +1,8 @@
 {
   "url": "https://www.facebook.com/policy/cookies/printable",
   "selector": "#root",
-  "enabled": 1
+  "enabled": 1,
+  "rules": [
+    {"name": "remove-links", "filter": "a[href*=\"l.facebook.com/l.php\"]", "replacement": ""}
+  ]
 }
