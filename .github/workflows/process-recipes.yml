@@ -5,8 +5,8 @@ on:
     # Run at 5am ET (9am UTC during standard time, 10am UTC during daylight time)
     # Using 9am UTC as the primary schedule
     - cron: '0 9 * * *'
-  push:
-    branches: [ main ]
+#  push:
+#    branches: [ main ]
   # Run on pull requests for validation
   pull_request:
     branches: [ main ]
@@ -38,8 +38,14 @@ jobs:
     - name: Get changed recipe files
       id: changed_files
       run: |
-        # Get changed recipe files from the last commit
-        CHANGED_FILES=$(git diff --name-only HEAD~1 HEAD -- recipes/ | grep '\.json$' || true)
+        # Get changed recipe files between current branch and target branch
+        if [ "${{ github.event_name }}" = "pull_request" ]; then
+          # For pull requests: compare with the target branch (main)
+          CHANGED_FILES=$(git diff --name-only origin/${{ github.event.pull_request.base.ref }}...HEAD -- recipes/ | grep '\.json$' || true)
+        else
+          # For push events: compare with previous commit
+          CHANGED_FILES=$(git diff --name-only HEAD~1 HEAD -- recipes/ | grep '\.json$' || true)
+        fi
         
         if [ -z "$CHANGED_FILES" ]; then
           echo "No recipe files changed"
@@ -81,12 +87,12 @@ jobs:
       if: steps.changes.outputs.has_changes == 'true'
       run: |
         git add agreements/ report.md
-        git commit -m "📄 Daily recipe processing update $(date '+%Y-%m-%d')
+        git commit -m "📄 Recipe processing update $(date '+%Y-%m-%d')
 
         🤖 Generated with automated workflow
         
         Co-Authored-By: GitHub Actions <noreply@github.com>"
-        git push origin ${{ github.ref_name }}
+        git push origin ${{ github.head_ref }}
         
     - name: No changes summary
       if: steps.changes.outputs.has_changes == 'false'
