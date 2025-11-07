@@ -68,9 +68,44 @@ jobs:
       if: steps.changed_files.outputs.has_changes == 'true'
       run: node fetch-recipes.js --clean --recipes ${{ steps.changed_files.outputs.changed_files }}
       
+    - name: Check processing results and fail if errors
+      if: steps.changed_files.outputs.has_changes == 'true'
+      run: |
+        if [ -f "report.md" ]; then
+          # Check if there were any errors by looking at the report
+          ERROR_COUNT=$(grep -E "^\*\*Failed:\*\* [1-9]" report.md | sed 's/.*Failed:\*\* \([0-9]\+\).*/\1/' || echo "0")
+          if [ "$ERROR_COUNT" -gt 0 ]; then
+            echo "❌ Recipe processing failed with $ERROR_COUNT errors"
+            echo "Check the job summary for details from report.md"
+            exit 1
+          else
+            echo "✅ All recipes processed successfully"
+          fi
+        else
+          echo "⚠️ No report.md found - this may indicate a processing failure"
+          exit 1
+        fi
+      
+    - name: Generate job summary from report
+      if: always() && steps.changed_files.outputs.has_changes == 'true'
+      run: |
+        if [ -f "report.md" ]; then
+          echo "## Recipe Processing Results" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          cat report.md >> $GITHUB_STEP_SUMMARY
+        else
+          echo "## Recipe Processing Results" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "⚠️ No report.md generated - processing may have failed" >> $GITHUB_STEP_SUMMARY
+        fi
+      
     - name: No recipes to process
       if: steps.changed_files.outputs.has_changes == 'false'
-      run: echo "✅ No recipe files have changed - skipping processing"
+      run: |
+        echo "✅ No recipe files have changed - skipping processing"
+        echo "## Recipe Processing Results" >> $GITHUB_STEP_SUMMARY
+        echo "" >> $GITHUB_STEP_SUMMARY
+        echo "✅ No recipe files have changed - skipping processing" >> $GITHUB_STEP_SUMMARY
       
     - name: Check for changes
       id: changes
@@ -101,3 +136,13 @@ jobs:
     - name: No changes summary
       if: steps.changes.outputs.has_changes == 'false'
       run: echo "✅ Recipe processing completed - no changes detected"
+      
+    - name: Final check status
+      if: always()
+      run: |
+        if [ "${{ job.status }}" = "failure" ]; then
+          echo "❌ Recipe processing check failed"
+          exit 1
+        else
+          echo "✅ Recipe processing check completed successfully"
+        fi
