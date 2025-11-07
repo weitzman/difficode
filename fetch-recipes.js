@@ -111,8 +111,6 @@ class RecipeFetcher {
         this.recipesDir = recipesDir;
         this.outputDir = outputDir;
         this.saveHtml = saveHtml;
-        // Only write report for full runs (default recipes dir) or when single path equals './recipes'
-        this.isFullRun = recipesDir === './recipes' || (typeof recipesDir === 'string' && recipesDir === './recipes');
         this.errors = [];
         this.processedCount = 0;
         this.successCount = 0;
@@ -227,10 +225,8 @@ class RecipeFetcher {
 
         console.log('Recipe fetching completed!');
         
-        // Write error report only for full runs (no --recipes specified)
-        if (this.isFullRun) {
-            await this.writeErrorReport();
-        }
+        // Always write error report
+        await this.writeErrorReport();
     }
 
     /**
