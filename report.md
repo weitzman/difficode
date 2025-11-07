@@ -2,8 +2,8 @@
 
 ## Summary
 
-- **Total recipes processed:** 2
-- **Successful:** 2
+- **Total recipes processed:** 3
+- **Successful:** 3
 - **Failed:** 0
 - **Success rate:** 100.0%
 
