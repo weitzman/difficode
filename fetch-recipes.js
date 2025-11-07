@@ -111,7 +111,8 @@ class RecipeFetcher {
         this.recipesDir = recipesDir;
         this.outputDir = outputDir;
         this.saveHtml = saveHtml;
-        this.isFullRun = recipesDir === './recipes'; // Only write report for full runs
+        // Only write report for full runs (default recipes dir) or when single path equals './recipes'
+        this.isFullRun = recipesDir === './recipes' || (typeof recipesDir === 'string' && recipesDir === './recipes');
         this.errors = [];
         this.processedCount = 0;
         this.successCount = 0;
@@ -138,9 +139,19 @@ class RecipeFetcher {
     async fetchRecipes() {
         console.log('Starting recipe fetching...\n');
         
-        if (!fs.existsSync(this.recipesDir)) {
-            console.error('Error: recipes path not found');
-            return;
+        // Check if paths exist - handle both single path and array of paths
+        if (Array.isArray(this.recipesDir)) {
+            for (const recipePath of this.recipesDir) {
+                if (!fs.existsSync(recipePath)) {
+                    console.error(`Error: recipes path not found: ${recipePath}`);
+                    return;
+                }
+            }
+        } else {
+            if (!fs.existsSync(this.recipesDir)) {
+                console.error('Error: recipes path not found');
+                return;
+            }
         }
 
         if (!fs.existsSync(this.outputDir)) {
@@ -168,24 +179,47 @@ class RecipeFetcher {
     }
 
     /**
-     * Get all recipe JSON files from the recipes directory
+     * Get all recipe JSON files from the recipes directory or array of paths
      */
     getRecipeFiles() {
-        const stat = fs.statSync(this.recipesDir);
+        // Handle array of recipe paths
+        if (Array.isArray(this.recipesDir)) {
+            const allFiles = [];
+            for (const recipePath of this.recipesDir) {
+                const files = this.getRecipeFilesFromPath(recipePath);
+                allFiles.push(...files);
+            }
+            return allFiles;
+        }
+        
+        // Handle single path (original behavior)
+        return this.getRecipeFilesFromPath(this.recipesDir);
+    }
+
+    /**
+     * Get recipe files from a single path (file or directory)
+     */
+    getRecipeFilesFromPath(recipePath) {
+        if (!fs.existsSync(recipePath)) {
+            console.error(`Error: ${recipePath} does not exist`);
+            return [];
+        }
+
+        const stat = fs.statSync(recipePath);
         
         if (stat.isFile()) {
-            if (path.extname(this.recipesDir) !== '.json') {
-                console.error(`Error: ${this.recipesDir} is not a JSON file`);
+            if (path.extname(recipePath) !== '.json') {
+                console.error(`Error: ${recipePath} is not a JSON file`);
                 return [];
             }
-            return [this.recipesDir];
+            return [recipePath];
         }
         
         if (stat.isDirectory()) {
-            return this.findJsonFiles(this.recipesDir);
+            return this.findJsonFiles(recipePath);
         }
         
-        console.error(`Error: ${this.recipesDir} is neither a file nor a directory`);
+        console.error(`Error: ${recipePath} is neither a file nor a directory`);
         return [];
     }
 
@@ -594,8 +628,17 @@ function parseArgs() {
     for (let i = 0; i < args.length; i++) {
         switch (args[i]) {
             case '--recipes':
-                if (i + 1 < args.length) {
-                    config.recipesDir = args[++i];
+                // Collect all values until next flag or end of args
+                const recipePaths = [];
+                i++; // Move past --recipes
+                while (i < args.length && !args[i].startsWith('--')) {
+                    recipePaths.push(args[i]);
+                    i++;
+                }
+                i--; // Back up one since loop will increment
+                
+                if (recipePaths.length > 0) {
+                    config.recipesDir = recipePaths.length === 1 ? recipePaths[0] : recipePaths;
                 }
                 break;
             case '--output':
@@ -622,8 +665,9 @@ function parseArgs() {
  * Show help information
  */
 function showHelp() {
-    console.log('Usage: node fetch-recipes.js [--recipes <path>] [--output <dir>] [--clean] [--html]');
-    console.log('  --recipes <path>  Recipe file or directory (default: ./recipes)');
+    console.log('Usage: node fetch-recipes.js [--recipes <path> [<path2> ...]] [--output <dir>] [--clean] [--html]');
+    console.log('  --recipes <path>  Recipe file(s) or directory(ies) (default: ./recipes)');
+    console.log('                    Can specify multiple paths separated by spaces');
     console.log('  --output <dir>    Output directory (default: ./agreements)');
     console.log('  --clean           Clean output directory before processing');
     console.log('                    - With --recipes: cleans specific output subdirectory');
@@ -633,6 +677,7 @@ function showHelp() {
     console.log('Examples:');
     console.log('  node fetch-recipes.js --recipes recipes/facebook/privacy.json --clean');
     console.log('  node fetch-recipes.js --recipes recipes/verizon/ --clean');
+    console.log('  node fetch-recipes.js --recipes recipes/facebook/ recipes/google/ recipes/apple.json');
     console.log('  node fetch-recipes.js --clean');
     console.log('  node fetch-recipes.js --recipes recipes/');
 }

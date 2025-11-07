@@ -21,7 +21,7 @@ jobs:
     - name: Checkout branch
       uses: actions/checkout@v4
       with:
-        fetch-depth: 1
+        fetch-depth: 2  # Need at least 2 commits to compare HEAD~1 vs HEAD
         
     - name: Setup Node.js
       uses: actions/setup-node@v4
@@ -35,8 +35,32 @@ jobs:
     - name: Install Playwright browsers
       run: npx playwright install chromium
       
-    - name: Process all recipes
-      run: node fetch-recipes.js --clean
+    - name: Get changed recipe files
+      id: changed_files
+      run: |
+        # Get changed recipe files from the last commit
+        CHANGED_FILES=$(git diff --name-only HEAD~1 HEAD -- recipes/ | grep '\.json$' || true)
+        
+        if [ -z "$CHANGED_FILES" ]; then
+          echo "No recipe files changed"
+          echo "has_changes=false" >> $GITHUB_OUTPUT
+          echo "changed_files=" >> $GITHUB_OUTPUT
+        else
+          echo "Changed recipe files:"
+          echo "$CHANGED_FILES"
+          # Convert newlines to spaces for command line usage
+          CHANGED_FILES_ARGS=$(echo "$CHANGED_FILES" | tr '\n' ' ' | sed 's/[[:space:]]*$//')
+          echo "has_changes=true" >> $GITHUB_OUTPUT
+          echo "changed_files=$CHANGED_FILES_ARGS" >> $GITHUB_OUTPUT
+        fi
+        
+    - name: Process changed recipes
+      if: steps.changed_files.outputs.has_changes == 'true'
+      run: node fetch-recipes.js --recipes ${{ steps.changed_files.outputs.changed_files }}
+      
+    - name: No recipes to process
+      if: steps.changed_files.outputs.has_changes == 'false'
+      run: echo "✅ No recipe files have changed - skipping processing"
       
     - name: Check for changes
       id: changes
