@@ -197,13 +197,13 @@ class RecipeFetcher {
             for (const recipePath of this.recipesDir) {
                 if (!fs.existsSync(recipePath)) {
                     console.error(`Error: recipes path not found: ${recipePath}`);
-                    return;
+                    process.exit(1);
                 }
             }
         } else {
             if (!fs.existsSync(this.recipesDir)) {
                 console.error('Error: recipes path not found');
-                return;
+                process.exit(1);
             }
         }
 
@@ -212,6 +212,12 @@ class RecipeFetcher {
         }
 
         const jsonFiles = this.getRecipeFiles();
+        
+        if (jsonFiles.length === 0) {
+            console.error('Error: No valid recipe files found');
+            process.exit(1);
+        }
+        
         console.log(`Found ${jsonFiles.length} recipe files\n`);
 
         // Reset counters for this run
