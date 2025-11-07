@@ -21,8 +21,12 @@ jobs:
     - name: Checkout branch
       uses: actions/checkout@v4
       with:
-        fetch-depth: 2  # Need at least 2 commits to compare HEAD~1 vs HEAD
-        
+        fetch-depth: 0  # Fetch full history
+        ref: ${{ github.head_ref }}
+
+    - name: Fetch base branch
+      run: git fetch origin ${{ github.event.pull_request.base.ref }}:${{ github.event.pull_request.base.ref }}
+
     - name: Setup Node.js
       uses: actions/setup-node@v4
       with:
