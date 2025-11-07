@@ -1,0 +1,5 @@
+{
+  "url": "https://venmo.com/legal/us-user-agreement/",
+  "selector": ".organisms-termstemplate-content",
+  "enabled": 1
+}
