@@ -12,6 +12,6 @@ Recipe providers
 ----------------
 When suggesting recipes, pick major online service providers. Focus on B2C, not B2B.
 
-Recipe Format
+Recipe format
 ---------------
 A recipe should only have 1 selector. The job of the selector is to select the main text of the page as narrowly as possible without losing policy content. Try hard to use a selector that omits headers, footers, sidebars, etc. Only use rules in a recipe when the selected main content needs further cleaning. Use on necessary rules that actually match selector(s) on the page. When creating or modifying a recipe, test any proposed changes by processing the recipe and reviewing the resulting markdown file.
