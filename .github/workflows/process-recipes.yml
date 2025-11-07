@@ -1,11 +1,10 @@
-name: Recipe Processing
+name: Process recipes
 
 on:
   schedule:
     # Run at 5am ET (9am UTC during standard time, 10am UTC during daylight time)
     # Using 9am UTC as the primary schedule
     - cron: '0 9 * * *'
-  # Run on pushes to main branch
   push:
     branches: [ main ]
   # Run on pull requests for validation
@@ -19,11 +18,10 @@ jobs:
     runs-on: ubuntu-latest
     
     steps:
-    - name: Checkout main branch
+    - name: Checkout branch
       uses: actions/checkout@v4
       with:
-        ref: main
-        token: ${{ secrets.GITHUB_TOKEN }}
+        fetch-depth: 1
         
     - name: Setup Node.js
       uses: actions/setup-node@v4
@@ -64,7 +62,7 @@ jobs:
         🤖 Generated with automated workflow
         
         Co-Authored-By: GitHub Actions <noreply@github.com>"
-        git push origin main
+        git push origin ${{ github.ref_name }}
         
     - name: No changes summary
       if: steps.changes.outputs.has_changes == 'false'
