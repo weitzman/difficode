@@ -11,7 +11,7 @@
     {"name": "remove-search", "filter": "form[role='search'], .search-form, [class*='search']", "replacement": ""},
     {"name": "remove-product-images", "filter": "img[src*='etsystatic.com/inv/']", "replacement": ""},
     {"name": "remove-tracking", "filter": "*[data-track], *[data-gtm], *[class*='gtm'], *[id*='gtm']", "replacement": ""},
-    {"name": "remove-ads", "filter": "*[class*='ad-'], *[id*='ad-'], .advertisement", "replacement": ""},
+    {"name": "remove-adverts", "filter": "*[class*='ad-'], *[id*='ad-'], .advertisement", "replacement": ""},
     {"name": "remove-pixel-tracking", "filter": "img[src*='facebook.com'], img[src*='pinimg.com'], img[src*='bing.com']", "replacement": ""}
   ]
 }
