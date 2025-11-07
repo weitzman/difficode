@@ -4,7 +4,6 @@
   "enabled": 1,
   "rules": [
     {"name": "remove-scripts", "filter": "script", "replacement": ""},
-    {"name": "remove-noscript", "filter": "noscript", "replacement": ""},
     {"name": "remove-nav", "filter": "nav", "replacement": ""},
     {"name": "remove-header", "filter": "header", "replacement": ""},
     {"name": "remove-footer", "filter": "footer", "replacement": ""},
