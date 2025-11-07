@@ -8,6 +8,10 @@ Selector used: #content
 
 Get to know Etsy's legal terms and policies
 
+Search our policies 
+
+Search
+
 ## [Our House Rules](/legal?ref=pageheader)
 
 Search our policies 
