@@ -365,7 +365,7 @@ class RecipeFetcher {
         if (!recipe.enabled) {
             const reason = recipe.reason || 'No reason provided';
             console.log('Recipe disabled, skipping\n');
-            this.recordError(relativePath, 'disabled_recipe', reason);
+            this.recordError(relativePath, 'disabled_recipe', reason, recipe.url);
             return false;
         }
 
@@ -411,7 +411,7 @@ class RecipeFetcher {
             const status = response.status();
             if (status >= 400) {
                 console.error(`❌ HTTP Error ${status}: Failed to fetch ${url}`);
-                this.recordError(relativePath, 'http_error', `HTTP ${status} error when fetching ${url}`);
+                this.recordError(relativePath, 'http_error', `HTTP ${status} error when fetching ${url}`, url);
                 return null;
             }
             
@@ -426,7 +426,7 @@ class RecipeFetcher {
             return await page.content();
             
         } catch (error) {
-            this.recordError(relativePath, 'fetch_error', `Playwright fetch failed: ${error.message}`);
+            this.recordError(relativePath, 'fetch_error', `Playwright fetch failed: ${error.message}`, url);
             throw new Error(`Playwright fetch failed: ${error.message}`);
         } finally {
             if (browser) {
@@ -569,17 +569,17 @@ class RecipeFetcher {
                 
                 // Track if selector was not found
                 if (!result.selectorFound) {
-                    this.recordError(relativePath, 'selector_not_found', `Selector "${recipe.selector}" not found, used body fallback`);
+                    this.recordError(relativePath, 'selector_not_found', `Selector "${recipe.selector}" not found, used body fallback`, recipe.url);
                 }
                 
                 return true;
             } else {
                 console.log('Failed to convert to markdown');
-                this.recordError(relativePath, 'markdown_conversion_error', 'Failed to convert HTML to markdown');
+                this.recordError(relativePath, 'markdown_conversion_error', 'Failed to convert HTML to markdown', recipe.url);
                 return false;
             }
         } catch (error) {
-            this.recordError(relativePath, 'file_save_error', `Failed to save files: ${error.message}`);
+            this.recordError(relativePath, 'file_save_error', `Failed to save files: ${error.message}`, recipe.url);
             return false;
         }
     }
@@ -587,11 +587,12 @@ class RecipeFetcher {
     /**
      * Record an error that occurred during processing
      */
-    recordError(recipePath, errorType, message) {
+    recordError(recipePath, errorType, message, recipeUrl = null) {
         this.errors.push({
             recipe: recipePath,
             type: errorType,
             message: message,
+            url: recipeUrl,
             timestamp: new Date().toISOString()
         });
     }
@@ -603,46 +604,27 @@ class RecipeFetcher {
         const reportPath = 'report.md';
         
         try {
-            let report = '# Recipe Processing Report\n\n';
-            report += `## Summary\n\n`;
-            report += `- **Total recipes processed:** ${this.processedCount}\n`;
-            report += `- **Successful:** ${this.successCount}\n`;
-            report += `- **Failed:** ${this.errors.length}\n`;
-            report += `- **Success rate:** ${this.processedCount > 0 ? ((this.successCount / this.processedCount) * 100).toFixed(1) : 0}%\n\n`;
-
+            let report;
             if (this.errors.length === 0) {
-                report += '## 🎉 All Recipes Processed Successfully!\n\n';
-                report += 'No errors occurred during this run.\n';
+                report = '✅ All recipes processed successfully\n';
             } else {
-                report += '## ❌ Errors Encountered\n\n';
+                report = '| Provider | Recipe | Error |\n';
+                report += '|----------|--------|-------|\n';
                 
-                // Group errors by type
-                const errorsByType = {};
                 this.errors.forEach(error => {
-                    if (!errorsByType[error.type]) {
-                        errorsByType[error.type] = [];
-                    }
-                    errorsByType[error.type].push(error);
-                });
-
-                // Write errors by type
-                for (const [errorType, errors] of Object.entries(errorsByType)) {
-                    const typeTitle = this.getErrorTypeTitle(errorType);
-                    report += `### ${typeTitle} (${errors.length})\n\n`;
+                    // Extract provider from recipe path (e.g., "stripe/privacy.json" -> "stripe")
+                    const provider = error.recipe.split('/')[0] || 'unknown';
                     
-                    errors.forEach(error => {
-                        report += `- **${error.recipe}**: ${error.message}\n`;
-                    });
-                    report += '\n';
-                }
-
-                // Detailed error log
-                report += '## Detailed Error Log\n\n';
-                this.errors.forEach((error, index) => {
-                    report += `### Error ${index + 1}\n`;
-                    report += `- **Recipe:** ${error.recipe}\n`;
-                    report += `- **Type:** ${this.getErrorTypeTitle(error.type)}\n`;
-                    report += `- **Message:** ${error.message}\n\n`;
+                    // Extract filename only (e.g., "stripe/privacy.json" -> "privacy.json")
+                    const filename = error.recipe.split('/').pop() || error.recipe;
+                    
+                    // Create link using recipe URL if available, otherwise just the filename
+                    const recipeLink = error.url ? `[${filename}](${error.url})` : filename;
+                    
+                    // Escape pipe characters in error message
+                    const escapedMessage = error.message.replace(/\|/g, '\\|');
+                    
+                    report += `| ${provider} | ${recipeLink} | ${escapedMessage} |\n`;
                 });
             }
 
