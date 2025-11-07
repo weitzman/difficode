@@ -1,10 +1,15 @@
 {
   "url": "https://www.etsy.com/legal/privacy/",
-  "selector": "body",
+  "selector": "main",
   "enabled": 1,
   "rules": [
     {"name": "remove-nav", "filter": "nav", "replacement": ""},
     {"name": "remove-header", "filter": "header", "replacement": ""},
-    {"name": "remove-footer", "filter": "footer", "replacement": ""}
+    {"name": "remove-footer", "filter": "footer", "replacement": ""},
+    {"name": "remove-breadcrumb", "filter": ".breadcrumb, .breadcrumbs", "replacement": ""},
+    {"name": "remove-scripts", "filter": "script", "replacement": ""},
+    {"name": "remove-noscript", "filter": "noscript", "replacement": ""},
+    {"name": "remove-gtm", "filter": "*[class*='gtm']", "replacement": ""},
+    {"name": "remove-tracking", "filter": "*[data-track], *[data-gtm]", "replacement": ""}
   ]
 }
