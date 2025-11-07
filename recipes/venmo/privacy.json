@@ -1,11 +1,5 @@
 {
   "url": "https://venmo.com/legal/us-privacy-policy/",
-  "selector": "body",
-  "enabled": 1,
-  "rules": [
-    {"name": "remove-nav", "filter": "nav", "replacement": ""},
-    {"name": "remove-header", "filter": "header", "replacement": ""},
-    {"name": "remove-footer", "filter": "footer", "replacement": ""},
-    {"name": "remove-sidebar", "filter": ".sidebar", "replacement": ""}
-  ]
+  "selector": ".organisms-termstemplate-content",
+  "enabled": 1
 }
