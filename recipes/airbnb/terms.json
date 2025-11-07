@@ -1,0 +1,12 @@
+{
+  "url": "https://www.airbnb.com/terms",
+  "selector": "body",
+  "enabled": 1,
+  "rules": [
+    {"name": "remove-header", "filter": "header", "replacement": ""},
+    {"name": "remove-nav", "filter": "nav", "replacement": ""},
+    {"name": "remove-footer", "filter": "footer", "replacement": ""},
+    {"name": "remove-search", "filter": "[role='search']", "replacement": ""},
+    {"name": "remove-breadcrumb", "filter": "[aria-label*='breadcrumb']", "replacement": ""}
+  ]
+}
