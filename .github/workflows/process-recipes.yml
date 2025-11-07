@@ -1,4 +1,4 @@
-name: Process recipes
+name: Recipe Processing
 
 on:
   schedule:
@@ -15,7 +15,12 @@ on:
 
 jobs:
   process-recipes:
+    name: Process Recipe Changes
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pull-requests: read
+      checks: write
     
     steps:
     - name: Checkout branch
@@ -75,13 +80,16 @@ jobs:
           # Check if there were any errors by looking at the report
           ERROR_COUNT=$(grep -E "^\*\*Failed:\*\* [1-9]" report.md | sed 's/.*Failed:\*\* \([0-9]\+\).*/\1/' || echo "0")
           if [ "$ERROR_COUNT" -gt 0 ]; then
+            echo "::error::Recipe processing failed with $ERROR_COUNT errors"
             echo "❌ Recipe processing failed with $ERROR_COUNT errors"
             echo "Check the job summary for details from report.md"
             exit 1
           else
+            echo "::notice::All recipes processed successfully"
             echo "✅ All recipes processed successfully"
           fi
         else
+          echo "::error::No report.md found - this may indicate a processing failure"
           echo "⚠️ No report.md found - this may indicate a processing failure"
           exit 1
         fi
@@ -137,12 +145,44 @@ jobs:
       if: steps.changes.outputs.has_changes == 'false'
       run: echo "✅ Recipe processing completed - no changes detected"
       
-    - name: Final check status
+    - name: Set check status
+      if: always()
+      uses: actions/github-script@v7
+      with:
+        script: |
+          const { owner, repo } = context.repo;
+          const { sha } = context.payload.pull_request?.head || context;
+          
+          // Determine status based on job outcome
+          const conclusion = '${{ job.status }}' === 'success' ? 'success' : 'failure';
+          const title = conclusion === 'success' ? 
+            '✅ Recipe processing completed successfully' : 
+            '❌ Recipe processing failed';
+          
+          // Create a check run for this commit
+          await github.rest.checks.create({
+            owner,
+            repo,
+            name: 'Recipe Processing',
+            head_sha: sha,
+            status: 'completed',
+            conclusion: conclusion,
+            output: {
+              title: title,
+              summary: conclusion === 'success' ? 
+                'All recipe changes processed successfully with no errors.' :
+                'Recipe processing encountered errors. Check the workflow logs and job summary for details.'
+            }
+          });
+          
+    - name: Final status check
       if: always()
       run: |
         if [ "${{ job.status }}" = "failure" ]; then
+          echo "::error::Recipe processing workflow failed"
           echo "❌ Recipe processing check failed"
           exit 1
         else
+          echo "::notice::Recipe processing workflow completed successfully" 
           echo "✅ Recipe processing check completed successfully"
         fi
