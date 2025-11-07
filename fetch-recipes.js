@@ -111,25 +111,81 @@ class RecipeFetcher {
         this.recipesDir = recipesDir;
         this.outputDir = outputDir;
         this.saveHtml = saveHtml;
-        this.isFullRun = recipesDir === './recipes'; // Only write report for full runs
+        // Only write report for full runs (default recipes dir) or when single path equals './recipes'
+        this.isFullRun = recipesDir === './recipes' || (typeof recipesDir === 'string' && recipesDir === './recipes');
         this.errors = [];
         this.processedCount = 0;
         this.successCount = 0;
     }
 
     /**
-     * Clean output directory or subdirectory
+     * Clean corresponding output files for the recipes being processed
      */
     cleanOutput(targetDir = null) {
-        const cleanDir = targetDir || this.outputDir;
-        
-        if (!fs.existsSync(cleanDir)) {
-            console.log(`📁 Directory doesn't exist: ${cleanDir}\n`);
+        if (targetDir) {
+            // Specific target provided - clean it (directory or file)
+            if (!fs.existsSync(targetDir)) {
+                console.log(`📁 Target doesn't exist: ${targetDir}\n`);
+                return;
+            }
+            
+            const stat = fs.statSync(targetDir);
+            if (stat.isDirectory()) {
+                console.log(`🧹 Cleaning directory: ${targetDir}`);
+                fs.rmSync(targetDir, { recursive: true, force: true });
+            } else {
+                console.log(`🧹 Cleaning file: ${targetDir}`);
+                fs.rmSync(targetDir, { force: true });
+            }
+        } else {
+            // Clean corresponding output files for each recipe being processed
+            const jsonFiles = this.getRecipeFiles();
+            
+            console.log(`🧹 Cleaning output files for ${jsonFiles.length} recipes`);
+            
+            for (const filePath of jsonFiles) {
+                const relativePath = PathUtils.getRelativePath(filePath, this.recipesDir);
+                const outputPath = PathUtils.getOutputPath(relativePath, this.outputDir);
+                
+                // Clean both .md and .html files
+                const markdownFile = path.join(outputPath.dir, `${outputPath.name}.md`);
+                const htmlFile = path.join(outputPath.dir, `${outputPath.name}.html`);
+                
+                if (fs.existsSync(markdownFile)) {
+                    console.log(`🗑️  Removing: ${markdownFile}`);
+                    fs.rmSync(markdownFile, { force: true });
+                }
+                
+                if (fs.existsSync(htmlFile)) {
+                    console.log(`🗑️  Removing: ${htmlFile}`);
+                    fs.rmSync(htmlFile, { force: true });
+                }
+                
+                // Remove empty parent directories
+                this.removeEmptyDirs(outputPath.dir);
+            }
+        }
+    }
+
+    /**
+     * Remove empty directories recursively up to the output directory
+     */
+    removeEmptyDirs(dir) {
+        if (dir === this.outputDir || !fs.existsSync(dir)) {
             return;
         }
-
-        console.log(`🧹 Cleaning directory: ${cleanDir}`);
-        fs.rmSync(cleanDir, { recursive: true, force: true });
+        
+        try {
+            const items = fs.readdirSync(dir);
+            if (items.length === 0) {
+                console.log(`🗑️  Removing empty directory: ${dir}`);
+                fs.rmdirSync(dir);
+                // Recursively check parent directory
+                this.removeEmptyDirs(path.dirname(dir));
+            }
+        } catch (error) {
+            // Ignore errors - directory might not be empty or might have permission issues
+        }
     }
 
     /**
@@ -138,9 +194,19 @@ class RecipeFetcher {
     async fetchRecipes() {
         console.log('Starting recipe fetching...\n');
         
-        if (!fs.existsSync(this.recipesDir)) {
-            console.error('Error: recipes path not found');
-            return;
+        // Check if paths exist - handle both single path and array of paths
+        if (Array.isArray(this.recipesDir)) {
+            for (const recipePath of this.recipesDir) {
+                if (!fs.existsSync(recipePath)) {
+                    console.error(`Error: recipes path not found: ${recipePath}`);
+                    return;
+                }
+            }
+        } else {
+            if (!fs.existsSync(this.recipesDir)) {
+                console.error('Error: recipes path not found');
+                return;
+            }
         }
 
         if (!fs.existsSync(this.outputDir)) {
@@ -168,24 +234,47 @@ class RecipeFetcher {
     }
 
     /**
-     * Get all recipe JSON files from the recipes directory
+     * Get all recipe JSON files from the recipes directory or array of paths
      */
     getRecipeFiles() {
-        const stat = fs.statSync(this.recipesDir);
+        // Handle array of recipe paths
+        if (Array.isArray(this.recipesDir)) {
+            const allFiles = [];
+            for (const recipePath of this.recipesDir) {
+                const files = this.getRecipeFilesFromPath(recipePath);
+                allFiles.push(...files);
+            }
+            return allFiles;
+        }
+        
+        // Handle single path (original behavior)
+        return this.getRecipeFilesFromPath(this.recipesDir);
+    }
+
+    /**
+     * Get recipe files from a single path (file or directory)
+     */
+    getRecipeFilesFromPath(recipePath) {
+        if (!fs.existsSync(recipePath)) {
+            console.error(`Error: ${recipePath} does not exist`);
+            return [];
+        }
+
+        const stat = fs.statSync(recipePath);
         
         if (stat.isFile()) {
-            if (path.extname(this.recipesDir) !== '.json') {
-                console.error(`Error: ${this.recipesDir} is not a JSON file`);
+            if (path.extname(recipePath) !== '.json') {
+                console.error(`Error: ${recipePath} is not a JSON file`);
                 return [];
             }
-            return [this.recipesDir];
+            return [recipePath];
         }
         
         if (stat.isDirectory()) {
-            return this.findJsonFiles(this.recipesDir);
+            return this.findJsonFiles(recipePath);
         }
         
-        console.error(`Error: ${this.recipesDir} is neither a file nor a directory`);
+        console.error(`Error: ${recipePath} is neither a file nor a directory`);
         return [];
     }
 
@@ -257,7 +346,13 @@ class RecipeFetcher {
     loadRecipe(filePath) {
         const content = fs.readFileSync(filePath, 'utf8');
         const recipe = JSON.parse(content);
-        recipe.enabled = recipe.enabled !== undefined ? recipe.enabled : 1;
+        // Handle enabled field - convert string/number to boolean
+        if (recipe.enabled !== undefined) {
+            // Convert string "0" or number 0 to false, everything else to true
+            recipe.enabled = recipe.enabled !== 0 && recipe.enabled !== "0";
+        } else {
+            recipe.enabled = true; // Default to enabled if not specified
+        }
         return recipe;
     }
 
@@ -594,8 +689,17 @@ function parseArgs() {
     for (let i = 0; i < args.length; i++) {
         switch (args[i]) {
             case '--recipes':
-                if (i + 1 < args.length) {
-                    config.recipesDir = args[++i];
+                // Collect all values until next flag or end of args
+                const recipePaths = [];
+                i++; // Move past --recipes
+                while (i < args.length && !args[i].startsWith('--')) {
+                    recipePaths.push(args[i]);
+                    i++;
+                }
+                i--; // Back up one since loop will increment
+                
+                if (recipePaths.length > 0) {
+                    config.recipesDir = recipePaths.length === 1 ? recipePaths[0] : recipePaths;
                 }
                 break;
             case '--output':
@@ -622,17 +726,20 @@ function parseArgs() {
  * Show help information
  */
 function showHelp() {
-    console.log('Usage: node fetch-recipes.js [--recipes <path>] [--output <dir>] [--clean] [--html]');
-    console.log('  --recipes <path>  Recipe file or directory (default: ./recipes)');
+    console.log('Usage: node fetch-recipes.js [--recipes <path> [<path2> ...]] [--output <dir>] [--clean] [--html]');
+    console.log('  --recipes <path>  Recipe file(s) or directory(ies) (default: ./recipes)');
+    console.log('                    Can specify multiple paths separated by spaces');
     console.log('  --output <dir>    Output directory (default: ./agreements)');
-    console.log('  --clean           Clean output directory before processing');
-    console.log('                    - With --recipes: cleans specific output subdirectory');
-    console.log('                    - Without --recipes: cleans entire output directory');
+    console.log('  --clean           Clean corresponding output files before processing');
+    console.log('                    - Removes .md and .html files for specified recipes');
+    console.log('                    - Removes empty directories after file deletion');
+    console.log('                    - Useful when recipes are disabled to clean up old output');
     console.log('  --html            Save cleaned HTML files in addition to Markdown files');
     console.log('');
     console.log('Examples:');
     console.log('  node fetch-recipes.js --recipes recipes/facebook/privacy.json --clean');
     console.log('  node fetch-recipes.js --recipes recipes/verizon/ --clean');
+    console.log('  node fetch-recipes.js --recipes recipes/facebook/ recipes/google/ recipes/apple.json');
     console.log('  node fetch-recipes.js --clean');
     console.log('  node fetch-recipes.js --recipes recipes/');
 }
@@ -652,10 +759,9 @@ async function main() {
     
     // Handle cleaning if requested
     if (config.shouldClean) {
-        const targetDir = config.recipesDir !== './recipes' 
-            ? PathUtils.getCleanTarget(config.recipesDir, config.outputDir)
-            : null;
-        fetcher.cleanOutput(targetDir);
+        // When specific recipes are provided, clean only their corresponding output files
+        // When no specific recipes (full run), clean all output files
+        fetcher.cleanOutput();
     }
     
     await fetcher.fetchRecipes();

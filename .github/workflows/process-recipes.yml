@@ -1,0 +1,103 @@
+name: Process recipes
+
+on:
+  schedule:
+    # Run at 5am ET (9am UTC during standard time, 10am UTC during daylight time)
+    # Using 9am UTC as the primary schedule
+    - cron: '0 9 * * *'
+#  push:
+#    branches: [ main ]
+  # Run on pull requests for validation
+  pull_request:
+    branches: [ main ]
+  # Allow manual triggering for testing
+  workflow_dispatch:
+
+jobs:
+  process-recipes:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout branch
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 0  # Fetch full history
+        ref: ${{ github.head_ref }}
+
+    - name: Fetch base branch
+      run: git fetch origin ${{ github.event.pull_request.base.ref }}:${{ github.event.pull_request.base.ref }}
+
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '18'
+        cache: 'npm'
+        
+    - name: Install dependencies
+      run: npm ci
+      
+    - name: Install Playwright browsers
+      run: npx playwright install chromium
+      
+    - name: Get changed recipe files
+      id: changed_files
+      run: |
+        # Get changed recipe files between current branch and target branch
+        if [ "${{ github.event_name }}" = "pull_request" ]; then
+          # For pull requests: compare with the target branch (main)
+          CHANGED_FILES=$(git diff --name-only origin/${{ github.event.pull_request.base.ref }}...HEAD -- recipes/ | grep '\.json$' || true)
+        else
+          # For push events: compare with previous commit
+          CHANGED_FILES=$(git diff --name-only HEAD~1 HEAD -- recipes/ | grep '\.json$' || true)
+        fi
+        
+        if [ -z "$CHANGED_FILES" ]; then
+          echo "No recipe files changed"
+          echo "has_changes=false" >> $GITHUB_OUTPUT
+          echo "changed_files=" >> $GITHUB_OUTPUT
+        else
+          echo "Changed recipe files:"
+          echo "$CHANGED_FILES"
+          # Convert newlines to spaces for command line usage
+          CHANGED_FILES_ARGS=$(echo "$CHANGED_FILES" | tr '\n' ' ' | sed 's/[[:space:]]*$//')
+          echo "has_changes=true" >> $GITHUB_OUTPUT
+          echo "changed_files=$CHANGED_FILES_ARGS" >> $GITHUB_OUTPUT
+        fi
+        
+    - name: Process changed recipes
+      if: steps.changed_files.outputs.has_changes == 'true'
+      run: node fetch-recipes.js --clean --recipes ${{ steps.changed_files.outputs.changed_files }}
+      
+    - name: No recipes to process
+      if: steps.changed_files.outputs.has_changes == 'false'
+      run: echo "✅ No recipe files have changed - skipping processing"
+      
+    - name: Check for changes
+      id: changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        
+        # Check if there are any changes to commit
+        if git diff --quiet && git diff --staged --quiet; then
+          echo "No changes to commit"
+          echo "has_changes=false" >> $GITHUB_OUTPUT
+        else
+          echo "Changes detected"
+          echo "has_changes=true" >> $GITHUB_OUTPUT
+        fi
+        
+    - name: Commit and push changes
+      if: steps.changes.outputs.has_changes == 'true'
+      run: |
+        git add agreements/ report.md
+        git commit -m "📄 Recipe processing update $(date '+%Y-%m-%d')
+
+        🤖 Generated with automated workflow
+        
+        Co-Authored-By: GitHub Actions <noreply@github.com>"
+        git push origin ${{ github.head_ref }}
+        
+    - name: No changes summary
+      if: steps.changes.outputs.has_changes == 'false'
+      run: echo "✅ Recipe processing completed - no changes detected"
