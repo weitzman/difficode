@@ -5,6 +5,9 @@ on:
     # Run at 5am ET (9am UTC during standard time, 10am UTC during daylight time)
     # Using 9am UTC as the primary schedule
     - cron: '0 9 * * *'
+  # Run on pushes to main branch
+  push:
+    branches: [ main ]
   # Run on pull requests for validation
   pull_request:
     branches: [ main ]
