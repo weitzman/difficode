@@ -1,0 +1,11 @@
+{
+  "url": "https://discord.com/guidelines",
+  "selector": ".section-rich",
+  "enabled": 1,
+  "rules": [
+    {"name": "remove-nav", "filter": "nav", "replacement": ""},
+    {"name": "remove-header", "filter": "header", "replacement": ""},
+    {"name": "remove-footer", "filter": "footer", "replacement": ""},
+    {"name": "remove-banner", "filter": "[class*='banner']", "replacement": ""}
+  ]
+}

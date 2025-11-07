@@ -10,7 +10,7 @@ Each time our scripts run, they fetch and convert a recipe into Markdown and wri
 
 Recipe providers
 ----------------
-When suggesting recipes, pick major online service providers. Focus on B2C, not B2B.
+When suggesting recipes, pick major online service providers. Focus on B2C, not B2B. Don't suggest a recipe that we already have.
 
 Recipe format
 ---------------
