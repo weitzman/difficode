@@ -1,17 +1,5 @@
 {
   "url": "https://www.etsy.com/legal/privacy/",
-  "selector": "#content",
-  "enabled": 1,
-  "rules": [
-    {"name": "remove-scripts", "filter": "script", "replacement": ""},
-    {"name": "remove-nav", "filter": "nav", "replacement": ""},
-    {"name": "remove-header", "filter": "header", "replacement": ""},
-    {"name": "remove-footer", "filter": "footer", "replacement": ""},
-    {"name": "remove-breadcrumb", "filter": ".breadcrumb, .breadcrumbs, [class*='breadcrumb']", "replacement": ""},
-    {"name": "remove-search", "filter": "form[role='search'], .search-form, [class*='search']", "replacement": ""},
-    {"name": "remove-product-images", "filter": "img[src*='etsystatic.com/inv/']", "replacement": ""},
-    {"name": "remove-tracking", "filter": "*[data-track], *[data-gtm], *[class*='gtm'], *[id*='gtm']", "replacement": ""},
-    {"name": "remove-adverts", "filter": "*[class*='ad-'], *[id*='ad-'], .advertisement", "replacement": ""},
-    {"name": "remove-pixel-tracking", "filter": "img[src*='facebook.com'], img[src*='pinimg.com'], img[src*='bing.com']", "replacement": ""}
-  ]
+  "selector": "article",
+  "enabled": 1
 }
