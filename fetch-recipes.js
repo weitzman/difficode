@@ -606,27 +606,27 @@ class RecipeFetcher {
         try {
             let report;
             if (this.errors.length === 0) {
-                report = '✅ All recipes processed successfully\n';
-            } else {
-                report = '| Provider | Recipe | Error |\n';
-                report += '|----------|--------|-------|\n';
-                
-                this.errors.forEach(error => {
-                    // Extract provider from recipe path (e.g., "stripe/privacy.json" -> "stripe")
-                    const provider = error.recipe.split('/')[0] || 'unknown';
-                    
-                    // Extract filename only (e.g., "stripe/privacy.json" -> "privacy.json")
-                    const filename = error.recipe.split('/').pop() || error.recipe;
-                    
-                    // Create link using recipe URL if available, otherwise just the filename
-                    const recipeLink = error.url ? `[${filename}](${error.url})` : filename;
-                    
-                    // Escape pipe characters in error message
-                    const escapedMessage = error.message.replace(/\|/g, '\\|');
-                    
-                    report += `| ${provider} | ${recipeLink} | ${escapedMessage} |\n`;
-                });
+                return;
             }
+
+            report = '| Provider | Recipe | Error |\n';
+            report += '|----------|--------|-------|\n';
+
+            this.errors.forEach(error => {
+                // Extract provider from recipe path (e.g., "stripe/privacy.json" -> "stripe")
+                const provider = error.recipe.split('/')[0] || 'unknown';
+
+                // Extract filename only (e.g., "stripe/privacy.json" -> "privacy.json")
+                const filename = error.recipe.split('/').pop() || error.recipe;
+
+                // Create link using recipe URL if available, otherwise just the filename
+                const recipeLink = error.url ? `[${filename}](${error.url})` : filename;
+
+                // Escape pipe characters in error message
+                const escapedMessage = error.message.replace(/\|/g, '\\|');
+
+                report += `| ${provider} | ${recipeLink} | ${escapedMessage} |\n`;
+            });
 
             fs.writeFileSync(reportPath, report);
             console.log(`📊 Error report written to: ${reportPath}`);
