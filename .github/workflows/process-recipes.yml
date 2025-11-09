@@ -70,11 +70,18 @@ jobs:
         fi
         
     - name: Process changed recipes
-      if: steps.changed_files.outputs.has_changes == 'true'
-      run: node fetch-recipes.js --clean --recipes ${{ steps.changed_files.outputs.changed_files }}
+      if: steps.changed_files.outputs.has_changes == 'true' || github.event_name == 'schedule'
+      run: |
+        if [ "${{ github.event_name }}" = "schedule" ]; then
+          # For scheduled runs, process all recipes
+          node fetch-recipes.js --clean
+        else
+          # For PR/push runs, process specific changed recipes
+          node fetch-recipes.js --clean --recipes ${{ steps.changed_files.outputs.changed_files }}
+        fi
       
     - name: Check processing results and fail if errors
-      if: steps.changed_files.outputs.has_changes == 'true'
+      if: steps.changed_files.outputs.has_changes == 'true' || github.event_name == 'schedule'
       run: |
         if [ -f "report.md" ]; then
           # Check if there were any errors by looking at the report
@@ -95,7 +102,7 @@ jobs:
         fi
       
     - name: Generate job summary from report
-      if: always() && steps.changed_files.outputs.has_changes == 'true'
+      if: always() && (steps.changed_files.outputs.has_changes == 'true' || github.event_name == 'schedule')
       run: |
         if [ -f "report.md" ]; then
           echo "## Recipe Processing Results" >> $GITHUB_STEP_SUMMARY
