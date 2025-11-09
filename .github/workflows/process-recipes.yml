@@ -135,7 +135,7 @@ jobs:
         
     - name: No changes summary
       if: steps.changes.outputs.has_changes == 'false'
-      run: echo "✅ Recipe processing completed - no changes detected"
+      run: echo "✅ Recipe processing completed - no git changes detected"
 
     - name: Set check status
       # Disabled since it is causing duplicate status check.

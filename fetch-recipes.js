@@ -384,55 +384,132 @@ class RecipeFetcher {
     }
 
     /**
-     * Fetch URL content using Playwright
+     * Fetch URL content using Playwright with retry logic
      */
     async fetchUrl(url, relativePath) {
-        let browser;
-        try {
-            console.log('Launching browser...');
-            browser = await chromium.launch(BROWSER_CONFIG);
-            const context = await browser.newContext(CONTEXT_CONFIG);
-            const page = await context.newPage();
+        const maxRetries = 3;
+        const baseDelay = 1000; // 1 second base delay
+        
+        for (let attempt = 1; attempt <= maxRetries; attempt++) {
+            let browser;
             
-            // Add stealth measures
-            await this.addStealthScript(page);
-            
-            // Add random delay before navigation (1-3 seconds)
-            const preNavigationDelay = Math.floor(Math.random() * 2000) + 1000;
-            await page.waitForTimeout(preNavigationDelay);
-            
-            console.log('Navigating to URL...');
-            const response = await page.goto(url, { 
-                waitUntil: 'domcontentloaded', 
-                timeout: 45000 
-            });
-            
-            // Check HTTP status code
-            const status = response.status();
-            if (status >= 400) {
-                console.error(`❌ HTTP Error ${status}: Failed to fetch ${url}`);
-                this.recordError(relativePath, 'http_error', `HTTP ${status} error when fetching ${url}`, url);
-                return null;
-            }
-            
-            // Random human-like behavior
-            await this.simulateHumanBehavior(page);
-            
-            // Wait for dynamic content with longer timeout for challenging sites
-            const contentDelay = Math.floor(Math.random() * 3000) + 4000; // 4-7 seconds
-            await page.waitForTimeout(contentDelay);
-            
-            console.log('Getting page content...');
-            return await page.content();
-            
-        } catch (error) {
-            this.recordError(relativePath, 'fetch_error', `Playwright fetch failed: ${error.message}`, url);
-            throw new Error(`Playwright fetch failed: ${error.message}`);
-        } finally {
-            if (browser) {
-                await browser.close();
+            try {
+                console.log(`Launching browser... (attempt ${attempt}/${maxRetries})`);
+                browser = await chromium.launch(BROWSER_CONFIG);
+                const context = await browser.newContext(CONTEXT_CONFIG);
+                const page = await context.newPage();
+                
+                // Add stealth measures
+                await this.addStealthScript(page);
+                
+                // Add random delay before navigation (1-3 seconds)
+                const preNavigationDelay = Math.floor(Math.random() * 2000) + 1000;
+                await page.waitForTimeout(preNavigationDelay);
+                
+                console.log('Navigating to URL...');
+                const response = await page.goto(url, { 
+                    waitUntil: 'domcontentloaded', 
+                    timeout: 45000 
+                });
+                
+                // Check HTTP status code
+                const status = response.status();
+                if (status >= 400) {
+                    const isRetryableError = this.isRetryableHttpError(status);
+                    console.error(`❌ HTTP Error ${status}: Failed to fetch ${url}`);
+                    
+                    if (isRetryableError && attempt < maxRetries) {
+                        console.log(`🔄 Retryable error, will retry in ${this.calculateDelay(attempt, baseDelay)}ms...`);
+                        await browser.close();
+                        await this.sleep(this.calculateDelay(attempt, baseDelay));
+                        continue;
+                    } else {
+                        this.recordError(relativePath, 'http_error', `HTTP ${status} error when fetching ${url}`, url);
+                        return null;
+                    }
+                }
+                
+                // Random human-like behavior
+                await this.simulateHumanBehavior(page);
+                
+                // Wait for dynamic content with longer timeout for challenging sites
+                const contentDelay = Math.floor(Math.random() * 3000) + 4000; // 4-7 seconds
+                await page.waitForTimeout(contentDelay);
+                
+                console.log('Getting page content...');
+                const content = await page.content();
+                
+                if (attempt > 1) {
+                    console.log(`✅ Success on attempt ${attempt}`);
+                }
+                
+                return content;
+                
+            } catch (error) {
+                const isRetryableError = this.isRetryableError(error);
+                console.error(`❌ Attempt ${attempt} failed: ${error.message}`);
+                
+                if (isRetryableError && attempt < maxRetries) {
+                    console.log(`🔄 Retryable error, will retry in ${this.calculateDelay(attempt, baseDelay)}ms...`);
+                    await this.sleep(this.calculateDelay(attempt, baseDelay));
+                } else {
+                    this.recordError(relativePath, 'fetch_error', `Playwright fetch failed after ${attempt} attempts: ${error.message}`, url);
+                    throw new Error(`Playwright fetch failed after ${attempt} attempts: ${error.message}`);
+                }
+            } finally {
+                if (browser) {
+                    await browser.close();
+                }
             }
         }
+        
+        // This should never be reached due to the throw above, but just in case
+        return null;
+    }
+
+    /**
+     * Determine if HTTP error is retryable
+     */
+    isRetryableHttpError(status) {
+        // Retry on server errors (5xx) and specific client errors
+        return status >= 500 || // Server errors
+               status === 429 || // Rate limiting
+               status === 403 || // Forbidden (might be temporary blocking)
+               status === 408;   // Request timeout
+    }
+
+    /**
+     * Determine if error is retryable
+     */
+    isRetryableError(error) {
+        const message = error.message.toLowerCase();
+        
+        // Network and timeout errors are retryable
+        return message.includes('timeout') ||
+               message.includes('connection') ||
+               message.includes('network') ||
+               message.includes('disconnected') ||
+               message.includes('protocol error') ||
+               message.includes('target closed') ||
+               message.includes('navigation failed') ||
+               message.includes('net::');
+    }
+
+    /**
+     * Calculate exponential backoff delay with jitter
+     */
+    calculateDelay(attempt, baseDelay) {
+        // Exponential backoff: baseDelay * 2^(attempt-1) + random jitter
+        const exponentialDelay = baseDelay * Math.pow(2, attempt - 1);
+        const jitter = Math.random() * 1000; // Add up to 1 second of random jitter
+        return Math.min(exponentialDelay + jitter, 30000); // Cap at 30 seconds
+    }
+
+    /**
+     * Sleep for specified milliseconds
+     */
+    sleep(ms) {
+        return new Promise(resolve => setTimeout(resolve, ms));
     }
 
     /**
