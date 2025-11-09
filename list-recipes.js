@@ -74,8 +74,10 @@ class RecipeTableGenerator {
      */
     formatSourceName(filename) {
         const basename = path.basename(filename, '.json');
+        
         // Convert to initial case (capitalize first letter of each word)
-        return basename.split(/[-_]/).map(word => 
+        return basename.split(/[-_]/).map(word =>
+            word.toLowerCase() === 'tos' ? 'TOS' :
             word.charAt(0).toUpperCase() + word.slice(1).toLowerCase()
         ).join(' ');
     }
