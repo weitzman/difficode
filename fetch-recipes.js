@@ -543,78 +543,32 @@ class RecipeFetcher {
     }
 
     /**
-     * Add comprehensive stealth measures to avoid detection
+     * Add essential stealth measures to avoid detection
      */
     async addStealthScript(page) {
         await page.addInitScript(() => {
-            // Remove webdriver property
+            // Remove webdriver property - most important detection method
             delete navigator.webdriver;
-            
-            // Override navigator properties with realistic values
             Object.defineProperty(navigator, 'webdriver', {
                 get: () => undefined,
             });
             
-            Object.defineProperty(navigator, 'plugins', {
-                get: () => [
-                    { name: 'Chrome PDF Plugin', filename: 'internal-pdf-viewer' },
-                    { name: 'Chrome PDF Viewer', filename: 'mhjfbmdgcfjbbpaeojofohoefgiehjai' },
-                    { name: 'Native Client', filename: 'internal-nacl-plugin' }
-                ],
-            });
-            
-            Object.defineProperty(navigator, 'languages', {
-                get: () => ['en-US', 'en'],
-            });
-            
-            Object.defineProperty(navigator, 'permissions', {
-                get: () => ({
-                    query: () => Promise.resolve({ state: 'granted' }),
-                }),
-            });
-            
-            // Override chrome runtime
-            if (navigator.chrome) {
-                Object.defineProperty(navigator.chrome, 'runtime', {
-                    get: () => ({
-                        onConnect: undefined,
-                        onMessage: undefined,
-                    }),
-                });
-            }
-            
-            // Mock realistic screen properties
-            Object.defineProperty(screen, 'colorDepth', { get: () => 24 });
-            Object.defineProperty(screen, 'pixelDepth', { get: () => 24 });
-            
-            // Override Date to prevent timezone detection inconsistencies
-            const originalDate = Date;
-            Date = class extends originalDate {
-                getTimezoneOffset() { return 300; } // EST timezone offset
-            };
-            
-            // Add realistic connection properties
-            Object.defineProperty(navigator, 'connection', {
-                get: () => ({
-                    effectiveType: '4g',
-                    rtt: 100,
-                    downlink: 2.0,
-                }),
-            });
-            
-            // Remove automation indicators
+            // Hide automation indicators
             if (window.chrome && window.chrome.runtime && window.chrome.runtime.onConnect) {
                 delete window.chrome.runtime.onConnect;
             }
             
-            // Mock realistic battery API
-            Object.defineProperty(navigator, 'getBattery', {
-                get: () => () => Promise.resolve({
-                    charging: true,
-                    chargingTime: 0,
-                    dischargingTime: Infinity,
-                    level: 1,
-                }),
+            // Override plugins to look more realistic
+            Object.defineProperty(navigator, 'plugins', {
+                get: () => [
+                    { name: 'Chrome PDF Plugin', filename: 'internal-pdf-viewer' },
+                    { name: 'Chrome PDF Viewer', filename: 'mhjfbmdgcfjbbpaeojofohoefgiehjai' }
+                ],
+            });
+            
+            // Consistent language settings
+            Object.defineProperty(navigator, 'languages', {
+                get: () => ['en-US', 'en'],
             });
         });
     }
