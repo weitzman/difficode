@@ -137,10 +137,31 @@ jobs:
           echo "has_changes=true" >> $GITHUB_OUTPUT
         fi
         
+    - name: Update README agreements table
+      if: steps.changes.outputs.has_changes == 'true' || github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+      run: |
+        # Generate new table from recipes
+        NEW_TABLE=$(node list-recipes.js)
+        
+        # Update README.md between the markers
+        awk '
+        BEGIN { in_section = 0 }
+        /<!-- START_AGREEMENTS -->/ { 
+            print $0
+            print "'"$NEW_TABLE"'"
+            in_section = 1
+            next
+        }
+        /<!-- END_AGREEMENTS -->/ { 
+            in_section = 0
+        }
+        !in_section { print }
+        ' README.md > README.md.tmp && mv README.md.tmp README.md
+        
     - name: Commit and push changes
       if: steps.changes.outputs.has_changes == 'true'
       run: |
-        git add agreements/ report.md
+        git add agreements/ report.md README.md
         git commit -m "📄 Recipe processing update $(date '+%Y-%m-%d')
 
         🤖 Generated with automated workflow
