@@ -69,7 +69,7 @@ jobs:
           echo "changed_files=$CHANGED_FILES_ARGS" >> $GITHUB_OUTPUT
         fi
         
-    - name: Process changed recipes
+    - name: Process recipes
       if: steps.changed_files.outputs.has_changes == 'true' || github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
       run: |
         if [ "${{ github.event_name }}" = "schedule" ] || [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
