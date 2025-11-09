@@ -70,10 +70,10 @@ jobs:
         fi
         
     - name: Process changed recipes
-      if: steps.changed_files.outputs.has_changes == 'true' || github.event_name == 'schedule'
+      if: steps.changed_files.outputs.has_changes == 'true' || github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
       run: |
-        if [ "${{ github.event_name }}" = "schedule" ]; then
-          # For scheduled runs, process all recipes
+        if [ "${{ github.event_name }}" = "schedule" ] || [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+          # For scheduled and manual runs, process all recipes
           node fetch-recipes.js --clean
         else
           # For PR/push runs, process specific changed recipes
@@ -81,7 +81,7 @@ jobs:
         fi
       
     - name: Check processing results and fail if errors
-      if: steps.changed_files.outputs.has_changes == 'true' || github.event_name == 'schedule'
+      if: steps.changed_files.outputs.has_changes == 'true' || github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
       run: |
         if [ -f "report.md" ]; then
           # Check if there were any errors by looking at the report
@@ -102,7 +102,7 @@ jobs:
         fi
       
     - name: Generate job summary from report
-      if: always() && (steps.changed_files.outputs.has_changes == 'true' || github.event_name == 'schedule')
+      if: steps.changed_files.outputs.has_changes == 'true' || github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
       run: |
         if [ -f "report.md" ]; then
           echo "## Recipe Processing Results" >> $GITHUB_STEP_SUMMARY
