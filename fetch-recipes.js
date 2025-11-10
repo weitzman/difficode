@@ -107,10 +107,11 @@ const PathUtils = {
 };
 
 class RecipeFetcher {
-    constructor(recipesDir = './recipes', outputDir = './agreements', saveHtml = false) {
+    constructor(recipesDir = './recipes', outputDir = './agreements', saveHtml = false, concurrency = 3) {
         this.recipesDir = recipesDir;
         this.outputDir = outputDir;
         this.saveHtml = saveHtml;
+        this.concurrency = concurrency;
         this.errors = [];
         this.processedCount = 0;
         this.successCount = 0;
@@ -219,20 +220,50 @@ class RecipeFetcher {
         }
         
         console.log(`Found ${jsonFiles.length} recipe files\n`);
+        console.log(`Processing with concurrency: ${this.concurrency}\n`);
 
         // Reset counters for this run
         this.errors = [];
         this.processedCount = 0;
         this.successCount = 0;
 
-        for (const filePath of jsonFiles) {
-            await this.processRecipe(filePath);
-        }
+        // Process recipes with controlled concurrency
+        await this.processConcurrently(jsonFiles);
 
         console.log('Recipe fetching completed!');
+        console.log(`📊 Results: ${this.successCount}/${this.processedCount} successful\n`);
         
         // Always write error report
         await this.writeErrorReport();
+    }
+
+    /**
+     * Process recipes with controlled concurrency using a semaphore pattern
+     */
+    async processConcurrently(jsonFiles) {
+        const semaphore = new Array(this.concurrency).fill(null);
+        let currentIndex = 0;
+        
+        const processNext = async (workerIndex) => {
+            while (currentIndex < jsonFiles.length) {
+                const index = currentIndex++;
+                const filePath = jsonFiles[index];
+                
+                console.log(`🏃 Worker ${workerIndex + 1}: Starting ${index + 1}/${jsonFiles.length}`);
+                
+                try {
+                    await this.processRecipe(filePath);
+                } catch (error) {
+                    console.error(`Worker ${workerIndex + 1}: Failed processing ${filePath}: ${error.message}`);
+                }
+            }
+        };
+        
+        // Start all workers
+        const workers = semaphore.map((_, index) => processNext(index));
+        
+        // Wait for all workers to complete
+        await Promise.all(workers);
     }
 
     /**
@@ -302,26 +333,31 @@ class RecipeFetcher {
     }
 
     /**
-     * Process a single recipe file
+     * Process a single recipe file (thread-safe for concurrent execution)
      */
     async processRecipe(filePath) {
         const relativePath = PathUtils.getRelativePath(filePath, this.recipesDir);
-        console.log(`Processing: ${relativePath}`);
-        this.processedCount++;
+        const startTime = Date.now();
+        
+        // Thread-safe counter increment
+        const recipeNumber = ++this.processedCount;
+        
+        console.log(`[${recipeNumber}] Processing: ${relativePath}`);
 
         try {
             const recipe = this.loadRecipe(filePath);
             
             if (!this.validateRecipe(recipe, relativePath)) {
+                console.log(`[${recipeNumber}] ⏭️  Skipped (disabled)\n`);
                 return;
             }
 
-            console.log(`URL: ${recipe.url}`);
-            console.log(`Selector: ${recipe.selector}`);
+            console.log(`[${recipeNumber}] URL: ${recipe.url}`);
+            console.log(`[${recipeNumber}] Selector: ${recipe.selector}`);
 
             const html = await this.fetchUrl(recipe.url, relativePath);
             if (!html) {
-                console.log('❌ Failed to fetch HTML, skipping\n');
+                console.log(`[${recipeNumber}] ❌ Failed to fetch HTML, skipping\n`);
                 return;
             }
 
@@ -329,13 +365,16 @@ class RecipeFetcher {
             const success = await this.saveFiles(outputPath, html, recipe, relativePath);
             
             if (success) {
-                console.log('✅ Success\n');
+                const duration = ((Date.now() - startTime) / 1000).toFixed(1);
+                console.log(`[${recipeNumber}] ✅ Success (${duration}s)\n`);
                 this.successCount++;
             }
 
         } catch (error) {
-            console.error(`Error processing ${relativePath}: ${error.message}\n`);
-            // Only record processing error if no other error was already recorded for this recipe
+            const duration = ((Date.now() - startTime) / 1000).toFixed(1);
+            console.error(`[${recipeNumber}] Error processing ${relativePath}: ${error.message} (${duration}s)\n`);
+            
+            // Thread-safe error recording
             if (!this.errors.some(e => e.recipe === relativePath)) {
                 this.recordError(relativePath, 'processing_error', error.message);
             }
@@ -698,7 +737,8 @@ function parseArgs() {
         outputDir: './agreements',
         shouldClean: false,
         showHelp: false,
-        saveHtml: false
+        saveHtml: false,
+        concurrency: 3
     };
 
     for (let i = 0; i < args.length; i++) {
@@ -728,6 +768,17 @@ function parseArgs() {
             case '--html':
                 config.saveHtml = true;
                 break;
+            case '--concurrency':
+                if (i + 1 < args.length) {
+                    const concurrency = parseInt(args[++i]);
+                    if (concurrency > 0 && concurrency <= 10) {
+                        config.concurrency = concurrency;
+                    } else {
+                        console.error('Error: concurrency must be between 1 and 10');
+                        process.exit(1);
+                    }
+                }
+                break;
             case '--help':
                 config.showHelp = true;
                 break;
@@ -741,22 +792,23 @@ function parseArgs() {
  * Show help information
  */
 function showHelp() {
-    console.log('Usage: node fetch-recipes.js [--recipes <path> [<path2> ...]] [--output <dir>] [--clean] [--html]');
-    console.log('  --recipes <path>  Recipe file(s) or directory(ies) (default: ./recipes)');
-    console.log('                    Can specify multiple paths separated by spaces');
-    console.log('  --output <dir>    Output directory (default: ./agreements)');
-    console.log('  --clean           Clean corresponding output files before processing');
-    console.log('                    - Removes .md and .html files for specified recipes');
-    console.log('                    - Removes empty directories after file deletion');
-    console.log('                    - Useful when recipes are disabled to clean up old output');
-    console.log('  --html            Save cleaned HTML files in addition to Markdown files');
+    console.log('Usage: node fetch-recipes.js [--recipes <path> [<path2> ...]] [--output <dir>] [--clean] [--html] [--concurrency <n>]');
+    console.log('  --recipes <path>     Recipe file(s) or directory(ies) (default: ./recipes)');
+    console.log('                       Can specify multiple paths separated by spaces');
+    console.log('  --output <dir>       Output directory (default: ./agreements)');
+    console.log('  --clean              Clean corresponding output files before processing');
+    console.log('                       - Removes .md and .html files for specified recipes');
+    console.log('                       - Removes empty directories after file deletion');
+    console.log('                       - Useful when recipes are disabled to clean up old output');
+    console.log('  --html               Save cleaned HTML files in addition to Markdown files');
+    console.log('  --concurrency <n>    Number of parallel workers (default: 3, max: 10)');
     console.log('');
     console.log('Examples:');
     console.log('  node fetch-recipes.js --recipes recipes/facebook/privacy.json --clean');
     console.log('  node fetch-recipes.js --recipes recipes/verizon/ --clean');
     console.log('  node fetch-recipes.js --recipes recipes/facebook/ recipes/google/ recipes/apple.json');
-    console.log('  node fetch-recipes.js --clean');
-    console.log('  node fetch-recipes.js --recipes recipes/');
+    console.log('  node fetch-recipes.js --clean --concurrency 5');
+    console.log('  node fetch-recipes.js --recipes recipes/ --concurrency 1');
 }
 
 /**
@@ -770,7 +822,7 @@ async function main() {
         process.exit(0);
     }
 
-    const fetcher = new RecipeFetcher(config.recipesDir, config.outputDir, config.saveHtml);
+    const fetcher = new RecipeFetcher(config.recipesDir, config.outputDir, config.saveHtml, config.concurrency);
     
     // Handle cleaning if requested
     if (config.shouldClean) {
