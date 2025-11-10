@@ -92,21 +92,21 @@ jobs:
           fi
         fi
 
-    - name: Check for git changes
-      id: changes
-      run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
-        
-        # Check if there are any changes to commit
-        if git diff --quiet && git diff --staged --quiet; then
-          echo "No changes to commit"
-          echo "has_changes=false" >> $GITHUB_OUTPUT
-        else
-          echo "Changes detected"
-          echo "has_changes=true" >> $GITHUB_OUTPUT
-        fi
-        
+#    - name: Check for git changes
+#      id: changes
+#      run: |
+#        git config --local user.email "action@github.com"
+#        git config --local user.name "GitHub Action"
+#
+#        # Check if there are any changes to commit
+#        if git diff --quiet && git diff --staged --quiet; then
+#          echo "No changes to commit"
+#          echo "has_changes=false" >> $GITHUB_OUTPUT
+#        else
+#          echo "Changes detected"
+#          echo "has_changes=true" >> $GITHUB_OUTPUT
+#        fi
+#
     - name: Update README agreements table
       if: steps.changes.outputs.has_changes == 'true' || github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
       run: |
@@ -125,7 +125,7 @@ jobs:
     - name: Commit and push changes
       if: steps.changes.outputs.has_changes == 'true'
       run: |
-        git add agreements/ report.md README.md
+        git add agreements/ README.md
         git commit -m "📄 Recipe processing update $(date '+%Y-%m-%d')
 
         🤖 Generated with automated workflow
@@ -137,36 +137,35 @@ jobs:
       if: steps.changes.outputs.has_changes == 'false'
       run: echo "✅ Recipe processing completed - no git changes detected"
 
-    - name: Set check status
-      # Disabled since it is causing duplicate status check.
-      if: false
-      uses: actions/github-script@v7
-      with:
-        script: |
-          const { owner, repo } = context.repo;
-          const { sha } = context.payload.pull_request?.head || context;
-          
-          // Determine status based on job outcome
-          const conclusion = '${{ job.status }}' === 'success' ? 'success' : 'failure';
-          const title = conclusion === 'success' ? 
-            '✅ Recipe processing completed successfully' : 
-            '❌ Recipe processing failed';
-          
-          // Create a check run for this commit
-          await github.rest.checks.create({
-            owner,
-            repo,
-            name: 'Recipe Processing',
-            head_sha: sha,
-            status: 'completed',
-            conclusion: conclusion,
-            output: {
-              title: title,
-              summary: conclusion === 'success' ? 
-                'All recipe changes processed successfully with no errors.' :
-                'Recipe processing encountered errors. Check the workflow logs and job summary for details.'
-            }
-          });
+#    - name: Set check status
+#      if: always()
+#      uses: actions/github-script@v7
+#      with:
+#        script: |
+#          const { owner, repo } = context.repo;
+#          const { sha } = context.payload.pull_request?.head || context;
+#
+#          // Determine status based on job outcome
+#          const conclusion = '${{ job.status }}' === 'success' ? 'success' : 'failure';
+#          const title = conclusion === 'success' ?
+#            '✅ Recipe processing completed successfully' :
+#            '❌ Recipe processing failed';
+#
+#          // Create a check run for this commit
+#          await github.rest.checks.create({
+#            owner,
+#            repo,
+#            name: 'Recipe Processing',
+#            head_sha: sha,
+#            status: 'completed',
+#            conclusion: conclusion,
+#            output: {
+#              title: title,
+#              summary: conclusion === 'success' ?
+#                'All recipe changes processed successfully with no errors.' :
+#                'Recipe processing encountered errors. Check the workflow logs and job summary for details.'
+#            }
+#          });
           
     - name: Final status check
       if: always()
