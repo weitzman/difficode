@@ -1,6 +1,6 @@
 # Diffi - Legal Agreement Change Tracking
 
-Diffi runs every day and records changes to many Terms of Service, Privacy, etc. agreements on the web. This provides an excellent history of changes to the contracts we all agree to. We save agreements in Markdown format for easy browsing and change presentation.
+Diffi runs every day and records changes to many Terms of Service, Privacy, etc. agreements on the web. This provides an excellent history of changes to the contracts we all agree to. We save agreements in Markdown format for easy browsing and change presentation. Claude generates informative commit messages for each change.
 
 ## Agreements
 
