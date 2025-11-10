@@ -136,6 +136,7 @@ jobs:
         instructions_file: .github/prompts/commit-message-generator.md
         
     - name: Process commits with output from Claude
+      if: hashFiles('/tmp/files_to_commit.txt') != ''
       run: |
         chmod +x .github/scripts/process-commits.sh
         ./.github/scripts/process-commits.sh "${{ steps.claude_messages.outputs.response }}"
