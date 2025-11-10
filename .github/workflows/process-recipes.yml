@@ -121,7 +121,7 @@ jobs:
         # Clean up temp file
         rm new_table.tmp
         
-    - name: Commit individual agreement changes. Claude generates a commit message.
+    - name: Prepare context files for Claude.
       id: commit-agreement-change
       run: |
         # Get list of all changed/new/deleted files in agreements directory
@@ -135,71 +135,116 @@ jobs:
           echo "Found changed files in agreements directory:"
           echo "$ALL_CHANGED"
 
-          # Process each file individually
-          echo "$ALL_CHANGED" | while IFS= read -r file; do
-            if [ -n "$file" ]; then
-              echo "Processing: $file"
-              
-              # Extract provider and document type from path
-              PROVIDER=$(echo "$file" | cut -d'/' -f2)
-              FILENAME=$(basename "$file" .md)
-              
-              # Check if file exists (not deleted)
-              if [ -f "$file" ]; then
-                # Stage the file first to get the diff
-                git add "$file"
-                
-                # Get the git diff for this specific file
-                DIFF_OUTPUT=$(git diff HEAD~1 "$file" 2>/dev/null || git diff --cached "$file" 2>/dev/null || echo "New file")
-                
-                # Create a temporary file with context for Claude
-                cat > /tmp/claude_context.txt << EOF
+          # Create a temporary script to process files with Claude
+          cat > /tmp/process_agreements.sh << 'SCRIPT_EOF'
+#!/bin/bash
+echo "$1" | while IFS= read -r file; do
+  if [ -n "$file" ]; then
+    echo "Processing: $file"
+    
+    # Extract provider and document type from path
+    PROVIDER=$(echo "$file" | cut -d'/' -f2)
+    FILENAME=$(basename "$file" .md)
+    
+    # Check if file exists (not deleted)
+    if [ -f "$file" ]; then
+      # Stage the file first to get the diff
+      git add "$file"
+      
+      # Get the git diff for this specific file
+      DIFF_OUTPUT=$(git diff HEAD~1 "$file" 2>/dev/null || git diff --cached "$file" 2>/dev/null || echo "New file")
+      
+      # Get the current file content (first 5000 lines to avoid token limits)
+      if [ -f "$file" ]; then
+        FILE_CONTENT=$(head -5000 "$file")
+      else
+        FILE_CONTENT="File not found or is new"
+      fi
+      
+      # Create context file for Claude
+      cat > "/tmp/claude_context_$PROVIDER_$FILENAME.txt" << EOF
 File: $file
 Provider: $PROVIDER
 Document Type: $FILENAME
 
-Git Diff:
-$DIFF_OUTPUT
+=== CURRENT FILE CONTENT (first 5000 lines) ===
+$FILE_CONTENT
 
+=== GIT DIFF ===
+$DIFF_OUTPUT
 EOF
-                
-                # Generate commit message with Claude
-                COMMIT_MSG=$(curl -s -X POST "https://api.anthropic.com/v1/messages" \
-                  -H "Content-Type: application/json" \
-                  -H "Authorization: Bearer ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}" \
-                  -H "anthropic-version: 2023-06-01" \
-                  -d '{
-                    "model": "claude-3-5-sonnet-20241022",
-                    "max_tokens": 300,
-                    "messages": [
-                      {
-                        "role": "user",
-                        "content": "Generate a concise Git commit message for this legal agreement change. Analyze the diff to understand what actually changed (new sections, policy updates, etc.). Format: Emoji + brief description (under 50 chars) + newline + optional details. Use 📄 for updates, ➕ for new files. Context:\n\n$(cat /tmp/claude_context.txt)\n\n"
-                      }
-                    ]
-                  }' | jq -r '.content[0].text // empty')
-                
-                # Clean up temp file
-                rm -f /tmp/claude_context.txt
-                
-                # Use Claude message or fallback
-                if [ -n "$COMMIT_MSG" ] && [ "$COMMIT_MSG" != "null" ]; then
-                  git commit -m "$COMMIT_MSG"
-                  echo "✅ Committed with Claude-generated message"
-                else
-                  git commit -m "📄 Update $PROVIDER $FILENAME agreement"
-                  echo "⚠️ Used fallback commit message"
-                fi
-                
-              else
-                # Handle deleted files
-                git add "$file" 2>/dev/null || git rm "$file" 2>/dev/null || true
-                git commit -m "🗑️ Remove $PROVIDER $FILENAME agreement"
-              fi
-            fi
-          done
+      
+      echo "/tmp/claude_context_$PROVIDER_$FILENAME.txt"
+      
+    else
+      # Handle deleted files
+      git add "$file" 2>/dev/null || git rm "$file" 2>/dev/null || true
+      git commit -m "🗑️ Remove $PROVIDER $FILENAME agreement"
+      echo "DELETED:$file"
+    fi
+  fi
+done
+SCRIPT_EOF
+          
+          chmod +x /tmp/process_agreements.sh
+          
+          # Get context files to process
+          CONTEXT_FILES=$(/tmp/process_agreements.sh "$ALL_CHANGED")
+          
+          # Store files for commit processing
+          echo "$CONTEXT_FILES" > /tmp/files_to_commit.txt
         else
           echo "No files changed in agreements directory"
+          echo "" > /tmp/files_to_commit.txt
+        fi
+        
+    - name: Generate commit messages with Claude
+      id: claude_messages
+      if: hashFiles('/tmp/files_to_commit.txt') != ''
+      uses: anthropics/claude-code-action@beta
+      with:
+        claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+        instructions_file: .github/prompts/commit-message-generator.md
+        
+    - name: Process commits with output from Claude
+      run: |
+        if [ -f "/tmp/files_to_commit.txt" ] && [ -s "/tmp/files_to_commit.txt" ]; then
+          # Get Claude's response
+          CLAUDE_OUTPUT="${{ steps.claude_messages.outputs.response }}"
+          
+          # Process each context file
+          while IFS= read -r context_file; do
+            if [ -n "$context_file" ] && [[ "$context_file" == "/tmp/claude_context_"* ]]; then
+              # Extract provider and filename from context file name
+              BASENAME=$(basename "$context_file" .txt)
+              PROVIDER=$(echo "$BASENAME" | cut -d'_' -f3)
+              FILENAME=$(echo "$BASENAME" | cut -d'_' -f4-)
+              
+              # Look for Claude's message for this file
+              COMMIT_MSG=""
+              if [ -n "$CLAUDE_OUTPUT" ]; then
+                COMMIT_MSG=$(echo "$CLAUDE_OUTPUT" | grep "^$BASENAME:" | cut -d':' -f2- | head -1)
+              fi
+              
+              # Use fallback if no Claude message
+              if [ -z "$COMMIT_MSG" ]; then
+                COMMIT_MSG="📄 Update $PROVIDER $FILENAME agreement"
+              fi
+              
+              # The file should already be staged from the previous step
+              # Just commit with the message
+              git commit -m "$COMMIT_MSG"
+              echo "✅ Committed: $COMMIT_MSG"
+              
+              # Clean up context file
+              rm -f "$context_file"
+            fi
+          done < /tmp/files_to_commit.txt
+          
+          # Clean up temp files
+          rm -f /tmp/files_to_commit.txt /tmp/process_agreements.sh
+        else
+          echo "No agreement files to commit"
         fi
         
     - name: Commit README updates
