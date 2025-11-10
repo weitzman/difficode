@@ -123,7 +123,6 @@ jobs:
         rm new_table.tmp
         
     - name: Commit and push changes
-      if: steps.changes.outputs.has_changes == 'true'
       run: |
         git add agreements/ README.md
         git commit -m "📄 Recipe processing update $(date '+%Y-%m-%d')
@@ -133,9 +132,9 @@ jobs:
         Co-Authored-By: GitHub Actions <noreply@github.com>"
         git push origin ${{ github.head_ref }}
         
-    - name: No changes summary
-      if: steps.changes.outputs.has_changes == 'false'
-      run: echo "✅ Recipe processing completed - no git changes detected"
+#    - name: No changes summary
+#      if: steps.changes.outputs.has_changes == 'false'
+#      run: echo "✅ Recipe processing completed - no git changes detected"
 
 #    - name: Set check status
 #      if: always()
