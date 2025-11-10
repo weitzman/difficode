@@ -187,8 +187,7 @@ EOF
                   git commit -m "$COMMIT_MSG"
                   echo "✅ Committed with Claude-generated message"
                 else
-                  git commit -m "📄 Update $PROVIDER $FILENAME agreement
-
+                  git commit -m "📄 Update $PROVIDER $FILENAME agreement"
                   echo "⚠️ Used fallback commit message"
                 fi
                 
