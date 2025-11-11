@@ -21,7 +21,6 @@ jobs:
       contents: write
       pull-requests: write
       checks: write
-      id-token: write
     
     steps:
     - name: Checkout branch
@@ -124,45 +123,28 @@ jobs:
         
     - name: Prepare context files for Claude
       id: commit-agreement-change
-      run: |
-        chmod +x .github/scripts/prepare-agreement-contexts.sh
-        ./.github/scripts/prepare-agreement-contexts.sh
+      run: .github/scripts/prepare-agreement-contexts.js
+        
+    - name: Save context files as artifacts
+      if: steps.commit-agreement-change.outputs.has_agreement_changes == 'true'
+      uses: actions/upload-artifact@v4
+      with:
+        name: claude-context-files
+        path: |
+          /tmp/claude_context_*.txt
+          /tmp/files_to_commit.txt
+        retention-days: 7
         
     - name: Generate commit messages with Claude
       id: claude_messages
       if: steps.commit-agreement-change.outputs.has_agreement_changes == 'true'
-      uses: anthropics/claude-code-action@beta
-      with:
-        claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
-        custom_instructions: |
-          I need you to generate intelligent commit messages for legal agreement file changes.
-          
-          For each context file in /tmp/, you'll find:
-          1. The current file content (legal agreement text)
-          2. The git diff showing what changed
-          
-          Analyze both the content and changes to understand:
-          - What type of legal document this is (privacy policy, terms of service, etc.)
-          - What specific sections or policies were modified
-          - The nature of the changes (new policies, clarifications, restrictions, etc.)
-          
-          Generate concise commit messages that describe what actually changed:
-          - Start with emoji (📄 for updates, ➕ for new files)
-          - Brief description under 50 characters focusing on the actual change
-          - Optional second line with specific details about what was modified
-          
-          Output format should be one message per line:
-          FILENAME:MESSAGE
-          
-          Where FILENAME matches the context file name (without path/extension) and MESSAGE is the commit message.
-          
-          If you can't determine specific changes, use: FILENAME:📄 Update [provider] [document] agreement
+      env:
+        ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+      run: .github/scripts/generate-commit-messages.js
         
     - name: Process commits with output from Claude
       if: steps.commit-agreement-change.outputs.has_agreement_changes == 'true'
-      run: |
-        chmod +x .github/scripts/process-commits.sh
-        ./.github/scripts/process-commits.sh "${{ steps.claude_messages.outputs.response }}"
+      run: .github/scripts/process-commits.js "${{ steps.claude_messages.outputs.claude_output }}"
         
     - name: Commit README updates
       run: |
