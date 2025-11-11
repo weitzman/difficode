@@ -127,6 +127,14 @@ jobs:
         chmod +x .github/scripts/prepare-agreement-contexts.sh
         ./.github/scripts/prepare-agreement-contexts.sh
         
+    - name: Save context files as artifacts
+      if: steps.commit-agreement-change.outputs.has_agreement_changes == 'true'
+      uses: actions/upload-artifact@v4
+      with:
+        name: claude-context-files
+        path: /tmp/claude_context_*.txt
+        retention-days: 7
+        
     - name: Generate commit messages with Claude
       id: claude_messages
       if: steps.commit-agreement-change.outputs.has_agreement_changes == 'true'
