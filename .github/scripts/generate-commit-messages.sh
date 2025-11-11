@@ -56,7 +56,7 @@ RESPONSE=$(curl -w "HTTP_CODE:%{http_code}\n" -s -X POST https://api.anthropic.c
   -H "x-api-key: $ANTHROPIC_API_KEY" \
   -H "anthropic-version: 2023-06-01" \
   -d "{
-    \"model\": \"claude-4.5-sonnet-20250514\",
+    \"model\": \"claude-sonnet-4-5\",
     \"max_tokens\": 1000,
     \"messages\": [{
       \"role\": \"user\",
