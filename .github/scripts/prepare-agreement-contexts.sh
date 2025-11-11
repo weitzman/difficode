@@ -8,11 +8,23 @@ git config --local user.email "action@github.com"
 git config --local user.name "GitHub Action"
 
 # Get list of all changed/new/deleted files in agreements directory
-CHANGED_AGREEMENTS=$(git diff --name-only agreements/ 2>/dev/null || true)
-STAGED_AGREEMENTS=$(git diff --staged --name-only agreements/ 2>/dev/null || true)
+# Use proper base branch comparison for PR context
+if [ -n "${GITHUB_EVENT_NAME:-}" ] && [ "$GITHUB_EVENT_NAME" = "pull_request" ]; then
+  # For pull requests: compare with the target branch
+  BASE_BRANCH="${GITHUB_BASE_REF:-main}"
+  CHANGED_AGREEMENTS=$(git diff --name-only "origin/$BASE_BRANCH"...HEAD -- agreements/ 2>/dev/null || true)
+  STAGED_AGREEMENTS=$(git diff --staged --name-only agreements/ 2>/dev/null || true)
+else
+  # For push events: compare with previous commit
+  CHANGED_AGREEMENTS=$(git diff --name-only HEAD~1 HEAD -- agreements/ 2>/dev/null || true)
+  STAGED_AGREEMENTS=$(git diff --staged --name-only agreements/ 2>/dev/null || true)
+fi
 
-# Combine and deduplicate
-ALL_CHANGED=$(echo -e "$CHANGED_AGREEMENTS\n$STAGED_AGREEMENTS" | sort | uniq | grep -v '^$' || true)
+# Also check for new untracked files in agreements directory
+UNTRACKED_AGREEMENTS=$(git ls-files --others --exclude-standard agreements/ 2>/dev/null || true)
+
+# Combine all: changed, staged, and untracked
+ALL_CHANGED=$(echo -e "$CHANGED_AGREEMENTS\n$STAGED_AGREEMENTS\n$UNTRACKED_AGREEMENTS" | sort | uniq | grep -v '^$' || true)
 
 if [ -n "$ALL_CHANGED" ]; then
   echo "Found changed files in agreements directory:"
@@ -21,8 +33,11 @@ if [ -n "$ALL_CHANGED" ]; then
   # Create output file to track what we processed
   > /tmp/files_to_commit.txt
   
-  # Process each file individually
-  echo "$ALL_CHANGED" | while IFS= read -r file; do
+  # Set GitHub Actions output to indicate we have files to process
+  echo "has_agreement_changes=true" >> $GITHUB_OUTPUT
+  
+  # Process each file individually (using process substitution to avoid subshell)
+  while IFS= read -r file; do
     if [ -n "$file" ]; then
       echo "Processing: $file"
       
@@ -36,7 +51,14 @@ if [ -n "$ALL_CHANGED" ]; then
         git add "$file"
         
         # Get the git diff for this specific file
-        DIFF_OUTPUT=$(git diff HEAD~1 "$file" 2>/dev/null || git diff --cached "$file" 2>/dev/null || echo "New file")
+        if [ -n "${GITHUB_EVENT_NAME:-}" ] && [ "$GITHUB_EVENT_NAME" = "pull_request" ]; then
+          # For pull requests: compare with the target branch
+          BASE_BRANCH="${GITHUB_BASE_REF:-main}"
+          DIFF_OUTPUT=$(git diff "origin/$BASE_BRANCH"...HEAD "$file" 2>/dev/null || echo "New file")
+        else
+          # For push events: compare with previous commit  
+          DIFF_OUTPUT=$(git diff HEAD~1 "$file" 2>/dev/null || git diff --cached "$file" 2>/dev/null || echo "New file")
+        fi
         
         # Get the current file content (first 5000 lines to avoid token limits)
         FILE_CONTENT=$(head -5000 "$file")
@@ -66,11 +88,13 @@ EOF
         echo "Committed deletion of: $file"
       fi
     fi
-  done
+  done < <(echo "$ALL_CHANGED")
   
   echo "Context preparation complete"
   
 else
   echo "No files changed in agreements directory"
   > /tmp/files_to_commit.txt
+  # Set GitHub Actions output to indicate no files to process
+  echo "has_agreement_changes=false" >> $GITHUB_OUTPUT
 fi
