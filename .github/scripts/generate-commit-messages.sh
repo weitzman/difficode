@@ -73,9 +73,33 @@ echo "API Response: $API_RESPONSE"
 
 # Extract the content from the response
 if [ "$HTTP_CODE" = "200" ]; then
+  # Debug: Show the raw response structure
+  echo "=== RAW API RESPONSE ==="
+  echo "$API_RESPONSE" | jq '.' 2>/dev/null || echo "$API_RESPONSE"
+  echo "========================="
+  
+  # Try different response format paths
   if echo "$API_RESPONSE" | jq -e '.content[0].text' > /dev/null 2>&1; then
     CLAUDE_OUTPUT=$(echo "$API_RESPONSE" | jq -r '.content[0].text')
-    echo "✅ Claude generated commit messages:"
+    echo "✅ Claude generated commit messages (format: content[0].text):"
+    echo "$CLAUDE_OUTPUT"
+    
+    # Set output for the next step
+    echo "claude_output<<EOF" >> $GITHUB_OUTPUT
+    echo "$CLAUDE_OUTPUT" >> $GITHUB_OUTPUT
+    echo "EOF" >> $GITHUB_OUTPUT
+  elif echo "$API_RESPONSE" | jq -e '.choices[0].message.content' > /dev/null 2>&1; then
+    CLAUDE_OUTPUT=$(echo "$API_RESPONSE" | jq -r '.choices[0].message.content')
+    echo "✅ Claude generated commit messages (format: choices[0].message.content):"
+    echo "$CLAUDE_OUTPUT"
+    
+    # Set output for the next step
+    echo "claude_output<<EOF" >> $GITHUB_OUTPUT
+    echo "$CLAUDE_OUTPUT" >> $GITHUB_OUTPUT
+    echo "EOF" >> $GITHUB_OUTPUT
+  elif echo "$API_RESPONSE" | jq -e '.message.content' > /dev/null 2>&1; then
+    CLAUDE_OUTPUT=$(echo "$API_RESPONSE" | jq -r '.message.content')
+    echo "✅ Claude generated commit messages (format: message.content):"
     echo "$CLAUDE_OUTPUT"
     
     # Set output for the next step
@@ -84,7 +108,8 @@ if [ "$HTTP_CODE" = "200" ]; then
     echo "EOF" >> $GITHUB_OUTPUT
   else
     echo "⚠️ API call succeeded but response format unexpected:"
-    echo "$API_RESPONSE" | jq '.' 2>/dev/null || echo "$API_RESPONSE"
+    echo "Available keys:"
+    echo "$API_RESPONSE" | jq 'keys' 2>/dev/null || echo "Invalid JSON"
     echo "claude_output=" >> $GITHUB_OUTPUT
   fi
 else
