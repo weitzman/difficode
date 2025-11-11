@@ -4,10 +4,62 @@ const fs = require('fs').promises;
 const path = require('path');
 
 /**
+ * Display help information
+ */
+function showHelp() {
+  console.log(`
+Generate Commit Messages Script
+===============================
+
+Generate intelligent commit messages using Claude (Anthropic API) for agreement file changes.
+
+Usage:
+  generate-commit-messages.js
+  generate-commit-messages.js --help
+
+Options:
+  --help, -h      Show this help message
+
+Behavior:
+  - Reads context files from /tmp/files_to_commit.txt
+  - Sends file content and diffs to Claude API
+  - Generates specific commit messages for each agreement file
+  - Sets GitHub Actions output: claude_output
+
+Input:
+  - Context files: /tmp/claude_context_<provider>_<filename>.txt
+  - File list: /tmp/files_to_commit.txt
+
+Output:
+  - GitHub Actions output with commit messages
+  - Format: "filename:commit message" per line
+
+Environment Variables:
+  ANTHROPIC_API_KEY     - Required. API key for Claude access
+  GITHUB_OUTPUT         - GitHub Actions output file
+
+API Configuration:
+  - Model: claude-sonnet-4-5
+  - Max tokens: 1000
+  - Uses Playwright for HTTP requests
+
+Exit codes:
+  0 - Success
+  1 - Error occurred
+`);
+}
+
+/**
  * Generate commit messages using Anthropic API
  */
 async function main() {
   try {
+    // Check for help flag
+    if (process.argv.includes('--help') || process.argv.includes('-h')) {
+      showHelp();
+      process.exit(0);
+    }
+
     console.log('🚀 Starting Claude commit message generation...');
     
     // Check for required files
