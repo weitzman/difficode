@@ -72,17 +72,23 @@ echo "HTTP Status Code: $HTTP_CODE"
 echo "API Response: $API_RESPONSE"
 
 # Extract the content from the response
-if [ "$HTTP_CODE" = "200" ] && echo "$API_RESPONSE" | jq -e '.content[0].text' > /dev/null 2>&1; then
-  CLAUDE_OUTPUT=$(echo "$API_RESPONSE" | jq -r '.content[0].text')
-  echo "Claude generated commit messages:"
-  echo "$CLAUDE_OUTPUT"
-  
-  # Set output for the next step
-  echo "claude_output<<EOF" >> $GITHUB_OUTPUT
-  echo "$CLAUDE_OUTPUT" >> $GITHUB_OUTPUT
-  echo "EOF" >> $GITHUB_OUTPUT
+if [ "$HTTP_CODE" = "200" ]; then
+  if echo "$API_RESPONSE" | jq -e '.content[0].text' > /dev/null 2>&1; then
+    CLAUDE_OUTPUT=$(echo "$API_RESPONSE" | jq -r '.content[0].text')
+    echo "✅ Claude generated commit messages:"
+    echo "$CLAUDE_OUTPUT"
+    
+    # Set output for the next step
+    echo "claude_output<<EOF" >> $GITHUB_OUTPUT
+    echo "$CLAUDE_OUTPUT" >> $GITHUB_OUTPUT
+    echo "EOF" >> $GITHUB_OUTPUT
+  else
+    echo "⚠️ API call succeeded but response format unexpected:"
+    echo "$API_RESPONSE" | jq '.' 2>/dev/null || echo "$API_RESPONSE"
+    echo "claude_output=" >> $GITHUB_OUTPUT
+  fi
 else
-  echo "Error in API call (HTTP $HTTP_CODE):"
+  echo "❌ Error in API call (HTTP $HTTP_CODE):"
   echo "$API_RESPONSE" | jq '.' 2>/dev/null || echo "$API_RESPONSE"
   
   # Check for common error patterns

@@ -44,12 +44,24 @@ while IFS= read -r context_file; do
     
     echo "Commit message: $COMMIT_MSG"
     
-    # The file should already be staged from the previous step
-    # Just commit with the message
-    if git commit -m "$COMMIT_MSG"; then
-      echo "✅ Committed: $COMMIT_MSG"
+    # Find and stage the corresponding agreement file
+    AGREEMENT_FILE="agreements/$PROVIDER/$FILENAME.md"
+    if [ -f "$AGREEMENT_FILE" ]; then
+      echo "Staging file: $AGREEMENT_FILE"
+      git add "$AGREEMENT_FILE"
+      
+      # Check if there are actually changes to commit
+      if git diff --staged --quiet; then
+        echo "ℹ️  No changes to commit for $AGREEMENT_FILE"
+      else
+        if git commit -m "$COMMIT_MSG"; then
+          echo "✅ Committed: $COMMIT_MSG"
+        else
+          echo "❌ Failed to commit for $BASENAME"
+        fi
+      fi
     else
-      echo "❌ Failed to commit for $BASENAME"
+      echo "⚠️  Agreement file not found: $AGREEMENT_FILE"
     fi
     
     # Clean up context file
