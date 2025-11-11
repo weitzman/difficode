@@ -178,7 +178,9 @@ jobs:
     - name: Push all changes
       run: |
         # Push all commits at once
-        git push origin ${{ github.head_ref }}
+        BRANCH_NAME="${{ github.head_ref || github.ref_name }}"
+        echo "Pushing to branch: $BRANCH_NAME"
+        git push origin "$BRANCH_NAME"
         
 #    - name: Set check status
 #      if: always()
