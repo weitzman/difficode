@@ -13,8 +13,8 @@ fi
 CLAUDE_OUTPUT="$1"
 
 if [ -z "$CLAUDE_OUTPUT" ]; then
-  echo "Error: No Claude output provided"
-  exit 1
+  echo "Warning: No Claude output provided, will use fallback commit messages"
+  CLAUDE_OUTPUT=""
 fi
 
 echo "Processing commits with Claude-generated messages..."
