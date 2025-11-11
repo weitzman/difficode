@@ -8,8 +8,17 @@ git config --local user.email "action@github.com"
 git config --local user.name "GitHub Action"
 
 # Get list of all changed/new/deleted files in agreements directory
-CHANGED_AGREEMENTS=$(git diff --name-only agreements/ 2>/dev/null || true)
-STAGED_AGREEMENTS=$(git diff --staged --name-only agreements/ 2>/dev/null || true)
+# Use proper base branch comparison for PR context
+if [ -n "${GITHUB_EVENT_NAME:-}" ] && [ "$GITHUB_EVENT_NAME" = "pull_request" ]; then
+  # For pull requests: compare with the target branch
+  BASE_BRANCH="${GITHUB_BASE_REF:-main}"
+  CHANGED_AGREEMENTS=$(git diff --name-only "origin/$BASE_BRANCH"...HEAD -- agreements/ 2>/dev/null || true)
+  STAGED_AGREEMENTS=$(git diff --staged --name-only agreements/ 2>/dev/null || true)
+else
+  # For push events: compare with previous commit
+  CHANGED_AGREEMENTS=$(git diff --name-only HEAD~1 HEAD -- agreements/ 2>/dev/null || true)
+  STAGED_AGREEMENTS=$(git diff --staged --name-only agreements/ 2>/dev/null || true)
+fi
 
 # Combine and deduplicate
 ALL_CHANGED=$(echo -e "$CHANGED_AGREEMENTS\n$STAGED_AGREEMENTS" | sort | uniq | grep -v '^$' || true)
@@ -36,7 +45,14 @@ if [ -n "$ALL_CHANGED" ]; then
         git add "$file"
         
         # Get the git diff for this specific file
-        DIFF_OUTPUT=$(git diff HEAD~1 "$file" 2>/dev/null || git diff --cached "$file" 2>/dev/null || echo "New file")
+        if [ -n "${GITHUB_EVENT_NAME:-}" ] && [ "$GITHUB_EVENT_NAME" = "pull_request" ]; then
+          # For pull requests: compare with the target branch
+          BASE_BRANCH="${GITHUB_BASE_REF:-main}"
+          DIFF_OUTPUT=$(git diff "origin/$BASE_BRANCH"...HEAD "$file" 2>/dev/null || echo "New file")
+        else
+          # For push events: compare with previous commit  
+          DIFF_OUTPUT=$(git diff HEAD~1 "$file" 2>/dev/null || git diff --cached "$file" 2>/dev/null || echo "New file")
+        fi
         
         # Get the current file content (first 5000 lines to avoid token limits)
         FILE_CONTENT=$(head -5000 "$file")
