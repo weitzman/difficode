@@ -124,8 +124,8 @@ jobs:
     - name: Prepare context files for Claude
       id: commit-agreement-change
       run: |
-        chmod +x .github/scripts/prepare-agreement-contexts.sh
-        ./.github/scripts/prepare-agreement-contexts.sh
+        chmod +x .github/scripts/prepare-agreement-contexts.js
+        node .github/scripts/prepare-agreement-contexts.js
         
     - name: Save context files as artifacts
       if: steps.commit-agreement-change.outputs.has_agreement_changes == 'true'
@@ -149,8 +149,8 @@ jobs:
     - name: Process commits with output from Claude
       if: steps.commit-agreement-change.outputs.has_agreement_changes == 'true'
       run: |
-        chmod +x .github/scripts/process-commits.sh
-        ./.github/scripts/process-commits.sh "${{ steps.claude_messages.outputs.claude_output }}"
+        chmod +x .github/scripts/process-commits.js
+        node .github/scripts/process-commits.js "${{ steps.claude_messages.outputs.claude_output }}"
         
     - name: Commit README updates
       run: |
