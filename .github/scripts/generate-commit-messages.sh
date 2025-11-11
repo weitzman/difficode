@@ -54,6 +54,7 @@ echo "Making API call to Anthropic..."
 RESPONSE=$(curl -w "HTTP_CODE:%{http_code}\n" -s -X POST https://api.anthropic.com/v1/messages \
   -H "Content-Type: application/json" \
   -H "x-api-key: $ANTHROPIC_API_KEY" \
+  -H "anthropic-version: 2023-06-01" \
   -d "{
     \"model\": \"claude-sonnet-4-5\",
     \"max_tokens\": 1000,
