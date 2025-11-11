@@ -4,7 +4,6 @@ Diffi runs every day and records changes to many Terms of Service, Privacy, etc.
 
 ## Agreements
 
-<!-- START_AGREEMENTS -->
 | Provider | Source | Links |
 |----------|--------|-------|
 | Adobe | [Privacy](https://www.adobe.com/privacy/policy.html) | [latest](https://github.com/weitzman/difficode/blob/main/agreements/adobe/privacy.md) · [revisions](https://github.com/weitzman/difficode/commits/main/agreements/adobe/privacy.md) · [recipe](https://github.com/weitzman/difficode/blob/main/recipes/adobe/privacy.json) |
