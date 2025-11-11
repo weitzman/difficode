@@ -5,10 +5,59 @@ const path = require('path');
 const { execSync } = require('child_process');
 
 /**
+ * Display help information
+ */
+function showHelp() {
+  console.log(`
+Process Commits Script
+======================
+
+Process agreement files and create commits with Claude-generated or fallback messages.
+
+Usage:
+  process-commits.js [claude-output]
+  process-commits.js --help
+
+Arguments:
+  claude-output    Optional. The output from Claude API containing commit messages.
+                   Format should be: "filename:commit message" per line.
+                   If not provided, fallback messages will be used.
+
+Options:
+  --help, -h      Show this help message
+
+Examples:
+  # With Claude output
+  process-commits.js "claude_context_openai_terms:➕ Add OpenAI Terms tracking"
+  
+  # Without Claude output (uses fallbacks)
+  process-commits.js ""
+  
+  # Show help
+  process-commits.js --help
+
+Environment:
+  - Expects /tmp/files_to_commit.txt with list of context files to process
+  - Uses git commands to stage and commit changes
+  - Cleans up temporary files after processing
+
+Exit codes:
+  0 - Success
+  1 - Error occurred
+`);
+}
+
+/**
  * Process commits with Claude-generated messages
  */
 async function main() {
   try {
+    // Check for help flag
+    if (process.argv.includes('--help') || process.argv.includes('-h')) {
+      showHelp();
+      process.exit(0);
+    }
+
     console.log('🚀 Processing commits with Claude-generated messages...');
     
     // Check if context files exist
@@ -29,6 +78,8 @@ async function main() {
     
     if (!claudeOutput.trim()) {
       console.log('⚠️ No Claude output provided, will use fallback commit messages');
+    } else {
+      console.log('🤖 Using Claude-generated commit messages');
     }
 
     // Process each context file

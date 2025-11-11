@@ -8,10 +8,56 @@ const { promisify } = require('util');
 const execAsync = promisify(exec);
 
 /**
+ * Display help information
+ */
+function showHelp() {
+  console.log(`
+Prepare Agreement Contexts Script
+=================================
+
+Analyze changed agreement files and prepare context files for Claude analysis.
+
+Usage:
+  prepare-agreement-contexts.js
+  prepare-agreement-contexts.js --help
+
+Options:
+  --help, -h      Show this help message
+
+Behavior:
+  - Detects changed/new/deleted files in agreements/ directory
+  - Compares with base branch for pull requests or HEAD~1 for pushes
+  - Creates context files with file content and git diffs
+  - Sets GitHub Actions output: has_agreement_changes (true/false)
+  - Handles file deletions by committing them immediately
+
+Output:
+  - Context files: /tmp/claude_context_<provider>_<filename>.txt
+  - File list: /tmp/files_to_commit.txt
+  - GitHub Actions output for workflow control
+
+Environment Variables:
+  GITHUB_EVENT_NAME     - Determines comparison strategy (pull_request vs push)
+  GITHUB_BASE_REF       - Base branch for pull request comparison
+  GITHUB_OUTPUT         - GitHub Actions output file
+
+Exit codes:
+  0 - Success
+  1 - Error occurred
+`);
+}
+
+/**
  * Prepare context files for Claude analysis of agreement changes
  */
 async function main() {
   try {
+    // Check for help flag
+    if (process.argv.includes('--help') || process.argv.includes('-h')) {
+      showHelp();
+      process.exit(0);
+    }
+
     console.log('🔍 Analyzing agreement file changes...');
     
     // Configure git for GitHub Actions
