@@ -123,9 +123,7 @@ jobs:
         
     - name: Prepare context files for Claude
       id: commit-agreement-change
-      run: |
-        chmod +x .github/scripts/prepare-agreement-contexts.js
-        node .github/scripts/prepare-agreement-contexts.js
+      run: .github/scripts/prepare-agreement-contexts.js
         
     - name: Save context files as artifacts
       if: steps.commit-agreement-change.outputs.has_agreement_changes == 'true'
@@ -142,15 +140,11 @@ jobs:
       if: steps.commit-agreement-change.outputs.has_agreement_changes == 'true'
       env:
         ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-      run: |
-        chmod +x .github/scripts/generate-commit-messages.js
-        node .github/scripts/generate-commit-messages.js
+      run: .github/scripts/generate-commit-messages.js
         
     - name: Process commits with output from Claude
       if: steps.commit-agreement-change.outputs.has_agreement_changes == 'true'
-      run: |
-        chmod +x .github/scripts/process-commits.js
-        node .github/scripts/process-commits.js "${{ steps.claude_messages.outputs.claude_output }}"
+      run: .github/scripts/process-commits.js "${{ steps.claude_messages.outputs.claude_output }}"
         
     - name: Commit README updates
       run: |
