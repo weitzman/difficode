@@ -21,6 +21,7 @@ jobs:
       contents: write
       pull-requests: write
       checks: write
+      id-token: write
     
     steps:
     - name: Checkout branch
@@ -129,14 +130,36 @@ jobs:
         
     - name: Generate commit messages with Claude
       id: claude_messages
-      if: hashFiles('/tmp/files_to_commit.txt') != ''
+      if: steps.commit-agreement-change.outputs.has_agreement_changes == 'true'
       uses: anthropics/claude-code-action@beta
       with:
         claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
-        instructions_file: .github/prompts/commit-message-generator.md
+        custom_instructions: |
+          I need you to generate intelligent commit messages for legal agreement file changes.
+          
+          For each context file in /tmp/, you'll find:
+          1. The current file content (legal agreement text)
+          2. The git diff showing what changed
+          
+          Analyze both the content and changes to understand:
+          - What type of legal document this is (privacy policy, terms of service, etc.)
+          - What specific sections or policies were modified
+          - The nature of the changes (new policies, clarifications, restrictions, etc.)
+          
+          Generate concise commit messages that describe what actually changed:
+          - Start with emoji (📄 for updates, ➕ for new files)
+          - Brief description under 50 characters focusing on the actual change
+          - Optional second line with specific details about what was modified
+          
+          Output format should be one message per line:
+          FILENAME:MESSAGE
+          
+          Where FILENAME matches the context file name (without path/extension) and MESSAGE is the commit message.
+          
+          If you can't determine specific changes, use: FILENAME:📄 Update [provider] [document] agreement
         
     - name: Process commits with output from Claude
-      if: hashFiles('/tmp/files_to_commit.txt') != ''
+      if: steps.commit-agreement-change.outputs.has_agreement_changes == 'true'
       run: |
         chmod +x .github/scripts/process-commits.sh
         ./.github/scripts/process-commits.sh "${{ steps.claude_messages.outputs.response }}"
