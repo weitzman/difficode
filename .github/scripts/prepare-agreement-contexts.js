@@ -264,19 +264,40 @@ async function getFileDiff(file) {
 }
 
 /**
- * Get file content with line limit
+ * Get file content with line limit and character limit
  */
 async function getFileContent(file, maxLines = 5000) {
   try {
     const content = await fs.readFile(file, 'utf8');
     const lines = content.split('\n');
     
-    if (lines.length <= maxLines) {
-      return content;
-    } else {
-      console.log(`📏 Truncating ${file} to ${maxLines} lines (was ${lines.length} lines)`);
-      return lines.slice(0, maxLines).join('\n') + `\n\n[... truncated after ${maxLines} lines]`;
+    // Character limit to prevent Claude API prompt length issues (roughly 100KB)
+    const maxChars = 100000;
+    
+    let truncatedContent = content;
+    let truncationReason = '';
+    
+    // First, check character limit
+    if (content.length > maxChars) {
+      truncatedContent = content.substring(0, maxChars);
+      truncationReason = `character limit (${maxChars})`;
     }
+    
+    // Then check line limit on the potentially character-truncated content
+    const truncatedLines = truncatedContent.split('\n');
+    if (truncatedLines.length > maxLines) {
+      truncatedContent = truncatedLines.slice(0, maxLines).join('\n');
+      truncationReason = truncationReason ? 
+        `${truncationReason} and line limit (${maxLines})` : 
+        `line limit (${maxLines})`;
+    }
+    
+    if (truncationReason) {
+      console.log(`📏 Truncating ${file} due to ${truncationReason} (original: ${lines.length} lines, ${content.length} chars)`);
+      truncatedContent += `\n\n[... truncated due to ${truncationReason}]`;
+    }
+    
+    return truncatedContent;
   } catch (error) {
     console.warn(`⚠️ Failed to read ${file}: ${error.message}`);
     return `[Error reading file: ${error.message}]`;
