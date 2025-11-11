@@ -4,7 +4,6 @@ Diffi runs every day and records changes to many Terms of Service, Privacy, etc.
 
 ## Agreements
 
-<!-- START_AGREEMENTS -->
 | Provider | Source | Links |
 |----------|--------|-------|
 | Adobe | [Privacy](https://www.adobe.com/privacy/policy.html) | [latest](https://github.com/weitzman/difficode/blob/main/agreements/adobe/privacy.md) · [revisions](https://github.com/weitzman/difficode/commits/main/agreements/adobe/privacy.md) · [recipe](https://github.com/weitzman/difficode/blob/main/recipes/adobe/privacy.json) |
@@ -91,6 +90,7 @@ Diffi runs every day and records changes to many Terms of Service, Privacy, etc.
 | Xfinity | [Terms](https://my.xfinity.com/terms/web/) | [latest](https://github.com/weitzman/difficode/blob/main/agreements/xfinity/terms.md) · [revisions](https://github.com/weitzman/difficode/commits/main/agreements/xfinity/terms.md) · [recipe](https://github.com/weitzman/difficode/blob/main/recipes/xfinity/terms.json) |
 | Zoom | [Privacy](https://zoom.us/privacy) | [latest](https://github.com/weitzman/difficode/blob/main/agreements/zoom/privacy.md) · [revisions](https://github.com/weitzman/difficode/commits/main/agreements/zoom/privacy.md) · [recipe](https://github.com/weitzman/difficode/blob/main/recipes/zoom/privacy.json) |
 | Zoom | [Terms](https://zoom.us/terms) | [latest](https://github.com/weitzman/difficode/blob/main/agreements/zoom/terms.md) · [revisions](https://github.com/weitzman/difficode/commits/main/agreements/zoom/terms.md) · [recipe](https://github.com/weitzman/difficode/blob/main/recipes/zoom/terms.json) |
+
 <!-- END_AGREEMENTS -->
 
 ## Recipe Format
