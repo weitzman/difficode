@@ -177,10 +177,13 @@ jobs:
         
     - name: Push all changes
       run: |
-        # Push all commits at once
-        BRANCH_NAME="${{ github.head_ref || github.ref_name }}"
-        echo "Pushing to branch: $BRANCH_NAME"
-        git push origin "$BRANCH_NAME"
+        # Check if there are any commits to push
+        if git log --oneline origin/${{ github.head_ref || github.ref_name }}..HEAD | grep -q .; then
+          echo "Found commits to push"
+          git push origin HEAD:${{ github.head_ref || github.ref_name }}
+        else
+          echo "No commits to push"
+        fi
         
 #    - name: Set check status
 #      if: always()
