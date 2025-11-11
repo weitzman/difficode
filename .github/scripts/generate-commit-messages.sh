@@ -44,13 +44,19 @@ claude_context_openai_privacy:➕ Add OpenAI Privacy Policy tracking
 
 Generate one message per context file:"
 
+# Debug: Show the prompt being sent
+echo "=== PROMPT BEING SENT ==="
+echo "$PROMPT"
+echo "=========================="
+
 # Make API call to Anthropic
-RESPONSE=$(curl -s -X POST https://api.anthropic.com/v1/messages \
+echo "Making API call to Anthropic..."
+RESPONSE=$(curl -w "HTTP_CODE:%{http_code}\n" -s -X POST https://api.anthropic.com/v1/messages \
   -H "Content-Type: application/json" \
   -H "x-api-key: $ANTHROPIC_API_KEY" \
   -H "anthropic-version: 2023-06-01" \
   -d "{
-    \"model\": \"claude-3-sonnet-20240229\",
+    \"model\": \"claude-3-5-sonnet-20241022\",
     \"max_tokens\": 1000,
     \"messages\": [{
       \"role\": \"user\",
@@ -58,9 +64,16 @@ RESPONSE=$(curl -s -X POST https://api.anthropic.com/v1/messages \
     }]
   }")
 
+# Extract HTTP code
+HTTP_CODE=$(echo "$RESPONSE" | tail -n 1 | grep -o 'HTTP_CODE:[0-9]*' | cut -d: -f2)
+API_RESPONSE=$(echo "$RESPONSE" | sed '$d')
+
+echo "HTTP Status Code: $HTTP_CODE"
+echo "API Response: $API_RESPONSE"
+
 # Extract the content from the response
-if echo "$RESPONSE" | jq -e '.content[0].text' > /dev/null 2>&1; then
-  CLAUDE_OUTPUT=$(echo "$RESPONSE" | jq -r '.content[0].text')
+if [ "$HTTP_CODE" = "200" ] && echo "$API_RESPONSE" | jq -e '.content[0].text' > /dev/null 2>&1; then
+  CLAUDE_OUTPUT=$(echo "$API_RESPONSE" | jq -r '.content[0].text')
   echo "Claude generated commit messages:"
   echo "$CLAUDE_OUTPUT"
   
@@ -69,7 +82,17 @@ if echo "$RESPONSE" | jq -e '.content[0].text' > /dev/null 2>&1; then
   echo "$CLAUDE_OUTPUT" >> $GITHUB_OUTPUT
   echo "EOF" >> $GITHUB_OUTPUT
 else
-  echo "Error in API response:"
-  echo "$RESPONSE" | jq '.' 2>/dev/null || echo "$RESPONSE"
+  echo "Error in API call (HTTP $HTTP_CODE):"
+  echo "$API_RESPONSE" | jq '.' 2>/dev/null || echo "$API_RESPONSE"
+  
+  # Check for common error patterns
+  if echo "$API_RESPONSE" | grep -q "authentication"; then
+    echo "Authentication error - check ANTHROPIC_API_KEY"
+  elif echo "$API_RESPONSE" | grep -q "rate_limit"; then
+    echo "Rate limit error - API usage may be exceeded"
+  elif echo "$API_RESPONSE" | grep -q "invalid_request"; then
+    echo "Invalid request error - check prompt formatting"
+  fi
+  
   echo "claude_output=" >> $GITHUB_OUTPUT
 fi
