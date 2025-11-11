@@ -132,7 +132,9 @@ jobs:
       uses: actions/upload-artifact@v4
       with:
         name: claude-context-files
-        path: /tmp/claude_context_*.txt
+        path: |
+          /tmp/claude_context_*.txt
+          /tmp/files_to_commit.txt
         retention-days: 7
         
     - name: Generate commit messages with Claude
