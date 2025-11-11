@@ -41,6 +41,9 @@ if [ -n "$ALL_CHANGED" ]; then
   # Create output file to track what we processed
   > /tmp/files_to_commit.txt
   
+  # Set GitHub Actions output to indicate we have files to process
+  echo "has_agreement_changes=true" >> $GITHUB_OUTPUT
+  
   # Process each file individually (using process substitution to avoid subshell)
   while IFS= read -r file; do
     if [ -n "$file" ]; then
@@ -100,4 +103,6 @@ EOF
 else
   echo "No files changed in agreements directory"
   > /tmp/files_to_commit.txt
+  # Set GitHub Actions output to indicate no files to process
+  echo "has_agreement_changes=false" >> $GITHUB_OUTPUT
 fi

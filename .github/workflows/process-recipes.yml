@@ -129,14 +129,14 @@ jobs:
         
     - name: Generate commit messages with Claude
       id: claude_messages
-      if: hashFiles('/tmp/files_to_commit.txt') != ''
+      if: steps.commit-agreement-change.outputs.has_agreement_changes == 'true'
       uses: anthropics/claude-code-action@beta
       with:
         claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
         instructions_file: .github/prompts/commit-message-generator.md
         
     - name: Process commits with output from Claude
-      if: hashFiles('/tmp/files_to_commit.txt') != ''
+      if: steps.commit-agreement-change.outputs.has_agreement_changes == 'true'
       run: |
         chmod +x .github/scripts/process-commits.sh
         ./.github/scripts/process-commits.sh "${{ steps.claude_messages.outputs.response }}"
