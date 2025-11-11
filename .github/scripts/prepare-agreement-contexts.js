@@ -196,8 +196,8 @@ async function processAgreementFile(file) {
     // Get diff output
     const diffOutput = await getFileDiff(file);
     
-    // Get current file content (limit to avoid token limits)
-    const fileContent = await getFileContent(file, 5000);
+    // Get current file content (limited to prevent token issues)
+    const fileContent = await getFileContent(file);
     
     // Create context file
     const contextFile = `/tmp/claude_context_${provider}_${filename}.txt`;
@@ -205,7 +205,7 @@ async function processAgreementFile(file) {
 Provider: ${provider}
 Document Type: ${filename}
 
-=== CURRENT FILE CONTENT (first 5000 lines) ===
+=== CURRENT FILE CONTENT ===
 ${fileContent}
 
 === GIT DIFF ===
@@ -264,19 +264,22 @@ async function getFileDiff(file) {
 }
 
 /**
- * Get file content with line limit
+ * Get file content with character limit to prevent Claude API token limits
  */
-async function getFileContent(file, maxLines = 5000) {
+async function getFileContent(file) {
   try {
     const content = await fs.readFile(file, 'utf8');
-    const lines = content.split('\n');
     
-    if (lines.length <= maxLines) {
-      return content;
-    } else {
-      console.log(`📏 Truncating ${file} to ${maxLines} lines (was ${lines.length} lines)`);
-      return lines.slice(0, maxLines).join('\n') + `\n\n[... truncated after ${maxLines} lines]`;
+    // Character limit to prevent Claude API prompt token issues (roughly 100KB)
+    const maxChars = 100000;
+    
+    if (content.length > maxChars) {
+      console.log(`📏 Truncating ${file} due to character limit (original: ${content.length} chars, limit: ${maxChars})`);
+      const truncatedContent = content.substring(0, maxChars);
+      return truncatedContent + `\n\n[... truncated after ${maxChars} characters to prevent token limit issues]`;
     }
+    
+    return content;
   } catch (error) {
     console.warn(`⚠️ Failed to read ${file}: ${error.message}`);
     return `[Error reading file: ${error.message}]`;

@@ -90,6 +90,28 @@ function generateHeader(url, selector) {
  * Apply Turndown rules to clean HTML elements
  */
 function applyRulesToHTML(elements, rules) {
+    // Always remove images to prevent prompt length issues
+    elements.forEach(element => {
+        const images = element.querySelectorAll('img');
+        images.forEach(img => img.remove());
+        
+        // Also remove figure elements that typically contain images
+        const figures = element.querySelectorAll('figure');
+        figures.forEach(fig => fig.remove());
+        
+        // Remove picture elements (responsive images)
+        const pictures = element.querySelectorAll('picture');
+        pictures.forEach(pic => pic.remove());
+        
+        // Remove video elements that might have large data
+        const videos = element.querySelectorAll('video');
+        videos.forEach(vid => vid.remove());
+        
+        // Remove SVG elements that might contain embedded data
+        const svgs = element.querySelectorAll('svg');
+        svgs.forEach(svg => svg.remove());
+    });
+    
     if (!rules?.length) {
         return elements;
     }
