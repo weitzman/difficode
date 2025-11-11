@@ -143,8 +143,8 @@ jobs:
       env:
         ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
       run: |
-        chmod +x .github/scripts/generate-commit-messages.sh
-        ./.github/scripts/generate-commit-messages.sh
+        chmod +x .github/scripts/generate-commit-messages.js
+        node .github/scripts/generate-commit-messages.js
         
     - name: Process commits with output from Claude
       if: steps.commit-agreement-change.outputs.has_agreement_changes == 'true'
