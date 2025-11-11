@@ -196,8 +196,8 @@ async function processAgreementFile(file) {
     // Get diff output
     const diffOutput = await getFileDiff(file);
     
-    // Get current file content (limit to avoid token limits)
-    const fileContent = await getFileContent(file, 5000);
+    // Get current file content (limited to prevent token issues)
+    const fileContent = await getFileContent(file);
     
     // Create context file
     const contextFile = `/tmp/claude_context_${provider}_${filename}.txt`;
@@ -205,7 +205,7 @@ async function processAgreementFile(file) {
 Provider: ${provider}
 Document Type: ${filename}
 
-=== CURRENT FILE CONTENT (first 5000 lines) ===
+=== CURRENT FILE CONTENT ===
 ${fileContent}
 
 === GIT DIFF ===
@@ -264,40 +264,22 @@ async function getFileDiff(file) {
 }
 
 /**
- * Get file content with line limit and character limit
+ * Get file content with character limit to prevent Claude API token limits
  */
-async function getFileContent(file, maxLines = 5000) {
+async function getFileContent(file) {
   try {
     const content = await fs.readFile(file, 'utf8');
-    const lines = content.split('\n');
     
-    // Character limit to prevent Claude API prompt length issues (roughly 100KB)
+    // Character limit to prevent Claude API prompt token issues (roughly 100KB)
     const maxChars = 100000;
     
-    let truncatedContent = content;
-    let truncationReason = '';
-    
-    // First, check character limit
     if (content.length > maxChars) {
-      truncatedContent = content.substring(0, maxChars);
-      truncationReason = `character limit (${maxChars})`;
+      console.log(`📏 Truncating ${file} due to character limit (original: ${content.length} chars, limit: ${maxChars})`);
+      const truncatedContent = content.substring(0, maxChars);
+      return truncatedContent + `\n\n[... truncated after ${maxChars} characters to prevent token limit issues]`;
     }
     
-    // Then check line limit on the potentially character-truncated content
-    const truncatedLines = truncatedContent.split('\n');
-    if (truncatedLines.length > maxLines) {
-      truncatedContent = truncatedLines.slice(0, maxLines).join('\n');
-      truncationReason = truncationReason ? 
-        `${truncationReason} and line limit (${maxLines})` : 
-        `line limit (${maxLines})`;
-    }
-    
-    if (truncationReason) {
-      console.log(`📏 Truncating ${file} due to ${truncationReason} (original: ${lines.length} lines, ${content.length} chars)`);
-      truncatedContent += `\n\n[... truncated due to ${truncationReason}]`;
-    }
-    
-    return truncatedContent;
+    return content;
   } catch (error) {
     console.warn(`⚠️ Failed to read ${file}: ${error.message}`);
     return `[Error reading file: ${error.message}]`;
