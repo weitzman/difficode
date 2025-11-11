@@ -21,8 +21,8 @@ if [ -n "$ALL_CHANGED" ]; then
   # Create output file to track what we processed
   > /tmp/files_to_commit.txt
   
-  # Process each file individually
-  echo "$ALL_CHANGED" | while IFS= read -r file; do
+  # Process each file individually (using process substitution to avoid subshell)
+  while IFS= read -r file; do
     if [ -n "$file" ]; then
       echo "Processing: $file"
       
@@ -66,7 +66,7 @@ EOF
         echo "Committed deletion of: $file"
       fi
     fi
-  done
+  done < <(echo "$ALL_CHANGED")
   
   echo "Context preparation complete"
   
