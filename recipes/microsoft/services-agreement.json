@@ -1,6 +1,6 @@
 {
   "url": "https://www.microsoft.com/en-us/servicesagreement",
   "selector": "#mainContent",
-  "enabled": 1,
+  "enabled": true,
   "rules": []
 }

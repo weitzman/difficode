@@ -1,9 +1,17 @@
 {
   "url": "https://www.airbnb.com/help/article/2908",
   "selector": "#react-application",
-  "enabled": 1,
+  "enabled": true,
   "rules": [
-    {"name": "remove-related-articles", "filter": "#CEP_ARTICLES_SECTION_0", "replacement": ""},
-    {"name": "remove-footer", "filter": "footer", "replacement": ""}
+    {
+      "name": "remove-related-articles",
+      "filter": "#CEP_ARTICLES_SECTION_0",
+      "replacement": ""
+    },
+    {
+      "name": "remove-footer",
+      "filter": "footer",
+      "replacement": ""
+    }
   ]
 }

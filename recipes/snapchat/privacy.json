@@ -1,9 +1,17 @@
 {
-  "url":"https://www.snapchat.com/privacy",
-  "selector":"main",
-  "enabled":1,
+  "url": "https://www.snapchat.com/privacy",
+  "selector": "main",
+  "enabled": true,
   "rules": [
-    {"name": "remove-header", "filter": "header", "replacement": ""},
-    {"name": "remove-footer", "filter": "footer", "replacement": ""}
+    {
+      "name": "remove-header",
+      "filter": "header",
+      "replacement": ""
+    },
+    {
+      "name": "remove-footer",
+      "filter": "footer",
+      "replacement": ""
+    }
   ]
 }

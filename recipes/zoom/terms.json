@@ -1,6 +1,6 @@
 {
   "url": "https://zoom.us/terms",
   "selector": "section.module-richtext",
-  "enabled": 1,
+  "enabled": true,
   "rules": []
 }

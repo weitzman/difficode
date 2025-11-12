@@ -1,6 +1,6 @@
 {
   "url": "https://www.tiktok.com/legal/page/us/privacy-policy/en",
   "selector": "#policy-card",
-  "enabled": 1,
+  "enabled": true,
   "rules": []
 }

@@ -1,5 +1,5 @@
 {
   "url": "https://slack.com/trust/privacy/privacy-policy",
   "selector": "#main",
-  "enabled": 1
+  "enabled": true
 }

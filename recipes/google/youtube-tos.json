@@ -1,5 +1,5 @@
 {
-  "url":"https://www.youtube.com/t/terms",
-  "selector":"#main-content",
-  "enabled":1
+  "url": "https://www.youtube.com/t/terms",
+  "selector": "#main-content",
+  "enabled": true
 }

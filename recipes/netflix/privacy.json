@@ -1,8 +1,12 @@
 {
   "url": "https://help.netflix.com/legal/privacy",
   "selector": "div.content",
-  "enabled": 1,
+  "enabled": true,
   "rules": [
-    {"name": "csrf", "filter": "meta[name=\"_csrf\"]", "replacement": ""}
+    {
+      "name": "csrf",
+      "filter": "meta[name=\"_csrf\"]",
+      "replacement": ""
+    }
   ]
 }

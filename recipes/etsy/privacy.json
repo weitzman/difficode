@@ -1,5 +1,5 @@
 {
   "url": "https://www.etsy.com/legal/privacy/",
   "selector": "article",
-  "enabled": 1
+  "enabled": true
 }

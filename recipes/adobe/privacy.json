@@ -1,5 +1,5 @@
 {
   "url": "https://www.adobe.com/privacy/policy.html",
   "selector": "main",
-  "enabled": 1
+  "enabled": true
 }

@@ -392,12 +392,9 @@ class RecipeFetcher {
     loadRecipe(filePath) {
         const content = fs.readFileSync(filePath, 'utf8');
         const recipe = JSON.parse(content);
-        // Handle enabled field - convert string/number to boolean
-        if (recipe.enabled !== undefined) {
-            // Convert string "0" or number 0 to false, everything else to true
-            recipe.enabled = recipe.enabled !== 0 && recipe.enabled !== "0";
-        } else {
-            recipe.enabled = true; // Default to enabled if not specified
+        // Default to enabled if not specified
+        if (recipe.enabled === undefined) {
+            recipe.enabled = true;
         }
         return recipe;
     }

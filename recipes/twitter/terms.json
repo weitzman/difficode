@@ -1,8 +1,12 @@
 {
-  "url":"https://twitter.com/tos?lang=en",
-  "selector":"main",
-  "enabled":1,
+  "url": "https://twitter.com/tos?lang=en",
+  "selector": "main",
+  "enabled": true,
   "rules": [
-    {"name": "remove-links", "filter": "a[href*=\"email-protection\"]", "replacement": ""}
+    {
+      "name": "remove-links",
+      "filter": "a[href*=\"email-protection\"]",
+      "replacement": ""
+    }
   ]
 }

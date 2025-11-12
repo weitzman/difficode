@@ -1,5 +1,5 @@
 {
-  "url":"https://www.lyft.com/privacy",
-  "selector":"#privacy",
-  "enabled":1
+  "url": "https://www.lyft.com/privacy",
+  "selector": "#privacy",
+  "enabled": true
 }

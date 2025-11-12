@@ -1,5 +1,5 @@
 {
-  "url":"http://www.verizon.com/about/privacy/full-privacy-policy",
-  "selector":"main",
-  "enabled":1
+  "url": "http://www.verizon.com/about/privacy/full-privacy-policy",
+  "selector": "main",
+  "enabled": true
 }

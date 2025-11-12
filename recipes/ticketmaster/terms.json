@@ -1,5 +1,5 @@
 {
   "url": "https://legal.ticketmaster.com/terms-of-use/",
   "selector": "div.otnotice-content",
-  "enabled": 1
+  "enabled": true
 }
