@@ -1,5 +1,5 @@
 {
   "url": "https://stripe.com/privacy",
   "selector": "main",
-  "enabled": 1
+  "enabled": true
 }

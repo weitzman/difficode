@@ -1,5 +1,5 @@
 {
   "url": "https://venmo.com/legal/us-privacy-policy/",
   "selector": ".organisms-termstemplate-content",
-  "enabled": 1
+  "enabled": true
 }

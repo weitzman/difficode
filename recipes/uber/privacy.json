@@ -1,14 +1,42 @@
 {
-  "url":"https://www.uber.com/global/en/privacy/notice/",
-  "selector":"[data-testid='content-group-dynamic']",
-  "enabled":1,
+  "url": "https://www.uber.com/global/en/privacy/notice/",
+  "selector": "[data-testid='content-group-dynamic']",
+  "enabled": true,
   "rules": [
-    {"name": "remove-nav", "filter": "nav", "replacement": ""},
-    {"name": "remove-header", "filter": "header", "replacement": ""},
-    {"name": "remove-footer", "filter": "footer", "replacement": ""},
-    {"name": "remove-cookies", "filter": "[class*='cookie']", "replacement": ""},
-    {"name": "remove-banner", "filter": "[class*='banner']", "replacement": ""},
-    {"name": "remove-menu", "filter": "[role='menu']", "replacement": ""},
-    {"name": "remove-navigation", "filter": "[role='navigation']", "replacement": ""}
+    {
+      "name": "remove-nav",
+      "filter": "nav",
+      "replacement": ""
+    },
+    {
+      "name": "remove-header",
+      "filter": "header",
+      "replacement": ""
+    },
+    {
+      "name": "remove-footer",
+      "filter": "footer",
+      "replacement": ""
+    },
+    {
+      "name": "remove-cookies",
+      "filter": "[class*='cookie']",
+      "replacement": ""
+    },
+    {
+      "name": "remove-banner",
+      "filter": "[class*='banner']",
+      "replacement": ""
+    },
+    {
+      "name": "remove-menu",
+      "filter": "[role='menu']",
+      "replacement": ""
+    },
+    {
+      "name": "remove-navigation",
+      "filter": "[role='navigation']",
+      "replacement": ""
+    }
   ]
 }

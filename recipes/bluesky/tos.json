@@ -1,5 +1,5 @@
 {
   "url": "https://bsky.social/about/support/tos",
   "selector": "section.support-page",
-  "enabled": 1
+  "enabled": true
 }

@@ -1,6 +1,6 @@
 {
-  "url":"https://help.instagram.com/581066165581870/",
-  "selector":"#help-center-faq-page-container",
-  "enabled":1,
+  "url": "https://help.instagram.com/581066165581870/",
+  "selector": "#help-center-faq-page-container",
+  "enabled": true,
   "rules": []
 }

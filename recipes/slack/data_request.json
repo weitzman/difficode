@@ -1,5 +1,5 @@
 {
   "url": "https://slack.com/user-data-request-policy",
   "selector": "#main",
-  "enabled": 1
+  "enabled": true
 }

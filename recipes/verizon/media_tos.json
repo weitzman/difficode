@@ -1,6 +1,6 @@
 {
   "url": "https://www.verizonmedia.com/policies/us/en/verizonmedia/terms/otos/index.html",
   "selector": "main",
-  "enabled": 1,
+  "enabled": true,
   "reason": ""
 }

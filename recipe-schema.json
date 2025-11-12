@@ -1,0 +1,77 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://github.com/weitzman/difficode/recipe-schema.json",
+  "title": "Legal Agreement Recipe",
+  "description": "Schema for recipe files that define how to fetch and convert legal agreements to Markdown",
+  "type": "object",
+  "properties": {
+    "url": {
+      "type": "string",
+      "format": "uri",
+      "description": "The URL of the legal agreement page to fetch"
+    },
+    "selector": {
+      "type": "string",
+      "description": "CSS selector to extract the main content from the page"
+    },
+    "enabled": {
+      "type": "boolean",
+      "description": "Whether this recipe should be processed (true) or skipped (false)",
+      "default": true
+    },
+    "reason": {
+      "type": "string",
+      "description": "Optional reason why the recipe is disabled (only relevant when enabled is false)"
+    },
+    "rules": {
+      "type": "array",
+      "description": "Optional array of HTML cleaning rules to apply",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string",
+            "description": "Name of the rule"
+          },
+          "filter": {
+            "type": "string",
+            "description": "CSS selector to match elements"
+          },
+          "replacement": {
+            "type": "string",
+            "description": "Replacement HTML (empty string to remove)"
+          }
+        },
+        "required": ["name", "filter", "replacement"],
+        "additionalProperties": false
+      }
+    }
+  },
+  "required": ["url", "selector"],
+  "additionalProperties": false,
+  "examples": [
+    {
+      "url": "https://example.com/terms",
+      "selector": "main",
+      "enabled": true
+    },
+    {
+      "url": "https://example.com/privacy",
+      "selector": ".content",
+      "enabled": false,
+      "reason": "Site blocks automated access"
+    },
+    {
+      "url": "https://example.com/tos",
+      "selector": "#main-content",
+      "enabled": true,
+      "rules": [
+        {
+          "name": "remove_ads",
+          "filter": ".advertisement",
+          "replacement": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 {
-  "url":"https://www.linkedin.com/legal/user-agreement",
-  "selector":"#component-container",
-  "enabled":1
+  "url": "https://www.linkedin.com/legal/user-agreement",
+  "selector": "#component-container",
+  "enabled": true
 }

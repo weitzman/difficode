@@ -1,5 +1,5 @@
 {
   "url": "https://www.twitch.tv/p/en/legal/privacy-notice/",
   "selector": "article",
-  "enabled": 1
+  "enabled": true
 }
