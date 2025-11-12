@@ -1,6 +1,6 @@
 {
   "url": "https://www.reddit.com/policies/user-agreement",
   "selector": "#content",
-  "enabled": 0,
+  "enabled": false,
   "reason": "403"
 }

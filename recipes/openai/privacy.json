@@ -1,5 +1,5 @@
 {
   "url": "https://openai.com/policies/privacy-policy",
   "selector": "#main",
-  "enabled": 1
+  "enabled": true
 }

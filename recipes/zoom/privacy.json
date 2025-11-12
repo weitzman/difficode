@@ -1,6 +1,6 @@
 {
   "url": "https://zoom.us/privacy",
   "selector": "#policy",
-  "enabled": 1,
+  "enabled": true,
   "rules": []
 }

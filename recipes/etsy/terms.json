@@ -1,5 +1,5 @@
 {
   "url": "https://www.etsy.com/legal/terms-of-use/",
   "selector": "#content",
-  "enabled": 1
+  "enabled": true
 }

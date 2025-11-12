@@ -1,5 +1,5 @@
 {
-  "url":"https://twitter.com/privacy?lang=en",
-  "selector":"main",
-  "enabled":1
+  "url": "https://twitter.com/privacy?lang=en",
+  "selector": "main",
+  "enabled": true
 }

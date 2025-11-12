@@ -1,9 +1,17 @@
 {
   "url": "https://www.facebook.com/policy/cookies/printable",
   "selector": "#root",
-  "enabled": 1,
+  "enabled": true,
   "rules": [
-    {"name": "remove-links", "filter": "a[href*=\"l.facebook.com/l.php\"]", "replacement": "<em>Dynamic link removed</em>"},
-    {"name": "remove-linksm", "filter": "a[href*=\"lm.facebook.com/l.php\"]", "replacement": "<em>Dynamic link removed</em>"}
+    {
+      "name": "remove-links",
+      "filter": "a[href*=\"l.facebook.com/l.php\"]",
+      "replacement": "<em>Dynamic link removed</em>"
+    },
+    {
+      "name": "remove-linksm",
+      "filter": "a[href*=\"lm.facebook.com/l.php\"]",
+      "replacement": "<em>Dynamic link removed</em>"
+    }
   ]
 }

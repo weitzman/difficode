@@ -1,5 +1,5 @@
 {
   "url": "https://bsky.social/about/support/copyright",
   "selector": "main",
-  "enabled": 1
+  "enabled": true
 }

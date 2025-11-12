@@ -1,6 +1,5 @@
-
 {
-  "url":"https://my.xfinity.com/terms/web/",
-  "selector":"[data-component=\"ArticleContent\"]",
-  "enabled":1
+  "url": "https://my.xfinity.com/terms/web/",
+  "selector": "[data-component=\"ArticleContent\"]",
+  "enabled": true
 }

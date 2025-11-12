@@ -1,6 +1,6 @@
 {
   "url": "https://discord.com/privacy",
   "selector": ".section-rich",
-  "enabled": 1,
+  "enabled": true,
   "rules": []
 }

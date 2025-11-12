@@ -1,5 +1,5 @@
 {
   "url": "https://slack.com/slack-supplemental-terms",
   "selector": "#main",
-  "enabled": 1
+  "enabled": true
 }

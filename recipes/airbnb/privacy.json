@@ -1,5 +1,5 @@
 {
   "url": "https://www.airbnb.com/help/article/3175",
   "selector": "[data-testid=\"CEPHtmlSection\"]",
-  "enabled": 1
+  "enabled": true
 }

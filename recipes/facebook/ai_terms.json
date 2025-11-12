@@ -1,8 +1,12 @@
 {
   "url": "https://www.facebook.com/legal/ai-terms",
   "selector": "div[role=\"main\"]",
-  "enabled": 1,
+  "enabled": true,
   "rules": [
-    {"name": "remove-links", "filter": "a[href*=\"l.facebook.com/l.php\"]", "replacement": "<em>Dynamic link removed</em>"}
+    {
+      "name": "remove-links",
+      "filter": "a[href*=\"l.facebook.com/l.php\"]",
+      "replacement": "<em>Dynamic link removed</em>"
+    }
   ]
 }
