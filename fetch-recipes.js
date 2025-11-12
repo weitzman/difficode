@@ -113,6 +113,7 @@ class RecipeFetcher {
         this.saveHtml = saveHtml;
         this.concurrency = concurrency;
         this.errors = [];
+        this.skipped = [];
         this.processedCount = 0;
         this.successCount = 0;
     }
@@ -231,7 +232,11 @@ class RecipeFetcher {
         await this.processConcurrently(jsonFiles);
 
         console.log('Recipe fetching completed!');
-        console.log(`📊 Results: ${this.successCount}/${this.processedCount} successful\n`);
+        console.log(`📊 Results: ${this.successCount}/${this.processedCount} successful`);
+        if (this.skipped.length > 0) {
+            console.log(`⏭️  Skipped: ${this.skipped.length} recipes (disabled or invalid)`);
+        }
+        console.log('');
         
         // Always write error report
         await this.writeErrorReport();
@@ -402,9 +407,9 @@ class RecipeFetcher {
      */
     validateRecipe(recipe, relativePath) {
         if (!recipe.enabled) {
-            const reason = recipe.reason || 'No reason provided';
+            const reason = recipe.reason || 'Recipe disabled';
             console.log('Recipe disabled, skipping\n');
-            this.recordError(relativePath, 'disabled_recipe', reason, recipe.url);
+            this.recordSkipped(relativePath, reason, recipe.url);
             return false;
         }
 
@@ -668,6 +673,18 @@ class RecipeFetcher {
     }
 
     /**
+     * Record a skipped recipe (not an error)
+     */
+    recordSkipped(recipePath, reason, recipeUrl = null) {
+        this.skipped.push({
+            recipe: recipePath,
+            reason: reason,
+            url: recipeUrl,
+            timestamp: new Date().toISOString()
+        });
+    }
+
+    /**
      * Write error report to report.md file
      */
     async writeErrorReport() {
@@ -703,6 +720,8 @@ class RecipeFetcher {
             
             if (this.errors.length > 0) {
                 console.log(`⚠️  ${this.errors.length} error(s) occurred during processing. See report.md for details.`);
+            } else {
+                console.log('✅ No errors occurred during processing.');
             }
         } catch (error) {
             console.error(`Failed to write error report: ${error.message}`);
