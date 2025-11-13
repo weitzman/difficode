@@ -114,8 +114,8 @@ Recipes are JSON files that define how to extract content from web pages:
 ### Recipe Fields
 
 - **url** (required): The URL to fetch content from
-- **selector** (optional): CSS selector for the main content area (defaults to `body`)
-- **enabled** (required): 1 to enable, 0 to disable this recipe
+- **selector** (required): CSS selector for the main content area (falls back to `body`)
+- **enabled** (optional): true to enable, false to disable this recipe
 - **reason** (optional): When recipe is disabled, explanation for why it's disabled
 - **rules** (optional): Array of turndown.js rules for removing unwanted elements
 
@@ -202,7 +202,7 @@ For each recipe, the tool generates:
 {
   "url": "https://example.com/terms",
   "selector": ".content",
-  "enabled": 1
+  "enabled": true
 }
 ```
 
@@ -210,7 +210,7 @@ For each recipe, the tool generates:
 ```json
 {
   "url": "https://example.com/terms",
-  "enabled": 1
+  "enabled": true
 }
 ```
 
@@ -219,7 +219,7 @@ For each recipe, the tool generates:
 {
   "url": "https://example.com/terms",
   "selector": ".content",
-  "enabled": 1,
+  "enabled": true,
   "rules": [
     {"name": "remove-nav", "filter": "nav", "replacement": ""},
     {"name": "remove-ads", "filter": ".advertisement", "replacement": ""},
