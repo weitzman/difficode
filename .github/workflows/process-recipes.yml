@@ -43,7 +43,7 @@ jobs:
       
     - name: Install Playwright browsers
       run: npx playwright install chromium
-      
+
     - name: Get changed recipe files
       id: changed_files
       run: |
