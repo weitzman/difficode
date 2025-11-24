@@ -159,7 +159,6 @@ jobs:
           
       - name: Push all changes
         run: |
-          git log --online
           # Check if there are any LOCAL commits to push
           if [ "$(git rev-list --count HEAD ^origin/${{ github.ref_name }})" -gt 0 ]; then
             echo "Found local commits to push"
