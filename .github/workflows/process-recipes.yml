@@ -23,188 +23,147 @@ jobs:
       checks: write
     
     steps:
-    - name: Checkout branch
-      uses: actions/checkout@v4
-      with:
-        fetch-depth: 0  # Fetch full history
-#        ref: ${{ github.head_ref }}
+      - name: Checkout branch
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # Fetch full history
+#          ref: ${{ github.head_ref }}
+      
+      - name: Fetch base branch
+        run: git fetch origin ${{ github.event.pull_request.base.ref }}:${{ github.event.pull_request.base.ref }}
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+          cache: 'npm'
 
-    - name: Fetch base branch
-      run: git fetch origin ${{ github.event.pull_request.base.ref }}:${{ github.event.pull_request.base.ref }}
+      - name: Install dependencies
+        run: npm ci
 
-    - name: Setup Node.js
-      uses: actions/setup-node@v4
-      with:
-        node-version: '18'
-        cache: 'npm'
-        
-    - name: Install dependencies
-      run: npm ci
-      
-    - name: Install Playwright browsers
-      run: npx playwright install chromium
-      
-    - name: Get changed recipe files
-      id: changed_files
-      run: |
-        # Get changed recipe files between current branch and target branch
-        if [ "${{ github.event_name }}" = "pull_request" ]; then
-          # For pull requests: compare with the target branch (main)
-          CHANGED_FILES=$(git diff --name-only origin/${{ github.event.pull_request.base.ref }}...HEAD -- recipes/ | grep '\.json$' || true)
-        else
-          # For push events: compare with previous commit
-          CHANGED_FILES=$(git diff --name-only HEAD~1 HEAD -- recipes/ | grep '\.json$' || true)
-        fi
-        
-        if [ -z "$CHANGED_FILES" ]; then
-          echo "No recipe files changed"
-          echo "has_changes=false" >> $GITHUB_OUTPUT
-          echo "changed_files=" >> $GITHUB_OUTPUT
-        else
-          echo "Changed recipe files:"
-          echo "$CHANGED_FILES"
-          # Convert newlines to spaces for command line usage
-          CHANGED_FILES_ARGS=$(echo "$CHANGED_FILES" | tr '\n' ' ' | sed 's/[[:space:]]*$//')
-          echo "has_changes=true" >> $GITHUB_OUTPUT
-          echo "changed_files=$CHANGED_FILES_ARGS" >> $GITHUB_OUTPUT
-        fi
-        
-    - name: Process recipes
-      if: steps.changed_files.outputs.has_changes == 'true' || github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
-      run: |
-        if [ "${{ github.event_name }}" = "schedule" ] || [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
-          # For scheduled and manual runs, process all recipes
-          node fetch-recipes.js --clean
-        else
-          # For PR/push runs, process specific changed recipes
-          node fetch-recipes.js --clean --recipes ${{ steps.changed_files.outputs.changed_files }}
-        fi
-      
-    - name: Generate job summary from report if available
-      if: steps.changed_files.outputs.has_changes == 'true' || github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
-      run: |
-        if [ -f "report.md" ]; then
-          echo "## Recipe Processing Results" >> $GITHUB_STEP_SUMMARY
-          echo "" >> $GITHUB_STEP_SUMMARY
-          cat report.md >> $GITHUB_STEP_SUMMARY
+      - name: Install Playwright browsers
+        run: npx playwright install chromium
+
+      - name: Get changed recipe files
+        id: changed_files
+        run: |
+          # Get changed recipe files between current branch and target branch
           if [ "${{ github.event_name }}" = "pull_request" ]; then
-            exit 1
+            # For pull requests: compare with the target branch (main)
+            CHANGED_FILES=$(git diff --name-only origin/${{ github.event.pull_request.base.ref }}...HEAD -- recipes/ | grep '\.json$' || true)
+          else
+            # For other events: no changed files to process individually
+            CHANGED_FILES=""
           fi
-        fi
-
-#    - name: Check for git changes
-#      id: changes
-#      run: |
-#        git config --local user.email "action@github.com"
-#        git config --local user.name "GitHub Action"
-#
-#        # Check if there are any changes to commit
-#        if git diff --quiet && git diff --staged --quiet; then
-#          echo "No changes to commit"
-#          echo "has_changes=false" >> $GITHUB_OUTPUT
-#        else
-#          echo "Changes detected"
-#          echo "has_changes=true" >> $GITHUB_OUTPUT
-#        fi
-#
-    - name: Update README agreements table
-      run: |
-        # Generate new table from recipes and save to temp file
-        node list-recipes.js > new_table.tmp
-        
-        # Update README.md between the markers using sed
-        sed '/<!-- START_AGREEMENTS -->/,/<!-- END_AGREEMENTS -->/{
-          /<!-- START_AGREEMENTS -->/r new_table.tmp
-          /<!-- END_AGREEMENTS -->/!d
-        }' README.md > README.md.tmp && mv README.md.tmp README.md
-        
-        # Clean up temp file
-        rm new_table.tmp
-        
-    - name: Prepare context files for Claude
-      id: commit-agreement-change
-      run: .github/scripts/prepare-agreement-contexts.js
-        
-    - name: Save context files as artifacts
-      if: steps.commit-agreement-change.outputs.has_agreement_changes == 'true'
-      uses: actions/upload-artifact@v4
-      with:
-        name: claude-context-files
-        path: |
-          /tmp/claude_context_*.txt
-          /tmp/files_to_commit.txt
-        retention-days: 7
-        
-    - name: Generate commit messages with Claude
-      id: claude_messages
-      if: steps.commit-agreement-change.outputs.has_agreement_changes == 'true'
-      env:
-        ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-      run: .github/scripts/generate-commit-messages.js
-        
-    - name: Process commits with output from Claude
-      if: steps.commit-agreement-change.outputs.has_agreement_changes == 'true'
-      run: .github/scripts/process-commits.js "${{ steps.claude_messages.outputs.claude_output }}"
-        
-    - name: Commit README updates
-      run: |
-        # Check if README.md has changes
-        if git diff --quiet README.md && git diff --staged --quiet README.md; then
-          echo "No changes to README.md"
-        else
-          echo "README.md has changes, committing..."
-          git add README.md
-          git commit -m "📋 Update agreements table in README.md"
-        fi
-        
-    - name: Push all changes
-      run: |
-        # Check if there are any commits to push
-        if git log --oneline origin/${{ github.head_ref || github.ref_name }}..HEAD | grep -q .; then
-          echo "Found commits to push"
-          git push origin HEAD:${{ github.head_ref || github.ref_name }}
-        else
-          echo "No commits to push"
-        fi
-        
-#    - name: Set check status
-#      if: always()
-#      uses: actions/github-script@v7
-#      with:
-#        script: |
-#          const { owner, repo } = context.repo;
-#          const { sha } = context.payload.pull_request?.head || context;
-#
-#          // Determine status based on job outcome
-#          const conclusion = '${{ job.status }}' === 'success' ? 'success' : 'failure';
-#          const title = conclusion === 'success' ?
-#            '✅ Recipe processing completed successfully' :
-#            '❌ Recipe processing failed';
-#
-#          // Create a check run for this commit
-#          await github.rest.checks.create({
-#            owner,
-#            repo,
-#            name: 'Recipe Processing',
-#            head_sha: sha,
-#            status: 'completed',
-#            conclusion: conclusion,
-#            output: {
-#              title: title,
-#              summary: conclusion === 'success' ?
-#                'All recipe changes processed successfully with no errors.' :
-#                'Recipe processing encountered errors. Check the workflow logs and job summary for details.'
-#            }
-#          });
           
-    - name: Final status check
-      if: always()
-      run: |
-        if [ "${{ job.status }}" = "failure" ]; then
-          echo "::error::Recipe processing workflow failed"
-          echo "❌ Recipe processing check failed"
+          if [ -z "$CHANGED_FILES" ]; then
+            echo "No recipe files changed"
+            echo "has_changes=false" >> $GITHUB_OUTPUT
+            echo "changed_files=" >> $GITHUB_OUTPUT
+          else
+            echo "Changed recipe files:"
+            echo "$CHANGED_FILES"
+            # Convert newlines to spaces for command line usage
+            CHANGED_FILES_ARGS=$(echo "$CHANGED_FILES" | tr '\n' ' ' | sed 's/[[:space:]]*$//')
+            echo "has_changes=true" >> $GITHUB_OUTPUT
+            echo "changed_files=$CHANGED_FILES_ARGS" >> $GITHUB_OUTPUT
+          fi
+      
+      # @todo write to step summary
+      - name: Process recipes
+        if: steps.changed_files.outputs.has_changes == 'true' || github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+        run: |
+          if [ "${{ github.event_name }}" = "schedule" ] || [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            # For scheduled and manual runs, process all recipes
+            node fetch-recipes.js --clean
+          else
+            # For PR/push runs, process specific changed recipes
+            node fetch-recipes.js --clean --recipes ${{ steps.changed_files.outputs.changed_files }}
+          fi
+      
+      - name: Generate job summary from report if available
+        if: steps.changed_files.outputs.has_changes == 'true' || github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+        run: |
+          if [ -f "report.md" ]; then
+            echo "## Recipe Processing Results" >> $GITHUB_STEP_SUMMARY
+            echo "" >> $GITHUB_STEP_SUMMARY
+            cat report.md >> $GITHUB_STEP_SUMMARY
+          fi
+      
+      - name: Fail on errors in pull requests
+        if: github.event_name == 'pull_request' && hashFiles('report.md') != ''
+        run: |
+          echo "Recipe processing errors detected in pull request"
           exit 1
-        else
-          echo "::notice::Recipe processing workflow completed successfully" 
-          echo "✅ Recipe processing check completed successfully"
-        fi
+      
+      - name: Update README agreements table
+        run: |
+          # Generate new table from recipes and save to temp file
+          node list-recipes.js > new_table.tmp
+          
+          # Update README.md between the markers using sed
+          sed '/<!-- START_AGREEMENTS -->/,/<!-- END_AGREEMENTS -->/{
+            /<!-- START_AGREEMENTS -->/r new_table.tmp
+            /<!-- END_AGREEMENTS -->/!d
+          }' README.md > README.md.tmp && mv README.md.tmp README.md
+      
+          # Clean up temp file
+          rm new_table.tmp
+          
+      - name: Prepare context files for Claude
+        id: commit-agreement-change
+        run: .github/scripts/prepare-agreement-contexts.js
+          
+      - name: Save context files as artifacts
+        if: steps.commit-agreement-change.outputs.has_agreement_changes == 'true'
+        uses: actions/upload-artifact@v4
+        with:
+          name: claude-context-files
+          path: |
+            /tmp/claude_context_*.txt
+            /tmp/files_to_commit.txt
+          retention-days: 14
+          
+      - name: Generate commit messages with Claude
+        id: claude_messages
+        if: steps.commit-agreement-change.outputs.has_agreement_changes == 'true'
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: .github/scripts/generate-commit-messages.js
+          
+      - name: Process Claude context files, creating commits
+        if: steps.commit-agreement-change.outputs.has_agreement_changes == 'true'
+        run: .github/scripts/process-commits.js "${{ steps.claude_messages.outputs.claude_output }}"
+          
+      - name: Commit README updates
+        run: |
+          # Check if README.md has changes
+          if git diff --quiet README.md && git diff --staged --quiet README.md; then
+            echo "No changes to README.md"
+          else
+            echo "README.md has changes, committing..."
+            git add README.md
+            git commit -m "📋 Update agreements table in README.md"
+          fi
+          
+      - name: Push all changes
+        run: |
+          # Check if there are any commits to push
+          if git log --oneline origin/${{ github.head_ref || github.ref_name }}..HEAD | grep -q .; then
+            echo "Found commits to push"
+            git push origin HEAD:${{ github.head_ref || github.ref_name }}
+          else
+            echo "No commits to push"
+          fi
+            
+      - name: Final status check
+        if: always()
+        run: |
+          if [ "${{ job.status }}" = "failure" ]; then
+            echo "::error::Recipe processing workflow failed"
+            echo "❌ Recipe processing check failed"
+            exit 1
+          else
+            echo "::notice::Recipe processing workflow completed successfully" 
+            echo "✅ Recipe processing check completed successfully"
+          fi

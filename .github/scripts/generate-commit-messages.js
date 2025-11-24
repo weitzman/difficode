@@ -90,9 +90,9 @@ async function main() {
     // Generate prompt
     const prompt = generatePrompt(contextData);
     
-    console.log('=== PROMPT BEING SENT ===');
-    console.log(prompt);
-    console.log('==========================');
+    // console.log('=== PROMPT BEING SENT ===');
+    // console.log(prompt);
+    // console.log('==========================');
 
     // Make API call
     console.log('🤖 Making API call to Anthropic...');
