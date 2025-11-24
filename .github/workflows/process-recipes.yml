@@ -51,10 +51,10 @@ jobs:
         if [ "${{ github.event_name }}" = "pull_request" ]; then
           # For pull requests: compare with the target branch (main)
           CHANGED_FILES=$(git diff --name-only origin/${{ github.event.pull_request.base.ref }}...HEAD -- recipes/ | grep '\.json$' || true)
-        else
-          # For push events: compare with previous commit
-          CHANGED_FILES=$(git diff --name-only HEAD~1 HEAD -- recipes/ | grep '\.json$' || true)
-        fi
+#        else
+#          # For push events: compare with previous commit
+#          CHANGED_FILES=$(git diff --name-only HEAD~1 HEAD -- recipes/ | grep '\.json$' || true)
+#        fi
         
         if [ -z "$CHANGED_FILES" ]; then
           echo "No recipe files changed"
@@ -69,6 +69,7 @@ jobs:
           echo "changed_files=$CHANGED_FILES_ARGS" >> $GITHUB_OUTPUT
         fi
         
+    # @todo write to step summary
     - name: Process recipes
       if: steps.changed_files.outputs.has_changes == 'true' || github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
       run: |
@@ -133,7 +134,7 @@ jobs:
         path: |
           /tmp/claude_context_*.txt
           /tmp/files_to_commit.txt
-        retention-days: 7
+        retention-days: 14
         
     - name: Generate commit messages with Claude
       id: claude_messages
@@ -142,7 +143,7 @@ jobs:
         ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
       run: .github/scripts/generate-commit-messages.js
         
-    - name: Process commits with output from Claude
+    - name: Process Claude context files, creating commits
       if: steps.commit-agreement-change.outputs.has_agreement_changes == 'true'
       run: .github/scripts/process-commits.js "${{ steps.claude_messages.outputs.claude_output }}"
         
