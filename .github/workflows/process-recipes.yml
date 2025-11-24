@@ -149,9 +149,9 @@ jobs:
       - name: Push all changes
         run: |
           # Check if there are any commits to push
-          if git diff HEAD; then
+          if [ $(git rev-list @{u}..HEAD | wc -l) -gt 0 ]; then
             echo "Found commits to push"
-            git push origin HEAD:${{ github.head_ref || github.ref_name }}
+            git push
           else
             echo "No commits to push"
           fi
