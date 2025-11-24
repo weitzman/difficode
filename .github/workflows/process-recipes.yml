@@ -12,6 +12,12 @@ on:
     branches: [ main ]
   # Allow manual triggering for testing
   workflow_dispatch:
+    inputs:
+      debug_enabled:
+        type: boolean
+        description: 'Run the build with tmate debugging enabled (https://github.com/marketplace/actions/debugging-with-tmate)'
+        required: false
+        default: false
 
 jobs:
   process-recipes:
@@ -23,11 +29,16 @@ jobs:
       checks: write
     
     steps:
+      # https://github.com/mxschmitt/action-tmate
+      - name: Setup tmate session
+        uses: mxschmitt/action-tmate@v3
+        if: ${{ github.event_name == 'workflow_dispatch' && inputs.debug_enabled }}
+        with:
+          detached: true
       - name: Checkout branch
         uses: actions/checkout@v4
         with:
           fetch-depth: 0  # Fetch full history
-#          ref: ${{ github.head_ref }}
       
       - name: Fetch base branch
         run: git fetch origin ${{ github.event.pull_request.base.ref }}:${{ github.event.pull_request.base.ref }}
@@ -148,10 +159,11 @@ jobs:
           
       - name: Push all changes
         run: |
+          git log --online
           # Check if there are any LOCAL commits to push
-          if [ "$(git rev-list --count HEAD ^origin/${{ github.head_ref || github.ref_name }})" -gt 0 ]; then
+          if [ "$(git rev-list --count HEAD ^origin/${{ github.ref_name }})" -gt 0 ]; then
             echo "Found local commits to push"
-            git push origin HEAD:${{ github.head_ref || github.ref_name }}
+            git push origin HEAD:${{ github.ref_name }}
           else
             echo "No local commits to push"
           fi
