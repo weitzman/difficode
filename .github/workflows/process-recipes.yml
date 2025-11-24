@@ -41,13 +41,14 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0  # Fetch full history
-          ref: ${{ github.event.pull_request.head.sha }}
+          ref: ${{ github.head_ref }}
 
       - name: Checkout branch (other)
         if: github.event_name != 'pull_request'
         uses: actions/checkout@v4
         with:
           fetch-depth: 0  # Fetch full history
+          ref: ${{ github.ref }}
       
       - name: Fetch base branch
         run: git fetch origin ${{ github.event.pull_request.base.ref }}:${{ github.event.pull_request.base.ref }}
