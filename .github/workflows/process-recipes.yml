@@ -151,7 +151,7 @@ jobs:
           # Check if there are any commits to push
           if [ $(git rev-list @{u}..HEAD | wc -l) -gt 0 ]; then
             echo "Found commits to push"
-            git push
+            git push origin HEAD:${{ github.head_ref || github.ref_name }}
           else
             echo "No commits to push"
           fi
