@@ -148,12 +148,12 @@ jobs:
           
       - name: Push all changes
         run: |
-          # Check if there are any commits to push
-          if git log --oneline origin/${{ github.head_ref || github.ref_name }}..HEAD | grep -q .; then
-            echo "Found commits to push"
+          # Check if there are any LOCAL commits to push
+          if [ "$(git rev-list --count HEAD ^origin/${{ github.head_ref || github.ref_name }})" -gt 0 ]; then
+            echo "Found local commits to push"
             git push origin HEAD:${{ github.head_ref || github.ref_name }}
           else
-            echo "No commits to push"
+            echo "No local commits to push"
           fi
             
       - name: Final status check
