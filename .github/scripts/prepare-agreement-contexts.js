@@ -134,8 +134,8 @@ async function getChangedAgreementFiles() {
    addFilesToSet(files, changedFiles);
     
     // Staged files
-    // const { stdout: stagedFiles } = await execAsync('git diff --staged --name-only agreements/ || true');
-    // addFilesToSet(files, stagedFiles);
+    const { stdout: stagedFiles } = await execAsync('git diff --staged --name-only agreements/ || true');
+    addFilesToSet(files, stagedFiles);
     
     // Untracked files
     const { stdout: untrackedFiles } = await execAsync('git ls-files --others --exclude-standard agreements/ || true');
@@ -232,7 +232,7 @@ async function fileExists(filePath) {
  */
 async function getFileDiff(file) {
   try {
-    const { stdout } = await execAsync(`git diff "${file}" || git diff --cached "${file}" || echo "New file"`);
+    const { stdout } = await execAsync(`git diff --cached -- "${file}" || echo "New file"`);
     console.log(stdout)
     return stdout;
   } catch (error) {
@@ -249,7 +249,7 @@ async function getFileContent(file) {
     const content = await fs.readFile(file, 'utf8');
     
     // Character limit to prevent Claude API prompt token issues (roughly 100KB)
-    const maxChars = 100000;
+    const maxChars = 80000;
     
     if (content.length > maxChars) {
       console.log(`📏 Truncating ${file} due to character limit (original: ${content.length} chars, limit: ${maxChars})`);
