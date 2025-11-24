@@ -1,5 +1,12 @@
 {
   "url": "https://legal.ticketmaster.com/terms-of-use/",
   "selector": "div.otnotice-content",
-  "enabled": true
+  "enabled": true,
+  "rules": [
+    {
+      "name": "remove-images",
+      "filter": "img",
+      "replacement": ""
+    }
+  ]
 }

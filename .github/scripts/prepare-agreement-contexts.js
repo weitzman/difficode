@@ -129,28 +129,13 @@ async function getChangedAgreementFiles() {
   const files = new Set();
   
   try {
-    // Get changed files based on context (PR vs push)
-    const isPullRequest = process.env.GITHUB_EVENT_NAME === 'pull_request';
-    
-    if (isPullRequest) {
-      const baseBranch = process.env.GITHUB_BASE_REF || 'main';
-      console.log(`🔀 Pull request mode - comparing with origin/${baseBranch}`);
-      
-      // Changed files in PR
-      const { stdout: changedFiles } = await execAsync(`git diff --name-only "origin/${baseBranch}"...HEAD -- agreements/ || true`);
-      addFilesToSet(files, changedFiles);
-      
-    } else {
-      console.log('⚡ Push mode - comparing with HEAD~1');
-      
-      // Changed files in push
-      const { stdout: changedFiles } = await execAsync('git diff --name-only HEAD~1 HEAD -- agreements/ || true');
-      addFilesToSet(files, changedFiles);
-    }
+   // Changed files
+   const { stdout: changedFiles } = await execAsync('git diff --name-only -- agreements/ || true');
+   addFilesToSet(files, changedFiles);
     
     // Staged files
-    const { stdout: stagedFiles } = await execAsync('git diff --staged --name-only agreements/ || true');
-    addFilesToSet(files, stagedFiles);
+    // const { stdout: stagedFiles } = await execAsync('git diff --staged --name-only agreements/ || true');
+    // addFilesToSet(files, stagedFiles);
     
     // Untracked files
     const { stdout: untrackedFiles } = await execAsync('git ls-files --others --exclude-standard agreements/ || true');
@@ -191,7 +176,7 @@ async function processAgreementFile(file) {
   // Check if file exists (not deleted)
   if (await fileExists(file)) {
     // Stage the file
-    execSync(`git add "${file}"`);
+    execSync(`git add -f "${file}"`);
     
     // Get diff output
     const diffOutput = await getFileDiff(file);
@@ -220,7 +205,7 @@ ${diffOutput}`;
     // Handle deleted files
     console.log(`🗑️ Handling deleted file: ${file}`);
     try {
-      execSync(`git add "${file}" || git rm "${file}" || true`);
+      execSync(`git add -f "${file}" || git rm -f "${file}" || true`);
       execSync(`git commit -m "🗑️ Remove ${provider} ${filename} agreement"`);
       console.log(`✅ Committed deletion of: ${file}`);
     } catch (error) {
@@ -247,16 +232,9 @@ async function fileExists(filePath) {
  */
 async function getFileDiff(file) {
   try {
-    const isPullRequest = process.env.GITHUB_EVENT_NAME === 'pull_request';
-    
-    if (isPullRequest) {
-      const baseBranch = process.env.GITHUB_BASE_REF || 'main';
-      const { stdout } = await execAsync(`git diff "origin/${baseBranch}"...HEAD "${file}" || echo "New file"`);
-      return stdout || "New file";
-    } else {
-      const { stdout } = await execAsync(`git diff HEAD~1 "${file}" || git diff --cached "${file}" || echo "New file"`);
-      return stdout || "New file";
-    }
+    const { stdout } = await execAsync(`git diff "${file}" || git diff --cached "${file}" || echo "New file"`);
+    console.log(stdout)
+    return stdout;
   } catch (error) {
     console.warn(`⚠️ Failed to get diff for ${file}: ${error.message}`);
     return "New file";
