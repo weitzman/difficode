@@ -12,6 +12,12 @@ on:
     branches: [ main ]
   # Allow manual triggering for testing
   workflow_dispatch:
+    inputs:
+      debug_enabled:
+        type: boolean
+        description: 'Run the build with tmate debugging enabled (https://github.com/marketplace/actions/debugging-with-tmate)'
+        required: false
+        default: false
 
 jobs:
   process-recipes:
@@ -23,11 +29,26 @@ jobs:
       checks: write
     
     steps:
-      - name: Checkout branch
+      # https://github.com/mxschmitt/action-tmate
+      - name: Setup tmate session
+        uses: mxschmitt/action-tmate@v3
+        if: ${{ github.event_name == 'workflow_dispatch' && inputs.debug_enabled }}
+        with:
+          detached: true
+
+      - name: Checkout branch (PR)
+        if: github.event_name == 'pull_request'
         uses: actions/checkout@v4
         with:
           fetch-depth: 0  # Fetch full history
-#          ref: ${{ github.head_ref }}
+          ref: ${{ github.head_ref }}
+
+      - name: Checkout branch (other)
+        if: github.event_name != 'pull_request'
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # Fetch full history
+          ref: ${{ github.ref }}
       
       - name: Fetch base branch
         run: git fetch origin ${{ github.event.pull_request.base.ref }}:${{ github.event.pull_request.base.ref }}
@@ -146,14 +167,17 @@ jobs:
             git commit -m "📋 Update agreements table in README.md"
           fi
           
-      - name: Push all changes
+      - name: Push any changes
         run: |
-          # Check if there are any commits to push
-          if git log --oneline origin/${{ github.head_ref || github.ref_name }}..HEAD | grep -q .; then
-            echo "Found commits to push"
-            git push origin HEAD:${{ github.head_ref || github.ref_name }}
+          # Get the list of unpushed commits
+          UNPUSHED_COMMITS=$(git log @{push}.. --oneline)
+          
+          # Check if there are any unpushed commits to push
+          if [ -n "$UNPUSHED_COMMITS" ]; then
+            echo "Found unpushed commits to push"
+            git push
           else
-            echo "No commits to push"
+            echo "No unpushed commits to push"
           fi
             
       - name: Final status check
