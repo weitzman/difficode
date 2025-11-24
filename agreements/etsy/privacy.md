@@ -4,9 +4,7 @@ Selector used: article
 
 ---
 
-This policy was published on August 25, 2025, and will take effect on October 9, 2025. The previous version of this policy can be viewed [here](https://www.etsy.com/legal/privacy-archived/). Learn more about interest-based advertising and your choices [here](https://www.etsy.com/legal/cookies/#marketing-services).
-
-**This is the English language text of our Privacy Policy. For other languages/regions please select from the list below:**
+As a global marketplace, we take our international data protection obligations seriously. Please select your preferred language (and, where applicable, regional variation) from the list below to view our Global Privacy Policy. (Please note: the content is the same across all translations, only the language or dialect differs). Learn more about interest-based advertising and your choices [here](https://www.etsy.com/legal/cookies/#marketing-services).
 
 *   Deutsch - [Etsy: Datenschutzrichtlinie](https://storage.googleapis.com/etsy-extfiles-prod/Privacy%20Policy_DE.pdf)
 *   English - India - [Etsy Privacy Policy](https://storage.googleapis.com/etsy-extfiles-prod/Privacy%20Policy_en_IN.pdf)
@@ -201,4 +199,4 @@ If you have any questions:
 
 **Outside of North America and South America:** Etsy Support Team – Privacy Policy One Le Pole Square, Ship Street Great, Dublin 8, Ireland.
 
-Last updated on Aug 25, 2025
+Last updated on Nov 20, 2025

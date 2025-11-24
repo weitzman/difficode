@@ -12,7 +12,7 @@ Agreement
 
 ### Last Updated
 
-This user agreement is effective as of October 7, 2025.
+This user agreement is effective as of November 17, 2025.
 
 **Welcome to Venmo!**
 
@@ -494,6 +494,30 @@ By applying for and using the Venmo Credit Card, you authorize us and Synchrony 
 
 When the Venmo Credit Card is used to send money to another Venmo user through your Venmo account, the transaction will be treated as a purchase in accordance with the terms of the Venmo Credit Card Account Agreement. However, these transactions are not considered purchases under the terms of this user agreement for any purpose, including, but not limited to, eligibility for the Venmo Purchase Protection Program.
 
+### Sending Money to and Receiving Money from PayPal Customers
+
+You can use your personal Venmo account to send money to or receive money from friends and family with eligible personal PayPal accounts, including eligible non-U.S. PayPal accounts.
+
+Whether you can use this feature, including which PayPal accounts you can find and pay and which PayPal customers can find you, depends on the account settings of both the sender and receiver, and is subject to applicable laws, rules and regulations. Transactions between PayPal and Venmo accounts are always set to private, and the privacy setting can’t be changed.
+
+Payments you send—including those to non-U.S. PayPal accounts—will be sent in U.S. Dollars (USD). By default, the recipient will receive the payment in their preferred currency, but you may be able to choose a different eligible currency for them to receive. Payments sent to Venmo accounts will always be received in USD. For more information on exchange rates and changing currencies, see the **Currency Conversions** section below.
+
+You can find the fee for sending money to an eligible non-U.S. PayPal account on our [**Fees Page**](https://venmo.com/resources/our-fees/). Applicable fees will be disclosed to you in advance each time you initiate sending a transaction. Teen accounts are not eligible to send money to or receive money from PayPal accounts.
+
+### Currency Conversions
+
+**How we convert currency**
+
+If Venmo needs to convert currency—for example, when you send money to a non-U.S. PayPal account that will be received in a non-USD currency—we will complete the transaction at the exchange rate set for the relevant currency exchange. The transaction exchange rate is adjusted regularly and includes a [**currency conversion spread**](https://www.paypal.com/webapps/mpp/merchant-fees#statement-13) applied and retained by us on a base exchange rate to form the rate applicable to your conversion. Our transaction exchange rate (which includes a currency conversion spread) will be disclosed to you in advance before you send money. If you use your credit card as the payment method when sending money, you may also be charged a cash-advance fee by your card issuer.
+
+**Holds and limitations** may delay currency conversion until the hold or limitation is released. This means the currency conversion may use a different exchange rate than the one that would have applied if there had been no hold or limitation. In these cases, the exchange rate may be more or less favorable to you. We may, at our discretion, impose limits on the amount of money you can convert or the number of conversions you can perform.
+
+**Currency conversion choices**
+
+When your payment is funded by a debit or credit card and Venmo determines a currency conversion is needed, you consent to and authorize Venmo to convert the currency in place of your debit or credit card issuer. You may have the right to have your card issuer perform the currency conversion, if applicable, for that card issuer and network. Currency preference selections may be presented to you in various forms, including a choice of which currency is used for the transaction and whether Venmo or your card issuer performs the conversion, and may be made available individually for each card and for each automatic payment agreement. If your card issuer converts the currency, your card issuer will determine the currency conversion rate and what fees they may charge.
+
+Venmo will always perform currency conversion for transactions where your balance or linked bank account is the payment method. For Venmo Debit Card transactions, Mastercard will perform the currency conversion, except for Venmo Debit Card transactions with an authorized merchant, for which Venmo will perform the currency conversion.  
+
 ### Visa+ Terms and Conditions
 
 The Visa+ service (“Visa+”) is a service of Visa, Inc. and is made available to you by PayPal, Inc. through the Venmo services and subject to these Visa+ Terms and Conditions (“Visa+ Terms”). Visa+ allows you to use your Venmo account to send money to, and receive money from, friends and family members with eligible Visa+ enabled digital wallets, including PayPal. You must have an eligible Venmo personal account and a Venmo balance to use Visa+. You may fund Visa+ transfers with your Venmo balance or other eligible linked payment methods. Funds sent to you through Visa+ will be received into your Venmo balance.  
@@ -585,7 +609,7 @@ For more information about privacy settings and how they work, please review [P
 
 ### Venmo Purchase Protection Program
 
-IMPORTANT: THIS PROGRAM DOES NOT APPLY TO PAYMENTS TO PERSONAL ACCOUNTS THAT ARE NOT IDENTIFIED AS FOR GOODS AND SERVICES OR PAYMENTS TO TEEN ACCOUNTS. ONLY QUALIFYING PAYMENTS, AS DESCRIBED BELOW, WILL BE ELIGIBLE FOR VENMO PURCHASE PROTECTION PROGRAM.
+IMPORTANT: THIS PROGRAM DOES NOT APPLY TO PAYMENTS TO PERSONAL ACCOUNTS THAT ARE NOT IDENTIFIED AS FOR GOODS AND SERVICES OR PAYMENTS TO TEEN ACCOUNTS. ONLY QUALIFYING PAYMENTS, AS DESCRIBED BELOW, WILL BE ELIGIBLE FOR THE VENMO PURCHASE PROTECTION PROGRAM.
 
 If you or a Teen User are the sender or you are the recipient of a Qualifying Payment, you may be eligible for the Venmo Purchase Protection Program. Payments must be made from a Venmo account and are limited to the following types of transactions (“Qualifying Payments”):
 
@@ -1146,6 +1170,89 @@ Processing errors are not:
     
 *   Your or a Teen User’s errors in making a transaction (for example, mistyping an amount of money that you are sending).
     
+
+### Remittance Transfer Errors
+
+**What is a Remittance Transfer**
+
+You may be protected for certain errors when you send money outside of the U.S. using a Venmo account. A “Remittance Transfer” is a transaction that meets the following criteria:
+
+*   The payment is sent from a personal account that is used primarily for personal, family or household purposes,
+    
+*   The payment is made for personal, family or household purposes,
+    
+*   The payment is made using the Pay/Request feature through your Venmo account,
+    
+*   The payment amount equals or exceeds $15 U.S. dollars (excluding fees charged to you) or the foreign currency equivalent calculated using exchange rates in effect at the time of the transaction, and
+    
+*   The recipient received the payment in an account outside of the U.S.
+    
+
+Payments that you make at a merchant website or location by selecting Venmo as a payment option are not “Remittance Transfers.”
+
+**What qualifies as a Remittance Transfer Error**
+
+A **“Remittance Transfer Error”** occurs if:
+
+*   You paid an incorrect amount to send the Remittance Transfer. For example, you were charged more than the total shown on the Remittance Transfer receipt you received (unless the total shown on the receipt was an estimate, and the difference results from application of the actual exchange rate, fees, and taxes).
+    
+*   Venmo made a computational or bookkeeping error, such as a miscalculation of the amount the recipient received.
+    
+*   The amount stated in the Remittance Transfer receipt was not made available to the recipient, unless:
+    
+    *   we stated in the Remittance Transfer receipt that we used estimates and the difference in the amount received and the amount stated in the Remittance Transfer receipt results from application of the actual exchange rate, fees, and taxes, or
+        
+    *   the problem was caused by extraordinary circumstances outside our control.
+        
+*   Funds were available to the recipient later than the date of availability that was disclosed to you on the Remittance Transfer receipt or were not delivered, unless:
+    
+    *   extraordinary circumstances outside our control caused the delay, and we could not reasonably anticipate those circumstances,
+        
+    *   delays resulted from fraud screenings, or were caused by requirements of the Office of Foreign Assets Controls or similar requirements, or
+        
+    *   you (or someone assisting you) made the transfer with fraudulent intent.
+        
+*   You request documentation or information concerning the Remittance Transfer, such as information required to determine if a Remittance Transfer Error occurred.
+    
+
+**What is not considered a Remittance Transfer Error**
+
+The following are NOT considered Remittance Transfer Errors:
+
+*   An inquiry about the status of a Remittance Transfer, except where the funds from the transfer were not made available to a designated recipient by the disclosed date of availability,
+    
+*   A request for information for tax or other recordkeeping purposes,
+    
+*   A change requested by the designated recipient, or
+    
+*   A change in the amount or type of currency received by the designated recipient from the amount or type of currency stated in the disclosure provided you, if we relied on information provided by you in making the disclosure.
+    
+
+**What to do if you think there has been a Remittance Transfer Error or problem**
+
+If you think there has been a Remittance Transfer Error or problem with your Remittance Transfer:
+
+*   Call Venmo Customer Service at 855-812-4430.
+    
+*   Write us at: PayPal, Attn: Venmo Error Resolution Department, P.O. Box 45950, Omaha, NE 68145-0950.
+    
+*   Log in to your Venmo app, go to **Get Help**, then **Chat With Us**.
+    
+
+You must contact us within 180 days of the date we promised to you that funds would be made available to the recipient. When you do, please tell us:
+
+*   Your name, address and telephone number,
+    
+*   The error or problem with the transfer, and why you believe it is an error or problem,
+    
+*   The name of the person receiving the funds, and if you know it, his or her telephone number or address,
+    
+*   The dollar amount of the transfer, and
+    
+*   The confirmation code or number of the transaction.
+    
+
+We will determine whether an error occurred within 90 days after you contact us and we will correct any error promptly. We will tell you the results within three [**Business Days**](https://www.paypal.com/us/legalhub/paypal/useragreement-full?locale.x=en_US#business-days) after completing our investigation. If we decide that there was no error, we will send you a written explanation. You may ask for copies of any documents we used in our investigation.
 
 ### Communications Between You and Us
 

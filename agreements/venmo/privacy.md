@@ -12,9 +12,7 @@ Statement
 
 **DATE EFFECTIVE**
 
-May 19, 2025  
-  
-Our current privacy statement is in effect through November 16, 2025. Our new privacy statement goes into effect on November 17, 2025. Read it [here](/legal/us-privacy-policy-nov-17-2025).
+November 17, 2025
 
 Please click here to learn how we manage information about Teen Users.
 
@@ -30,7 +28,7 @@ Venmo is always improving. As the Services evolve we may occasionally update thi
 
 Throughout this Privacy Statement, we use the term "personal information" to describe information that can be associated with a specific person and can be used to identify that person. We do not consider personal information to include information that has been aggregated and/or anonymized so that it does not identify a specific person.
 
-This Privacy Statement also applies to all information we collect from non-Venmo users who receive a payment from Venmo users through the Visa+ Service (the “Recipient”). The Visa+ Service enables customers, with an eligible Venmo account, to send and receive money to and from PayPal and third-party Visa+ enabled digital wallets (“Visa+”).
+This Privacy Statement also applies to all information we collect from non-Venmo users who receive payment from Venmo users through the Visa+ Service (the “Recipient”). The Visa+ Service enables customers, with an eligible Venmo account, to send and receive money to and from PayPal and third-party Visa+ enabled digital wallets (“Visa+”).
 
 **THE INFORMATION WE COLLECT**
 
@@ -89,7 +87,7 @@ We store and process your personal information using third party servers located
 
 We strive to ensure security on our systems. Despite our efforts, we cannot guarantee that personal information may not be accessed, disclosed, altered or destroyed by breach of our administrative, managerial and technical safeguards. Therefore, we urge you to take adequate precautions to protect your personal information as well, including never sharing your Venmo password with anyone.
 
-If Venmo learns of a systems security breach, we may attempt to notify you electronically so you can take appropriate protective steps. By using the Services, you agree that Venmo may communicate with you electronically. Venmo may post a notice on the website or mobile applications if a security breach occurs. We may also send an email to you at the email address you have provided to us. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive free written notice of a security breach (or to withdraw your consent from receiving electronic notice of a security breach), please email us at [privacy@venmo.com](mailto: privacy@venmo.com)
+If Venmo learns of a systems security breach, we may attempt to notify you electronically so you can take appropriate protective steps. By using the Services, you agree that Venmo may communicate with you electronically. Venmo may post a notice on the website or mobile applications if a security breach occurs. We may also send an email to you at the email address you have provided to us. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive free written notice of a security breach (or to withdraw your consent from receiving electronic notice of a security breach), please email us at [privacy@venmo.com](mailto: privacy@venmo.com).
 
 **HOW LONG WE STORE YOUR PERSONAL INFORMATION**
 
@@ -180,9 +178,9 @@ We may disclose your personal information with:
     
 *   Other users if you have a business profile. You may choose to display certain information about your business profile on the Venmo network, such as your street address, phone number, email, social media accounts and website. You can control how this information is displayed in your business profile settings. We will also disclose certain information about your business profile to other users, such as how long ago your business profile was created, total number of subscribers, and total number of transactions. We may also use your address, transaction activity and engagement activity on Venmo to rank your business relative to other businesses in your area.
     
-*   Other users in accordance with your account settings. In accordance with your account settings, your Personal Information can be seen by other Venmo account holders and non-Venmo account holders (such as users of payment networks and processors) to help facilitate a transaction. For example, as part of the send money feature, a user may search for your account to initiate a payment. Based on your account settings, the information shown to other users may include your username, profile photo, first and last name, email, phone number, city and state, month and year of Venmo account creation, and any additional information you include in the details section of your account.
+*   Other users in accordance with your account settings. In accordance with your account settings, your Personal Information can be seen by other Venmo account holders and non-Venmo account holders (such as users of PayPal or third-party payment networks and processors) to help facilitate a transaction. For example, as part of the send and receive money feature, a user may search for your account to initiate a payment. Based on your account settings, the information shown to other users may include your username, profile photo, first and last name, email, phone number, city and state, month and year of Venmo account creation, and any additional information you include in the details section of your account.
     
-*   Other third parties with your consent or at your direction to do so, including if you authorize an account connection with a third-party account or platform or to send money to a payment network recipient.
+*   Other third parties with your consent or at your direction to do so, including if you authorize an account connection with a third-party account or platform or to send money to or receive money from a payment network recipient.
     
     *   For the purposes of this Privacy Statement, an "account connection" with such a third party is a connection you authorize or enable between your Venmo account and a non-Venmo account, payment instrument, or platform that you lawfully control or own. When you authorize such a connection, Venmo and the third-party will exchange your personal information and other information directly. Examples of account connections include, without limitation: linking your Venmo account to a social media account or social messaging service; connecting your Venmo account to a third-party data aggregation or financial services company, if you provide such company with your Venmo account log-in credentials; or using your Venmo account to make payments to a merchant or allowing a merchant to charge your Venmo account.
         
@@ -205,7 +203,7 @@ The Services may contain links to (or allow you to link to) other third-party se
 
 **HOW TO CONTACT US**
 
-If you have questions or concerns regarding this Privacy Statement, or any feedback pertaining to your privacy and the Services that you would like us to consider, please email us at [privacy@venmo.com](mailto: privacy@venmo.com)
+If you have questions or concerns regarding this Privacy Statement, or any feedback pertaining to your privacy and the Services that you would like us to consider, please email us at [privacy@venmo.com](mailto: privacy@venmo.com).
 
 **INFORMATION FOR AND ABOUT TEEN USERS**
 

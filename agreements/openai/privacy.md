@@ -107,13 +107,13 @@ Depending on where you live, you may have certain statutory rights in relation t
 *   Object to how we process your Personal Data.
 *   Lodge a complaint with your local data protection authority.
 
-You can exercise some of these rights through your OpenAI account. If you are unable to exercise your rights through your account, please submit your request through [privacy.openai.com⁠(opens in a new window)](https://privacy.openai.com/policies) or to [dsar@openai.com⁠](mailto:dsar@openai.com). You can contact our data protection officer at [privacy@openai.com⁠](mailto:privacy@openai.com).
+You can exercise some of these rights through your OpenAI account. If you are unable to exercise your rights through your account, please submit your request through [privacy.openai.com⁠(opens in a new window)](https://privacy.openai.com/) or to [dsar@openai.com⁠](mailto:dsar@openai.com). You can contact our data protection officer at [privacy@openai.com⁠⁠](mailto:privacy@openai.com).
 
 A note about accuracy: Services like ChatGPT generate responses by reading a user’s request and, in response, predicting the words most likely to appear next. In some cases, the words most likely to appear next may not be the most factually accurate. For this reason, you should not rely on the factual accuracy of output from our models. If you notice that ChatGPT output contains factually inaccurate information about you and you would like to request a correction or removal of the information, you can submit these requests through [privacy.openai.com⁠(opens in a new window)](https://privacy.openai.com/) or to [dsar@openai.com⁠](mailto:dsar@openai.com), and we will consider your request based on applicable law and the technical capabilities of our models.
 
 For information on how to exercise your rights with respect to data we have collected from the internet to train our models, please see [this help center article⁠(opens in a new window)](https://help.openai.com/en/articles/7842364-how-chatgpt-and-our-language-models-are-developed).
 
-OpenAI processes your Personal Data for the purposes described in this Privacy Policy on servers located in various jurisdictions, including processing and storing your Personal Data in our facilities and servers in the United States. While data protection law varies by country, we apply the protections described in this policy to your Personal Data regardless of where it is processed, and only transfer that data pursuant to legally valid transfer mechanisms.
+OpenAI processes your Personal Data for the purposes described in this Privacy Policy on servers located in various jurisdictions, including processing and storing your Personal Data in our facilities and servers in the United States. While data protection law varies by country, we apply the protections described in this policy to your Personal Data regardless of where it is processed, and only transfer that data pursuant to legally valid transfer mechanisms
 
 ## 6\. Children
 
