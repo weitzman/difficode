@@ -149,7 +149,7 @@ jobs:
       - name: Push all changes
         run: |
           # Check if there are any commits to push
-          if [ $(git rev-list @{u}..HEAD | wc -l) -gt 0 ]; then
+          if git log --oneline origin/${{ github.head_ref || github.ref_name }}..HEAD | grep -q .; then
             echo "Found commits to push"
             git push origin HEAD:${{ github.head_ref || github.ref_name }}
           else
