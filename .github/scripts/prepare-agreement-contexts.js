@@ -249,7 +249,7 @@ async function getFileContent(file) {
     const content = await fs.readFile(file, 'utf8');
     
     // Character limit to prevent Claude API prompt token issues (roughly 100KB)
-    const maxChars = 100000;
+    const maxChars = 80000;
     
     if (content.length > maxChars) {
       console.log(`📏 Truncating ${file} due to character limit (original: ${content.length} chars, limit: ${maxChars})`);

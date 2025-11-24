@@ -1,5 +1,12 @@
 {
   "url": "https://privacy.ticketmaster.com/privacy-policy",
   "selector": "main",
-  "enabled": true
+  "enabled": true,
+  "rules": [
+    {
+      "name": "remove-images",
+      "filter": "img",
+      "replacement": ""
+    }
+  ]
 }
