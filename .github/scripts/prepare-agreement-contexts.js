@@ -60,9 +60,6 @@ async function main() {
 
     console.log('🔍 Analyzing agreement file changes...');
     
-    // Configure git for GitHub Actions
-    await configureGit();
-    
     // Get changed files in agreements directory
     const changedFiles = await getChangedAgreementFiles();
     
@@ -106,19 +103,6 @@ async function main() {
       console.error('Stack trace:', error.stack);
     }
     process.exit(1);
-  }
-}
-
-/**
- * Configure git for GitHub Actions
- */
-async function configureGit() {
-  try {
-    execSync('git config --local user.email "action@github.com"');
-    execSync('git config --local user.name "GitHub Action"');
-    console.log('⚙️ Git configured for GitHub Actions');
-  } catch (error) {
-    console.warn('⚠️ Failed to configure git, continuing anyway');
   }
 }
 

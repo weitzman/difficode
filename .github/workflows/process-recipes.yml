@@ -154,7 +154,10 @@ jobs:
           
       - name: Process Claude context files, creating commits
         if: steps.commit-agreement-change.outputs.has_agreement_changes == 'true'
-        run: .github/scripts/process-commits.js "${{ steps.claude_messages.outputs.claude_output }}"
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          .github/scripts/process-commits.js "${{ steps.claude_messages.outputs.claude_output }}"
           
       - name: Commit README updates
         run: |
