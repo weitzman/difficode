@@ -87,24 +87,60 @@ async function main() {
     console.log('📖 Reading context files...');
     const contextData = await collectContextData(filesList);
     
-    // Generate prompt
-    const prompt = generatePrompt(contextData);
+    // Process each file individually
+    const results = [];
     
-    // console.log('=== PROMPT BEING SENT ===');
-    // console.log(prompt);
-    // console.log('==========================');
-
-    // Make API call
-    console.log('🤖 Making API call to Anthropic...');
-    const response = await callAnthropicAPI(apiKey, prompt);
+    for (let i = 0; i < contextData.length; i++) {
+      const contextFile = contextData[i];
+      console.log(`\n🔄 Processing file ${i + 1}/${contextData.length}: ${contextFile.file}`);
+      
+      // Generate prompt for this single file
+      const prompt = generatePrompt([contextFile]);
+      const tokenEstimate = estimateTokens(prompt);
+      
+      // Check if this would exceed 75% rate limit
+      if (totalTokensUsed + tokenEstimate > RATE_LIMIT_THRESHOLD) {
+        console.log(`⏭️ Stopping at ${totalTokensUsed}/${RATE_LIMIT_THRESHOLD} tokens (75% limit) - skipping remaining ${contextData.length - i} files`);
+        break;
+      }
+      
+      console.log(`📊 Estimated tokens: ${tokenEstimate}`);
+      
+      // Make API call
+      console.log('🤖 Making API call to Anthropic...');
+      const response = await callAnthropicAPI(apiKey, prompt);
+      
+      // Track actual tokens used from API response
+      if (response._actualInputTokens) {
+        totalTokensUsed += response._actualInputTokens;
+        console.log(`📊 Running total: ${totalTokensUsed}/${RATE_LIMIT_THRESHOLD} tokens (${Math.round(totalTokensUsed/RATE_LIMIT_THRESHOLD*100)}%)`);
+      } else {
+        // Fallback to estimate if API doesn't return usage
+        totalTokensUsed += tokenEstimate;
+        console.log(`📊 Running total (estimated): ${totalTokensUsed}/${RATE_LIMIT_THRESHOLD} tokens`);
+      }
+      
+      // Process response
+      const claudeOutput = extractCommitMessages(response);
+      if (claudeOutput) {
+        results.push(claudeOutput);
+        console.log(`✅ Generated: ${claudeOutput}`);
+      }
+      
+      // Check if we've exceeded 75% limit after this call
+      if (totalTokensUsed >= RATE_LIMIT_THRESHOLD) {
+        console.log(`⏹️ Reached 75% rate limit - stopping after processing ${i + 1} files`);
+        break;
+      }
+    }
     
-    // Process response
-    const claudeOutput = extractCommitMessages(response);
+    // Combine all results
+    const finalOutput = results.join('\n');
     
-    if (claudeOutput) {
-      console.log('✅ Claude generated commit messages:');
-      console.log(claudeOutput);
-      setGitHubOutput('claude_output', claudeOutput);
+    if (finalOutput) {
+      console.log('\n✅ Final Claude generated commit messages:');
+      console.log(finalOutput);
+      setGitHubOutput('claude_output', finalOutput);
     } else {
       console.log('⚠️ No commit messages generated');
       setGitHubOutput('claude_output', '');
@@ -194,7 +230,7 @@ async function callAnthropicAPI(apiKey, prompt) {
   
   const payload = {
     model: 'claude-sonnet-4-5',
-    max_tokens: 1000,
+    // max_tokens: 1000,
     messages: [{
       role: 'user',
       content: prompt
