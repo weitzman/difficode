@@ -49,6 +49,17 @@ Exit codes:
 `);
 }
 
+// Rate limit: 75% of 30,000 tokens = 22,500 tokens per session
+const RATE_LIMIT_THRESHOLD = 22500;
+let totalTokensUsed = 0;
+
+/**
+ * Estimate token count (rough approximation: 1 token ≈ 4 characters)
+ */
+function estimateTokens(text) {
+  return Math.ceil(text.length / 4);
+}
+
 /**
  * Generate commit messages using Anthropic API
  */
