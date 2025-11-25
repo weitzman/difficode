@@ -241,7 +241,7 @@ async function callAnthropicAPI(apiKey, prompt) {
   
   const payload = {
     model: 'claude-sonnet-4-5',
-    // max_tokens: 1000,
+    max_tokens: 1000,
     messages: [{
       role: 'user',
       content: prompt
