@@ -454,7 +454,7 @@ We collect device information like:
 
 ## Identifiers that tell your device apart from other users’
 
-Identifiers we collect include device IDs, mobile advertiser ID or IDs from games, apps or accounts you use. We also collect Family Device IDs or other identifiers unique to [Meta Company Products](https://www.facebook.com/legal/meta-company-products?entry_point=POLICY_ANNOTATION%3A1.ex.26-IdentifiersThatTellYour) associated with the same device or account.
+Identifiers we collect include device IDs, mobile advertiser ID or IDs from games, apps or accounts you use. We also collect Family Device IDs or other identifiers unique to [Meta Company Products](https://www.facebook.com/help/195227921252400?ref=dp&entry_point=POLICY_ANNOTATION%3A1.ex.26-IdentifiersThatTellYour) associated with the same device or account.
 
 14
 
@@ -1594,7 +1594,7 @@ If you don't have an account:
 
 ![A Meta Quest, a mobile phone showing the Facebook, Instagram and Messenger apps, and a pair of Ray-Ban Stories glasses sit on a table.](https://static.xx.fbcdn.net/rsrc.php/v4/yR/r/v0IJ2q8ETdP.png)
 
-We are part of the [Meta Companies](https://www.facebook.com/help/111814505650678?entry_point=POLICY_SECTION%3A5-HowDoTheMeta) that provide Meta Company Products. [Meta Company Products](https://www.facebook.com/legal/meta-company-products?entry_point=POLICY_SECTION%3A5-HowDoTheMeta) include all the [Meta Products\[59\]](?entry_point=POLICY_SECTION%3A5-HowDoTheMeta#annotation-59) covered by this Policy, plus other products like WhatsApp and more.
+We are part of the [Meta Companies](https://www.facebook.com/help/111814505650678?entry_point=POLICY_SECTION%3A5-HowDoTheMeta) that provide Meta Company Products. [Meta Company Products](https://www.facebook.com/help/195227921252400?entry_point=POLICY_SECTION%3A5-HowDoTheMeta) include all the [Meta Products\[59\]](?entry_point=POLICY_SECTION%3A5-HowDoTheMeta#annotation-59) covered by this Policy, plus other products like WhatsApp and more.
 
 We share information we collect, infrastructure, systems and technology with the other Meta Companies. [Learn more](?entry_point=POLICY_SECTION%3A5-HowDoTheMeta#9-HowDoWeTransfer) about how we transfer information to other countries.
 
