@@ -110,10 +110,10 @@ async function main() {
       const tokenEstimate = estimateTokens(prompt);
       
       // Check if this would exceed 75% rate limit
-      if (totalTokensUsed + tokenEstimate > RATE_LIMIT_THRESHOLD) {
-        console.log(`⏭️ Stopping at ${totalTokensUsed}/${RATE_LIMIT_THRESHOLD} tokens (75% limit) - skipping remaining ${contextData.length - i} files`);
-        break;
-      }
+      // if (totalTokensUsed + tokenEstimate > RATE_LIMIT_THRESHOLD) {
+      //   console.log(`⏭️ Stopping at ${totalTokensUsed}/${RATE_LIMIT_THRESHOLD} tokens (75% limit) - skipping remaining ${contextData.length - i} files`);
+      //   break;
+      // }
       
       console.log(`📊 Estimated tokens: ${tokenEstimate}`);
       
@@ -135,7 +135,7 @@ async function main() {
       const claudeOutput = extractCommitMessages(response);
       if (claudeOutput) {
         results.push(claudeOutput);
-        console.log(`✅ Generated: ${claudeOutput}`);
+        // console.log(`✅ Generated: ${claudeOutput}`);
       }
       
       // Check if we've exceeded 75% limit after this call
