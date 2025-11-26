@@ -440,11 +440,11 @@ Stripe Payments Canada, Ltd.\*\*
 
 Mexico
 
-Payments Mexico, S. de R.L. de C.V.\*\*
+Stripe Payments Mexico, S. de R.L. de C.V.\*\*
 
 Brazil
 
-Brasil Soluções de Pagamento - Instituição de Pagamento Ltda\*\*
+Stripe Brasil Soluções de Pagamento - Instituição de Pagamento Ltda\*\*
 
 Other countries in the Americas, to the extent Stripe offers Services in these countries
 
