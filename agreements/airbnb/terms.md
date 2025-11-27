@@ -4,7 +4,7 @@ Selector used: #react-application
 
 ---
 
-[](https://www.airbnb.com/)[Help Center](/help)
+[](/)[Help Center](/help)
 
 Search
 
