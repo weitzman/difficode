@@ -1,0 +1,7 @@
+{
+  "name": "Dropbox Terms of Service",
+  "url": "https://www.dropbox.com/terms",
+  "selector": "#main-content",
+  "enabled": true,
+  "rules": []
+}
