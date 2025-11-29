@@ -143,16 +143,14 @@ async function processContextFile(contextFile, claudeOutput) {
   console.log(`📝 Processing context file: ${contextFile}`);
   
   // Extract provider and filename from context file name
-  const basename = path.basename(contextFile, '.txt');
-  const parts = basename.split('_');
-  
-  if (parts.length < 4 || parts[0] !== 'claude' || parts[1] !== 'context') {
+  // Expected format: /tmp/claude_context_provider_filename.txt
+  const match = contextFile.match(/claude_context_([^_]+)_(.+)\.txt$/);
+  if (!match) {
     console.warn(`⚠️ Unexpected context file format: ${contextFile}`);
     return { committed: false, skipped: true };
   }
   
-  const provider = parts[2];
-  const filename = parts.slice(3).join('_'); // Handle multi-part filenames
+  const [, provider, filename] = match;
   
   console.log(`   📋 Provider: ${provider}, Filename: ${filename}`);
   
