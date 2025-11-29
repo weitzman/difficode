@@ -83,26 +83,20 @@ async function main() {
     }
 
     // Process each context file
-    const contextFiles = filesList.trim().split('\n').filter(f => f.trim());
-    const results = {
-      processed: 0,
-      committed: 0,
-      skipped: 0,
-      errors: 0
-    };
+    const contextFiles = filesList.trim().split('\n')
+      .map(f => f.trim())
+      .filter(f => f && f.startsWith('/tmp/claude_context_'));
+    
+    const results = { processed: 0, committed: 0, skipped: 0, errors: 0 };
 
     for (const contextFile of contextFiles) {
-      const trimmedFile = contextFile.trim();
-      if (trimmedFile && trimmedFile.startsWith('/tmp/claude_context_')) {
-        try {
-          const result = await processContextFile(trimmedFile, claudeOutput);
-          results.processed++;
-          if (result.committed) results.committed++;
-          if (result.skipped) results.skipped++;
-        } catch (error) {
-          console.error(`❌ Error processing ${trimmedFile}: ${error.message}`);
-          results.errors++;
-        }
+      try {
+        const result = await processContextFile(contextFile, claudeOutput);
+        results.processed++;
+        results[result.committed ? 'committed' : 'skipped']++;
+      } catch (error) {
+        console.error(`❌ Error processing ${contextFile}: ${error.message}`);
+        results.errors++;
       }
     }
 
