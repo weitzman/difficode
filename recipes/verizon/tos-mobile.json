@@ -1,5 +1,5 @@
 {
-  "url": "https://www.verizon.com/about/terms-conditions/terms-of-use/mobile",
-  "selector": "#main-content",
+  "url": "https://www.verizon.com/support/website-use-legal/",
+  "selector": "div.pageContents",
   "enabled": true
 }
