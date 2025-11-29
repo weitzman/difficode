@@ -251,6 +251,37 @@ async function callAnthropicAPI(apiKey, prompt) {
   const payload = {
     model: 'claude-sonnet-4-5',
     max_tokens: 1000,
+    tool_choice: {
+      type: "tool",
+      name: "generate_commit_messages"
+    },
+    tools: [{
+      name: "generate_commit_messages",
+      description: "Generate commit messages for agreement files",
+      input_schema: {
+        type: "object",
+        properties: {
+          commit_messages: {
+            type: "array",
+            items: {
+              type: "object",
+              properties: {
+                file_path: {
+                  type: "string",
+                  description: "Full path to the agreement file"
+                },
+                commit_message: {
+                  type: "string",
+                  description: "Commit message starting with ➕ for new or 📄 for updates, max 50 chars"
+                }
+              },
+              required: ["file_path", "commit_message"]
+            }
+          }
+        },
+        required: ["commit_messages"]
+      }
+    }],
     messages: [{
       role: 'user',
       content: prompt
@@ -315,46 +346,55 @@ async function callAnthropicAPI(apiKey, prompt) {
 }
 
 /**
- * Extract commit messages from Claude response
+ * Extract commit messages from Claude structured response
  */
 function extractCommitMessages(response) {
-  console.log('🔍 Extracting commit messages from response...');
+  console.log('🔍 Extracting structured commit messages from response...');
   
-  // Try different response format paths
-  const formats = [
-    { path: 'content[0].text', desc: 'Standard Anthropic format' },
-    { path: 'choices[0].message.content', desc: 'OpenAI-style format' },
-    { path: 'message.content', desc: 'Alternative format' },
-    { path: 'text', desc: 'Direct text format' }
-  ];
-  
-  for (const format of formats) {
-    try {
-      const content = getNestedProperty(response, format.path);
-      if (content && typeof content === 'string' && content.trim()) {
-        console.log(`✅ Found content using ${format.desc} (${format.path})`);
-        return content.trim();
+  try {
+    // Check for tool use in structured output
+    if (response.content && Array.isArray(response.content)) {
+      for (const content of response.content) {
+        if (content.type === 'tool_use' && content.name === 'generate_commit_messages') {
+          const toolInput = content.input;
+          if (toolInput && toolInput.commit_messages && Array.isArray(toolInput.commit_messages)) {
+            console.log(`✅ Found structured commit messages: ${toolInput.commit_messages.length} files`);
+            
+            // Convert structured data to the expected format for processing script
+            const messages = toolInput.commit_messages.map(item => 
+              `${item.file_path}:${item.commit_message}`
+            ).join('\n');
+            
+            return messages;
+          }
+        }
       }
-    } catch (error) {
-      console.log(`⚠️ Failed to extract using ${format.path}: ${error.message}`);
     }
+    
+    // Fallback to old text parsing for backward compatibility
+    const formats = [
+      { path: 'content[0].text', desc: 'Standard text format' },
+      { path: 'text', desc: 'Direct text format' }
+    ];
+    
+    for (const format of formats) {
+      try {
+        const content = getNestedProperty(response, format.path);
+        if (content && typeof content === 'string' && content.trim()) {
+          console.log(`✅ Found text content using ${format.desc} (${format.path})`);
+          return content.trim();
+        }
+      } catch (error) {
+        console.log(`⚠️ Failed to extract using ${format.path}: ${error.message}`);
+      }
+    }
+    
+  } catch (error) {
+    console.log(`⚠️ Error extracting structured response: ${error.message}`);
   }
   
-  console.log('⚠️ No recognized response format found');
+  console.log('⚠️ No structured or text response found');
   console.log('Available keys:', Object.keys(response));
-  
-  // If it's a simple object with a text property, try that
-  if (response && typeof response === 'object') {
-    const keys = Object.keys(response);
-    console.log('Response structure:');
-    for (const key of keys) {
-      const value = response[key];
-      const type = Array.isArray(value) ? 'array' : typeof value;
-      const preview = typeof value === 'string' ? value.substring(0, 50) + '...' : '';
-      console.log(`  ${key}: ${type} ${preview}`);
-    }
-  }
-  
   return null;
 }
 
