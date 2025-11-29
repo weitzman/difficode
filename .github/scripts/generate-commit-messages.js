@@ -11,28 +11,21 @@ function showHelp() {
 Generate Commit Messages Script
 ===============================
 
-Generate intelligent commit messages using Claude (Anthropic API) for agreement file changes.
+Generate commit messages using Claude API with structured output and rate limiting.
 
 Usage:
   generate-commit-messages.js
   generate-commit-messages.js --help
 
-Options:
-  --help, -h      Show this help message
-
 Behavior:
-  - Reads context files from /tmp/files_to_commit.txt
-  - Sends file content and diffs to Claude API
-  - Generates specific commit messages for each agreement file
-  - Sets GitHub Actions output: claude_output
-
-Input:
-  - Context files: /tmp/claude_context_<provider>_<filename>.txt
-  - File list: /tmp/files_to_commit.txt
+  - Processes each context file individually with rate limit monitoring
+  - Uses structured output API for reliable message parsing
+  - Stops at 75% of rate limit (22,500 tokens) to avoid API limits
+  - Tracks actual token usage from API responses
 
 Output:
   - GitHub Actions output with commit messages
-  - Format: "filename:commit message" per line
+  - Format: "full/file/path:commit message" per line
 
 Environment Variables:
   ANTHROPIC_API_KEY     - Required. API key for Claude access
@@ -40,12 +33,9 @@ Environment Variables:
 
 API Configuration:
   - Model: claude-sonnet-4-5
-  - Max tokens: 1000
-  - Uses Playwright for HTTP requests
-
-Exit codes:
-  0 - Success
-  1 - Error occurred
+  - Uses structured output with generate_commit_messages tool
+  - Rate limit: 75% of 30,000 tokens/minute (22,500 tokens)
+  - Individual file processing with token tracking
 `);
 }
 
@@ -209,37 +199,19 @@ async function collectContextData(filesList) {
  * Generate the prompt for Claude
  */
 function generatePrompt(contextData) {
-  let prompt = `Generate commit messages using FULL FILE PATH format:
+  const files = contextData.map(({ content }) => {
+    const match = content.match(/^File: (.+)$/m);
+    const filePath = match ? match[1] : 'unknown_file';
+    return { path: filePath, content };
+  });
 
-`;
+  return `Generate commit messages for these agreement files:
 
-  for (const { file, content } of contextData) {
-    // Extract agreement file path from context file content
-    const agreementPath = extractAgreementPath(content);
-    prompt += `\n=== ${agreementPath} ===\n${content}\n`;
-  }
+${files.map(f => `=== ${f.path} ===\n${f.content}`).join('\n\n')}
 
-  prompt += `
-OUTPUT FORMAT (use full file paths):
-`;
-  
-  for (const { file, content } of contextData) {
-    const agreementPath = extractAgreementPath(content);
-    prompt += `${agreementPath}:[commit message]\n`;
-  }
-
-  prompt += `
-Rules: ➕ for new, 📄 for updates. Max 50 chars.`;
-
-  return prompt;
-}
-
-/**
- * Extract agreement file path from context content
- */
-function extractAgreementPath(content) {
-  const match = content.match(/^File: (.+)$/m);
-  return match ? match[1] : 'unknown_file';
+Use the generate_commit_messages tool with:
+- file_path: exact path shown above  
+- commit_message: ➕ for new files, 📄 for updates, max 50 chars`;
 }
 
 /**
@@ -349,63 +321,18 @@ async function callAnthropicAPI(apiKey, prompt) {
  * Extract commit messages from Claude structured response
  */
 function extractCommitMessages(response) {
-  console.log('🔍 Extracting structured commit messages from response...');
-  
-  try {
-    // Check for tool use in structured output
-    if (response.content && Array.isArray(response.content)) {
-      for (const content of response.content) {
-        if (content.type === 'tool_use' && content.name === 'generate_commit_messages') {
-          const toolInput = content.input;
-          if (toolInput && toolInput.commit_messages && Array.isArray(toolInput.commit_messages)) {
-            console.log(`✅ Found structured commit messages: ${toolInput.commit_messages.length} files`);
-            
-            // Convert structured data to the expected format for processing script
-            const messages = toolInput.commit_messages.map(item => 
-              `${item.file_path}:${item.commit_message}`
-            ).join('\n');
-            
-            return messages;
-          }
-        }
-      }
-    }
-    
-    // Fallback to old text parsing for backward compatibility
-    const formats = [
-      { path: 'content[0].text', desc: 'Standard text format' },
-      { path: 'text', desc: 'Direct text format' }
-    ];
-    
-    for (const format of formats) {
-      try {
-        const content = getNestedProperty(response, format.path);
-        if (content && typeof content === 'string' && content.trim()) {
-          console.log(`✅ Found text content using ${format.desc} (${format.path})`);
-          return content.trim();
-        }
-      } catch (error) {
-        console.log(`⚠️ Failed to extract using ${format.path}: ${error.message}`);
-      }
-    }
-    
-  } catch (error) {
-    console.log(`⚠️ Error extracting structured response: ${error.message}`);
+  // Primary: Structured output from tool use
+  if (response.content?.[0]?.type === 'tool_use' && 
+      response.content[0].name === 'generate_commit_messages') {
+    const messages = response.content[0].input.commit_messages;
+    return messages.map(item => `${item.file_path}:${item.commit_message}`).join('\n');
   }
   
-  console.log('⚠️ No structured or text response found');
-  console.log('Available keys:', Object.keys(response));
-  return null;
+  // Fallback: Text content
+  const textContent = response.content?.[0]?.text || response.text || '';
+  return textContent.trim() || null;
 }
 
-/**
- * Get nested property from object using dot notation
- */
-function getNestedProperty(obj, path) {
-  return path.split(/[\.\[\]]+/).filter(Boolean).reduce((current, key) => {
-    return current && current[key] !== undefined ? current[key] : undefined;
-  }, obj);
-}
 
 /**
  * Set GitHub Actions output
