@@ -161,9 +161,9 @@ async function processContextFile(contextFile, claudeOutput) {
   if (claudeOutput.trim()) {
     const lines = claudeOutput.split('\n');
     for (const line of lines) {
-      if (line.startsWith(`${basename}:`)) {
+      if (line.startsWith(`${agreementFile}:`)) {
         commitMsg = line.split(':').slice(1).join(':').trim();
-        console.log(`🤖 Found Claude message: "${commitMsg}"`);
+        console.log(`🤖 Found Claude message for ${agreementFile}: "${commitMsg}"`);
         break;
       }
     }

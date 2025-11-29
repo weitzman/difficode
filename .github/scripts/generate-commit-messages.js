@@ -209,28 +209,37 @@ async function collectContextData(filesList) {
  * Generate the prompt for Claude
  */
 function generatePrompt(contextData) {
-  let prompt = `I need you to generate commit messages for legal agreement files.
+  let prompt = `Generate commit messages using FULL FILE PATH format:
 
-Context files provided:`;
+`;
 
   for (const { file, content } of contextData) {
-    prompt += `\n\n=== CONTEXT FILE: ${file} ===\n${content}`;
+    // Extract agreement file path from context file content
+    const agreementPath = extractAgreementPath(content);
+    prompt += `\n=== ${agreementPath} ===\n${content}\n`;
   }
 
   prompt += `
+OUTPUT FORMAT (use full file paths):
+`;
+  
+  for (const { file, content } of contextData) {
+    const agreementPath = extractAgreementPath(content);
+    prompt += `${agreementPath}:[commit message]\n`;
+  }
 
-For each context file, generate a commit message that:
-- Starts with ➕ for new files or 📄 for updates
-- Describes the content in under 50 characters
-- Uses format: FILENAME:MESSAGE
-
-For example:
-claude_context_openai_terms:➕ Add OpenAI Terms of Service tracking
-claude_context_openai_privacy:➕ Add OpenAI Privacy Policy tracking
-
-Generate one message per context file:`;
+  prompt += `
+Rules: ➕ for new, 📄 for updates. Max 50 chars.`;
 
   return prompt;
+}
+
+/**
+ * Extract agreement file path from context content
+ */
+function extractAgreementPath(content) {
+  const match = content.match(/^File: (.+)$/m);
+  return match ? match[1] : 'unknown_file';
 }
 
 /**
