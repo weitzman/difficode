@@ -1,5 +1,5 @@
 {
   "url": "https://www.verizon.com/support/website-use-legal/",
-  "selector": "div.pageContents",
+  "selector": "#SupportContentWrapper",
   "enabled": true
 }
