@@ -1,5 +1,12 @@
 {
   "url": "https://www.verizon.com/support/website-use-legal/",
   "selector": "#SupportContentWrapper",
-  "enabled": true
+  "enabled": true,
+  "rules": [
+    {
+      "name": "remove-scripts",
+      "filter": "script",
+      "replacement": ""
+    }
+  ]
 }
