@@ -217,7 +217,7 @@ async function fileExists(filePath) {
 async function getFileDiff(file) {
   try {
     const { stdout } = await execAsync(`git diff --cached -- "${file}" || echo "New file"`);
-    console.log(stdout)
+    // console.log(stdout)
     return stdout;
   } catch (error) {
     console.warn(`⚠️ Failed to get diff for ${file}: ${error.message}`);
