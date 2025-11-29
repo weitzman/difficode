@@ -1,0 +1,7 @@
+{
+  "name": "Dropbox Privacy Policy",
+  "url": "https://www.dropbox.com/privacy",
+  "selector": "#main-content",
+  "enabled": true,
+  "rules": []
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Pinterest Terms of Service",
+  "url": "https://policy.pinterest.com/terms-of-service", 
+  "selector": "main",
+  "enabled": true,
+  "rules": []
+}
