@@ -54,15 +54,18 @@ jobs:
         run: git fetch origin ${{ github.event.pull_request.base.ref }}:${{ github.event.pull_request.base.ref }}
       
       - name: Setup Node.js
+        if: steps.changed_files.outputs.has_changes == 'true' || github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
         uses: actions/setup-node@v4
         with:
           node-version: '18'
           cache: 'npm'
 
       - name: Install dependencies
+        if: steps.changed_files.outputs.has_changes == 'true' || github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
         run: npm ci
 
       - name: Install Playwright browsers
+        if: steps.changed_files.outputs.has_changes == 'true' || github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
         run: npx playwright install chromium
 
       - name: Get changed recipe files
@@ -118,6 +121,7 @@ jobs:
           exit 1
       
       - name: Update README agreements table
+        if: steps.changed_files.outputs.has_changes == 'true' || github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
         run: |
           # Generate new table from recipes and save to temp file
           node list-recipes.js > new_table.tmp
@@ -160,6 +164,7 @@ jobs:
           .github/scripts/process-commits.js "${{ steps.claude_messages.outputs.claude_output }}"
           
       - name: Commit README updates
+        if: steps.changed_files.outputs.has_changes == 'true' || github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
         run: |
           # Check if README.md has changes
           if git diff --quiet README.md && git diff --staged --quiet README.md; then
