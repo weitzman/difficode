@@ -170,37 +170,29 @@ async function processContextFile(contextFile, claudeOutput) {
     console.log(`⚠️ No Claude message found for ${basename}, using fallback: "${commitMsg}"`);
   }
   
-  if (await fileExists(agreementFile)) {
-    console.log(`📁 Staging file: ${agreementFile}`);
-    
-    try {
-      execSync(`git add "${agreementFile}"`);
-      
-      // Check if there are actually changes to commit
-      if (hasGitStagedChanges()) {
-        try {
-          // Create commit with proper escaping
-          const escapedMsg = commitMsg.replace(/"/g, '\\"');
-          execSync(`git commit -m "${escapedMsg}"`, { stdio: 'pipe' });
-          console.log(`✅ Committed: ${commitMsg}`);
-          
-          return { committed: true, skipped: false };
-          
-        } catch (error) {
-          console.error(`❌ Failed to commit for ${basename}: ${error.message}`);
-          return { committed: false, skipped: false };
-        }
-      } else {
-        console.log(`ℹ️ No changes to commit for ${agreementFile}`);
-        return { committed: false, skipped: true };
-      }
-    } catch (error) {
-      console.error(`❌ Failed to stage ${agreementFile}: ${error.message}`);
-      return { committed: false, skipped: false };
-    }
-  } else {
+  if (!(await fileExists(agreementFile))) {
     console.warn(`⚠️ Agreement file not found: ${agreementFile}`);
     return { committed: false, skipped: true };
+  }
+
+  try {
+    // Stage and commit in one operation if there are changes
+    execSync(`git add "${agreementFile}"`);
+    
+    if (!hasGitStagedChanges()) {
+      console.log(`ℹ️ No changes to commit for ${agreementFile}`);
+      return { committed: false, skipped: true };
+    }
+    
+    const escapedMsg = commitMsg.replace(/"/g, '\\"');
+    execSync(`git commit -m "${escapedMsg}"`, { stdio: 'pipe' });
+    console.log(`✅ Committed: ${commitMsg}`);
+    
+    return { committed: true, skipped: false };
+    
+  } catch (error) {
+    console.error(`❌ Failed to stage/commit ${agreementFile}: ${error.message}`);
+    return { committed: false, skipped: false };
   }
 }
 
