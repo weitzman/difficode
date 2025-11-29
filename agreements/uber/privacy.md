@@ -16,7 +16,7 @@ This notice describes the personal data (“data”) we collect, how it’s used
 
 Uber Privacy Notice: Drivers and Delivery People
 
-](https://www.uber.com/global/en/privacy-notice-drivers-delivery-people/)
+](https://www.uber.com/us/en/privacy-notice-drivers-delivery-people/)
 
 [
 
@@ -69,7 +69,7 @@ This notice specifically applies if you:
 *   Receive services through Uber’s apps or websites requested by others (a “Guest User”). This includes those who receive ride or delivery services ordered by [Uber Health](https://www.uberhealth.com/), [Central](https://www.uber.com/us/en/business/products/central/), [Uber Direct](https://merchants.ubereats.com/us/en/services/uber-direct/) or [Uber for Business](https://www.uber.com/us/en/business/?utm_campaign=CM2038103-search-google-brand_1_-99_US-National_u4business-ss_all_acq_cpa_en_Travel_Exact_TiS_EXP_Sep2020_uber%20corporate%20account_kwd-302462675969_442302625866_118105149108_e_c&utm_medium=cpc-brand&utm_source=Adwords_Brand) customers (collectively, “Enterprise Customers”), or by friends, family members or other individual account owners, including via [Uber Connect](https://www.uber.com/us/en/item-delivery/). This also includes those who receive Uber gift cards.
     
 
-This notice does **not** describe Uber’s collection and use of your data if you use Uber to provide (instead of request or receive) services through Uber’s app or websites, including as a driver or delivery person. Uber’s notice describing our collection and use of such data is available [here](https://www.uber.com/global/en/privacy-notice-drivers-delivery-people/*). Those who use Uber to either request, receive or provide services are referred to as “users” in this notice.
+This notice does **not** describe Uber’s collection and use of your data if you use Uber to provide (instead of request or receive) services through Uber’s app or websites, including as a driver or delivery person. Uber’s notice describing our collection and use of such data is available [here](https://www.uber.com/us/en/privacy-notice-drivers-delivery-people/*). Those who use Uber to either request, receive or provide services are referred to as “users” in this notice.
 
 Our privacy practices are subject to applicable laws in the places in which we operate. The types of data processing that such laws require, allow, or prohibit vary globally. Therefore, if you travel across national, state or other geographic borders, Uber's data processing practices described in this notice may differ from those in your home country or territory.
 
