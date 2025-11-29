@@ -109,20 +109,36 @@ async function main() {
       
       // Make API call
       console.log('🤖 Making API call to Anthropic...');
-      const response = await callAnthropicAPI(apiKey, prompt);
+      let claudeOutput = null;
       
-      // Track actual tokens used from API response
-      if (response._actualInputTokens) {
-        totalTokensUsed += response._actualInputTokens;
-        console.log(`📊 Running total: ${totalTokensUsed}/${RATE_LIMIT_THRESHOLD} tokens (${Math.round(totalTokensUsed/RATE_LIMIT_THRESHOLD*100)}%)`);
-      } else {
-        // Fallback to estimate if API doesn't return usage
-        totalTokensUsed += tokenEstimate;
-        console.log(`📊 Running total (estimated): ${totalTokensUsed}/${RATE_LIMIT_THRESHOLD} tokens`);
+      try {
+        const response = await callAnthropicAPI(apiKey, prompt);
+        
+        // Track actual tokens used from API response
+        if (response._actualInputTokens) {
+          totalTokensUsed += response._actualInputTokens;
+          console.log(`📊 Running total: ${totalTokensUsed}/${RATE_LIMIT_THRESHOLD} tokens (${Math.round(totalTokensUsed/RATE_LIMIT_THRESHOLD*100)}%)`);
+        } else {
+          // Fallback to estimate if API doesn't return usage
+          totalTokensUsed += tokenEstimate;
+          console.log(`📊 Running total (estimated): ${totalTokensUsed}/${RATE_LIMIT_THRESHOLD} tokens`);
+        }
+        
+        // Process response
+        claudeOutput = extractCommitMessages(response);
+      } catch (apiError) {
+        console.error(`❌ API call failed for ${contextFile.file}: ${apiError.message}`);
+        console.log('⚠️ Using fallback commit message for this file');
+        
+        // Generate fallback commit message
+        const match = contextFile.content.match(/^File: (.+)$/m);
+        const filePath = match ? match[1] : 'unknown_file';
+        const pathParts = filePath.split('/');
+        const provider = pathParts[1] || 'unknown';
+        const filename = pathParts[2]?.replace('.md', '') || 'agreement';
+        claudeOutput = `${filePath}:📄 Update ${provider} ${filename} agreement`;
       }
       
-      // Process response
-      const claudeOutput = extractCommitMessages(response);
       if (claudeOutput) {
         results.push(claudeOutput);
         // console.log(`✅ Generated: ${claudeOutput}`);
@@ -149,11 +165,9 @@ async function main() {
 
   } catch (error) {
     console.error('❌ Error in commit message generation:', error.message);
-    if (error.stack) {
-      console.error('Stack trace:', error.stack);
-    }
+    console.log('⚠️ Continuing workflow with empty output - will use fallback commit messages');
     setGitHubOutput('claude_output', '');
-    process.exit(1);
+    // Don't exit - let workflow continue with fallback messages
   }
 }
 
@@ -350,5 +364,6 @@ function setGitHubOutput(name, value) {
 // Main execution
 main().catch(error => {
   console.error('❌ Unhandled error:', error);
-  process.exit(1);
+  console.log('⚠️ Script failed but continuing workflow - will use fallback commit messages');
+  // Don't exit - let workflow continue
 });
