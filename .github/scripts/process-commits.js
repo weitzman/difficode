@@ -156,6 +156,9 @@ async function processContextFile(contextFile, claudeOutput) {
   
   console.log(`   📋 Provider: ${provider}, Filename: ${filename}`);
   
+  // Find the corresponding agreement file
+  const agreementFile = `agreements/${provider}/${filename}.md`;
+  
   // Look for Claude's message for this file
   let commitMsg = '';
   if (claudeOutput.trim()) {
@@ -174,9 +177,6 @@ async function processContextFile(contextFile, claudeOutput) {
     commitMsg = `📄 Update ${provider} ${filename} agreement`;
     console.log(`⚠️ No Claude message found for ${basename}, using fallback: "${commitMsg}"`);
   }
-  
-  // Find and stage the corresponding agreement file
-  const agreementFile = `agreements/${provider}/${filename}.md`;
   
   if (await fileExists(agreementFile)) {
     console.log(`📁 Staging file: ${agreementFile}`);
