@@ -257,8 +257,8 @@ Environment Variables:
   try {
     console.log(`📝 Processing: ${agreementPath}`);
     
-    // Stage the file
-    execSync(`git add "${agreementPath}"`);
+    // Stage the file (force add since agreements/ is in .gitignore)
+    execSync(`git add -f "${agreementPath}"`);
     
     // Check if there are actually changes to commit
     try {
