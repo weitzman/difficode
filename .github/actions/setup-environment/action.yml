@@ -1,5 +1,5 @@
-name: 'Setup Environment'
-description: 'Checkout code, setup Node.js, and install dependencies'
+name: 'Setup Node Environment'
+description: 'Setup Node.js and install dependencies (checkout must be done first)'
 
 inputs:
   node-version:
@@ -14,12 +14,6 @@ inputs:
 runs:
   using: composite
   steps:
-    - name: Checkout branch
-      uses: actions/checkout@v4
-      with:
-        fetch-depth: 0  # Fetch full history
-        ref: ${{ github.head_ref || github.ref }}
-    
     - name: Setup Node.js
       uses: actions/setup-node@v4
       with:

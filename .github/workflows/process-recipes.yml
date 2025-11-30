@@ -28,7 +28,13 @@ jobs:
       pull-requests: write
       checks: write
     steps:
-      - name: Setup Environment
+      - name: Checkout branch
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # Fetch full history
+          ref: ${{ github.head_ref || github.ref }}
+      
+      - name: Setup Node Environment
         uses: ./.github/actions/setup-environment
       - name: Update README agreements table
         run: |
@@ -72,7 +78,13 @@ jobs:
         with:
           detached: true
 
-      - name: Setup Environment
+      - name: Checkout branch
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # Fetch full history
+          ref: ${{ github.head_ref || github.ref }}
+      
+      - name: Setup Node Environment
         uses: ./.github/actions/setup-environment
         with:
           install-playwright: 'true'
