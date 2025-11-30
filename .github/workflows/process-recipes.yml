@@ -33,7 +33,7 @@ jobs:
         with:
           fetch-depth: 0  # Fetch full history
           ref: ${{ github.head_ref || github.ref }}
-      
+
       - name: Setup Node Environment
         uses: ./.github/actions/setup-environment
       - name: Update README agreements table
@@ -50,7 +50,7 @@ jobs:
           # Clean up temp file
           rm new_table.tmp
 
-      - name: Commit README updates
+      - name: Commit+Push README updates
         run: |
           # Check if README.md has changes
           if git diff --quiet README.md && git diff --staged --quiet README.md; then
@@ -83,7 +83,7 @@ jobs:
         with:
           fetch-depth: 0  # Fetch full history
           ref: ${{ github.head_ref || github.ref }}
-      
+
       - name: Setup Node Environment
         uses: ./.github/actions/setup-environment
         with:
@@ -169,7 +169,7 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
 
-      - name: Commit agreement files
+      - name: Commit+Push agreement files
         if: steps.find_agreements.outputs.has_agreements == 'true'
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
