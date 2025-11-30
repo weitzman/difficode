@@ -43,7 +43,11 @@ jobs:
 
           # Update README.md between the markers using sed
           sed '/<!-- START_AGREEMENTS -->/,/<!-- END_AGREEMENTS -->/{
-            /<!-- START_AGREEMENTS -->/r new_table.tmp
+            /<!-- START_AGREEMENTS -->/{
+              p
+              r new_table.tmp
+              d
+            }
             /<!-- END_AGREEMENTS -->/!d
           }' README.md > README.md.tmp && mv README.md.tmp README.md
 
@@ -51,16 +55,11 @@ jobs:
           rm new_table.tmp
 
       - name: Commit+Push README updates
+        if: ${{ ! (git diff --quiet README.md && git diff --staged --quiet README.md) }}
         run: |
-          # Check if README.md has changes
-          if git diff --quiet README.md && git diff --staged --quiet README.md; then
-            echo "No changes to README.md"
-          else
-            echo "README.md has changes, committing..."
             git add README.md
             git commit -m "📋 Update agreements table in README.md"
             git push
-          fi
 
   process-recipes:
     name: Process Recipe Changes
@@ -162,12 +161,6 @@ jobs:
             echo "has_agreements=false" >> $GITHUB_OUTPUT
             echo "No agreement files to process"
           fi
-
-      - name: Configure Git
-        if: steps.find_agreements.outputs.has_agreements == 'true'
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
 
       - name: Commit+Push agreement files
         if: steps.find_agreements.outputs.has_agreements == 'true'
