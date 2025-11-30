@@ -439,4 +439,4 @@ You can learn more about the EU-US DPF and Swiss-US DPF [here](https://www.datap
 
 We may occasionally update this notice. If we make significant changes, we will notify you in advance of the changes through the Uber apps or through other means, such as email. We encourage you to periodically review this notice for the latest information on our privacy practices.
 
-Use of our services after an update constitutes consent to the updated notice to the extent permitted by law.
+Use of our services after an update constitutes consent to the updated notice to the extent permitted by law.Test change for Claude
