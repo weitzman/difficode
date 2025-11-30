@@ -131,33 +131,46 @@ jobs:
           # Clean up temp file
           rm new_table.tmp
           
-      - name: Prepare context files for Claude
-        id: commit-agreement-change
-        run: .github/scripts/prepare-agreement-contexts.js
+      - name: Find changed agreement files
+        id: find_agreements
+        if: steps.changed_files.outputs.has_changes == 'true' || github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+        run: |
+          # Get all changed agreement files in one command
+          AGREEMENTS=$(git diff --name-only HEAD -- agreements/ && git diff --staged --name-only agreements/ && git ls-files --others --exclude-standard agreements/ | grep '\.md$' | sort | uniq)
           
-      - name: Save context files as artifacts
-        if: steps.commit-agreement-change.outputs.has_agreement_changes == 'true'
-        uses: actions/upload-artifact@v4
-        with:
-          name: claude-context-files
-          path: |
-            /tmp/claude_context_*.txt
-            /tmp/files_to_commit.txt
-          retention-days: 14
+          if [ -n "$AGREEMENTS" ]; then
+            echo "has_agreements=true" >> $GITHUB_OUTPUT
+            echo "agreements<<EOF" >> $GITHUB_OUTPUT
+            echo "$AGREEMENTS" >> $GITHUB_OUTPUT
+            echo "EOF" >> $GITHUB_OUTPUT
+            echo "Found agreement files to process:"
+            echo "$AGREEMENTS"
+          else
+            echo "has_agreements=false" >> $GITHUB_OUTPUT
+            echo "No agreement files to process"
+          fi
           
-      - name: Generate commit messages with Claude
-        id: claude_messages
-        if: steps.commit-agreement-change.outputs.has_agreement_changes == 'true'
-        env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-        run: .github/scripts/generate-commit-messages.js
-          
-      - name: Process Claude context files, creating commits
-        if: steps.commit-agreement-change.outputs.has_agreement_changes == 'true'
+      - name: Configure Git
+        if: steps.find_agreements.outputs.has_agreements == 'true'
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          .github/scripts/process-commits.js "${{ steps.claude_messages.outputs.claude_output }}"
+          
+      - name: Commit agreement files
+        if: steps.find_agreements.outputs.has_agreements == 'true'
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          echo "Processing agreement files..."
+          
+          echo "${{ steps.find_agreements.outputs.agreements }}" | while IFS= read -r agreement_file; do
+            if [ -n "$agreement_file" ]; then
+              echo "📝 Processing: $agreement_file"
+              .github/scripts/commit-agreement.js "$agreement_file"
+            fi
+          done
+          
+          echo "✅ Finished processing all agreement files"
           
       - name: Commit README updates
         run: |
