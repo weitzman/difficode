@@ -20,6 +20,52 @@ on:
         default: false
 
 jobs:
+  update-readme:
+    name: Update README if needed
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+      checks: write
+    steps:
+      - name: Checkout branch
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # Fetch full history
+          ref: ${{ github.head_ref || github.ref }}
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+          cache: 'npm'
+      - name: Install dependencies
+        run: npm ci
+      - name: Update README agreements table
+        run: |
+          # Generate new table from recipes and save to temp file
+          node list-recipes.js > new_table.tmp
+
+          # Update README.md between the markers using sed
+          sed '/<!-- START_AGREEMENTS -->/,/<!-- END_AGREEMENTS -->/{
+            /<!-- START_AGREEMENTS -->/r new_table.tmp
+            /<!-- END_AGREEMENTS -->/!d
+          }' README.md > README.md.tmp && mv README.md.tmp README.md
+
+          # Clean up temp file
+          rm new_table.tmp
+
+      - name: Commit README updates
+        run: |
+          # Check if README.md has changes
+          if git diff --quiet README.md && git diff --staged --quiet README.md; then
+            echo "No changes to README.md"
+          else
+            echo "README.md has changes, committing..."
+            git add README.md
+            git commit -m "📋 Update agreements table in README.md"
+            git push
+          fi
+
   process-recipes:
     name: Process Recipe Changes
     runs-on: ubuntu-latest
@@ -27,7 +73,7 @@ jobs:
       contents: write
       pull-requests: write
       checks: write
-    
+
     steps:
       # https://github.com/mxschmitt/action-tmate
       - name: Setup tmate session
@@ -36,23 +82,15 @@ jobs:
         with:
           detached: true
 
-      - name: Checkout branch (PR)
-        if: github.event_name == 'pull_request'
+      - name: Checkout branch
         uses: actions/checkout@v4
         with:
           fetch-depth: 0  # Fetch full history
-          ref: ${{ github.head_ref }}
+          ref: ${{ github.head_ref || github.ref }}
 
-      - name: Checkout branch (other)
-        if: github.event_name != 'pull_request'
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 0  # Fetch full history
-          ref: ${{ github.ref }}
-      
       - name: Fetch base branch
         run: git fetch origin ${{ github.event.pull_request.base.ref }}:${{ github.event.pull_request.base.ref }}
-      
+
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
@@ -89,7 +127,7 @@ jobs:
             echo "has_changes=true" >> $GITHUB_OUTPUT
             echo "changed_files=$CHANGED_FILES_ARGS" >> $GITHUB_OUTPUT
           fi
-      
+
       # @todo write to step summary
       - name: Process recipes
         if: steps.changed_files.outputs.has_changes == 'true' || github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
@@ -101,7 +139,7 @@ jobs:
             # For PR/push runs, process specific changed recipes
             node fetch-recipes.js --clean --recipes ${{ steps.changed_files.outputs.changed_files }}
           fi
-      
+
       - name: Generate job summary from report if available
         if: steps.changed_files.outputs.has_changes == 'true' || github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
         run: |
@@ -110,27 +148,13 @@ jobs:
             echo "" >> $GITHUB_STEP_SUMMARY
             cat report.md >> $GITHUB_STEP_SUMMARY
           fi
-      
+
       - name: Fail on errors in pull requests
         if: github.event_name == 'pull_request' && hashFiles('report.md') != ''
         run: |
           echo "Recipe processing errors detected in pull request"
           exit 1
-      
-      - name: Update README agreements table
-        run: |
-          # Generate new table from recipes and save to temp file
-          node list-recipes.js > new_table.tmp
-          
-          # Update README.md between the markers using sed
-          sed '/<!-- START_AGREEMENTS -->/,/<!-- END_AGREEMENTS -->/{
-            /<!-- START_AGREEMENTS -->/r new_table.tmp
-            /<!-- END_AGREEMENTS -->/!d
-          }' README.md > README.md.tmp && mv README.md.tmp README.md
-      
-          # Clean up temp file
-          rm new_table.tmp
-          
+
       - name: Find changed agreement files
         id: find_agreements
         if: steps.changed_files.outputs.has_changes == 'true' || github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
@@ -149,45 +173,32 @@ jobs:
             echo "has_agreements=false" >> $GITHUB_OUTPUT
             echo "No agreement files to process"
           fi
-          
+
       - name: Configure Git
         if: steps.find_agreements.outputs.has_agreements == 'true'
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          
+
       - name: Commit agreement files
         if: steps.find_agreements.outputs.has_agreements == 'true'
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: |
           echo "Processing agreement files..."
-          
           echo "${{ steps.find_agreements.outputs.agreements }}" | while IFS= read -r agreement_file; do
             if [ -n "$agreement_file" ]; then
               .github/scripts/commit-agreement.js "$agreement_file"
             fi
-          done
-          
-          echo "✅ Finished processing all agreement files"
-          
-      - name: Commit README updates
-        run: |
-          # Check if README.md has changes
-          if git diff --quiet README.md && git diff --staged --quiet README.md; then
-            echo "No changes to README.md"
-          else
-            echo "README.md has changes, committing..."
-            git add README.md
-            git commit -m "📋 Update agreements table in README.md"
-          fi
-          
+          done     
+          echo "✅ Finished processing all agreement files
+
       - name: Push any changes
         run: |
           # Get the list of unpushed commits
           UNPUSHED_COMMITS=$(git log @{push}.. --oneline)
           
-          # Check if there are any unpushed commits to push
+          # Check if there are unpushed commits to push
           if [ -n "$UNPUSHED_COMMITS" ]; then
             echo "Found unpushed commits to push"
             git push
