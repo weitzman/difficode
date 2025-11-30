@@ -43,7 +43,11 @@ jobs:
 
           # Update README.md between the markers using sed
           sed '/<!-- START_AGREEMENTS -->/,/<!-- END_AGREEMENTS -->/{
-            /<!-- START_AGREEMENTS -->/r new_table.tmp
+            /<!-- START_AGREEMENTS -->/{
+              p
+              r new_table.tmp
+              d
+            }
             /<!-- END_AGREEMENTS -->/!d
           }' README.md > README.md.tmp && mv README.md.tmp README.md
 
