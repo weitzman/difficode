@@ -195,15 +195,3 @@ jobs:
           else
             echo "No unpushed commits to push"
           fi
-            
-      - name: Final status check
-        if: always()
-        run: |
-          if [ "${{ job.status }}" = "failure" ]; then
-            echo "::error::Recipe processing workflow failed"
-            echo "❌ Recipe processing check failed"
-            exit 1
-          else
-            echo "::notice::Recipe processing workflow completed successfully" 
-            echo "✅ Recipe processing check completed successfully"
-          fi
