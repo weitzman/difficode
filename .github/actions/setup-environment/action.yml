@@ -1,0 +1,30 @@
+name: 'Setup Node Environment'
+description: 'Setup Node.js and install dependencies (checkout must be done first)'
+
+inputs:
+  node-version:
+    description: 'Node.js version to setup'
+    required: false
+    default: '18'
+  install-playwright:
+    description: 'Whether to install Playwright browsers'
+    required: false
+    default: 'false'
+
+runs:
+  using: composite
+  steps:
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: ${{ inputs.node-version }}
+        cache: 'npm'
+    
+    - name: Install dependencies
+      shell: bash
+      run: npm ci
+    
+    - name: Install Playwright browsers
+      if: inputs.install-playwright == 'true'
+      shell: bash
+      run: npx playwright install chromium

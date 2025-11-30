@@ -33,13 +33,9 @@ jobs:
         with:
           fetch-depth: 0  # Fetch full history
           ref: ${{ github.head_ref || github.ref }}
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: '18'
-          cache: 'npm'
-      - name: Install dependencies
-        run: npm ci
+      
+      - name: Setup Node Environment
+        uses: ./.github/actions/setup-environment
       - name: Update README agreements table
         run: |
           # Generate new table from recipes and save to temp file
@@ -87,21 +83,14 @@ jobs:
         with:
           fetch-depth: 0  # Fetch full history
           ref: ${{ github.head_ref || github.ref }}
+      
+      - name: Setup Node Environment
+        uses: ./.github/actions/setup-environment
+        with:
+          install-playwright: 'true'
 
       - name: Fetch base branch
         run: git fetch origin ${{ github.event.pull_request.base.ref }}:${{ github.event.pull_request.base.ref }}
-
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: '18'
-          cache: 'npm'
-
-      - name: Install dependencies
-        run: npm ci
-
-      - name: Install Playwright browsers
-        run: npx playwright install chromium
 
       - name: Get changed recipe files
         id: changed_files
