@@ -5,8 +5,8 @@ on:
     # Run at 5am ET (9am UTC during standard time, 10am UTC during daylight time)
     # Using 9am UTC as the primary schedule
     - cron: '0 9 * * *'
-#  push:
-#    branches: [ main ]
+  #  push:
+  #    branches: [ main ]
   # Run on pull requests for validation
   pull_request:
     branches: [ main ]
@@ -19,6 +19,18 @@ on:
         required: false
         default: false
 
+# Reusable step anchors
+x-steps:
+  setup_node: &setup_node
+    name: Setup Node.js
+    uses: actions/setup-node@v4
+    with:
+      node-version: '18'
+      cache: 'npm'
+  install_deps: &install_deps
+    name: Install dependencies
+    run: npm ci
+
 jobs:
   update-readme:
     name: Update README
@@ -28,13 +40,8 @@ jobs:
       pull-requests: write
       checks: write
     steps:
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: '18'
-          cache: 'npm'
-      - name: Install dependencies
-        run: npm ci
+      - *setup_node
+      - *install_deps
       - name: Update README agreements table
         run: |
           # Generate new table from recipes and save to temp file
@@ -59,7 +66,7 @@ jobs:
             git add README.md
             git commit -m "📋 Update agreements table in README.md"
           fi
-          
+
   process-recipes:
     name: Process Recipe Changes
     runs-on: ubuntu-latest
@@ -67,7 +74,7 @@ jobs:
       contents: write
       pull-requests: write
       checks: write
-    
+
     steps:
       # https://github.com/mxschmitt/action-tmate
       - name: Setup tmate session
@@ -89,18 +96,12 @@ jobs:
         with:
           fetch-depth: 0  # Fetch full history
           ref: ${{ github.ref }}
-      
+
       - name: Fetch base branch
         run: git fetch origin ${{ github.event.pull_request.base.ref }}:${{ github.event.pull_request.base.ref }}
-      
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: '18'
-          cache: 'npm'
 
-      - name: Install dependencies
-        run: npm ci
+      - *setup_node
+      - *install_deps
 
       - name: Install Playwright browsers
         run: npx playwright install chromium
@@ -116,7 +117,7 @@ jobs:
             # For other events: no changed files to process individually
             CHANGED_FILES=""
           fi
-          
+
           if [ -z "$CHANGED_FILES" ]; then
             echo "No recipe files changed"
             echo "has_changes=false" >> $GITHUB_OUTPUT
@@ -129,7 +130,7 @@ jobs:
             echo "has_changes=true" >> $GITHUB_OUTPUT
             echo "changed_files=$CHANGED_FILES_ARGS" >> $GITHUB_OUTPUT
           fi
-      
+
       # @todo write to step summary
       - name: Process recipes
         if: steps.changed_files.outputs.has_changes == 'true' || github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
@@ -141,7 +142,7 @@ jobs:
             # For PR/push runs, process specific changed recipes
             node fetch-recipes.js --clean --recipes ${{ steps.changed_files.outputs.changed_files }}
           fi
-      
+
       - name: Generate job summary from report if available
         if: steps.changed_files.outputs.has_changes == 'true' || github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
         run: |
@@ -150,7 +151,7 @@ jobs:
             echo "" >> $GITHUB_STEP_SUMMARY
             cat report.md >> $GITHUB_STEP_SUMMARY
           fi
-      
+
       - name: Fail on errors in pull requests
         if: github.event_name == 'pull_request' && hashFiles('report.md') != ''
         run: |
@@ -163,7 +164,7 @@ jobs:
         run: |
           # Get all changed agreement files in one command
           AGREEMENTS=$(git diff --name-only HEAD -- agreements/ && git diff --staged --name-only agreements/ && git ls-files --others --exclude-standard agreements/ | grep '\.md$' | sort | uniq)
-          
+
           if [ -n "$AGREEMENTS" ]; then
             echo "has_agreements=true" >> $GITHUB_OUTPUT
             echo "agreements<<EOF" >> $GITHUB_OUTPUT
@@ -175,33 +176,33 @@ jobs:
             echo "has_agreements=false" >> $GITHUB_OUTPUT
             echo "No agreement files to process"
           fi
-          
+
       - name: Configure Git
         if: steps.find_agreements.outputs.has_agreements == 'true'
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          
+
       - name: Commit agreement files
         if: steps.find_agreements.outputs.has_agreements == 'true'
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: |
           echo "Processing agreement files..."
-          
+
           echo "${{ steps.find_agreements.outputs.agreements }}" | while IFS= read -r agreement_file; do
             if [ -n "$agreement_file" ]; then
               .github/scripts/commit-agreement.js "$agreement_file"
             fi
           done
-          
+
           echo "✅ Finished processing all agreement files
-          
+
       - name: Push any changes
         run: |
           # Get the list of unpushed commits
           UNPUSHED_COMMITS=$(git log @{push}.. --oneline)
-          
+
           # Check if there are any unpushed commits to push
           if [ -n "$UNPUSHED_COMMITS" ]; then
             echo "Found unpushed commits to push"
