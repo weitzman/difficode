@@ -55,16 +55,11 @@ jobs:
           rm new_table.tmp
 
       - name: Commit+Push README updates
+        if: ${{ ! (git diff --quiet README.md && git diff --staged --quiet README.md) }}
         run: |
-          # Check if README.md has changes
-          if git diff --quiet README.md && git diff --staged --quiet README.md; then
-            echo "No changes to README.md"
-          else
-            echo "README.md has changes, committing..."
             git add README.md
             git commit -m "📋 Update agreements table in README.md"
             git push
-          fi
 
   process-recipes:
     name: Process Recipe Changes
