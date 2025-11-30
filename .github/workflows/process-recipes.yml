@@ -165,7 +165,6 @@ jobs:
           
           echo "${{ steps.find_agreements.outputs.agreements }}" | while IFS= read -r agreement_file; do
             if [ -n "$agreement_file" ]; then
-              echo "📝 Processing: $agreement_file"
               .github/scripts/commit-agreement.js "$agreement_file"
             fi
           done
