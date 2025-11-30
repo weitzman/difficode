@@ -5,8 +5,8 @@ on:
     # Run at 5am ET (9am UTC during standard time, 10am UTC during daylight time)
     # Using 9am UTC as the primary schedule
     - cron: '0 9 * * *'
-  #  push:
-  #    branches: [ main ]
+#  push:
+#    branches: [ main ]
   # Run on pull requests for validation
   pull_request:
     branches: [ main ]
@@ -19,18 +19,6 @@ on:
         required: false
         default: false
 
-# Reusable step anchors
-x-steps:
-  setup_node: &setup_node
-    name: Setup Node.js
-    uses: actions/setup-node@v4
-    with:
-      node-version: '18'
-      cache: 'npm'
-  install_deps: &install_deps
-    name: Install dependencies
-    run: npm ci
-
 jobs:
   update-readme:
     name: Update README
@@ -40,8 +28,13 @@ jobs:
       pull-requests: write
       checks: write
     steps:
-      - *setup_node
-      - *install_deps
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+          cache: 'npm'
+      - name: Install dependencies
+        run: npm ci
       - name: Update README agreements table
         run: |
           # Generate new table from recipes and save to temp file
@@ -100,8 +93,14 @@ jobs:
       - name: Fetch base branch
         run: git fetch origin ${{ github.event.pull_request.base.ref }}:${{ github.event.pull_request.base.ref }}
 
-      - *setup_node
-      - *install_deps
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
 
       - name: Install Playwright browsers
         run: npx playwright install chromium
@@ -117,7 +116,7 @@ jobs:
             # For other events: no changed files to process individually
             CHANGED_FILES=""
           fi
-
+          
           if [ -z "$CHANGED_FILES" ]; then
             echo "No recipe files changed"
             echo "has_changes=false" >> $GITHUB_OUTPUT
@@ -164,7 +163,7 @@ jobs:
         run: |
           # Get all changed agreement files in one command
           AGREEMENTS=$(git diff --name-only HEAD -- agreements/ && git diff --staged --name-only agreements/ && git ls-files --others --exclude-standard agreements/ | grep '\.md$' | sort | uniq)
-
+          
           if [ -n "$AGREEMENTS" ]; then
             echo "has_agreements=true" >> $GITHUB_OUTPUT
             echo "agreements<<EOF" >> $GITHUB_OUTPUT
@@ -189,21 +188,19 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: |
           echo "Processing agreement files..."
-
           echo "${{ steps.find_agreements.outputs.agreements }}" | while IFS= read -r agreement_file; do
             if [ -n "$agreement_file" ]; then
               .github/scripts/commit-agreement.js "$agreement_file"
             fi
-          done
-
+          done     
           echo "✅ Finished processing all agreement files
 
       - name: Push any changes
         run: |
           # Get the list of unpushed commits
           UNPUSHED_COMMITS=$(git log @{push}.. --oneline)
-
-          # Check if there are any unpushed commits to push
+          
+          # Check if there are unpushed commits to push
           if [ -n "$UNPUSHED_COMMITS" ]; then
             echo "Found unpushed commits to push"
             git push
