@@ -21,7 +21,7 @@ on:
 
 jobs:
   update-readme:
-    name: Update README
+    name: Update README if needed
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -63,6 +63,7 @@ jobs:
             echo "README.md has changes, committing..."
             git add README.md
             git commit -m "📋 Update agreements table in README.md"
+            git push
           fi
 
   process-recipes:
