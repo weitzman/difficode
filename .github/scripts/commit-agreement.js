@@ -41,8 +41,13 @@ async function generateCommitMessage(agreementPath) {
     // Get file content and diff
     const fileContent = await getFileContent(agreementPath);
     const diffOutput = await getFileDiff(agreementPath);
+
+    const prompt = `Generate an commit message for the legal agreement file change below.
     
-    const prompt = `Generate commit message for this agreement file:
+=== Examples of good commit messages ===
+"📄 Stripe adds cryptocurrency payment terms" (if crypto payments were added)
+"📄 Discord restricts AI bot usage\\n\\nNew section 4.3 prohibits automated content generation"
+"📄 Google extends data retention to 36 months\\n\\nUpdated privacy policy section on user data storage"
 
 === ${agreementPath} ===
 File: ${agreementPath}
@@ -67,7 +72,7 @@ Use the generate_commit_messages tool with:
 
     console.log(`🤖 Calling Claude API (${tokenEstimate} tokens estimated)...`);
     const response = await callAnthropicAPI(apiKey, prompt);
-    
+
     // Track actual tokens used
     if (response._actualInputTokens) {
       totalTokensUsed += response._actualInputTokens;
@@ -77,17 +82,17 @@ Use the generate_commit_messages tool with:
     }
 
     // Extract message from structured response
-    if (response.content?.[0]?.type === 'tool_use' && 
+    if (response.content?.[0]?.type === 'tool_use' &&
         response.content[0].name === 'generate_commit_messages') {
       const messages = response.content[0].input.commit_messages;
       return messages[0]?.commit_message || null;
     }
-    
+
     // Fallback to text content
     const textContent = response.content?.[0]?.text || response.text || '';
     const match = textContent.match(new RegExp(`${agreementPath.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}:(.+)`));
     return match ? match[1].trim() : null;
-    
+
   } catch (error) {
     console.error(`❌ Claude API error: ${error.message}`);
     return null;
@@ -99,7 +104,7 @@ Use the generate_commit_messages tool with:
  */
 async function callAnthropicAPI(apiKey, prompt) {
   const { chromium } = require('playwright');
-  
+
   const payload = {
     model: 'claude-sonnet-4-5',
     max_tokens: 1000,
@@ -159,14 +164,14 @@ async function callAnthropicAPI(apiKey, prompt) {
     }
 
     const responseData = await response.json();
-    
+
     // Extract actual token usage
     if (responseData.usage && responseData.usage.input_tokens) {
       responseData._actualInputTokens = responseData.usage.input_tokens;
     }
-    
+
     return responseData;
-    
+
   } finally {
     await browser.close();
   }
@@ -191,12 +196,12 @@ async function getFileContent(file) {
   try {
     const content = await fs.readFile(file, 'utf8');
     const maxChars = 20000; // 20KB limit for token management
-    
+
     if (content.length > maxChars) {
       console.log(`📏 Truncating ${file} (${content.length} → ${maxChars} chars)`);
       return content.substring(0, maxChars) + `\n\n[... truncated to prevent token limit issues]`;
     }
-    
+
     return content;
   } catch (error) {
     return `[Error reading file: ${error.message}]`;
@@ -210,7 +215,7 @@ function generateFallbackMessage(agreementPath) {
   const pathParts = agreementPath.split('/');
   const provider = pathParts[1] || 'unknown';
   const filename = path.basename(agreementPath, '.md');
-  
+
   // Check if file is new or updated
   try {
     execSync(`git diff --cached --quiet -- "${agreementPath}"`);
@@ -256,10 +261,10 @@ Environment Variables:
 
   try {
     console.log(`📝 Processing: ${agreementPath}`);
-    
+
     // Stage the file (force add since agreements/ is in .gitignore)
     execSync(`git add -f "${agreementPath}"`);
-    
+
     // Check if there are actually changes to commit
     try {
       execSync('git diff --staged --quiet');
@@ -268,22 +273,22 @@ Environment Variables:
     } catch {
       // Changes are staged, continue
     }
-    
+
     // Generate commit message
     let commitMsg = await generateCommitMessage(agreementPath);
-    
+
     if (!commitMsg) {
       commitMsg = generateFallbackMessage(agreementPath);
       console.log(`⚠️ Using fallback message: "${commitMsg}"`);
     } else {
       console.log(`🤖 Using Claude message: "${commitMsg}"`);
     }
-    
+
     // Create commit
     const escapedMsg = commitMsg.replace(/"/g, '\\"');
     execSync(`git commit -m "${escapedMsg}"`, { stdio: 'pipe' });
     console.log(`✅ Committed: ${commitMsg}`);
-    
+
   } catch (error) {
     console.error(`❌ Failed to process ${agreementPath}: ${error.message}`);
     process.exit(1);
