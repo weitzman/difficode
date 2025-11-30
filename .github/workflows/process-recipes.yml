@@ -33,7 +33,7 @@ jobs:
         with:
           fetch-depth: 0  # Fetch full history
           ref: ${{ github.head_ref || github.ref }}
-      
+
       - name: Setup Node Environment
         uses: ./.github/actions/setup-environment
       - name: Update README agreements table
@@ -50,7 +50,7 @@ jobs:
           # Clean up temp file
           rm new_table.tmp
 
-      - name: Commit README updates
+      - name: Commit+Push README updates
         run: |
           # Check if README.md has changes
           if git diff --quiet README.md && git diff --staged --quiet README.md; then
@@ -83,7 +83,7 @@ jobs:
         with:
           fetch-depth: 0  # Fetch full history
           ref: ${{ github.head_ref || github.ref }}
-      
+
       - name: Setup Node Environment
         uses: ./.github/actions/setup-environment
         with:
@@ -169,7 +169,7 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
 
-      - name: Commit agreement files
+      - name: Commit+Push agreement files
         if: steps.find_agreements.outputs.has_agreements == 'true'
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
@@ -180,17 +180,6 @@ jobs:
               .github/scripts/commit-agreement.js "$agreement_file"
             fi
           done     
-          echo "✅ Finished processing all agreement files
-
-      - name: Push any changes
-        run: |
-          # Get the list of unpushed commits
-          UNPUSHED_COMMITS=$(git log @{push}.. --oneline)
-          
-          # Check if there are unpushed commits to push
-          if [ -n "$UNPUSHED_COMMITS" ]; then
-            echo "Found unpushed commits to push"
-            git push
-          else
-            echo "No unpushed commits to push"
-          fi
+          echo "✅ Finished processing all agreement files"
+          # Push any changes (it's OK if there's nothing to push)
+          git push
