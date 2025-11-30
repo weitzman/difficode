@@ -1,0 +1,7 @@
+{
+  "name": "Pinterest Privacy Policy", 
+  "url": "https://policy.pinterest.com/privacy-policy",
+  "selector": "main",
+  "enabled": true,
+  "rules": []
+}
