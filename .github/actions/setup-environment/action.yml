@@ -14,16 +14,22 @@ inputs:
 runs:
   using: composite
   steps:
+    - name: Configure Git
+      shell: bash
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+
     - name: Setup Node.js
       uses: actions/setup-node@v4
       with:
         node-version: ${{ inputs.node-version }}
         cache: 'npm'
-    
+
     - name: Install dependencies
       shell: bash
       run: npm ci
-    
+
     - name: Install Playwright browsers
       if: inputs.install-playwright == 'true'
       shell: bash

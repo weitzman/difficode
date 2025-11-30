@@ -167,12 +167,6 @@ jobs:
             echo "No agreement files to process"
           fi
 
-      - name: Configure Git
-        if: steps.find_agreements.outputs.has_agreements == 'true'
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-
       - name: Commit+Push agreement files
         if: steps.find_agreements.outputs.has_agreements == 'true'
         env:
