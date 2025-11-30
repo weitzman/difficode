@@ -28,6 +28,13 @@ jobs:
       pull-requests: write
       checks: write
     steps:
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+          cache: 'npm'
+      - name: Install dependencies
+        run: npm ci
       - name: Update README agreements table
         run: |
           # Generate new table from recipes and save to temp file
