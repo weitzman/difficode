@@ -20,6 +20,39 @@ on:
         default: false
 
 jobs:
+  update-readme:
+    name: Update README
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+      checks: write
+    steps:
+      - name: Update README agreements table
+        run: |
+          # Generate new table from recipes and save to temp file
+          node list-recipes.js > new_table.tmp
+
+          # Update README.md between the markers using sed
+          sed '/<!-- START_AGREEMENTS -->/,/<!-- END_AGREEMENTS -->/{
+            /<!-- START_AGREEMENTS -->/r new_table.tmp
+            /<!-- END_AGREEMENTS -->/!d
+          }' README.md > README.md.tmp && mv README.md.tmp README.md
+
+          # Clean up temp file
+          rm new_table.tmp
+
+      - name: Commit README updates
+        run: |
+          # Check if README.md has changes
+          if git diff --quiet README.md && git diff --staged --quiet README.md; then
+            echo "No changes to README.md"
+          else
+            echo "README.md has changes, committing..."
+            git add README.md
+            git commit -m "📋 Update agreements table in README.md"
+          fi
+          
   process-recipes:
     name: Process Recipe Changes
     runs-on: ubuntu-latest
@@ -116,21 +149,7 @@ jobs:
         run: |
           echo "Recipe processing errors detected in pull request"
           exit 1
-      
-      - name: Update README agreements table
-        run: |
-          # Generate new table from recipes and save to temp file
-          node list-recipes.js > new_table.tmp
-          
-          # Update README.md between the markers using sed
-          sed '/<!-- START_AGREEMENTS -->/,/<!-- END_AGREEMENTS -->/{
-            /<!-- START_AGREEMENTS -->/r new_table.tmp
-            /<!-- END_AGREEMENTS -->/!d
-          }' README.md > README.md.tmp && mv README.md.tmp README.md
-      
-          # Clean up temp file
-          rm new_table.tmp
-          
+
       - name: Find changed agreement files
         id: find_agreements
         if: steps.changed_files.outputs.has_changes == 'true' || github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
@@ -169,18 +188,7 @@ jobs:
             fi
           done
           
-          echo "✅ Finished processing all agreement files"
-          
-      - name: Commit README updates
-        run: |
-          # Check if README.md has changes
-          if git diff --quiet README.md && git diff --staged --quiet README.md; then
-            echo "No changes to README.md"
-          else
-            echo "README.md has changes, committing..."
-            git add README.md
-            git commit -m "📋 Update agreements table in README.md"
-          fi
+          echo "✅ Finished processing all agreement files
           
       - name: Push any changes
         run: |
