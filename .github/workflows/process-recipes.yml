@@ -70,6 +70,7 @@ jobs:
   process-recipes:
     name: Process Recipe Changes
     runs-on: ubuntu-latest
+    needs: update-readme # Ensures README is updated first to avoid git conflict
     permissions:
       contents: write
       pull-requests: write
