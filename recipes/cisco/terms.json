@@ -1,0 +1,17 @@
+{
+  "url": "https://www.cisco.com/c/en/us/about/legal/terms-conditions.html",
+  "selector": "#fw-content",
+  "enabled": true,
+  "rules": [
+    {
+      "name": "remove-scripts",
+      "filter": "script",
+      "replacement": ""
+    },
+    {
+      "name": "remove-images",
+      "filter": "img",
+      "replacement": ""
+    }
+  ]
+}
