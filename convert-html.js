@@ -90,26 +90,12 @@ function generateHeader(url, selector) {
  * Apply Turndown rules to clean HTML elements
  */
 function applyRulesToHTML(elements, rules) {
-    // Always remove images to prevent prompt length issues
+    // Always remove media elements to prevent prompt length issues
     elements.forEach(element => {
-        const images = element.querySelectorAll('img');
-        //images.forEach(img => img.remove());
-        
-        // Also remove figure elements that typically contain images
-        const figures = element.querySelectorAll('figure');
-        // figures.forEach(fig => fig.remove());
-        
-        // Remove picture elements (responsive images)
-        const pictures = element.querySelectorAll('picture');
-        // pictures.forEach(pic => pic.remove());
-        
-        // Remove video elements that might have large data
-        const videos = element.querySelectorAll('video');
-        // videos.forEach(vid => vid.remove());
-        
-        // Remove SVG elements that might contain embedded data
-        const svgs = element.querySelectorAll('svg');
-        svgs.forEach(svg => svg.remove());
+        // Remove all media elements that don't contribute to text content
+        const mediaSelectors = 'img, figure, picture, video, audio, canvas, embed, object, iframe, svg, script, style, noscript';
+        const mediaElements = element.querySelectorAll(mediaSelectors);
+        mediaElements.forEach(el => el.remove());
     });
     
     if (!rules?.length) {
@@ -154,11 +140,19 @@ function convertToMarkdown(html, url, selector, rules) {
         const cleanedElements = applyRulesToHTML(result.elements, rules);
         
         // Generate cleaned HTML from the cleaned elements
-        const cleanedHTML = cleanedElements.map(element => element.outerHTML).join('\n');
+        const cleanedHTML = cleanedElements
+            .filter(el => el && el.outerHTML)
+            .map(element => element.outerHTML)
+            .join('\n');
         
-        // Create turndown service without rules since we already applied them to HTML
+        // Create turndown service
         const turndown = createTurndownService();
         const markdown = elementsToMarkdown(cleanedElements, turndown);
+        
+        if (!markdown?.trim()) {
+            console.error('No markdown content generated');
+            return { markdown: null, selectorFound: result.selectorFound, cleanedHTML: null };
+        }
         
         return {
             markdown: generateHeader(url, selector) + markdown,
