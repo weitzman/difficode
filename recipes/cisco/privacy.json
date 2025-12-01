@@ -1,0 +1,17 @@
+{
+  "url": "https://www.cisco.com/c/en/us/about/legal/privacy-full.html",
+  "selector": "#fw-content",
+  "enabled": true,
+  "rules": [
+    {
+      "name": "remove-images",
+      "filter": "img",
+      "replacement": ""
+    },
+    {
+      "name": "remove-languageselect",
+      "filter": "#languageSelect",
+      "replacement": ""
+    }
+  ]
+}
