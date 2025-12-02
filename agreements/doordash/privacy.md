@@ -4,8 +4,6 @@ Selector used: main
 
 ---
 
-{"attributes":{"isGuest":true}}
-
 Country / Jurisdiction
 
 United States
