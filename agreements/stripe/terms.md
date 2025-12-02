@@ -329,64 +329,6 @@ Some laws restrict our ability to disclaim or limit our liability. In those case
 
 If the terms in this section that apply to you conflict with these Sold through Link Terms, then the terms in this section control.
 
-Country or Region where you are located
-
-Additional or modified provisions that apply to you
-
-Australia, New Zealand
-
-**To the extent that you purchase digital goods or digital services from a Business User that is stated as “Sold through Link”, or use Buyer Services provided by Stripe, as a consumer within the meaning of the Australian Consumer Law as set out in the Competition and Consumer Act 2010 (Cth) or the New Zealand Consumer Guarantees Act 1993, you have certain rights and remedies (including consumer guarantee rights) that cannot be excluded, restricted or modified by agreement. Nothing in these Sold through Link Terms operates to exclude, restrict or modify the application of any implied condition, warranty or guarantee, or the exercise of any right or remedy, or the imposition of any liability under law where to do so would: (a) contravene that law; or (b) cause any section of these Sold through Link Terms to be void.**
-
-The Disclaimer and Limitation of Liability Sections of these Sold through Link Terms do not apply to the extent any loss, claims, demands, and damages arise out of Stripe’s breach of this Agreement, negligence, fraud or willful misconduct.
-
-Canada
-
-Modifying “Purchase Terms” below:
-
-Stripe’s registered agent, Lemon Squeezy LLC, (“Link SMP”) provides Stripe Managed Payments services to Stripe Payments Canada Limited, which in turn facilitates your Order from the Business User.
-
-European Union
-
-If you are a financial entity subject to the EU Digital Operational Resilience Act (DORA), and your Order is for an “ICT service” within the meaning of DORA, you are responsible for ensuring that the Business User’s terms of service contain the contractual provisions required under DORA, if relevant.
-
-If you are a consumer under EU law, you have a right to cancel your Order during the cooling off period. The cooling off period is for 14 days from the date you receive access to or delivery of the product you purchased in your Order. To exercise this right, contact Customer Support and follow the instructions for requesting a refund and include “cooling off period” as the basis for your refund request.
-
-Indonesia
-
-Disclaimer of Warranties
-
-Subject to statutory consumer guarantees, which will apply irrespective of this disclaimer, the Buyer Services are provided "as-is" and without any representation or warranty, whether express or implied. We, our affiliates, and our respective agents, and contractors (together, the "Disclaiming Entities") and Business Users make no representation or warranty of any kind whatsoever (other than those implied by statute) with respect to the Buyer Services or the content, materials, information and functions we make accessible, and specifically disclaim all implied warranties of merchantability, fitness for a particular purpose, title and non-infringement. We do not promise that the Buyer Services will be uninterrupted, error-free, free from cyber attacks, or secure.
-
-Nothing in these Sold through Link Terms is intended to exclude or restrict any rights or remedies available to you under applicable laws, including but not limited to Law No. 8 of 1999 on Consumer Protection. In particular, mandatory statutory guarantees that apply to the products sold through Link by the Business User under an Order to consumers and the Buyer Services offered by us to consumers shall continue to apply.
-
-Limitation of Liabilities
-
-The Disclaiming Entities will not be liable to you in any circumstances for:  
-(a) Loss of business, loss of goodwill, loss of opportunity, or loss of profit; or  
-(b) Any loss that we could not have reasonably anticipated,  
-except where such liability arises as a direct result of the Disclaiming Entities’ gross negligence, fraud, or willful misconduct.
-
-Malaysia
-
-Disclaimer of Warranties
-
-Subject to statutory consumer guarantees, which will apply irrespective of this disclaimer, the Buyer Services are provided "as-is" and without any representation or warranty, whether express or implied. We, our affiliates, and our respective agents, and contractors (together, the "Disclaiming Entities") and Business Users make no representation or warranty of any kind whatsoever (other than those implied by statute) with respect to the Buyer Services or the content, materials, information and functions we make accessible, and specifically disclaim all implied warranties of merchantability, fitness for a particular purpose, title and non-infringement. We do not promise that the Buyer Services will be uninterrupted, error-free, free from cyber attacks, or secure.
-
-Nothing in these Sold through Link Terms is intended to exclude or restrict any rights or remedies available to you under applicable laws, including but not limited to the Consumer Protection Act 1999. In particular, mandatory statutory guarantees that apply to the products sold through Link by the Business User under an Order to consumers and the Buyer Services offered by us to consumers shall continue to apply.
-
-Limitation of Liabilities
-
-The Disclaiming Entities will not be liable to you in any circumstances for:  
-(a) Loss of business, loss of goodwill, loss of opportunity, or loss of profit; or  
-(b) Any loss that we could not have reasonably anticipated,  
-except where such liability arises as a direct result of the Disclaiming Entities’ gross negligence, breach of contract, fraud, or willful misconduct.
-
-United States
-
-[Arbitration agreement](https://stripe.com/legal/consumer/arbitration#:~:text=IF%20YOU%20AGREE%20TO%20ARBITRATION,A%20NAMED%20OR%20UNNAMED%20CLAIMANT.). IF YOU ARE LOCATED IN THE UNITED STATES, YOU AGREE TO OUR ARBITRATION AGREEMENT, WHICH REQUIRES YOU TO RESOLVE DISPUTES BETWEEN YOU AND STRIPE ON AN INDIVIDUAL BASIS THROUGH ARBITRATION, PROHIBITS YOU FROM MAINTAINING OR PARTICIPATING IN A CLASS ACTION LAWSUIT, WAIVES YOUR RIGHT TO A JURY TRIAL, AND LIMITS THE TIME IN WHICH A CLAIM MAY BE BROUGHT.
-
-You also agree to the [Link E-Sign Disclosure](https://link.com/terms/e-sign-disclosure).
-
 ### Purchase Terms
 
 Stripe’s affiliate, Lemon Squeezy LLC, (“**Link SMP**”) provides Stripe Managed Payments services to the Business User to facilitate your Order from the Business User. Stripe Managed Payments services are provided to the Business User and not to you. These Purchase Terms are part of the Sold Through Link Terms and apply when you place an Order. Link SMP is a third party beneficiary of the Sold Through Link Terms.
