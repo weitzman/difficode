@@ -4,19 +4,17 @@ Selector used: main
 
 ---
 
-.heading-bg-color-layout-container-uid97a8{ background-color: !important; }
-
 # Microsoft Privacy Statement
 
 Last Updated: November 2025
 
 [What's new?](https://go.microsoft.com/fwlink/p/?LinkId=780766)
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/left_aligned_print) Print
+ 
+
+Print
 
 Expand All Collapse All
-
-.row-bg-color-layout-container-uid4635{ background-color: !important; }
 
 ### Microsoft Privacy Statement
 
@@ -125,6 +123,8 @@ Young people may prefer starting with the [Privacy for young people](https://aka
 For individuals in the United States, please refer to our [U.S. State Data Privacy Notice](https://aka.ms/USStatePrivacyNotice) and the [Consumer Health Data Privacy Policy](https://privacy.microsoft.com/microsoft-consumer-health-data-privacy-policy) for additional information about the processing of your personal data, and your rights under applicable U.S. state data privacy laws. 
 
 ### Personal data we collect
+
+ 
 
 Microsoft collects data from you, through our interactions with you and through our products. You provide some of this data directly, and we get some of it by collecting data about your interactions, use, and experiences with our products. The data we collect depends on the context of your interactions with Microsoft and the choices you make, including your privacy settings and the products and features you use. We also obtain data about you from Microsoft affiliates, subsidiaries, and third parties.
 
