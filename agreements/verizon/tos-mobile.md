@@ -8,8 +8,6 @@ Selector used: #SupportContentWrapper
 *   [Other Wireless Topics](/support/other-wireless-topics/ "Other Wireless Topics") 
 Website Terms of Use for Verizon Communications, Inc. 
 
-.modal-close-icon { text-decoration: none !important; } .modal-close-icon:focus { outline: 1px dashed #000 !important; padding: 5px 5px; } .toglNavdisp { display: none; } .singlenavItemdisp { top: 160px !important; display: block; position: fixed !important; } .singlenavItemdisp #sidebar { margin-top: 10px !important; } .dispContentsOverlyMobl { display: none !important; } a.nav-main-title, a.nav-main-title:hover, oneDRd\_sideNav:focus { text-decoration: none !important; color: #000 !important; } a.nav-main-title:focus { outline: 1px solid !important; outline-offset: -2px !important; } /\*.gnav20 \*:hover, body.gnav20-using-mouse \*:focus { outline:1px dashed #000 !important; } \*/
-
 # 
 
 Website Terms of Use for Verizon Communications, Inc.
