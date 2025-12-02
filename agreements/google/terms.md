@@ -4,8 +4,6 @@ Selector used: div[role="article"]
 
 ---
 
-![](https://www.gstatic.com/identity/boq/policies/privacy/tos_2024/01-introduction-lightmode.svg)
-
 # Google Terms of Service
 
 Effective May 22, 2024 | [Archived versions](terms/archive) | [Download PDF](https://www.gstatic.com/policies/terms/pdf/20240522/ks8shls0/google_terms_of_service_en_us.pdf)
@@ -64,8 +62,6 @@ Some Google services have additional age requirements as described in their [ser
 
 [About these terms](terms#toc-about)
 
-![](https://www.gstatic.com/identity/boq/policies/privacy/tos_2024/02-your-relationship-with-google-lightmode.svg)
-
 # Your relationship with Google
 
 These terms help define the relationship between you and Google. When we speak of “Google,” “we,” “us,” and “our,” we mean Google LLC and its [affiliates](terms#footnote-affiliates). Broadly speaking, we give you permission to access and use our [services](terms#footnote-services) if you agree to follow these terms, which reflect [how Google’s business works and how we earn money](https://about.google/intl/en_US/how-our-business-works).
@@ -73,8 +69,6 @@ These terms help define the relationship between you and Google. When we speak o
 ## What you can expect from us
 
 ### Provide a broad range of useful services
-
-![](https://www.gstatic.com/identity/boq/policies/privacy/tos_2024/03-provide-a-broad-range-of-useful-services-lightmode.svg)
 
 We provide a broad range of services that are subject to these terms, including:
 
@@ -89,8 +83,6 @@ Our services are designed to work together, making it easier for you to move fro
 
 ### Develop, improve, and update Google services
 
-![](https://www.gstatic.com/identity/boq/policies/privacy/tos_2024/04-develop-improve-and-update-google-services-lightmode.svg)
-
 We’re constantly developing new technologies and features to improve our services. For example, we use artificial intelligence and machine learning to provide you with simultaneous translations, and to better detect and block spam and malware. As part of this continual improvement, we sometimes add or remove features and functionalities, increase or decrease limits to our services, and start offering new services or stop offering old ones. When a service requires or includes downloadable or preloaded software, that software sometimes updates automatically on your device once a new version or feature is available. Some services let you adjust your automatic update settings.
 
 If we make material changes that negatively impact your use of our services or if we stop offering a service, we’ll provide you with reasonable advance notice, except in urgent situations such as preventing abuse, responding to legal requirements, or addressing security and operability issues. We’ll also provide you with an opportunity to export [your content](terms#footnote-your-content) from your Google Account using [Google Takeout,](https://takeout.google.com/settings/takeout) subject to applicable law and policies.
@@ -98,8 +90,6 @@ If we make material changes that negatively impact your use of our services or i
 ## What we expect from you
 
 ### Follow these terms and service-specific additional terms
-
-![](https://www.gstatic.com/identity/boq/policies/privacy/tos_2024/05-follow-these-terms-and-service-specific-additional-terms-lightmode.svg)
 
 The permission we give you to access and use our [services](terms#footnote-services) continues as long as you comply with:
 
@@ -111,8 +101,6 @@ You also agree that our [Privacy Policy](privacy) applies to your use of our ser
 Although we give you permission to use our services, we retain any [intellectual property rights](terms#footnote-intellectual-property-rights) we have in the services.
 
 ### Respect others
-
-![](https://www.gstatic.com/identity/boq/policies/privacy/tos_2024/06-respect-others-lightmode.svg)
 
 We want to maintain a respectful environment for everyone, which means you must follow these basic rules of conduct:
 
@@ -147,8 +135,6 @@ You must not abuse, harm, interfere with, or disrupt our services or systems —
 *   providing services that encourage others to violate these terms
 
 ### Permission to use your content
-
-![](https://www.gstatic.com/identity/boq/policies/privacy/tos_2024/07-permission-to-use-your-content-lightmode.svg)
 
 Some of our services are designed to let you upload, submit, store, send, receive, or share [your content](terms#footnote-your-content). You have no obligation to provide any content to our services and you’re free to choose the content that you want to provide. If you choose to upload or share content, please make sure you have the necessary rights to do so and that the content is lawful.
 
@@ -208,8 +194,6 @@ If you remove from our services any content that’s covered by this license, th
 *   If you already shared your content with others before removing it. For example, if you shared a photo with a friend who then made a copy of it, or shared it again, then that photo may continue to appear in your friend’s Google Account even after you remove it from your Google Account.
 *   If you make your content available through other companies’ services, it’s possible that search engines, including Google Search, will continue to find and display your content as part of their search results.
 
-![](https://www.gstatic.com/identity/boq/policies/privacy/tos_2024/08-using-google-services-lightmode.svg)
-
 # Using Google services
 
 ## Your Google Account
@@ -230,8 +214,6 @@ Many [organizations](terms#footnote-organization), such as businesses, non-profi
 To provide you with our services, we sometimes send you service announcements and other information. To learn more about how we communicate with you, see Google’s [Privacy Policy](privacy).
 
 If you choose to give us feedback, such as suggestions to improve our services, we may act on your feedback without obligation to you.
-
-![](https://www.gstatic.com/identity/boq/policies/privacy/tos_2024/09-content-in-google-services-lightmode.svg)
 
 # Content in Google services
 
@@ -254,8 +236,6 @@ Some of our [services](terms#footnote-services) include content that belongs to 
 
 Finally, some of our [services](terms#footnote-services) give you access to content that belongs to other people or [organizations](terms#footnote-organization) — for example, a store owner’s description of their own business, or a newspaper article displayed in Google News. You may not use this content without that person or organization’s permission, or as otherwise allowed by law. The views expressed in other people or organizations’ content are theirs, and don’t necessarily reflect Google’s views.
 
-![](https://www.gstatic.com/identity/boq/policies/privacy/tos_2024/10-software-in-google-services-lightmode.svg)
-
 # Software in Google services
 
 Some of our [services](terms#footnote-services) include downloadable or preloaded software. We give you permission to use that software as part of the services.
@@ -271,8 +251,6 @@ The license we give you is:
 Some of our services include software that’s offered under open source license terms that we make available to you. Sometimes there are provisions in the open source license that explicitly override parts of these terms, so please be sure to read those licenses.
 
 You may not copy, modify, distribute, sell, or lease any part of our services or software.
-
-![](https://www.gstatic.com/identity/boq/policies/privacy/tos_2024/11-in-case-of-problems-or-disagreements-lightmode.svg)
 
 # In case of problems or disagreements
 
@@ -338,8 +316,6 @@ Of course, you’re always free to stop using our services at any time. If you d
 For information about how to contact Google, please visit our [contact page](https://www.google.com/contact).
 
 California law will govern all disputes arising out of or relating to these terms, [service-specific additional terms](terms/service-specific), or any related [services](terms#footnote-services), regardless of conflict of laws rules. These disputes will be resolved exclusively in the federal or state courts of Santa Clara County, California, USA, and you and Google consent to personal jurisdiction in those courts.
-
-![](https://www.gstatic.com/identity/boq/policies/privacy/tos_2024/12-about-these-terms-lightmode.svg)
 
 # About these terms
 
@@ -438,5 +414,3 @@ Things that you create, upload, submit, store, send, receive, or share using our
 *   travel itineraries that you share with Google
 
 *close*
-
-![](https://www.gstatic.com/images/icons/material/system/svg/keyboard_arrow_up_24px.svg)
