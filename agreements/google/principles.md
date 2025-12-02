@@ -4,10 +4,6 @@ Selector used: main
 
 ---
 
-  ![Blue safety shield with pointed tip and Google's capital G logo in the middle](https://lh3.googleusercontent.com/qPh8dJVBY7E3frPraBouK3fMr_-kX6qPHj9xZObt5tHKGaU9JPpsRHnpXurEnK3IUjloI0rr6LbyBfMCiBYHb-7G6pO8QjxOKrpWO1iXnsi9Nu033g=w96-e30)
-
-  ![Blue safety shield with pointed tip and Google's capital G logo in the middle](https://lh3.googleusercontent.com/L83LZOcMca45LSSc3yFtN7LWpvT-mxn6J2RKhbTKoHLNuKwPRC1x0NdbxiqwiR4MBp9hE1ZIgBP6DZm16gtdGKZpu7OVJ8DC65UtKm62Eovro7zC=w64-e30)
-
 Our privacy principles
 
 # Building products that are private by design for everyone.
@@ -57,8 +53,6 @@ Our products are designed to be secure by default and we constantly strengthen o
 ### We build advanced privacy technologies and share them with others.
 
 Keeping the internet open, private and safe is at the core of everything we do. Your online safety shouldn’t stop with Google – it should extend to the whole internet. That’s why we continue to innovate privacy technologies and make them widely available. We share our learnings, experiences, and tools with partners, organizations, and competitors, because keeping the internet safe requires everyone to work together.
-
-  ![Blue safety shield with pointed tip and Google's capital G logo in the middle.](https://lh3.googleusercontent.com/1Fpe0WW5_DNZYdkN_F0rq9eXdmxOc7Y4UrRpUkU6e0wJTenOyFX53BJ-7TYVVuVRHm_2BAYFR33LyB8bgQ9KLlKRk0ofiDOoN-RN-YONUkD38nX7CnQ=w182-l90-sg-c0xffffff-e30)
 
 Explore how Google helps  
 keep everyone safe online.
