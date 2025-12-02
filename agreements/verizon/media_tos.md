@@ -166,7 +166,7 @@ Selector used: main
          11.  In New Jersey, all of the limitations on liability set forth in Section 9 shall apply except nothing in these Terms will exclude or limit liability for intentional torts, willful acts, gross negligence, or a violation of a statutorily imposed duty.
          12.  You agree to not use the Services to provide material support or resources (or to conceal or disguise the nature, location, source, or ownership of material support or resources) to any organization(s) designated by the United States government as a foreign terrorist organization pursuant to section 219 of the Immigration and Nationality Act.
          13.  *Account Information*. Unless otherwise required by law and pursuant to Yahoo’s policies and procedures, your Account is non-transferable and any rights to your content within your Account terminate upon your death.
-     3.  **Argentina (ar), Chile (cl), Colombia (co),** <!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}--> **Hong Kong (hk),​ Mexico (mx), Peru (pe), and Venezuela (ve):**
+     3.  **Argentina (ar), Chile (cl), Colombia (co),**  **Hong Kong (hk),​ Mexico (mx), Peru (pe), and Venezuela (ve):**
          1.  *Defined Terms*
              1.  Applicable Yahoo Entity: Yahoo International LLC (Address: 770 Broadway, New York, NY 10003, USA)
              2.  Minimum Age: 13 years old
@@ -186,7 +186,7 @@ Selector used: main
              1.  [Argentina](https://help.yahoo.com/kb/index?locale=es_AR&page=product&y=PROD_ACCT)
              2.  [Chile](https://help.yahoo.com/kb/index?locale=es_CL&page=product&y=PROD_ACCT)
              3.  [Colombia](https://help.yahoo.com/kb/index?locale=es_CO&page=product&y=PROD_ACCT)
-             4.  <!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}--> [Hong Kong](https://hk.help.yahoo.com/kb/account)
+             4.  [Hong Kong](https://hk.help.yahoo.com/kb/account)
              5.  [Mexico](https://help.yahoo.com/kb/index?locale=es_MX&page=product&y=PROD_ACCT)
              6.  [Peru](https://help.yahoo.com/kb/index?locale=es_PE&page=product&y=PROD_ACCT)
              7.  [Venezuela](https://help.yahoo.com/kb/index?locale=es_VE&page=product&y=PROD_ACCT)
