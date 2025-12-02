@@ -429,7 +429,7 @@ For practices that are covered by our [PRP Certification](https://privacy.truste
 
 If you believe Adobe maintains your personal data in one of the services within the scope of our Data Privacy Framework certification, you may direct any inquiries or complaints concerning our Data Privacy Framework compliance by filling in our privacy inquiry form. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at [https://www.ana.net/content/show/id/accountability-dpf-consumers](https://www.ana.net/content/show/id/accountability-dpf-consumers). If neither Adobe nor our dispute resolution provider resolves your complaint, you may have the possibility to engage in binding arbitration through the Data Privacy Framework Panel. For more information on this option, please see Annex I of the EU-U.S. Data Privacy Framework Principles.
 
-   [![TRUSTe logo](./media_13bb01eeea8d15b24207ac4ef31db8460965e5e8d.png?width=750&format=png&optimize=medium)](https://privacy.trustarc.com/privacy-seal/validation?rid=b3086843-045e-494d-a02e-115cead7bce7)
+[](https://privacy.trustarc.com/privacy-seal/validation?rid=b3086843-045e-494d-a02e-115cead7bce7)
 
 anchor
 
