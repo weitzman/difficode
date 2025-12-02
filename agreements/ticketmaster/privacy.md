@@ -8,8 +8,6 @@ Selector used: main
 
 # Read more about what we collect, along with your choices and rights.
 
-![Privacy Policy](images/privacy-policy/desktop/hero-image.png "Privacy Policy")
-
 OUR COMMITMENT
 
 TO YOU
@@ -21,8 +19,6 @@ The list of entities who process your information, depending on where you create
 If you’d like further information, or have any questions, please contact us using the details in the [‘Contact’](#contact-us "Contact") section below.
 
 If we ever make any major changes to our privacy practices, we’ll let you know. If necessary, we’ll also ask for your permission.
-
-![Privacy Policy](images/privacy-policy/desktop/section-1.png "Privacy Policy")
 
 PRIVACY
 
@@ -66,8 +62,6 @@ We’re always taking steps to make sure your information is protected and delet
 #### Contact us
 
 If you have any questions or feedback about how we handle your information, get in touch with us. [Learn More](#contact-us "Contact us")
-
-![Privacy Policy](images/privacy-policy/desktop/section-2.png "Privacy Policy")
 
 WHAT INFORMATION
 
@@ -146,10 +140,6 @@ This section explains how we use your information and the legal grounds (or purp
     To protect your vital interests
     
     *   **Health and Safety.** Any information collected by us or our third-party partners in compliance with applicable health and safety requirements will only be used to contact attendees or shared with relevant local, government officials. This information is regularly deleted.
-
-![Privacy Policy](images/privacy-policy/desktop/section-3-left.png "Privacy Policy")
-
-![Privacy Policy](images/privacy-policy/desktop/section-3-right.png "Privacy Policy")
 
 WHO WE SHARE
 
@@ -457,10 +447,6 @@ Your rights and choices may differ depending on the country where you are access
     
     Our websites respond to global privacy control—or “GPC”—signals, if we detect that a browser is communicating a GPC signal, we will process that as a request to opt that browser and device out of ‘sale’ via cookies and tracking tools on our website. Note that if you return to our website from a different device or use a different browser on the same device, you will need to opt out (or set GPC for) that browser and device as well.
     
-
-![Privacy Policy](images/privacy-policy/desktop/section-4-left.png "Privacy Policy")
-
-![Privacy Policy](images/privacy-policy/desktop/section-4-right.png "Privacy Policy")
 
 LOOKING AFTER YOUR
 
