@@ -5,7 +5,7 @@ Selector used: #fw-content
 ---
 
 *   [](#)
-*   [About Cisco](/c/en/us/about.html)
+*   [About Cisco](https://www.cisco.com/site/us/en/about/index.html)
 *   [Cisco Legal](/c/en/us/about/legal.html)
 
 # Cisco Web Site Terms of Use
