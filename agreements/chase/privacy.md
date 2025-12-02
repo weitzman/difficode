@@ -10,8 +10,6 @@ Selector used: main
 
 Our suite of security features can help protect your info and money, and give you peace of mind.
 
-![](/content/dam/chase-ux/media-block-v2/digital/resources/privacy-security/hero/security-center-hero.jpg)
-
 *   [Security Center home](/digital/resources/privacy-security)
 *   [How we protect you](/digital/resources/privacy-security/security/how-we-protect-you)
 *   [What you can do](/digital/resources/privacy-security/security/how-you-can-protect)
@@ -87,8 +85,6 @@ Zelle® [Footnote 1Opens overlay](/content/dam/chaseux-fragments/en/chase-footno
 
 [What to watch out for](/personal/zelle/use-zelle-safely)
 
-![](/content/dam/chase-ux/media-block-v2/digital/resources/privacy-security/steer-clear-scammer-block-img.jpg)
-
 ## Older adults in particular are at risk for fraud. Learn how you can help us protect your accounts.
 
 ### Staying safe in the future starts now
@@ -96,8 +92,6 @@ Zelle® [Footnote 1Opens overlay](/content/dam/chaseux-fragments/en/chase-footno
 Learn how to help take control of your future by recognizing the signs of financial abuse and exploitation. Get the tools to help you stay safe.
 
 [Start now](/digital/resources/privacy-security/financial-abuse)
-
-![](/content/dam/chase-ux/media-block-v2/digital/resources/privacy-security/staying-safe.jpeg)
 
 ## We value your privacy
 
@@ -131,13 +125,9 @@ Learn more about the common tricks scammers are using to help keep yourself safe
 
 [See latest scams](/digital/resources/privacy-security/security/how-to-spot-scams)
 
-![](/content/dam/chase-ux/media-block-v2/digital/resources/privacy-security/stay-one-step-ahead.jpg)
-
 ## Think you may have experienced fraud? Here's what to do next.
 
 [Take action](/digital/resources/privacy-security/security/report-fraud)
-
-![](/content/dam/chase-ux/media-block-v2/digital/resources/privacy-security/experience-fraud.png)
 
 ## Frequently asked questions
 
