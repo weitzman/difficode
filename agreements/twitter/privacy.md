@@ -321,8 +321,6 @@ If you wish to raise a concern about our [data processing practices](https://hel
 
 [View previous policies](https://x.com/privacy/previous)
 
-![true](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
 ## Take control of your privacy
 
 [Adjust your settings](https://twitter.com/settings/privacy_and_safety)
