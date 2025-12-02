@@ -46,13 +46,9 @@ Selector used: div.page
 
 [EEA, Switzerland, and the United Kingdom](/privacy/policy/staterights#eea)
 
-\[{"componentInfo":{"componentID":"6EF6C996-D656-4613-8888-5F435DD863E2","instanceID":"b2d8808c-4db0-4d2a-bbc9-45c3fefcd313","componentName":"XjsArticle"}}\]
-
 Effective November 17, 2025 | [Download PDF (English)](https://assets.xfinity.com/assets/dotcom/privacy-center/PP_11172025.pdf) | [Download PDF (Spanish)](https://assets.xfinity.com/assets/dotcom/privacy-center/PP_SP_11172025.pdf)
 
   
-
-\[{"componentInfo":{"componentID":"CC4C3943-3492-4A76-8612-CE4ACAB49BE0","instanceID":"3cf3e955-2a30-4335-8b02-9462db64f089","componentName":"XjsArticle"}}\]
 
 ## Table of contents
 
@@ -88,10 +84,6 @@ Effective November 17, 2025 | [Download PDF (English)](https://assets.xfinity.co
 
 [](#changes)[How to contact us with questions about this Privacy Policy](#contact)
 
-\[{"componentInfo":{"componentID":"16C58B41-BEC6-4E47-956D-20537D929D3B","instanceID":"c603bc9d-f4f9-4577-afb6-e30af24472ab","componentName":"XjsArticle"}}\]
-
-\[{"componentInfo":{"componentID":"622E8F16-DADB-4DBD-92FF-E48CD9DBEA07","instanceID":"f5a6a1b1-f4e5-4b27-8d63-4b2bae224634","componentName":"XjsIconStackBlock"}}\]
-
 ## Introduction
 
 We know you care about your privacy and the protection of your [personal information.](#/privacy/overlays/Personal-Information) We also know it is our responsibility to be clear about how we protect your information. We designed this Privacy Policy to do just that. It explains the types of personal information we collect, and how we collect, use, maintain, protect, and share this information. This Privacy Policy also tells you about the rights and choices you may have when it comes to your personal information.
@@ -106,19 +98,11 @@ You can review this Privacy Policy and the information in the Xfinity Privacy Ce
 
 We are part of the Comcast family of companies, which includes NBCU, Sky, and others (“[Our Related Businesses](http://corporate.comcast.com/privacy-related-businesses)”).
 
-\[{"componentInfo":{"componentID":"2FF3222D-2CD3-43F0-9657-4F5B01A80AB5","instanceID":"ae708b86-4f63-4ae8-8237-02d215e57c5d","componentName":"XjsArticle"}}\]
-
-\[{"componentInfo":{"componentID":"C7EB4840-48F8-4B8A-A8F9-412963069615","instanceID":"1e88bc78-da7e-4de3-b9eb-76eadc4f046b","componentName":"XjsIconStackBlock"}}\]
-
 ## When the Privacy Policy applies
 
 This Privacy Policy applies to the information we collect when you use or interact with the [business entities, products, services, networks, and platforms](#/privacy/overlays/Xfinity-branded), including our websites, mobile apps, and other services and devices where this policy is referenced. These may include Xfinity-branded services, Comcast-branded Services, Xumo-branded Services, and other products and services we deliver. This Privacy Policy also applies when you otherwise interact with us. We'll refer to all of these as our "Services" in this Privacy Policy. It also applies to the information we collect about you from third parties. 
 
 This Privacy Policy does not apply to the [other products, services, websites, and applications](#/privacy/overlays/Other-products) (mobile or television) that you may use or interact with through Xfinity platforms. It also does not apply where we process your personal information at the direction of business clients for whom we provide services where you have a relationship with those business clients. Instead, the privacy policies of those other parties will apply.
-
-\[{"componentInfo":{"componentID":"9D08DBD3-80D5-4588-B9F8-1F7D88184F86","instanceID":"afc30f24-4e03-4cf3-b52e-6d1d90cbbde3","componentName":"XjsArticle"}}\]
-
-\[{"componentInfo":{"componentID":"A371FBF0-4164-44C1-9AC3-A28B7C75A811","instanceID":"10a2c099-7fbd-4ac9-883d-ae76032e6f0c","componentName":"XjsFaq"}}\]
 
 Learn more about when the Privacy Policy applies
 
@@ -128,8 +112,6 @@ Some Services may have additional privacy practices that may be described to you
 
 This Policy does not apply to the non-Xfinity products, services, websites, and applications that you may use through the Xfinity platforms, and we are not responsible for the practices of the companies providing those offerings. For example, if you subscribe to Xfinity Internet and visit a news or shopping website, the privacy policy for that website will apply. If you use one of our platforms to use another company’s streaming service, the privacy policy for that streaming service will apply to information it collects about your activity within the app. Likewise, if you connect your smart thermostat to your Xfinity Home security and automation service, the privacy policy of the smart thermostat company will apply to the information it collects. For more information about how these non-Xfinity products, services, websites, and applications use your information, please review their privacy policies.
 
-\[{"componentInfo":{"componentID":"2371F378-5AEE-4E32-8E70-B29A3AA0457D","instanceID":"6039eab7-082d-47b1-ab19-fd4e45813266","componentName":"XjsIconStackBlock"}}\]
-
 ## The personal information we collect and how we collect it
 
 To provide you with our Services, we collect your personal information. This can include information that does not directly identify you - such as device numbers, IP addresses, and account numbers. It may also include information that does personally identify you, such as your name, address, and telephone number.
@@ -137,10 +119,6 @@ To provide you with our Services, we collect your personal information. This can
 If you allow others to use your Services, we will also collect personal information about those individuals. If you use our Services through someone else’s account, we will collect information about you, but it may not identify who you are to us. We may also collect information about you from [third parties](#/privacy/overlays/Third-Parties).
 
 We collect this information to provide our Services, communicate with you, [respond to your requests](#/privacy/overlays/Respond-to-Your-Requests), and to [tailor our Services](#/privacy/overlays/Tailor-Our-Services) to best meet your needs and interests.
-
-\[{"componentInfo":{"componentID":"577A3753-CE25-4339-8105-8B0625EB7574","instanceID":"7f276bbe-e629-4621-874e-14236a7da34a","componentName":"XjsArticle"}}\]
-
-\[{"componentInfo":{"componentID":"07E1ACA4-6791-45E1-AB01-B07B22038F1B","instanceID":"df8cbec7-8a7c-47d8-8f19-01f0323b813c","componentName":"XjsFaq"}}\]
 
 Learn more about the information we collect and see examples
 
@@ -223,17 +201,11 @@ To manage your preferences, please visit the Xfinity Privacy Preferences Center 
 
 Because definitions and rules for a “Do Not Track” standard have not yet been established, including whether such signals must be user-enabled, Comcast does not yet respond to “Do Not Track” signals sent from browsers.
 
-\[{"componentInfo":{"componentID":"C8377CCD-76A9-48F6-BD00-54D0222AA296","instanceID":"87379920-9348-4970-9b22-a53b8e561e97","componentName":"XjsIconStackBlock"}}\]
-
 ## How and when we use information, including for marketing and advertising
 
 We use the information we collect to provide our Services and communicate with you. We also use it to improve our Services, develop new products and services, give recommendations, deliver personalized consumer experiences (including marketing and advertising for our own and others' products and services), investigate fraud and other illegal activities, and to ensure a secure online environment.
 
 We may combine information across our systems, platforms, and databases. This includes combining information we receive from third parties and information about your use of our Services. We may also combine information about your use of one Service with information we get from your use of another Service. We may aggregate or deidentify your information and may use, share, license, or sell aggregated or deidentified information for any purpose. Our use of information that is no longer personal information is not subject to this Privacy Policy.
-
-\[{"componentInfo":{"componentID":"41D75DDD-0E56-4878-819D-4B616DF4543B","instanceID":"48378ae7-300f-4a1e-a6d9-532d4b4c7a1f","componentName":"XjsArticle"}}\]
-
-\[{"componentInfo":{"componentID":"1535F2F2-E343-4A34-BAE9-5E7DEAA26259","instanceID":"18cf89c0-60c1-4d46-8040-79ea8bc1037a","componentName":"XjsFaq"}}\]
 
 Learn more about our uses of your information and see examples
 
@@ -301,8 +273,6 @@ TO COMPLY WITH LAW, PREVENT AND INVESTIGATE FRAUD AND OTHER ILLEGAL ACTIVITIES, 
 
 We may aggregate or deidentify your information and may use, share, license, or sell aggregated or deidentified information for any purpose. Our use of information that is no longer personal information is not subject to this Privacy Policy.
 
-\[{"componentInfo":{"componentID":"18086523-337D-4A96-ABC6-6EC41860C0FB","instanceID":"0aefe6c8-98c6-4516-899b-8d0fb761646a","componentName":"XjsIconStackBlock"}}\]
-
 ## When and to whom we disclose information
 
 We disclose personal information with others when it’s needed to provide you with our Services, including with credit reporting agencies. We also disclose personal information to others:
@@ -315,10 +285,6 @@ We disclose personal information with others when it’s needed to provide you w
 We may disclose personal information to third parties, including for marketing and advertising purposes, which you can control through opt-in or opt-out settings, depending on the type of personal information disclosed.
 
 Where the personal information we may disclose does not directly identify you (such as IP address or device identifier), it is possible that our third party partners may be able to identify you based on information they collect from other sources, including any interactions you have with them.
-
-\[{"componentInfo":{"componentID":"14033177-E6E7-4B78-AFE8-971ADB5B8634","instanceID":"ffc128ac-9e47-414e-bb66-1afca25458d7","componentName":"XjsArticle"}}\]
-
-\[{"componentInfo":{"componentID":"591B8BCC-9380-44C7-91E0-C114B0052140","instanceID":"1f828aaf-7429-4a88-a880-6f08de95059f","componentName":"XjsFaq"}}\]
 
 Learn more about when and to whom we disclose information
 
@@ -426,39 +392,21 @@ A non-governmental entity, such as a civil litigant, can seek information that p
 
 We may also disclose information that personally identifies you as permitted by law and without your consent when it is necessary to protect our customers, employees, or property; in emergency situations; or to enforce our rights under our terms of service and policies.
 
-\[{"componentInfo":{"componentID":"27EBEC9F-100D-4BCF-B34E-4765CEFF3BF7","instanceID":"5580dfb3-c104-43fb-92f4-9ec3ab84ab3d","componentName":"XjsIconStackBlock"}}\]
-
 ## How we protect your information
 
 We follow industry-standard practices to secure the information we collect to prevent the unauthorized access, use, or disclosure of any personal information we collect and maintain. These security practices include technical, administrative, and physical safeguards, which may vary, depending on the type and sensitivity of the information. Although we take the responsibility of safeguarding your personal information seriously, no security measures are 100% effective and we cannot guarantee that these practices will prevent every unauthorized attempt to access, use, or disclose your information. Comcast also takes additional steps to increase the security and reliability of customer communications. We do not read your outgoing or incoming email, file attachments, video mail, private chat, or instant messages. However, we (along with our service providers) use software and hardware tools to help prevent and block "spam" emails, viruses, spyware, and other harmful or unwanted communications and programs from being sent and received over Comcast.net email and the Comcast Services. To help protect you and the Services against these harmful or unwanted communications and programs, these tools may automatically scan your emails, video mails, instant messages, file attachments, and other files and communications. We do not use these tools for marketing or advertising.
-
-\[{"componentInfo":{"componentID":"B20C5093-03CD-4D56-8E4D-2DD2BB9F0F64","instanceID":"e28055d4-de77-4290-bcb7-232438c95ec7","componentName":"XjsArticle"}}\]
-
-\[{"componentInfo":{"componentID":"3F9F0AD3-F93A-4941-AF56-0E5DB7D4E518","instanceID":"b3971f58-f70c-4d7f-b54b-d836a3aee859","componentName":"XjsIconStackBlock"}}\]
 
 ## How long we keep your information
 
 We keep your personal information for different lengths of time depending on the type of information and the business and legal requirements. For example, if you are a customer, we keep information that personally identifies you as long as you subscribe to one or more of our Services. If you no longer subscribe to a Service, we still may need that information for business and legal requirements, such as to protect against fraud, calculate taxes, or respond to legal requests. Other information is deleted automatically after a set period of time, often set by law, unless we are legally required to hold it longer, such as for pending litigation. We destroy, de-identify, or anonymize the information when it is no longer needed in identifiable form.
 
-\[{"componentInfo":{"componentID":"435E1115-48DE-495A-87F7-FF84FD72DC21","instanceID":"6f497f8b-a5a4-46cc-93d5-0f31e394b8da","componentName":"XjsArticle"}}\]
-
-\[{"componentInfo":{"componentID":"05E0A845-D873-47D6-93C2-1AFFAE8287EB","instanceID":"c9541c3f-20b0-43d5-b432-6c4f6390037b","componentName":"XjsIconStackBlock"}}\]
-
 ## Children's Data
 
 Most of our online services are intended for general audiences and are not directed to children. In areas of our Services that may be directed to children, we may collect personal information as described in this Privacy Policy, to the extent and as permitted by applicable law. We limit our processing of such information to providing the Services; communicating with you; understanding your use of and improving the Services; providing recommendations and personalizing the experience; providing contextual advertising and capping and measuring ads; and complying with law, preventing and investigating fraud and other illegal activities, and for other safety and security purposes. We share information with the categories of parties described in “When and To Whom We Disclose Information” above. To request more information about our processing of personal information collected in areas directed to children, or to request to access, delete, or correct personal information related to a child, please contact us at [comcast\_privacy@comcast.com](mailto:comcast_privacy@comcast.com).
 
-\[{"componentInfo":{"componentID":"CD5B3137-5B85-41C8-A873-12167B3F6CD4","instanceID":"cfafd225-8bd2-4aac-b132-1064cba0db81","componentName":"XjsArticle"}}\]
-
-\[{"componentInfo":{"componentID":"5B15A9DD-C115-4352-980C-BE1BB282D9FB","instanceID":"f17373af-a50a-479f-b102-af4f371934dd","componentName":"XjsIconStackBlock"}}\]
-
 ## The choices you have to control our use of personal information
 
 You have many choices about how we communicate with you and how we use or disclose your information. You can manage these settings in the [Xfinity Privacy Preferences Center.](/privacy/manage-preference) If you change your mind, you can update your preferences any time.
-
-\[{"componentInfo":{"componentID":"5AF08DBA-95EA-4B3D-9746-3A1E3C12B9A8","instanceID":"86c59df7-a733-4826-a254-c8833e2fadba","componentName":"XjsArticle"}}\]
-
-\[{"componentInfo":{"componentID":"93007571-356D-4F05-BFB5-351C73154567","instanceID":"bc597cd2-907b-46a9-a990-46b6a3733cbc","componentName":"XjsFaq"}}\]
 
 Learn more about your privacy choices
 
@@ -479,8 +427,6 @@ If you subscribe to Xfinity Voice Service, when you are interacting with one of 
 
 Additional privacy preferences may be available to you on the devices you use to access the Services. 
 
-\[{"componentInfo":{"componentID":"8B7231E2-62E7-41F4-B7CA-CAEDE33BA838","instanceID":"621dc233-686a-4847-9973-1deb29125544","componentName":"XjsIconStackBlock"}}\]
-
 ## How to access and correct the information in our records
 
 Part of our commitment to transparency includes giving our customers access to the personal information we have about them. If you subscribe to our Services, you have the ability to see and correct your personally identifiable information through your online account services.
@@ -488,10 +434,6 @@ Part of our commitment to transparency includes giving our customers access to t
 Certain states may give you additional rights, as described in the “[Additional information regarding other laws and individual rights](/privacy/policy/staterights)” section of this Privacy Policy.
 
 All individuals may also make requests to access and correct certain personal information, and to have us delete certain personal information through our Privacy Center by visiting [xfinity.com/privacy/requests](/privacy/requests). 
-
-\[{"componentInfo":{"componentID":"813F0F37-E367-4F34-8A83-5C900AF63B9C","instanceID":"00de39b8-72ee-48e3-b8dd-de88be9377b0","componentName":"XjsArticle"}}\]
-
-\[{"componentInfo":{"componentID":"8396380F-15DC-4EEA-B579-C80086F422AD","instanceID":"e98296a0-6831-4861-a957-b2999258a3a9","componentName":"XjsFaq"}}\]
 
 Learn more about how to access personally identifiable customer information
 
@@ -503,15 +445,9 @@ If you make a written request for a copy of your Xfinity Voice or Mobile CPNI, w
 
 Comcast reserves the right to charge you for the reasonable cost of retrieving and photocopying any information or documents that you request, where permitted by law.
 
-\[{"componentInfo":{"componentID":"A7926012-7BC9-44A1-90AF-1770F2DAB6FD","instanceID":"94929143-d48d-4ae8-b3f4-f29f41d00802","componentName":"XjsIconStackBlock"}}\]
-
 ## Your rights and our limitations under federal laws
 
 The federal Cable Act imposes limitations on our collection and sharing of information that personally identifies you when you subscribe to Services that use the facilities of the Comcast cable system. The Communications Act imposes restrictions on our use and sharing of CPNI when you use Services that are deemed telecommunications services.
-
-\[{"componentInfo":{"componentID":"6D3ADA0A-0B19-4754-86AE-7F56FCF16349","instanceID":"380dac99-b25a-4c69-9ca6-82d96f23e710","componentName":"XjsArticle"}}\]
-
-\[{"componentInfo":{"componentID":"8228E625-B031-4C1B-905A-D6EEE7566033","instanceID":"2121cf50-675c-41a3-8628-71027987b9de","componentName":"XjsFaq"}}\]
 
 Learn more about your rights and our limitations under federal laws
 
@@ -533,8 +469,6 @@ Section 222 of the Communications Act of 1934, as amended (the "Communications A
 
 If you are a customer of Xfinity Voice or Mobile Service, or another Service that is subject to these requirements, you have the right, and Comcast has a duty, under the Communications Act and other applicable laws, to protect the confidentiality of your CPNI. In addition, the FCC's rules provide additional privacy protections and choices regarding use and sharing that are specific to our Voice and Mobile service that we describe in this Policy.
 
-\[{"componentInfo":{"componentID":"33B1A3F9-7C35-4498-8B37-4F1A0EE2176D","instanceID":"04cfc694-8166-4ee2-ae96-3cfe7b45b5db","componentName":"XjsIconStackBlock"}}\]
-
 ## Additional information regarding other laws and individual rights
 
 Your privacy may be impacted differently depending on where you live. If you're a resident of one of the following places, select your location to review the additional privacy notice and information that applies to you.
@@ -545,22 +479,12 @@ Your privacy may be impacted differently depending on where you live. If you're 
 
 [EEA, Switzerland, and the United Kingdom](/privacy/policy/staterights#eea)
 
-\[{"componentInfo":{"componentID":"F49F7532-9815-477A-946C-8067DDE31EF7","instanceID":"f9bbb3a5-25a7-49fe-b9cd-bb695135cf4a","componentName":"XjsArticle"}}\]
-
-\[{"componentInfo":{"componentID":"FA3635E6-732B-4029-A718-E9840DD914E4","instanceID":"4e312b96-4958-427d-95f9-4f983fb31245","componentName":"XjsIconStackBlock"}}\]
-
 ## Changes to this Privacy Policy
 
 We may change this Privacy Policy over time as our business needs and those of our customers change. If we make material changes to this Privacy Policy that increase our rights to use personal information that we have previously collected about you, we will notify you through written, electronic, or other means so that you can make any necessary decisions about your ongoing use of our Services.
-
-\[{"componentInfo":{"componentID":"613672D3-C713-4F7A-AA28-46D15E93027C","instanceID":"67a391a8-1e9c-4f9b-88d0-07f7b79b4ded","componentName":"XjsArticle"}}\]
-
-\[{"componentInfo":{"componentID":"9DF672B1-16E0-4BC8-A51E-B5AAE3EEE30A","instanceID":"919fccf6-f02e-40bb-ae24-1e177bf5af85","componentName":"XjsIconStackBlock"}}\]
 
 ## How to contact us with questions about this Privacy Policy
 
 Send us a message: [Comcast\_Privacy@comcast.com](mailto:Comcast_Privacy@comcast.com)
 
 Be sure to include your name and address, your Comcast account number (if applicable), and a daytime telephone number where we can reach you.
-
-\[{"componentInfo":{"componentID":"3A406A8D-3193-4409-A3FA-5FF5224DAB45","instanceID":"48ed8e86-e20e-48d2-a85d-4e52faafd6cb","componentName":"XjsArticle"}}\]
