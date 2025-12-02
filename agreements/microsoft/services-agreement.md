@@ -4,8 +4,6 @@ Selector used: #mainContent
 
 ---
 
-.row-bg-color-layout-container-uid1b1d{ background-color: !important; }
-
 Published: **July 30, 2025**
 
 Effective: **September 30, 2025**
@@ -29,8 +27,6 @@ ESTIMATED READING TIME: 55 Minutes; 14268 words
 **IF YOU LIVE IN (OR YOUR PRINCIPAL PLACE OF BUSINESS IS IN) THE UNITED STATES, PLEASE READ THE BINDING ARBITRATION CLAUSE AND CLASS ACTION WAIVER IN SECTION 15. IT AFFECTS HOW DISPUTES ARE RESOLVED.**
 
 These terms (“**Terms**”) cover the use of those Microsoft consumer products, websites, related support, and services listed at the end of these Terms [here](#serviceslist) (https://www.microsoft.com/servicesagreement#serviceslist) (the “**Services**”). You accept these Terms by creating a Microsoft account, through your use of the Services, or by continuing to use the Services after being notified of a change to these Terms.
-
-.row-bg-color-layout-container-uidc91b{ background-color: !important; }
 
 [
 
@@ -259,8 +255,6 @@ STANDARD APPLICATION LICENSE TERMS
 Covered Services
 
 ](#serviceslist)
-
-.row-bg-color-layout-container-uide7ce{ background-color: !important; }
 
 ## Your Privacy
 
