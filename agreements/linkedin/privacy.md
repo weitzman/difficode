@@ -4,8 +4,6 @@ Selector used: main
 
 ---
 
-![](https://media.licdn.com/dms/image/v2/C4D08AQFXY7ga83Bafw/croft-frontend-shrinkToFit1024/croft-frontend-shrinkToFit1024/0/1598658592736?e=2147483647&v=beta&t=67ATyf8-3XnHufZtjTwE3_A6AzXU_zgz6GULBKHLBCQ) 
-
 # Privacy Policy
 
 *[Effective November 3, 2025](https://www.linkedin.com/help/linkedin/answer/a1341216/updates-to-user-agreement-and-privacy-policy)*
