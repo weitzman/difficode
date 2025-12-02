@@ -4,21 +4,13 @@ Selector used: article
 
 ---
 
-.highlight-container { display: grid; grid-template-columns: auto 1fr; align-items: center; width: 100%; padding: 10px; background-color: #BFABFF; border-radius: .5rem; margin-top: .5rem; gap: 10px; } .highlight-icon-container { display: flex; justify-content: flex-start; align-items: center; padding-left: 5px; } .highlight-icon-container svg { height: 30px; width: auto; } .highlight-text-container { padding: 5px 10px 5px 0; text-align: left; } .highlight-text-container.important { font-weight: 500; font-style: italic; } @media (min-width: 600px) { .highlight-container { gap: 15px; } }
-
 To help you understand the subject matters covered by our Terms of Service, we have provided short overviews of key takeaways highlighted in purple below. We hope these overviews serve as a useful guide, but please be sure to read our entire Terms of Service carefully, as this is a legally binding contract.
 
 ## 1\. Introduction; Your Agreement to these Terms of Service
 
-.highlight-container { display: grid; grid-template-columns: auto 1fr; align-items: center; width: 100%; padding: 10px; background-color: #BFABFF; border-radius: .5rem; margin-top: .5rem; gap: 10px; } .highlight-icon-container { display: flex; justify-content: flex-start; align-items: center; padding-left: 5px; } .highlight-icon-container svg { height: 30px; width: auto; } .highlight-text-container { padding: 5px 10px 5px 0; text-align: left; } .highlight-text-container.important { font-weight: 500; font-style: italic; } @media (min-width: 600px) { .highlight-container { gap: 15px; } }
-
 We describe our Services, which we call “the Twitch Services”, and our contractual relationship with you.
 
-.highlight-container { display: grid; grid-template-columns: auto 1fr; align-items: center; width: 100%; padding: 10px; background-color: #BFABFF; border-radius: .5rem; margin-top: .5rem; gap: 10px; } .highlight-icon-container { display: flex; justify-content: flex-start; align-items: center; padding-left: 5px; } .highlight-icon-container svg { height: 30px; width: auto; } .highlight-text-container { padding: 5px 10px 5px 0; text-align: left; } .highlight-text-container.important { font-weight: 500; font-style: italic; } @media (min-width: 600px) { .highlight-container { gap: 15px; } }
-
 When you use Twitch you agree to all of the terms in this contract. This contract applies to you whether you sign up for an account or use Twitch without registering.
-
-.highlight-container { display: grid; grid-template-columns: auto 1fr; align-items: center; width: 100%; padding: 10px; background-color: #BFABFF; border-radius: .5rem; margin-top: .5rem; gap: 10px; } .highlight-icon-container { display: flex; justify-content: flex-start; align-items: center; padding-left: 5px; } .highlight-icon-container svg { height: 30px; width: auto; } .highlight-text-container { padding: 5px 10px 5px 0; text-align: left; } .highlight-text-container.important { font-weight: 500; font-style: italic; } @media (min-width: 600px) { .highlight-container { gap: 15px; } }
 
 Your use of Twitch is also subject to (a) our Community Guidelines, which detail what content is and is not allowed on our service; (b) any other guidelines or rules we post or provide to you; and (c) our Terms of Sale, which cover our paid products and services.
 
@@ -32,11 +24,7 @@ When using Twitch or opening an account with Twitch on behalf of a company, enti
 
 ## 2\. Use of Twitch by Minors and Blocked Persons
 
-.highlight-container { display: grid; grid-template-columns: auto 1fr; align-items: center; width: 100%; padding: 10px; background-color: #BFABFF; border-radius: .5rem; margin-top: .5rem; gap: 10px; } .highlight-icon-container { display: flex; justify-content: flex-start; align-items: center; padding-left: 5px; } .highlight-icon-container svg { height: 30px; width: auto; } .highlight-text-container { padding: 5px 10px 5px 0; text-align: left; } .highlight-text-container.important { font-weight: 500; font-style: italic; } @media (min-width: 600px) { .highlight-container { gap: 15px; } }
-
 You promise us that you are at least 13 years old, that you have not previously been removed from Twitch, and that you are not legally prohibited from using Twitch.
-
-.highlight-container { display: grid; grid-template-columns: auto 1fr; align-items: center; width: 100%; padding: 10px; background-color: #BFABFF; border-radius: .5rem; margin-top: .5rem; gap: 10px; } .highlight-icon-container { display: flex; justify-content: flex-start; align-items: center; padding-left: 5px; } .highlight-icon-container svg { height: 30px; width: auto; } .highlight-text-container { padding: 5px 10px 5px 0; text-align: left; } .highlight-text-container.important { font-weight: 500; font-style: italic; } @media (min-width: 600px) { .highlight-container { gap: 15px; } }
 
 If you are between 13 and the age you legally become an adult where you live, you can only use Twitch if your parent or guardian is supervising you and agrees to this contract.
 
@@ -48,8 +36,6 @@ BY DOWNLOADING, INSTALLING, OR OTHERWISE USING THE TWITCH SERVICES, YOU REPRESEN
 
 ## 3\. Privacy Notice
 
-.highlight-container { display: grid; grid-template-columns: auto 1fr; align-items: center; width: 100%; padding: 10px; background-color: #BFABFF; border-radius: .5rem; margin-top: .5rem; gap: 10px; } .highlight-icon-container { display: flex; justify-content: flex-start; align-items: center; padding-left: 5px; } .highlight-icon-container svg { height: 30px; width: auto; } .highlight-text-container { padding: 5px 10px 5px 0; text-align: left; } .highlight-text-container.important { font-weight: 500; font-style: italic; } @media (min-width: 600px) { .highlight-container { gap: 15px; } }
-
 Our Privacy Notice covers how we collect, use, and share your personal information.
 
 Your privacy is important to Twitch. Please see our [Privacy Notice](https://legal.twitch.com/legal/privacy-policy) for information relating to how we collect, use, and disclose your personal information, and our [Privacy Choices](https://legal.twitch.com/legal/privacy-choices) on how you can manage your online privacy when you use the Twitch Services.
@@ -58,19 +44,11 @@ Your privacy is important to Twitch. Please see our [Privacy Notice](https://leg
 
 #### **a. Account and Password**
 
-.highlight-container { display: grid; grid-template-columns: auto 1fr; align-items: center; width: 100%; padding: 10px; background-color: #BFABFF; border-radius: .5rem; margin-top: .5rem; gap: 10px; } .highlight-icon-container { display: flex; justify-content: flex-start; align-items: center; padding-left: 5px; } .highlight-icon-container svg { height: 30px; width: auto; } .highlight-text-container { padding: 5px 10px 5px 0; text-align: left; } .highlight-text-container.important { font-weight: 500; font-style: italic; } @media (min-width: 600px) { .highlight-container { gap: 15px; } }
-
 You should provide us with accurate information about yourself.
-
-.highlight-container { display: grid; grid-template-columns: auto 1fr; align-items: center; width: 100%; padding: 10px; background-color: #BFABFF; border-radius: .5rem; margin-top: .5rem; gap: 10px; } .highlight-icon-container { display: flex; justify-content: flex-start; align-items: center; padding-left: 5px; } .highlight-icon-container svg { height: 30px; width: auto; } .highlight-text-container { padding: 5px 10px 5px 0; text-align: left; } .highlight-text-container.important { font-weight: 500; font-style: italic; } @media (min-width: 600px) { .highlight-container { gap: 15px; } }
 
 You are responsible for keeping your Twitch account and password, and your devices, secure.
 
-.highlight-container { display: grid; grid-template-columns: auto 1fr; align-items: center; width: 100%; padding: 10px; background-color: #BFABFF; border-radius: .5rem; margin-top: .5rem; gap: 10px; } .highlight-icon-container { display: flex; justify-content: flex-start; align-items: center; padding-left: 5px; } .highlight-icon-container svg { height: 30px; width: auto; } .highlight-text-container { padding: 5px 10px 5px 0; text-align: left; } .highlight-text-container.important { font-weight: 500; font-style: italic; } @media (min-width: 600px) { .highlight-container { gap: 15px; } }
-
 If you let others use your account, you agree to this contract for them and are responsible for their actions on Twitch while they are using your account.
-
-.highlight-container { display: grid; grid-template-columns: auto 1fr; align-items: center; width: 100%; padding: 10px; background-color: #BFABFF; border-radius: .5rem; margin-top: .5rem; gap: 10px; } .highlight-icon-container { display: flex; justify-content: flex-start; align-items: center; padding-left: 5px; } .highlight-icon-container svg { height: 30px; width: auto; } .highlight-text-container { padding: 5px 10px 5px 0; text-align: left; } .highlight-text-container.important { font-weight: 500; font-style: italic; } @media (min-width: 600px) { .highlight-container { gap: 15px; } }
 
 You promise not to sell, rent, or transfer your account to anyone else.
 
@@ -82,23 +60,17 @@ Unless expressly permitted in writing by Twitch, you may not sell, rent, lease, 
 
 #### **b. Third-Party Accounts**
 
-.highlight-container { display: grid; grid-template-columns: auto 1fr; align-items: center; width: 100%; padding: 10px; background-color: #BFABFF; border-radius: .5rem; margin-top: .5rem; gap: 10px; } .highlight-icon-container { display: flex; justify-content: flex-start; align-items: center; padding-left: 5px; } .highlight-icon-container svg { height: 30px; width: auto; } .highlight-text-container { padding: 5px 10px 5px 0; text-align: left; } .highlight-text-container.important { font-weight: 500; font-style: italic; } @media (min-width: 600px) { .highlight-container { gap: 15px; } }
-
 If you access Twitch through another service or link your Twitch account to your account on another service, the privacy notices of both Twitch and the other service will apply.
 
 Twitch may permit you to register for and log on to the Twitch Services via certain third-party services. The third party’s collection, use, and disclosure of your information will be subject to that third-party service’s privacy notice. Further information about how Twitch collects, uses, and discloses your personal information when you link your Twitch account with your account on any third-party service can be found in our Privacy Notice.
 
 ## 5\. Use of Devices and Services
 
-.highlight-container { display: grid; grid-template-columns: auto 1fr; align-items: center; width: 100%; padding: 10px; background-color: #BFABFF; border-radius: .5rem; margin-top: .5rem; gap: 10px; } .highlight-icon-container { display: flex; justify-content: flex-start; align-items: center; padding-left: 5px; } .highlight-icon-container svg { height: 30px; width: auto; } .highlight-text-container { padding: 5px 10px 5px 0; text-align: left; } .highlight-text-container.important { font-weight: 500; font-style: italic; } @media (min-width: 600px) { .highlight-container { gap: 15px; } }
-
 You are responsible for paying any fees or charges from other companies that you incur for accessing Twitch.
 
 Access to the Twitch Services may require the use of your personal computer or mobile device, as well as communications with or use of space on such devices. You are responsible for any Internet connection or mobile fees and charges from third parties that you incur when accessing the Twitch Services.
 
 ## 6\. Modification of these Terms of Service
-
-.highlight-container { display: grid; grid-template-columns: auto 1fr; align-items: center; width: 100%; padding: 10px; background-color: #BFABFF; border-radius: .5rem; margin-top: .5rem; gap: 10px; } .highlight-icon-container { display: flex; justify-content: flex-start; align-items: center; padding-left: 5px; } .highlight-icon-container svg { height: 30px; width: auto; } .highlight-text-container { padding: 5px 10px 5px 0; text-align: left; } .highlight-text-container.important { font-weight: 500; font-style: italic; } @media (min-width: 600px) { .highlight-container { gap: 15px; } }
 
 This section explains how we may make changes to this contract and how you agree to those changes.
 
@@ -108,15 +80,9 @@ For residents of the European Union or the European Economic Area, the United Ki
 
 ## 7\. License
 
-.highlight-container { display: grid; grid-template-columns: auto 1fr; align-items: center; width: 100%; padding: 10px; background-color: #BFABFF; border-radius: .5rem; margin-top: .5rem; gap: 10px; } .highlight-icon-container { display: flex; justify-content: flex-start; align-items: center; padding-left: 5px; } .highlight-icon-container svg { height: 30px; width: auto; } .highlight-text-container { padding: 5px 10px 5px 0; text-align: left; } .highlight-text-container.important { font-weight: 500; font-style: italic; } @media (min-width: 600px) { .highlight-container { gap: 15px; } }
-
 Here we provide you with notice of our intellectual property rights.
 
-.highlight-container { display: grid; grid-template-columns: auto 1fr; align-items: center; width: 100%; padding: 10px; background-color: #BFABFF; border-radius: .5rem; margin-top: .5rem; gap: 10px; } .highlight-icon-container { display: flex; justify-content: flex-start; align-items: center; padding-left: 5px; } .highlight-icon-container svg { height: 30px; width: auto; } .highlight-text-container { padding: 5px 10px 5px 0; text-align: left; } .highlight-text-container.important { font-weight: 500; font-style: italic; } @media (min-width: 600px) { .highlight-container { gap: 15px; } }
-
 We own and operate the Twitch Services.
-
-.highlight-container { display: grid; grid-template-columns: auto 1fr; align-items: center; width: 100%; padding: 10px; background-color: #BFABFF; border-radius: .5rem; margin-top: .5rem; gap: 10px; } .highlight-icon-container { display: flex; justify-content: flex-start; align-items: center; padding-left: 5px; } .highlight-icon-container svg { height: 30px; width: auto; } .highlight-text-container { padding: 5px 10px 5px 0; text-align: left; } .highlight-text-container.important { font-weight: 500; font-style: italic; } @media (min-width: 600px) { .highlight-container { gap: 15px; } }
 
 We are giving you limited permission to access and use Twitch for either personal reasons or internal business reasons. This permission is called a “license”, and we explain the limitations on your license and the ways you may not use Twitch below.
 
@@ -126,23 +92,15 @@ Twitch reserves all rights not expressly granted in these Terms of Service. This
 
 ## 8\. User Content
 
-.highlight-container { display: grid; grid-template-columns: auto 1fr; align-items: center; width: 100%; padding: 10px; background-color: #BFABFF; border-radius: .5rem; margin-top: .5rem; gap: 10px; } .highlight-icon-container { display: flex; justify-content: flex-start; align-items: center; padding-left: 5px; } .highlight-icon-container svg { height: 30px; width: auto; } .highlight-text-container { padding: 5px 10px 5px 0; text-align: left; } .highlight-text-container.important { font-weight: 500; font-style: italic; } @media (min-width: 600px) { .highlight-container { gap: 15px; } }
-
 We refer to everything you create on Twitch or provide to us as “User Content”.
 
 Twitch allows you to distribute streaming live and pre-recorded audio-visual works; to use services, such as chat, bulletin boards, forum postings, wiki contributions, and voice interactive services; and to participate in other activities in which you may create, post, transmit, perform, or store content, messages, text, sound, images, applications, code, or other data or materials on the Twitch Services (“User Content”).
 
 #### **a. License to Twitch & Other Twitch Users**
 
-.highlight-container { display: grid; grid-template-columns: auto 1fr; align-items: center; width: 100%; padding: 10px; background-color: #BFABFF; border-radius: .5rem; margin-top: .5rem; gap: 10px; } .highlight-icon-container { display: flex; justify-content: flex-start; align-items: center; padding-left: 5px; } .highlight-icon-container svg { height: 30px; width: auto; } .highlight-text-container { padding: 5px 10px 5px 0; text-align: left; } .highlight-text-container.important { font-weight: 500; font-style: italic; } @media (min-width: 600px) { .highlight-container { gap: 15px; } }
-
 When you provide User Content on Twitch, you grant us the rights and permissions described in this section to make your User Content available to the world and let others do the same.
 
-.highlight-container { display: grid; grid-template-columns: auto 1fr; align-items: center; width: 100%; padding: 10px; background-color: #BFABFF; border-radius: .5rem; margin-top: .5rem; gap: 10px; } .highlight-icon-container { display: flex; justify-content: flex-start; align-items: center; padding-left: 5px; } .highlight-icon-container svg { height: 30px; width: auto; } .highlight-text-container { padding: 5px 10px 5px 0; text-align: left; } .highlight-text-container.important { font-weight: 500; font-style: italic; } @media (min-width: 600px) { .highlight-container { gap: 15px; } }
-
 If features that give other Twitch users the ability to use or share your User Content off of Twitch are turned on for your account, then you also grant other Twitch users the rights and permissions described in this section to enable them to share your User Content.
-
-.highlight-container { display: grid; grid-template-columns: auto 1fr; align-items: center; width: 100%; padding: 10px; background-color: #BFABFF; border-radius: .5rem; margin-top: .5rem; gap: 10px; } .highlight-icon-container { display: flex; justify-content: flex-start; align-items: center; padding-left: 5px; } .highlight-icon-container svg { height: 30px; width: auto; } .highlight-text-container { padding: 5px 10px 5px 0; text-align: left; } .highlight-text-container.important { font-weight: 500; font-style: italic; } @media (min-width: 600px) { .highlight-container { gap: 15px; } }
 
 If your User Content contains anyone else’s biographical information, then you promise us that you have the right or permission to use it, and that Twitch and other users are also allowed to use it as described in these terms.
 
@@ -158,15 +116,11 @@ If your User Content contains anyone else’s biographical information, then you
 
 #### **b. User Content Representations and Warranties**
 
-.highlight-container { display: grid; grid-template-columns: auto 1fr; align-items: center; width: 100%; padding: 10px; background-color: #BFABFF; border-radius: .5rem; margin-top: .5rem; gap: 10px; } .highlight-icon-container { display: flex; justify-content: flex-start; align-items: center; padding-left: 5px; } .highlight-icon-container svg { height: 30px; width: auto; } .highlight-text-container { padding: 5px 10px 5px 0; text-align: left; } .highlight-text-container.important { font-weight: 500; font-style: italic; } @media (min-width: 600px) { .highlight-container { gap: 15px; } }
-
 You are responsible for your User Content and the consequences of publishing it. You promise to only submit User Content that you have the right or authority to share and not to submit User Content that infringes on anyone else’s rights.
 
 You are solely responsible for your User Content and the consequences of posting or publishing it. You represent and warrant that: (1) you are the creator or own or control all rights in and to the User Content or otherwise have sufficient rights and authority to grant the rights granted herein; (2) your User Content does not and will not: (a) infringe, violate, or misappropriate any third-party right, including any copyright, trademark, patent, trade secret, moral right, privacy right, right of publicity, or any other intellectual property or proprietary right, or (b) defame any other person; (3) your User Content does not contain any viruses, adware, spyware, worms, or other harmful or malicious code; and (4) unless you have received prior written authorization, your User Content specifically does not contain any pre-release or non-public beta software or game content or any confidential information of Twitch or third parties. Twitch reserves all rights and remedies against any users who breach these representations and warranties.
 
 #### **c. Content is Uploaded at Your Own Risk**
-
-.highlight-container { display: grid; grid-template-columns: auto 1fr; align-items: center; width: 100%; padding: 10px; background-color: #BFABFF; border-radius: .5rem; margin-top: .5rem; gap: 10px; } .highlight-icon-container { display: flex; justify-content: flex-start; align-items: center; padding-left: 5px; } .highlight-icon-container svg { height: 30px; width: auto; } .highlight-text-container { padding: 5px 10px 5px 0; text-align: left; } .highlight-text-container.important { font-weight: 500; font-style: italic; } @media (min-width: 600px) { .highlight-container { gap: 15px; } }
 
 This is our disclaimer of legal liability for the security measures of our Services.
 
@@ -174,15 +128,11 @@ Twitch uses reasonable security measures in order to attempt to protect User Con
 
 #### **d. Promotions**
 
-.highlight-container { display: grid; grid-template-columns: auto 1fr; align-items: center; width: 100%; padding: 10px; background-color: #BFABFF; border-radius: .5rem; margin-top: .5rem; gap: 10px; } .highlight-icon-container { display: flex; justify-content: flex-start; align-items: center; padding-left: 5px; } .highlight-icon-container svg { height: 30px; width: auto; } .highlight-text-container { padding: 5px 10px 5px 0; text-align: left; } .highlight-text-container.important { font-weight: 500; font-style: italic; } @media (min-width: 600px) { .highlight-container { gap: 15px; } }
-
 You may run promotions on Twitch, so long as the promotions comply with applicable laws and you follow the other rules listed below.
 
 Users may promote, administer, or conduct a promotion (e.g., a contest or sweepstakes) on, through, or utilizing the Twitch Services (a “Promotion”), provided that if you choose to do so, you must adhere to the following rules: (1) You may carry out Promotions to the extent permitted by applicable law and you are solely responsible for ensuring that any Promotions comply with any and all applicable laws, obligations, and restrictions; (2) You will be classified as the promoter of your Promotion in the applicable jurisdiction(s) and you will be solely responsible for all aspects of and expenses related to your Promotion, including without limitation the execution, administration, and operation of the Promotion; drafting and posting any official rules; selecting winners; issuing prizes; and obtaining all necessary third-party permissions and approvals, including without limitation filing any and all necessary registrations and bonds. Twitch has the right to remove your Promotion from the Twitch Services if Twitch reasonably believes that your Promotion does not comply with the Terms of Service or applicable law; (3) Twitch is not responsible for and does not endorse or support any such Promotions. You may not indicate that Twitch is a sponsor or co-sponsor of the Promotion; and (4) You will display or read out the following disclaimer when promoting, administering, or conducting a Promotion: “This is a promotion by \[Your Name\]. Twitch does not sponsor or endorse this promotion and is not responsible for it.”.
 
 #### **e. Political Activity**
-
-.highlight-container { display: grid; grid-template-columns: auto 1fr; align-items: center; width: 100%; padding: 10px; background-color: #BFABFF; border-radius: .5rem; margin-top: .5rem; gap: 10px; } .highlight-icon-container { display: flex; justify-content: flex-start; align-items: center; padding-left: 5px; } .highlight-icon-container svg { height: 30px; width: auto; } .highlight-text-container { padding: 5px 10px 5px 0; text-align: left; } .highlight-text-container.important { font-weight: 500; font-style: italic; } @media (min-width: 600px) { .highlight-container { gap: 15px; } }
 
 If you engage in political activity on Twitch, you agree that activity is your own, that you are legally eligible to engage in it, that you will abide by applicable law while engaging in it, and that you will not use any Twitch monetization tool to make, deliver, or receive a political contribution. Candidates for political office may not use any Twitch monetization tools on their channels.
 
@@ -192,8 +142,6 @@ You agree not to solicit the use of or use any Twitch monetization tool (e.g., B
 
 ## 9\. Branded Content
 
-.highlight-container { display: grid; grid-template-columns: auto 1fr; align-items: center; width: 100%; padding: 10px; background-color: #BFABFF; border-radius: .5rem; margin-top: .5rem; gap: 10px; } .highlight-icon-container { display: flex; justify-content: flex-start; align-items: center; padding-left: 5px; } .highlight-icon-container svg { height: 30px; width: auto; } .highlight-text-container { padding: 5px 10px 5px 0; text-align: left; } .highlight-text-container.important { font-weight: 500; font-style: italic; } @media (min-width: 600px) { .highlight-container { gap: 15px; } }
-
 If you publish sponsored or promoted content, which is further described and defined below as “Branded Content”, you promise to use Twitch’s Branded Content tool to disclose the content to viewers, and you promise to ensure the content complies with all applicable laws, regulations, and guidelines.
 
 Twitch recognizes that some users collaborate with brands and may publish “Branded Content,” which is any User Content featuring, using, discussing, or promoting products, services, or specific content in exchange for something of value, such as being paid or provided with goods or services. Branded Content includes without limitation paid product placements, endorsements, and sponsorships. Twitch allows you to publish Branded Content using the Twitch Services provided that your Branded Content complies with these Terms of Service and applicable law.
@@ -202,23 +150,13 @@ If you choose to publish Branded Content on the Twitch Services you agree to use
 
 ## 10\. Prohibited Conduct
 
-.highlight-container { display: grid; grid-template-columns: auto 1fr; align-items: center; width: 100%; padding: 10px; background-color: #BFABFF; border-radius: .5rem; margin-top: .5rem; gap: 10px; } .highlight-icon-container { display: flex; justify-content: flex-start; align-items: center; padding-left: 5px; } .highlight-icon-container svg { height: 30px; width: auto; } .highlight-text-container { padding: 5px 10px 5px 0; text-align: left; } .highlight-text-container.important { font-weight: 500; font-style: italic; } @media (min-width: 600px) { .highlight-container { gap: 15px; } }
-
 You promise not to violate any laws or anyone else’s rights.
-
-.highlight-container { display: grid; grid-template-columns: auto 1fr; align-items: center; width: 100%; padding: 10px; background-color: #BFABFF; border-radius: .5rem; margin-top: .5rem; gap: 10px; } .highlight-icon-container { display: flex; justify-content: flex-start; align-items: center; padding-left: 5px; } .highlight-icon-container svg { height: 30px; width: auto; } .highlight-text-container { padding: 5px 10px 5px 0; text-align: left; } .highlight-text-container.important { font-weight: 500; font-style: italic; } @media (min-width: 600px) { .highlight-container { gap: 15px; } }
 
 You promise to comply with this Contract and our Community Guidelines and promise not to engage in any of the prohibited conduct listed below.
 
-.highlight-container { display: grid; grid-template-columns: auto 1fr; align-items: center; width: 100%; padding: 10px; background-color: #BFABFF; border-radius: .5rem; margin-top: .5rem; gap: 10px; } .highlight-icon-container { display: flex; justify-content: flex-start; align-items: center; padding-left: 5px; } .highlight-icon-container svg { height: 30px; width: auto; } .highlight-text-container { padding: 5px 10px 5px 0; text-align: left; } .highlight-text-container.important { font-weight: 500; font-style: italic; } @media (min-width: 600px) { .highlight-container { gap: 15px; } }
-
 You agree that your use of others’ content and information on our Services is at your own risk.
 
-.highlight-container { display: grid; grid-template-columns: auto 1fr; align-items: center; width: 100%; padding: 10px; background-color: #BFABFF; border-radius: .5rem; margin-top: .5rem; gap: 10px; } .highlight-icon-container { display: flex; justify-content: flex-start; align-items: center; padding-left: 5px; } .highlight-icon-container svg { height: 30px; width: auto; } .highlight-text-container { padding: 5px 10px 5px 0; text-align: left; } .highlight-text-container.important { font-weight: 500; font-style: italic; } @media (min-width: 600px) { .highlight-container { gap: 15px; } }
-
 We disclaim legal liability for all User Content on our Services.
-
-.highlight-container { display: grid; grid-template-columns: auto 1fr; align-items: center; width: 100%; padding: 10px; background-color: #BFABFF; border-radius: .5rem; margin-top: .5rem; gap: 10px; } .highlight-icon-container { display: flex; justify-content: flex-start; align-items: center; padding-left: 5px; } .highlight-icon-container svg { height: 30px; width: auto; } .highlight-text-container { padding: 5px 10px 5px 0; text-align: left; } .highlight-text-container.important { font-weight: 500; font-style: italic; } @media (min-width: 600px) { .highlight-container { gap: 15px; } }
 
 We have the right to remove, hide, or moderate any User Content on our Services.
 
@@ -268,8 +206,6 @@ For residents of the European Union or the European Economic Area, the United Ki
 
 ## 11\. Simulcasting
 
-.highlight-container { display: grid; grid-template-columns: auto 1fr; align-items: center; width: 100%; padding: 10px; background-color: #BFABFF; border-radius: .5rem; margin-top: .5rem; gap: 10px; } .highlight-icon-container { display: flex; justify-content: flex-start; align-items: center; padding-left: 5px; } .highlight-icon-container svg { height: 30px; width: auto; } .highlight-text-container { padding: 5px 10px 5px 0; text-align: left; } .highlight-text-container.important { font-weight: 500; font-style: italic; } @media (min-width: 600px) { .highlight-container { gap: 15px; } }
-
 This section sets out the guidelines you must follow if you simultaneously live stream on Twitch and another service that supports live streaming of user generated content.
 
 When you are streaming live on the Twitch Services you may simultaneously live stream or broadcast (“Simulcast”) on any other network, platform, or service that supports live streaming of user generated content, only if:
@@ -282,15 +218,11 @@ Collectively, these are referred to as the “Simulcast Guidelines.”
 
 ## 12\. Advertisements
 
-.highlight-container { display: grid; grid-template-columns: auto 1fr; align-items: center; width: 100%; padding: 10px; background-color: #BFABFF; border-radius: .5rem; margin-top: .5rem; gap: 10px; } .highlight-icon-container { display: flex; justify-content: flex-start; align-items: center; padding-left: 5px; } .highlight-icon-container svg { height: 30px; width: auto; } .highlight-text-container { padding: 5px 10px 5px 0; text-align: left; } .highlight-text-container.important { font-weight: 500; font-style: italic; } @media (min-width: 600px) { .highlight-container { gap: 15px; } }
-
 Here we delineate who may sell and serve advertisements on Twitch.
 
 Twitch has the exclusive right to monetize the Twitch Services, including without limitation, the exclusive right to sell, serve, and display advertisements on the Twitch Services. Third-party advertising networks are not allowed to serve advertising through the Twitch Services. However, you can publish Branded Content using the Twitch Services as set forth in Section 9 above.
 
 ## 13\. Recommendations
-
-.highlight-container { display: grid; grid-template-columns: auto 1fr; align-items: center; width: 100%; padding: 10px; background-color: #BFABFF; border-radius: .5rem; margin-top: .5rem; gap: 10px; } .highlight-icon-container { display: flex; justify-content: flex-start; align-items: center; padding-left: 5px; } .highlight-icon-container svg { height: 30px; width: auto; } .highlight-text-container { padding: 5px 10px 5px 0; text-align: left; } .highlight-text-container.important { font-weight: 500; font-style: italic; } @media (min-width: 600px) { .highlight-container { gap: 15px; } }
 
 We will recommend content to you. We are providing notice of where you can find out more about our recommendations.
 
@@ -298,15 +230,11 @@ As part of the Twitch Services, we will recommend content that might be of inter
 
 ## 14\. Respecting Copyright
 
-.highlight-container { display: grid; grid-template-columns: auto 1fr; align-items: center; width: 100%; padding: 10px; background-color: #BFABFF; border-radius: .5rem; margin-top: .5rem; gap: 10px; } .highlight-icon-container { display: flex; justify-content: flex-start; align-items: center; padding-left: 5px; } .highlight-icon-container svg { height: 30px; width: auto; } .highlight-text-container { padding: 5px 10px 5px 0; text-align: left; } .highlight-text-container.important { font-weight: 500; font-style: italic; } @media (min-width: 600px) { .highlight-container { gap: 15px; } }
-
 This section explains the reporting process for copyright owners who believe content posted on Twitch infringes their copyrights.
 
 Twitch respects the intellectual property of others and follows the requirements set forth in the Digital Millennium Copyright Act (“DMCA”) and other applicable laws. If you are the copyright owner or agent thereof and believe that content posted on the Twitch Services infringes upon your copyright, please submit a notice following our [DMCA Guidelines](https://legal.twitch.com/legal/dmca-guidelines), which include further information about our policies, what to include in your notice, and where to submit your notice.
 
 ## 15\. Trademarks
-
-.highlight-container { display: grid; grid-template-columns: auto 1fr; align-items: center; width: 100%; padding: 10px; background-color: #BFABFF; border-radius: .5rem; margin-top: .5rem; gap: 10px; } .highlight-icon-container { display: flex; justify-content: flex-start; align-items: center; padding-left: 5px; } .highlight-icon-container svg { height: 30px; width: auto; } .highlight-text-container { padding: 5px 10px 5px 0; text-align: left; } .highlight-text-container.important { font-weight: 500; font-style: italic; } @media (min-width: 600px) { .highlight-container { gap: 15px; } }
 
 Here we provide you with notice of our trademark rights and how you may and may not use our trademarks.
 
@@ -316,8 +244,6 @@ All other trademarks referenced in the Twitch Services are the property of their
 
 ## 16\. Third-Party Content
 
-.highlight-container { display: grid; grid-template-columns: auto 1fr; align-items: center; width: 100%; padding: 10px; background-color: #BFABFF; border-radius: .5rem; margin-top: .5rem; gap: 10px; } .highlight-icon-container { display: flex; justify-content: flex-start; align-items: center; padding-left: 5px; } .highlight-icon-container svg { height: 30px; width: auto; } .highlight-text-container { padding: 5px 10px 5px 0; text-align: left; } .highlight-text-container.important { font-weight: 500; font-style: italic; } @media (min-width: 600px) { .highlight-container { gap: 15px; } }
-
 Others may offer their own content on Twitch, including products and services, and we are not responsible for that third-party content.
 
 In addition to the User Content, Twitch may provide other third-party content on the Twitch Services (collectively, the “Third-Party Content”). Twitch does not control or endorse any Third-Party Content and makes no representation or warranties of any kind regarding the Third-Party Content, including without limitation regarding its accuracy or completeness. Please be aware that we do not create Third-Party Content, update, or monitor it. Therefore, to the extent permitted by applicable law, we are not responsible for any Third-Party Content on the Twitch Services.
@@ -326,23 +252,15 @@ You are responsible for deciding if you want to access or use third-party websit
 
 ## 17\. Idea Submission
 
-.highlight-container { display: grid; grid-template-columns: auto 1fr; align-items: center; width: 100%; padding: 10px; background-color: #BFABFF; border-radius: .5rem; margin-top: .5rem; gap: 10px; } .highlight-icon-container { display: flex; justify-content: flex-start; align-items: center; padding-left: 5px; } .highlight-icon-container svg { height: 30px; width: auto; } .highlight-text-container { padding: 5px 10px 5px 0; text-align: left; } .highlight-text-container.important { font-weight: 500; font-style: italic; } @media (min-width: 600px) { .highlight-container { gap: 15px; } }
-
 If you choose to send us your ideas or suggestions, then you agree that we can use them without giving you compensation or credit.
 
 By submitting ideas, suggestions, documents, and/or proposals (the “Submissions”) to Twitch or its employees, you acknowledge and agree that Twitch shall be entitled to use or disclose such Submissions for any purpose in any way without providing compensation or credit to you.
 
 ## 18\. Termination
 
-.highlight-container { display: grid; grid-template-columns: auto 1fr; align-items: center; width: 100%; padding: 10px; background-color: #BFABFF; border-radius: .5rem; margin-top: .5rem; gap: 10px; } .highlight-icon-container { display: flex; justify-content: flex-start; align-items: center; padding-left: 5px; } .highlight-icon-container svg { height: 30px; width: auto; } .highlight-text-container { padding: 5px 10px 5px 0; text-align: left; } .highlight-text-container.important { font-weight: 500; font-style: italic; } @media (min-width: 600px) { .highlight-container { gap: 15px; } }
-
 You and Twitch can each end this contract.
 
-.highlight-container { display: grid; grid-template-columns: auto 1fr; align-items: center; width: 100%; padding: 10px; background-color: #BFABFF; border-radius: .5rem; margin-top: .5rem; gap: 10px; } .highlight-icon-container { display: flex; justify-content: flex-start; align-items: center; padding-left: 5px; } .highlight-icon-container svg { height: 30px; width: auto; } .highlight-text-container { padding: 5px 10px 5px 0; text-align: left; } .highlight-text-container.important { font-weight: 500; font-style: italic; } @media (min-width: 600px) { .highlight-container { gap: 15px; } }
-
 Twitch has the right to stop providing the Twitch Services or any features to you or to all users.
-
-.highlight-container { display: grid; grid-template-columns: auto 1fr; align-items: center; width: 100%; padding: 10px; background-color: #BFABFF; border-radius: .5rem; margin-top: .5rem; gap: 10px; } .highlight-icon-container { display: flex; justify-content: flex-start; align-items: center; padding-left: 5px; } .highlight-icon-container svg { height: 30px; width: auto; } .highlight-text-container { padding: 5px 10px 5px 0; text-align: left; } .highlight-text-container.important { font-weight: 500; font-style: italic; } @media (min-width: 600px) { .highlight-container { gap: 15px; } }
 
 Twitch has the right to end or suspend your ability to use the Services, including your access to any purchased products or services.
 
@@ -356,15 +274,11 @@ For residents of the European Union or the European Economic Area, the United Ki
 
 #### a. Indemnification
 
-.highlight-container { display: grid; grid-template-columns: auto 1fr; align-items: center; width: 100%; padding: 10px; background-color: #BFABFF; border-radius: .5rem; margin-top: .5rem; gap: 10px; } .highlight-icon-container { display: flex; justify-content: flex-start; align-items: center; padding-left: 5px; } .highlight-icon-container svg { height: 30px; width: auto; } .highlight-text-container { padding: 5px 10px 5px 0; text-align: left; } .highlight-text-container.important { font-weight: 500; font-style: italic; } @media (min-width: 600px) { .highlight-container { gap: 15px; } }
-
 You agree to compensate Twitch (and other named parties) and defend us against all claims, losses, and damages related to your use of Twitch, your User Content, and any contractual promises that you break.
 
 To the fullest extent permitted by applicable law, you agree to indemnify, defend, and hold harmless Twitch, its affiliated companies, and each of our respective contractors, employees, officers, directors, agents, third-party suppliers, licensors, and partners (individually and collectively, the “Twitch Parties”) from any claims, losses, damages, demands, expenses, costs, and liabilities, including legal fees and expenses, arising out of or related to your access, use, or misuse of the Twitch Services, any User Content you post, store, or otherwise transmit in or through the Twitch Services, your violation of the rights of any third party, any violation by you of these Terms of Service, or any breach of the representations, warranties, and covenants made by you herein. You agree to promptly notify the Twitch Parties of any third-party claim, and Twitch reserves the right, at your expense, to assume the exclusive defense and control of any matter for which you are required to indemnify Twitch, and you agree to cooperate with Twitch’s defense of these claims. Twitch will use reasonable efforts to notify you of any such claim, action, or proceeding upon becoming aware of it.
 
 #### b. Disclaimers; No Warranties
-
-.highlight-container { display: grid; grid-template-columns: auto 1fr; align-items: center; width: 100%; padding: 10px; background-color: #BFABFF; border-radius: .5rem; margin-top: .5rem; gap: 10px; } .highlight-icon-container { display: flex; justify-content: flex-start; align-items: center; padding-left: 5px; } .highlight-icon-container svg { height: 30px; width: auto; } .highlight-text-container { padding: 5px 10px 5px 0; text-align: left; } .highlight-text-container.important { font-weight: 500; font-style: italic; } @media (min-width: 600px) { .highlight-container { gap: 15px; } }
 
 This is our disclaimer of legal liability for the quality, safety, or reliability of our Services. We also provide notice that users who meet the definition of a Consumer in the European Union or the European Economic Area, the United Kingdom, and Switzerland have some warranty rights.
 
@@ -379,8 +293,6 @@ For residents of the European Union or the European Economic Area, the United Ki
 You acknowledge that we may change the Twitch Services from time to time without causing its non-conformity, including when needed to comply with applicable law or regulation, or for justified commercial, security, or operational reasons, and including to make any improvements to your access to the Twitch Services.
 
 #### c. Limitation of Liability and Damages
-
-.highlight-container { display: grid; grid-template-columns: auto 1fr; align-items: center; width: 100%; padding: 10px; background-color: #BFABFF; border-radius: .5rem; margin-top: .5rem; gap: 10px; } .highlight-icon-container { display: flex; justify-content: flex-start; align-items: center; padding-left: 5px; } .highlight-icon-container svg { height: 30px; width: auto; } .highlight-text-container { padding: 5px 10px 5px 0; text-align: left; } .highlight-text-container.important { font-weight: 500; font-style: italic; } @media (min-width: 600px) { .highlight-container { gap: 15px; } }
 
 This section details the limits of legal liability we may have to you.
 
@@ -400,15 +312,11 @@ YOU ACKNOWLEDGE AND AGREE THAT TWITCH HAS OFFERED THE TWITCH SERVICES, USER CONT
 
 #### d. Informal Resolution
 
-.highlight-container { display: grid; grid-template-columns: auto 1fr; align-items: center; width: 100%; padding: 10px; background-color: #BFABFF; border-radius: .5rem; margin-top: .5rem; gap: 10px; } .highlight-icon-container { display: flex; justify-content: flex-start; align-items: center; padding-left: 5px; } .highlight-icon-container svg { height: 30px; width: auto; } .highlight-text-container { padding: 5px 10px 5px 0; text-align: left; } .highlight-text-container.important { font-weight: 500; font-style: italic; } @media (min-width: 600px) { .highlight-container { gap: 15px; } }
-
 You promise to notify us 60 days before filing a lawsuit against us so that we will have 60 days to try to informally resolve the dispute.
 
 Most disputes can be resolved informally, so you agree to contact us before initiating a lawsuit related to these Terms of Service or your use of the Twitch Services. Email your informal dispute resolution notice to [legal@twitch.tv](mailto:legal@twitch.tv) and include the information necessary for Twitch to investigate and respond, including your name, your Twitch username (if you have a registered Twitch account), a description of the dispute and alleged harm, your contact email address, and the name and contact information for your attorney, if you are represented by one (“Notice of Dispute”). After you send us the required Notice of Dispute, you and Twitch will have 60 days from Twitch’s receipt to engage in informal discussions to attempt to resolve the dispute amicably. To the extent permitted by applicable law, you must engage in this informal resolution process before starting any formal dispute process. Any applicable statutes of limitations will be tolled for the 60-day period following Twitch’s receipt of your Notice of Dispute, to allow the parties to attempt informal resolution.
 
 #### e. **Applicable Law and Jurisdiction**
-
-.highlight-container { display: grid; grid-template-columns: auto 1fr; align-items: center; width: 100%; padding: 10px; background-color: #BFABFF; border-radius: .5rem; margin-top: .5rem; gap: 10px; } .highlight-icon-container { display: flex; justify-content: flex-start; align-items: center; padding-left: 5px; } .highlight-icon-container svg { height: 30px; width: auto; } .highlight-text-container { padding: 5px 10px 5px 0; text-align: left; } .highlight-text-container.important { font-weight: 500; font-style: italic; } @media (min-width: 600px) { .highlight-container { gap: 15px; } }
 
 If we end up in a legal dispute, you and Twitch agree to resolve it in the named California courts using California law and United States law. If you meet the definition of a Consumer in the European Union or the European Economic Area, the United Kingdom, and Switzerland, you will resolve any legal disputes with Twitch in civil courts where you reside and will keep the protection of your local consumer protection laws.
 
@@ -418,15 +326,11 @@ For residents of the European Union or the European Economic Area, the United Ki
 
 #### f. **Claims**
 
-.highlight-container { display: grid; grid-template-columns: auto 1fr; align-items: center; width: 100%; padding: 10px; background-color: #BFABFF; border-radius: .5rem; margin-top: .5rem; gap: 10px; } .highlight-icon-container { display: flex; justify-content: flex-start; align-items: center; padding-left: 5px; } .highlight-icon-container svg { height: 30px; width: auto; } .highlight-text-container { padding: 5px 10px 5px 0; text-align: left; } .highlight-text-container.important { font-weight: 500; font-style: italic; } @media (min-width: 600px) { .highlight-container { gap: 15px; } }
-
 You and Twitch both agree to bring any legal claims against one another within one year.
 
 TO THE EXTENT PERMITTED BY APPLICABLE LAW, YOU AND TWITCH AGREE THAT ANY CAUSE OF ACTION ARISING OUT OF OR RELATED TO THE TWITCH SERVICES MUST COMMENCE WITHIN ONE (1) YEAR AFTER THE CAUSE OF ACTION ACCRUES. OTHERWISE, SUCH CAUSE OF ACTION IS PERMANENTLY BARRED.
 
 ## 20\. Miscellaneous
-
-.highlight-container { display: grid; grid-template-columns: auto 1fr; align-items: center; width: 100%; padding: 10px; background-color: #BFABFF; border-radius: .5rem; margin-top: .5rem; gap: 10px; } .highlight-icon-container { display: flex; justify-content: flex-start; align-items: center; padding-left: 5px; } .highlight-icon-container svg { height: 30px; width: auto; } .highlight-text-container { padding: 5px 10px 5px 0; text-align: left; } .highlight-text-container.important { font-weight: 500; font-style: italic; } @media (min-width: 600px) { .highlight-container { gap: 15px; } }
 
 This section contains some additional important details about our contract with you.
 
@@ -452,8 +356,6 @@ The Terms of Service, which incorporate the Guidelines, is the entire agreement 
 
 ## 21\. Contact Information
 
-.highlight-container { display: grid; grid-template-columns: auto 1fr; align-items: center; width: 100%; padding: 10px; background-color: #BFABFF; border-radius: .5rem; margin-top: .5rem; gap: 10px; } .highlight-icon-container { display: flex; justify-content: flex-start; align-items: center; padding-left: 5px; } .highlight-icon-container svg { height: 30px; width: auto; } .highlight-text-container { padding: 5px 10px 5px 0; text-align: left; } .highlight-text-container.important { font-weight: 500; font-style: italic; } @media (min-width: 600px) { .highlight-container { gap: 15px; } }
-
 Here is our contact information. Our online Help Desk also provides more information about our Services.
 
 The Twitch Services are offered by:
@@ -475,8 +377,6 @@ For questions or more information, please visit our [Help Desk](http://help.twit
 The EU Commission provides a platform for online dispute resolution at [https://ec.europa.eu/consumers/odr](https://ec.europa.eu/consumers/odr). Please note that Twitch is not obliged to participate in such dispute resolution.
 
 ## 22\. Requests for Information and Subpoenas
-
-.highlight-container { display: grid; grid-template-columns: auto 1fr; align-items: center; width: 100%; padding: 10px; background-color: #BFABFF; border-radius: .5rem; margin-top: .5rem; gap: 10px; } .highlight-icon-container { display: flex; justify-content: flex-start; align-items: center; padding-left: 5px; } .highlight-icon-container svg { height: 30px; width: auto; } .highlight-text-container { padding: 5px 10px 5px 0; text-align: left; } .highlight-text-container.important { font-weight: 500; font-style: italic; } @media (min-width: 600px) { .highlight-container { gap: 15px; } }
 
 This section explains the required process for requesting information or documents from us for legal proceedings or investigations.
 
