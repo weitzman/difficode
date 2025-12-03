@@ -1,7 +1,6 @@
-# Content from: https://www.spotify.com/us/legal/end-user-agreement/
-
-Selector used: main
-
+---
+url: "https://www.spotify.com/us/legal/end-user-agreement/"
+selector: "main"
 ---
 
 *   Legal
