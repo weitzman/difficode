@@ -1,7 +1,6 @@
-# Content from: http://www.verizon.com/about/privacy/full-privacy-policy
-
-Selector used: main
-
+---
+url: "http://www.verizon.com/about/privacy/full-privacy-policy"
+selector: "main"
 ---
 
 *   [About](/about)
@@ -696,7 +695,7 @@ Open all
     
     You can limit the sale and sharing of personal information for certain purposes as well as the use of this information for certain types of targeted advertising. Some state laws give consumers who reside in those states the right to make these opt out choices. California law also gives business customers the right to limit the sale and sharing of personal information.
     
-    *   Verizon Wireless or Home services customers can opt out by visiting [Your Privacy Choices](https://www.verizon.com/privacy/your-privacy-choices).
+    *   Verizon Wireless or Home services customers can opt out by visiting [Your Privacy Choices![](/about/privacy/sites/default/files/2022-12/your-privacy-choices-icon.png)](https://www.verizon.com/privacy/your-privacy-choices).
     *   Verizon Value customers can opt out by visiting the [Your Privacy Choices 34](#) page available from the link at the bottom of the website of the Verizon Value brand that you use.
     *   Visible wireless customers can opt out at the Visible [Your Privacy Choices](https://www.visible.com/legal/privacy-choices) page. If you are a Visible Merch or Visible Offers customer, or if you use the Visible Community site, you can [opt out on these sites 35](#).
     *   Verizon Community users can visit the [Verizon Community Your Privacy Choices](https://community.verizon.com/t5/custom/page/page-id/yourprivacychoices) page to opt out.
@@ -1095,7 +1094,7 @@ Open all
     
     In addition, we share information with Nielsen and Comscore for audience measurement and market research purposes, including Fios TV viewership, device identifiers, and information about the site, app or device used to watch Fios TV. This disclosure of information may be a sale under California law.
     
-    Verizon Wireless and Home services customers can opt out of sale and sharing by accessing our [Your Privacy Choices](https://www.verizon.com/privacy/your-privacy-choices) page.
+    Verizon Wireless and Home services customers can opt out of sale and sharing by accessing our [Your Privacy Choices ![](/about/privacy/sites/default/files/2022-12/your-privacy-choices-icon.png)](https://www.verizon.com/privacy/your-privacy-choices) page.
     
     Verizon Value customers can learn more and opt out by visiting the [Your Privacy Choices 54](#) page available from the link at the bottom of the website of the Verizon Value brand that you use.
     
@@ -1113,7 +1112,7 @@ Open all
     *   Go Smart Mobile:  [https://www.gosmartmobile.com/ccpa/home?reqType=dns](https://www.gosmartmobile.com/ccpa/home?reqType=dns)
     *   Page Plus and Clearway Wireless for Business do not engage in this activity
     
-    Visible wireless customers can opt out at the Visible [Your Privacy Choices](https://www.visible.com/legal/privacy-choices) page. If you are a Visible Merch or Visible Offers customer, or if you use the Visible Community site, you can [opt out on these sites 55](#). Our selling and sharing activity for these sites and customers is limited to cookies and other web technologies on the site to better tailor our advertising to you.
+    Visible wireless customers can opt out at the Visible [Your Privacy Choices](https://www.visible.com/legal/privacy-choices) ![](/about/privacy/sites/default/files/2022-12/your-privacy-choices-icon.png) page. If you are a Visible Merch or Visible Offers customer, or if you use the Visible Community site, you can [opt out on these sites 55](#). Our selling and sharing activity for these sites and customers is limited to cookies and other web technologies on the site to better tailor our advertising to you.
     
     Close×
     
@@ -1174,7 +1173,7 @@ Open all
     
     Clearway Wireless for Business customers: call 1-844-638-1028
     
-    Verizon Wireless or Home services customers can exercise your right to opt-out of selling and sharing by visiting [Your Privacy Choices](https://www.verizon.com/privacy/your-privacy-choices) . Verizon Value customers can opt out by visiting the [Your Privacy Choices 60](#) page available from the link at the bottom of the website of the Verizon Value brand that you use.
+    Verizon Wireless or Home services customers can exercise your right to opt-out of selling and sharing by visiting [Your Privacy Choices ![](/about/privacy/sites/default/files/2022-12/your-privacy-choices-icon.png)](https://www.verizon.com/privacy/your-privacy-choices) . Verizon Value customers can opt out by visiting the [Your Privacy Choices 60](#) page available from the link at the bottom of the website of the Verizon Value brand that you use.
     
     Close×
     
@@ -1190,7 +1189,7 @@ Open all
     *   Go Smart Mobile:  [https://www.gosmartmobile.com/ccpa/home?reqType=dns](https://www.gosmartmobile.com/ccpa/home?reqType=dns)
     *   Page Plus and Clearway Wireless for Business do not engage in this activity
     
-    Visible wireless customers can opt out at the Visible [Your Privacy Choices](https://www.visible.com/legal/privacy-choices) page. If you are a Visible Merch or Visible Offers customer, or if you use the Visible Community site, you can [opt out on these sites 61](#). Our selling and sharing activity for these sites and customers is limited to cookies and other web technologies on the site to better tailor our advertising to you.
+    Visible wireless customers can opt out at the Visible [Your Privacy Choices](https://www.visible.com/legal/privacy-choices) ![](/about/privacy/sites/default/files/2022-12/your-privacy-choices-icon.png)page. If you are a Visible Merch or Visible Offers customer, or if you use the Visible Community site, you can [opt out on these sites 61](#). Our selling and sharing activity for these sites and customers is limited to cookies and other web technologies on the site to better tailor our advertising to you.
     
     Close×
     
@@ -1204,7 +1203,7 @@ Open all
     
     Teachers who access Verizon Innovative Learning HQ can visit the Verizon Innovative Learning Your Privacy Choices page to opt out.
     
-    If you are a Verizon Wireless or Home services customer, your authorized agent can exercise your right to opt-out of selling and sharing by following the instructions at [Your Privacy Choices](/privacy/your-privacy-choices) . If you are a Verizon Value customer your authorized agent can exercise your right to opt out of selling and sharing by emailing us at [privacy@tracfone.com](mailto:privacy@tracfone.com). Authorized agents of Visible customers can exercise your right to opt out of selling and sharing by clicking on the link at the bottom of the [Visible Your Privacy Choices](https://www.visible.com/legal/privacy-choices) page. Authorized agents of Visible Community users can exercise your right to opt out of selling and sharing by emailing us at [privacy@visible.com](mailto:privacy@visible.com). Authorized agents of Visible Merch customers can exercise your right to opt out of selling and sharing by emailing us at [VisibleMerch@halo.com](mailto:VisibleMerch@halo.com). If you would like to opt out of the collection and use of information through web-based tools such as cookies, pixels, beacons, tags, scripts and similar technology, please visit the Your Privacy Choices link above for the websites that you use in addition to having your authorized agent contact us. This will associate your opt out with your browser.
+    If you are a Verizon Wireless or Home services customer, your authorized agent can exercise your right to opt-out of selling and sharing by following the instructions at [Your Privacy Choices](/privacy/your-privacy-choices) ![](/about/privacy/sites/default/files/2022-12/your-privacy-choices-icon.png). If you are a Verizon Value customer your authorized agent can exercise your right to opt out of selling and sharing by emailing us at [privacy@tracfone.com](mailto:privacy@tracfone.com). Authorized agents of Visible customers can exercise your right to opt out of selling and sharing by clicking on the link at the bottom of the [Visible Your Privacy Choices](https://www.visible.com/legal/privacy-choices) page. Authorized agents of Visible Community users can exercise your right to opt out of selling and sharing by emailing us at [privacy@visible.com](mailto:privacy@visible.com). Authorized agents of Visible Merch customers can exercise your right to opt out of selling and sharing by emailing us at [VisibleMerch@halo.com](mailto:VisibleMerch@halo.com). If you would like to opt out of the collection and use of information through web-based tools such as cookies, pixels, beacons, tags, scripts and similar technology, please visit the Your Privacy Choices link above for the websites that you use in addition to having your authorized agent contact us. This will associate your opt out with your browser.
     
     When you submit a request to know, access, delete or correct data, we require you to verify your identity using the processes we describe in the dashboard, portal, your online account, or the privacy choices page before we fulfill your request. Depending on the type of request you make, you may be required to log into an existing account and prove access to your mobile phone, to your email address on file with us, or to a government-issued ID.
     
@@ -1348,13 +1347,13 @@ Open all
     *   Go Smart Mobile:  [https://www.gosmartmobile.com/ccpa/home?reqType=dns](https://www.gosmartmobile.com/ccpa/home?reqType=dns)
     *   Page Plus and Clearway Wireless for Business do not engage in this activity
     
-    Visible wireless customers can opt out at the Visible [Your Privacy Choices](https://www.visible.com/legal/privacy-choices) page. If you are a Visible Merch or Visible Offers customer, or if you use the Visible Community site, you can [opt out on these sites 75](#). Our selling and sharing activity for these sites and customers is limited to cookies and other web technologies on the site to better tailor our advertising to you.
+    Visible wireless customers can opt out at the Visible [Your Privacy Choices](https://www.visible.com/legal/privacy-choices)![](/about/privacy/sites/default/files/2022-12/your-privacy-choices-icon.png) page. If you are a Visible Merch or Visible Offers customer, or if you use the Visible Community site, you can [opt out on these sites 75](#). Our selling and sharing activity for these sites and customers is limited to cookies and other web technologies on the site to better tailor our advertising to you.
     
     Close×
     
     75\. opt out on these sites
     
-    *   Visible Merch customers can click the Your Privacy Choices link at the footer of the [Visible Merch](https://www.visiblemerch.com/) websites.
+    *   Visible Merch customers can click the Your Privacy Choices ![](/about/privacy/sites/default/files/2022-12/your-privacy-choices-icon.png) link at the footer of the [Visible Merch](https://www.visiblemerch.com/) websites.
     *   Visible Community users can visit the [Visible Community Your Privacy Choices](http://community.visible.com/t5/custom/page/page-id/yourprivacychoices) page to opt out.
     *   Visible Offers customers can opt out of selling and sharing of your activity by turning off “Functional and Performance” and “Advertising” cookies in the cookie settings that can be accessed from the Your Privacy Choices link in the footer of the Visible Offers site, or by managing your settings through the cookie banner that displays on your first visit to the site. If you opt out of Functional and Performance and Advertising cookies, only web tech that is required for the site to function will operate during your visit.
     
@@ -1420,7 +1419,7 @@ Open all
     
     Clearway Wireless for Business customers may submit a request by calling 1-844-638-1028.
     
-    Verizon Wireless or Home services customers can exercise your right to opt-out of selling and sharing by visiting; [Your Privacy Choices](https://www.verizon.com/privacy/your-privacy-choices) . Value customers can opt out by visiting the [Your Privacy Choices 80](#) page available from the link at the bottom of the website of the Verizon Value brand that you use.
+    Verizon Wireless or Home services customers can exercise your right to opt-out of selling and sharing by visiting; [Your Privacy Choices ![](/about/privacy/sites/default/files/2022-12/your-privacy-choices-icon.png)](https://www.verizon.com/privacy/your-privacy-choices) . Value customers can opt out by visiting the [Your Privacy Choices 80](#) page available from the link at the bottom of the website of the Verizon Value brand that you use.
     
     Close×
     
@@ -1436,7 +1435,7 @@ Open all
     *   Go Smart Mobile:  [https://www.gosmartmobile.com/ccpa/home?reqType=dns](https://www.gosmartmobile.com/ccpa/home?reqType=dns)
     *   Page Plus and Clearway Wireless for Business do not engage in this activity
     
-    Visible wireless customers can opt out at the Visible [Your Privacy Choices](https://www.visible.com/legal/privacy-choices) page. If you are a Visible Merch or Visible Offers customer, or if you use the Visible Community site, you can [opt out on these sites 81](#). Our selling and sharing activity for these sites and customers is limited to cookies and other web technologies on the site to better tailor our advertising to you.
+    Visible wireless customers can opt out at the Visible [Your Privacy Choices](https://www.visible.com/legal/privacy-choices) ![](/about/privacy/sites/default/files/2022-12/your-privacy-choices-icon.png) page. If you are a Visible Merch or Visible Offers customer, or if you use the Visible Community site, you can [opt out on these sites 81](#). Our selling and sharing activity for these sites and customers is limited to cookies and other web technologies on the site to better tailor our advertising to you.
     
     Close×
     
@@ -1452,7 +1451,7 @@ Open all
     
     If you are an Android user you can use the “Your Privacy Choices” link at the bottom of notifications pushed to your device to opt out of personalized app recommendations.
     
-    If you are a Verizon Wireless or Home services customer, your authorized agent can exercise your right to opt-out to limit the sale of personal information or the use of personal information for targeted advertising by following the instructions at [Your Privacy Choices](/privacy/your-privacy-choices) submitting a privacy inquiry form. If you are a Verizon Value customer your authorized agent can exercise this opt out right by emailing us at [privacy@tracfone.com](mailto:privacy@tracfone.com). Authorized agents of Visible customers can exercise your right to opt-out by clicking on the link at the bottom of the [Visible Your Privacy Choices](https://www.visible.com/legal/privacy-choices) page. Authorized agents of Visible Community users can email us at [privacy@visible.com](mailto:privacy@visible.com) with your name and your Visible Community username to opt you out. Authorized agents of Visible Merch customers can email us at [VisibleMerch@halo.com](mailto:VisibleMerch@halo.com) with your name, address, and email address. If you would like to opt out of the collection and use of information through web-based tools such as cookies, pixels, beacons, tags, scripts and similar technology, please visit the Your Privacy Choices link above for the websites that you use in addition to having your authorized agent contact us. This will associate your opt out with your browser.
+    If you are a Verizon Wireless or Home services customer, your authorized agent can exercise your right to opt-out to limit the sale of personal information or the use of personal information for targeted advertising by following the instructions at [Your Privacy Choices](/privacy/your-privacy-choices)![](/about/privacy/sites/default/files/2022-12/your-privacy-choices-icon.png) submitting a privacy inquiry form. If you are a Verizon Value customer your authorized agent can exercise this opt out right by emailing us at [privacy@tracfone.com](mailto:privacy@tracfone.com). Authorized agents of Visible customers can exercise your right to opt-out by clicking on the link at the bottom of the [Visible Your Privacy Choices](https://www.visible.com/legal/privacy-choices) page. Authorized agents of Visible Community users can email us at [privacy@visible.com](mailto:privacy@visible.com) with your name and your Visible Community username to opt you out. Authorized agents of Visible Merch customers can email us at [VisibleMerch@halo.com](mailto:VisibleMerch@halo.com) with your name, address, and email address. If you would like to opt out of the collection and use of information through web-based tools such as cookies, pixels, beacons, tags, scripts and similar technology, please visit the Your Privacy Choices link above for the websites that you use in addition to having your authorized agent contact us. This will associate your opt out with your browser.
     
     For requests to  access, delete or correct information we require you to [verify your identity 82](#) using the processes we describe in the dashboard before we fulfill your request. 
     
