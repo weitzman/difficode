@@ -76,14 +76,17 @@ function elementsToMarkdown(elements, turndown) {
 }
 
 /**
- * Generate markdown header with metadata
+ * Generate YAML frontmatter header with metadata
  */
 function generateHeader(url, selector) {
-    const header = `# Content from: ${url}\n\n`;
-    const selectorInfo = selector ? `Selector used: ${selector}\n` : '';
-    const separator = `\n---\n\n`;
+    const lines = [
+        '---',
+        `url: "${url}"`,
+        selector ? `selector: "${selector}"` : null,
+        '---'
+    ];
     
-    return header + selectorInfo + separator;
+    return lines.filter(line => line !== null).join('\n') + '\n\n';
 }
 
 /**
