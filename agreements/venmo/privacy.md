@@ -1,7 +1,6 @@
-# Content from: https://venmo.com/legal/us-privacy-policy/
-
-Selector used: .organisms-termstemplate-content
-
+---
+url: "https://venmo.com/legal/us-privacy-policy/"
+selector: ".organisms-termstemplate-content"
 ---
 
 # 
