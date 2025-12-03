@@ -1,7 +1,6 @@
-# Content from: https://openai.com/policies/privacy-policy
-
-Selector used: #main
-
+---
+url: "https://openai.com/policies/privacy-policy"
+selector: "#main"
 ---
 
 Privacy policy | OpenAI
