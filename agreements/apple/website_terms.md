@@ -1,7 +1,6 @@
-# Content from: https://www.apple.com/legal/internet-services/terms/site.html
-
-Selector used: main
-
+---
+url: "https://www.apple.com/legal/internet-services/terms/site.html"
+selector: "main"
 ---
 
 # Apple Website Terms of Use
