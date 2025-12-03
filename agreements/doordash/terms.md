@@ -1,7 +1,6 @@
-# Content from: https://help.doordash.com/consumers/s/terms-and-conditions-us
-
-Selector used: main
-
+---
+url: "https://help.doordash.com/consumers/s/terms-and-conditions-us"
+selector: "main"
 ---
 
 Country / Jurisdiction
