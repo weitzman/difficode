@@ -1,7 +1,6 @@
-# Content from: https://slack.com/terms-of-service/user
-
-Selector used: #main
-
+---
+url: "https://slack.com/terms-of-service/user"
+selector: "#main"
 ---
 
 # User Terms of Service
