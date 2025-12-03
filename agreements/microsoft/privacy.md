@@ -1,7 +1,6 @@
-# Content from: https://www.microsoft.com/en-US/privacy/privacystatement
-
-Selector used: main
-
+---
+url: "https://www.microsoft.com/en-US/privacy/privacystatement"
+selector: "main"
 ---
 
 # Microsoft Privacy Statement
@@ -12,7 +11,7 @@ Last Updated: November 2025
 
  
 
-Print
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/left_aligned_print) Print
 
 Expand All Collapse All
 
