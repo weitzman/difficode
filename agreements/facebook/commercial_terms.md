@@ -1,7 +1,6 @@
-# Content from: https://www.facebook.com/legal/commercial_terms
-
-Selector used: div[role="main"]
-
+---
+url: "https://www.facebook.com/legal/commercial_terms"
+selector: "div[role="main"]"
 ---
 
   
