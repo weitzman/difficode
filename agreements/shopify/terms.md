@@ -1,7 +1,6 @@
-# Content from: https://www.shopify.com/legal/terms
-
-Selector used: #main
-
+---
+url: "https://www.shopify.com/legal/terms"
+selector: "#main"
 ---
 
 # Terms of Service
