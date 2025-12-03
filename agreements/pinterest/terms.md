@@ -1,7 +1,6 @@
-# Content from: https://policy.pinterest.com/terms-of-service
-
-Selector used: main
-
+---
+url: "https://policy.pinterest.com/terms-of-service"
+selector: "main"
 ---
 
 # 
