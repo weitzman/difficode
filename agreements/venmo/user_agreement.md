@@ -1,7 +1,6 @@
-# Content from: https://venmo.com/legal/us-user-agreement/
-
-Selector used: .organisms-termstemplate-content
-
+---
+url: "https://venmo.com/legal/us-user-agreement/"
+selector: ".organisms-termstemplate-content"
 ---
 
 # 
