@@ -1,7 +1,6 @@
-# Content from: https://discord.com/privacy
-
-Selector used: .section-rich
-
+---
+url: "https://discord.com/privacy"
+selector: ".section-rich"
 ---
 
 [
