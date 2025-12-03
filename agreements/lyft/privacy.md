@@ -1,7 +1,6 @@
-# Content from: https://www.lyft.com/privacy
-
-Selector used: #privacy
-
+---
+url: "https://www.lyft.com/privacy"
+selector: "#privacy"
 ---
 
 # Lyft Privacy Policy
