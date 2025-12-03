@@ -1,7 +1,6 @@
-# Content from: https://www.shopify.com/legal/privacy
-
-Selector used: [role="main"]
-
+---
+url: "https://www.shopify.com/legal/privacy"
+selector: "[role="main"]"
 ---
 
 ## Updated July 25, 2025
