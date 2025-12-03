@@ -1,7 +1,6 @@
-# Content from: https://bsky.social/about/support/tos
-
-Selector used: section.support-page
-
+---
+url: "https://bsky.social/about/support/tos"
+selector: "section.support-page"
 ---
 
 #### Last Updated: 14 August, 2025
