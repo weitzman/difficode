@@ -1,7 +1,6 @@
-# Content from: https://zoom.us/privacy
-
-Selector used: #policy
-
+---
+url: "https://zoom.us/privacy"
+selector: "#policy"
 ---
 
 This Privacy Statement describes the personal data we collect and/or process (which may include collecting, organizing, structuring, storing, using, or disclosing) to provide products and services offered directly by Zoom Communications, Inc. (“Zoom”), including Zoom’s websites, its meetings, webinars, and messaging platform, related collaborative features, and Zoom App Marketplace (“Zoom products and services” or “products and services”). Zoom products and services covered in this Privacy Statement do not include products or services developed by Zoom that are covered under a separate privacy policy (including those listed [here](https://explore.zoom.us/en/trust/privacy/policies/)). California residents, please see our [California Privacy Notice at Collection](#_qhklx843v2z1), and [California & Other U.S. State Privacy Rights sections](#_hfpe4383ebbs).
