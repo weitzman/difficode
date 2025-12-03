@@ -1,8 +1,9 @@
-# Content from: https://www.linkedin.com/legal/user-agreement
-
-Selector used: #component-container
-
 ---
+url: "https://www.linkedin.com/legal/user-agreement"
+selector: "#component-container"
+---
+
+![](https://media.licdn.com/dms/image/v2/C4D08AQFXY7ga83Bafw/croft-frontend-shrinkToFit1024/croft-frontend-shrinkToFit1024/0/1598658592736?e=2147483647&v=beta&t=67ATyf8-3XnHufZtjTwE3_A6AzXU_zgz6GULBKHLBCQ) 
 
 # User Agreement
 
