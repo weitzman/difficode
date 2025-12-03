@@ -1,7 +1,6 @@
-# Content from: https://bsky.social/about/support/copyright
-
-Selector used: main
-
+---
+url: "https://bsky.social/about/support/copyright"
+selector: "main"
 ---
 
 [Support](/about/support)Copyright Policy
