@@ -1,7 +1,6 @@
-# Content from: https://stripe.com/legal/ssa
-
-Selector used: main
-
+---
+url: "https://stripe.com/legal/ssa"
+selector: "main"
 ---
 
 The Stripe Services Agreement governs the use of Stripe by our business users. It is divided into General Terms, which apply to every user, and product-specific [Services Terms](https://stripe.com/legal/ssa-services-terms), which only apply based on the specific services you use.
@@ -134,11 +133,11 @@ Each party will maintain commercially reasonable administrative, technical, and 
 
 **5.1 Ownership; Intellectual Property Rights.**
 
-IP Rights. As between the parties, Stripe, its Affiliates, and its third party licensors own all IP Rights in the Services, the Stripe Technology, Stripe Data, the Stripe Marks, the Documentation, and the Stripe Website. All rights not expressly granted in this Agreement are reserved.
+(a) *IP Rights*. As between the parties, Stripe, its Affiliates, and its third party licensors own all IP Rights in the Services, the Stripe Technology, Stripe Data, the Stripe Marks, the Documentation, and the Stripe Website. All rights not expressly granted in this Agreement are reserved.
 
-Reservation of Rights. Nothing in this Agreement assigns or transfers ownership of any IP Rights to the other party, or contemplates a joint development of intellectual property.
+(b) *Reservation of Rights*. Nothing in this Agreement assigns or transfers ownership of any IP Rights to the other party, or contemplates a joint development of intellectual property.
 
-Rights and Permissions. User will ensure that User’s use of the Services and Stripe Technology will not violate or infringe upon any third-party rights, including IP Rights. If User provides Content to Stripe, User agrees that it has obtained, as applicable, all necessary rights and permissions to share the Content and enable Stripe’s use of the Content. User grants to Stripe, on behalf of itself and its Affiliates, a perpetual, worldwide, non-exclusive, irrevocable, royalty-free license to use the Content to develop, improve, and provide Services and Stripe Technology and for Stripe’s internal business purposes.
+(c) *Rights and Permissions*. User will ensure that User’s use of the Services and Stripe Technology will not violate or infringe upon any third-party rights, including IP Rights. If User provides Content to Stripe, User agrees that it has obtained, as applicable, all necessary rights and permissions to share the Content and enable Stripe’s use of the Content. User grants to Stripe, on behalf of itself and its Affiliates, a perpetual, worldwide, non-exclusive, irrevocable, royalty-free license to use the Content to develop, improve, and provide Services and Stripe Technology and for Stripe’s internal business purposes.
 
 **5.2 Feedback.**
 
@@ -408,7 +407,7 @@ Stripe may use subcontractors or its Affiliates in the performance of its obliga
 
 (b) References to “includes” or “including” not followed by “only” or a similar word mean “includes, without limitation” and “including, without limitation,” respectively.
 
-(c) All references in this Agreement to any terms, documents, Law, or Financial Services Terms are to those items as they may be amended, supplemented, or replaced from time to time. All references to APIs and URLs are references to those APIs and URLs as they may be updated or replaced.
+(c) All references in this Agreement to any terms, documents, Law, or Financial Provider Terms are to those items as they may be amended, supplemented, or replaced from time to time. All references to APIs and URLs are references to those APIs and URLs as they may be updated or replaced.
 
 (d) The section headings of this Agreement are only for convenience and have no interpretive value.
 
@@ -432,7 +431,9 @@ Stripe may use subcontractors or its Affiliates in the performance of its obliga
 
 United States
 
-Stripe, Inc. Stripe Payments Company\*
+Stripe, Inc.
+
+Stripe Payments Company\*
 
 Canada
 
@@ -464,11 +465,15 @@ Countries in the European Economic Area:
 
 Austria, Belgium, Bulgaria, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden
 
-Stripe Payments Europe, Limited Stripe Technology Europe, Limited\*
+Stripe Payments Europe, Limited
+
+Stripe Technology Europe, Limited\*
 
 Gibraltar, Switzerland, United Kingdom
 
-Stripe Payments Europe, Limited Stripe Payments UK Ltd\*
+Stripe Payments Europe, Limited
+
+Stripe Payments UK Ltd\*
 
 United Arab Emirates
 
@@ -742,7 +747,7 @@ The laws of Ireland are the Governing Law.
 
 (d) The arbitrator may be the same nationality as any of the parties, and must be a member of the Law Society of Ireland or the Bar of Ireland, unless the parties agree otherwise.
 
-**13.2.2 Claims not subject to Arbitration - Jurisdiction and Venue.**
+**13.2.2 Claims not subject to Arbitration****—****Jurisdiction and Venue.**
 
 For claims that may not be subject to arbitration, which includes claims that relate to IP Rights, each party consents to exclusive jurisdiction in the courts of Ireland.
 
@@ -772,7 +777,7 @@ The laws of England and Wales are the Governing Law.
 
 (c) The arbitrator will apply the laws of England and Wales.
 
-**13.2.2 Claims not subject to Arbitration - Jurisdiction and Venue.**
+**13.2.2 Claims not subject to Arbitration****—****Jurisdiction and Venue.**
 
 For claims that may not be subject to arbitration, which includes claims that relate to IP Rights, each party consents to exclusive jurisdiction in the courts of England.
 
@@ -804,7 +809,7 @@ The laws of the state of New South Wales are the Governing Law.
 
 (d) The party initiating the arbitration is responsible for paying the applicable filing fee. Each party will advance one-half of the fees and expenses of the arbitrator, the costs of the attendance of a stenographer at the arbitration hearing, and the costs of the arbitration facility.
 
-**13.2.2 Claims not subject to Arbitration - Jurisdiction and Venue.**
+**13.2.2 Claims not subject to Arbitration****—****Jurisdiction and Venue.**
 
 For claims that may not be subject to arbitration, which includes claims that relate to IP Rights, each party consents to exclusive jurisdiction in courts of New South Wales, Australia.
 
@@ -958,7 +963,7 @@ The laws of Singapore are the Governing Law.
 
 (c) The arbitrator will apply the laws of Singapore.
 
-**13.2.2 Claims not subject to Arbitration - Jurisdiction and Venue.**
+**13.2.2 Claims not subject to Arbitration****—****Jurisdiction and Venue.**
 
 For claims that may not be subject to arbitration, which includes claims that relate to IP Rights, each party consents to exclusive jurisdiction in the courts of Hong Kong.
 
@@ -988,7 +993,7 @@ The laws of Bangalore, India are the Governing Law.
 
 (c) The arbitrator will apply the provisions of the (Indian) Arbitration and Conciliation Act, 1996 (as amended).
 
-**13.2.2 Claims not subject to Arbitration - Jurisdiction and Venue.**
+**13.2.2 Claims not subject to Arbitration****—****Jurisdiction and Venue.**
 
 For claims that may not be subject to arbitration, which includes claims that relate to IP Rights, each party consents to exclusive jurisdiction in the courts in Bangalore, India.
 
@@ -1040,7 +1045,7 @@ The laws of the Republic of Indonesia are the Governing Law.
 
 (c) The arbitrator will apply the laws of Singapore.
 
-**13.2.2 Claims not subject to Arbitration - Jurisdiction and Venue.**
+**13.2.2 Claims not subject to Arbitration****—****Jurisdiction and Venue.**
 
 For claims that may not be subject to arbitration, which includes claims that relate to IP Rights, each party consents to exclusive jurisdiction in the courts of Indonesia.
 
@@ -1090,7 +1095,7 @@ The laws of Malaysia are the Governing Law.
 
 (c) The arbitrator will apply the laws of Malaysia.
 
-**13.2.2 Claims not subject to Arbitration - Jurisdiction and Venue.**
+**13.2.2 Claims not subject to Arbitration****—****Jurisdiction and Venue.**
 
 For claims that may not be subject to arbitration, which includes claims that relate to IP Rights, each party consents to exclusive jurisdiction in the courts of Malaysia.
 
@@ -1184,7 +1189,7 @@ The laws of New Zealand are the Governing Law.
 
 (d) The party initiating the arbitration is responsible for paying the applicable filing fee. Each party will advance one-half of the fees and expenses of the arbitrator, the costs of the attendance of a stenographer at the arbitration hearing, and the costs of the arbitration facility.
 
-**13.2.2 Claims not subject to Arbitration - Jurisdiction and Venue.**
+**13.2.2 Claims not subject to Arbitration****—****Jurisdiction and Venue.**
 
 For claims that may not be subject to arbitration, which includes claims that relate to IP Rights, each party consents to exclusive jurisdiction in courts of New Zealand.
 
@@ -1252,7 +1257,7 @@ The laws of Japan are the Governing Law.
 
 (d) The party initiating the arbitration is responsible for paying the applicable filing fee. Each party will advance one-half of the fees and expenses of the arbitrator, the costs of the attendance of a stenographer at the arbitration hearing, and the costs of the arbitration facility.
 
-**13.2.2 Claims not subject to Arbitration - Jurisdiction and Venue.**
+**13.2.2 Claims not subject to Arbitration****—****Jurisdiction and Venue.**
 
 For claims that may not be subject to arbitration, which includes claims that relate to IP Rights, each party consents to exclusive jurisdiction in the Tokyo District Court or Tokyo Summary Court, whichever has jurisdiction over the matter under the Governing Law.
 
@@ -1292,7 +1297,7 @@ The laws of Singapore are the Governing Law.
 
 (c) The arbitrator will apply the laws of Singapore.
 
-**13.2.2 Claims not subject to Arbitration - Jurisdiction and Venue.**
+**13.2.2 Claims not subject to Arbitration****—****Jurisdiction and Venue.**
 
 For claims that may not be subject to arbitration, which includes claims that relate to IP Rights, each party consents to exclusive jurisdiction in the courts of Singapore.
 
@@ -1326,7 +1331,7 @@ The Thailand Arbitration Center (“THAC”) will administer the arbitration und
 
 The arbitrator will apply the laws of Thailand.
 
-**13.2.2 Claims not subject to Arbitration - Jurisdiction and Venue.**
+**13.2.2 Claims not subject to Arbitration****—****Jurisdiction and Venue.**
 
 For claims that may not be subject to arbitration, which includes claims that relate to IP Rights, each party consents to exclusive jurisdiction in the courts of Thailand.
 
@@ -1382,7 +1387,7 @@ The laws of Ireland are the Governing Law.
 
 (d) The arbitrator may be the same nationality as any of the parties, and must be a member of the Law Society of Ireland or the Bar of Ireland, unless the parties agree otherwise.
 
-**13.2.2 Claims not subject to Arbitration - Jurisdiction and Venue.**
+**13.2.2 Claims not subject to Arbitration****—****Jurisdiction and Venue.**
 
 For claims that may not be subject to arbitration, which includes claims that relate to IP Rights, each party consents to exclusive jurisdiction in the courts of Ireland.
 
