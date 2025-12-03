@@ -1,7 +1,6 @@
-# Content from: https://www.google.com/help/terms_maps/?hl=en_US
-
-Selector used: div[role="article"]
-
+---
+url: "https://www.google.com/help/terms_maps/?hl=en_US"
+selector: "div[role="article"]"
 ---
 
 The Google Earth Additional Terms of Service are now available [here](../terms_maps-earth/) effective June 5, 2025
