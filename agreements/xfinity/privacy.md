@@ -1,7 +1,6 @@
-# Content from: https://www.xfinity.com/privacy/policy
-
-Selector used: div.page
-
+---
+url: "https://www.xfinity.com/privacy/policy"
+selector: "div.page"
 ---
 
 **Additional Notices:**
