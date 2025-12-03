@@ -1,7 +1,6 @@
-# Content from: https://slack.com/trust/data-request/transparency-report
-
-Selector used: #main
-
+---
+url: "https://slack.com/trust/data-request/transparency-report"
+selector: "#main"
 ---
 
 # Transparency Report
