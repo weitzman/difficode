@@ -1,7 +1,6 @@
-# Content from: https://discord.com/guidelines
-
-Selector used: .section-rich
-
+---
+url: "https://discord.com/guidelines"
+selector: ".section-rich"
 ---
 
 [
