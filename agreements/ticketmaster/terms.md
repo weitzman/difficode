@@ -1,7 +1,6 @@
-# Content from: https://legal.ticketmaster.com/terms-of-use/
-
-Selector used: div.otnotice-content
-
+---
+url: "https://legal.ticketmaster.com/terms-of-use/"
+selector: "div.otnotice-content"
 ---
 
 *   [Overview](#otnotice-section-4831ab61-6fcf-4ea1-af23-b4f4a9d407d0)
