@@ -1,7 +1,6 @@
-# Content from: https://www.tiktok.com/legal/page/us/privacy-policy/en
-
-Selector used: #policy-card
-
+---
+url: "https://www.tiktok.com/legal/page/us/privacy-policy/en"
+selector: "#policy-card"
 ---
 
 U.S.
