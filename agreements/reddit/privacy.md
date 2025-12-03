@@ -1,7 +1,6 @@
-# Content from: https://www.reddit.com/policies/privacy-policy
-
-Selector used: main
-
+---
+url: "https://www.reddit.com/policies/privacy-policy"
+selector: "main"
 ---
 
 Reddit Privacy Policy*   [All](https://redditinc.com/policies/all)
