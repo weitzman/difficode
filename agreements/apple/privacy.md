@@ -1,7 +1,6 @@
-# Content from: https://www.apple.com/privacy/privacy-policy
-
-Selector used: main
-
+---
+url: "https://www.apple.com/privacy/privacy-policy"
+selector: "main"
 ---
 
 English [Choose your preferred language](/legal/privacy/policy/)
@@ -13,6 +12,8 @@ English [Choose your preferred language](/legal/privacy/policy/)
 Apple’s Privacy Policy describes how Apple collects, uses, and shares your personal data.
 
 In addition to this Privacy Policy, we provide data and privacy information embedded in our products and certain features that ask to use your personal data. This product-specific information is accompanied by our Data & Privacy Icon.
+
+![Privacy Icon](https://www.apple.com/legal/images/icon_dataprivacy_2x.png)
 
 You will be given an opportunity to review this product-specific information before using these features. You also can view this information at any time, either in settings related to those features and/or online at [apple.com/legal/privacy/data](https://apple.com/legal/privacy/data). 
 
@@ -206,6 +207,6 @@ You can familiarize yourself with our privacy practices, accessible via the head
     When there is a material change to this Privacy Policy, we’ll post a notice on this website at least a week in advance of doing so and contact you directly about the change if we have your data on file.
     
 
-[](https://privacyseals.bbbprograms.org/seal/Confirmation/1114171343)[](https://privacyseals.bbbprograms.org/seal/Confirmation/195838664)
+[![](https://www.apple.com/legal/images/bbbnp-globalcbpr/bbbnp-globalcbpr_large_2x.png)](https://privacyseals.bbbprograms.org/seal/Confirmation/1114171343)[![](https://www.apple.com/legal/images/bbbnp-globalprp/bbbnp-globalprp_large_2x.png)](https://privacyseals.bbbprograms.org/seal/Confirmation/195838664)
 
 The Global CBPR System Certification Mark and Global PRP System Certification Mark™ are trademarks of the International Trade Administration/Office of Global Data Policy and Privacy, used with permission.
