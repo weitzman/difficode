@@ -1,7 +1,6 @@
-# Content from: https://www.cloudflare.com/website-terms/
-
-Selector used: div.site-content
-
+---
+url: "https://www.cloudflare.com/website-terms/"
+selector: "div.site-content"
 ---
 
 Cloudflare Website and Online Services Terms of Use
