@@ -1,7 +1,6 @@
-# Content from: https://bsky.social/about/support/privacy-policy
-
-Selector used: main
-
+---
+url: "https://bsky.social/about/support/privacy-policy"
+selector: "main"
 ---
 
 [Support](/about/support)Privacy Policy
