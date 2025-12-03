@@ -1,7 +1,6 @@
-# Content from: https://www.etsy.com/legal/privacy/
-
-Selector used: article
-
+---
+url: "https://www.etsy.com/legal/privacy/"
+selector: "article"
 ---
 
 As a global marketplace, we take our international data protection obligations seriously. Please select your preferred language (and, where applicable, regional variation) from the list below to view our Global Privacy Policy. (Please note: the content is the same across all translations, only the language or dialect differs). Learn more about interest-based advertising and your choices [here](https://www.etsy.com/legal/cookies/#marketing-services).
@@ -59,9 +58,17 @@ It is important for you to understand how we use your information. You should re
 
 In the course of providing our Services, we collect and receive information that directly or indirectly relates to you in different ways and from different sources, which we have set out below. The capitalized terms in this [Section 1](#collect) are definitions that we use throughout this Policy, so please refer back to this table as necessary.
 
+![](https://i.etsystatic.com/inv/f691d5/7132507426/inv_fullxfull.7132507426_o6gq4sv2.jpg?version=0)
+
+![](https://i.etsystatic.com/inv/5e0ed0/7180477153/inv_fullxfull.7180477153_c2bxj072.jpg?version=0) ![](https://i.etsystatic.com/inv/8a21de/7132508516/inv_fullxfull.7132508516_rxrovt4d.jpg?version=0) ![](https://i.etsystatic.com/inv/d6c2f0/7132508930/inv_fullxfull.7132508930_l2rwivse.jpg?version=0) ![](https://i.etsystatic.com/inv/847781/7180480289/inv_fullxfull.7180480289_lanntbaw.jpg?version=0) ![](https://i.etsystatic.com/inv/a3b405/7180480655/inv_fullxfull.7180480655_pyajgbbn.jpg?version=0) ![](https://i.etsystatic.com/inv/53a81a/7180481073/inv_fullxfull.7180481073_ao2osscd.jpg?version=0)
+
 ## 2\. How We Use Your Information and Our Legal Basis
 
 When you access or use the Services or interact with our Sites and/or Apps, we collect, use, share, and otherwise process your information for the purposes described in this policy. To the extent required by applicable law, we rely on a number of legal bases to use your information in these ways. If you reside outside the European Economic Area (“**EEA**”), Switzerland or the United Kingdom (“**UK**”) (together referred to as the “**European Region**”), the legal bases on which we rely may differ from those listed below.
+
+![](https://i.etsystatic.com/inv/0626ed/7180490501/inv_fullxfull.7180490501_c2jkmm6l.jpg?version=0)
+
+![](https://i.etsystatic.com/inv/5ae72f/7180491063/inv_fullxfull.7180491063_ct8rcd71.jpg?version=0) ![](https://i.etsystatic.com/inv/2e4f38/7180491533/inv_fullxfull.7180491533_kcnjbyp1.jpg?version=0) ![](https://i.etsystatic.com/inv/6af427/7180492937/inv_fullxfull.7180492937_sp55eq6l.jpg?version=0) ![](https://i.etsystatic.com/inv/90b326/7180493443/inv_fullxfull.7180493443_enq81rrn.jpg?version=0) ![](https://i.etsystatic.com/inv/73193b/7180493833/inv_fullxfull.7180493833_quqc3xmw.jpg?version=0) ![](https://i.etsystatic.com/inv/229919/7132524510/inv_fullxfull.7132524510_epcqhffg.jpg?version=0) ![](https://i.etsystatic.com/inv/da6db4/7132525610/inv_fullxfull.7132525610_m862amnb.jpg?version=0) ![](https://i.etsystatic.com/inv/6b9ce6/7180495661/inv_fullxfull.7180495661_rom08qox.jpg?version=0) ![](https://i.etsystatic.com/inv/fc3b2f/7132527082/inv_fullxfull.7132527082_1tn2av0q.jpg?version=0) ![](https://i.etsystatic.com/inv/fbceb3/7180497251/inv_fullxfull.7180497251_6fewlqwk.jpg?version=0) ![](https://i.etsystatic.com/inv/a2826a/7132528270/inv_fullxfull.7132528270_d6hns7ob.jpg?version=0) ![](https://i.etsystatic.com/inv/a65445/7180499447/inv_fullxfull.7180499447_jmnwslq2.jpg?version=0)
 
 ## 3\. How We Share Your Information
 
@@ -103,6 +110,8 @@ Etsy also offers services or products from affiliated businesses, such as servic
 
 The types of third-party service providers that we work with include:
 
+![](https://i.etsystatic.com/inv/834d32/7132569156/inv_fullxfull.7132569156_i1eap1q8.jpg?version=0)
+
 ## 4\. How We Transfer Your Information
 
 Etsy operates a global e-commerce platform. By using the Services, you acknowledge that Etsy will use your information in the United States, Ireland, and any other country where the Etsy Group Companies operate. Please be aware that the privacy laws and standards in certain countries, including the rights of authorities to access your information, may differ from those that apply in the country in which you reside. To the extent that Etsy is deemed to transfer information outside of the EEA, we rely separately, alternatively, and independently on the following legal bases to transfer your information:
@@ -128,6 +137,8 @@ Etsy will retain your information only for as long as is necessary for the purpo
 **Consent-based processing of data** If we process your data on the basis of consent (including consent to the extended storage), we store the data for as long as necessary to process it according to your consent or until you withdraw your consent.
 
 **Statutory, contractual, or other similar obligations** Etsy will retain and use your information to the extent necessary to comply with our legal obligations, for example, if we are required to retain your information to comply with applicable tax/revenue laws, Know Your Customer (“KYC”), and similar obligations. Here's what we consider when deciding how long to keep your information:
+
+![](https://i.etsystatic.com/inv/e77b75/7132578142/inv_fullxfull.7132578142_fkcloihr.jpg?version=0)
 
 ## 7\. Your Rights and Choices
 
