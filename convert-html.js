@@ -93,8 +93,8 @@ function applyRulesToHTML(elements, rules) {
     // Always remove media elements to prevent prompt length issues
     elements.forEach(element => {
         // Remove all media elements that don't contribute to text content.
-        // img, figure, picture, video, audio, canvas, embed, object, iframe, script, style, noscript
-        const mediaSelectors = 'svg';
+        // img, figure, picture, video, audio, canvas
+        const mediaSelectors = 'svg, embed, object, iframe, script, style, noscript';
         const mediaElements = element.querySelectorAll(mediaSelectors);
         mediaElements.forEach(el => el.remove());
     });
