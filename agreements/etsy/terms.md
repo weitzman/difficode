@@ -1,7 +1,6 @@
-# Content from: https://www.etsy.com/legal/terms-of-use/
-
-Selector used: #content
-
+---
+url: "https://www.etsy.com/legal/terms-of-use/"
+selector: "#content"
 ---
 
 ## [Our House Rules](/legal?ref=pageheader)
