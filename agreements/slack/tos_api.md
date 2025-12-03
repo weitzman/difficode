@@ -1,7 +1,6 @@
-# Content from: https://slack.com/terms-of-service/api
-
-Selector used: #main
-
+---
+url: "https://slack.com/terms-of-service/api"
+selector: "#main"
 ---
 
 # Slack API Terms of Service
