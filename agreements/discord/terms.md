@@ -1,7 +1,6 @@
-# Content from: https://discord.com/terms
-
-Selector used: div.section-rich
-
+---
+url: "https://discord.com/terms"
+selector: "div.section-rich"
 ---
 
 [
