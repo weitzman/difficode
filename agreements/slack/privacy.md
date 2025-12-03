@@ -1,7 +1,6 @@
-# Content from: https://slack.com/trust/privacy/privacy-policy
-
-Selector used: #main
-
+---
+url: "https://slack.com/trust/privacy/privacy-policy"
+selector: "#main"
 ---
 
 # Privacy Policy
