@@ -1,7 +1,6 @@
-# Content from: https://slack.com/slack-supplemental-terms
-
-Selector used: #main
-
+---
+url: "https://slack.com/slack-supplemental-terms"
+selector: "#main"
 ---
 
 # Slack Supplemental Terms
