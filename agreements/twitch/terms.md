@@ -1,7 +1,6 @@
-# Content from: https://www.twitch.tv/p/en/legal/terms-of-service/
-
-Selector used: article
-
+---
+url: "https://www.twitch.tv/p/en/legal/terms-of-service/"
+selector: "article"
 ---
 
 To help you understand the subject matters covered by our Terms of Service, we have provided short overviews of key takeaways highlighted in purple below. We hope these overviews serve as a useful guide, but please be sure to read our entire Terms of Service carefully, as this is a legally binding contract.
