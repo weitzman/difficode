@@ -1,7 +1,6 @@
-# Content from: https://www.verizonmedia.com/policies/us/en/verizonmedia/terms/otos/index.html
-
-Selector used: main
-
+---
+url: "https://www.verizonmedia.com/policies/us/en/verizonmedia/terms/otos/index.html"
+selector: "main"
 ---
 
 ## Yahoo Terms of Service
