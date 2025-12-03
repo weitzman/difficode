@@ -1,7 +1,6 @@
-# Content from: https://twitter.com/privacy?lang=en
-
-Selector used: main
-
+---
+url: "https://twitter.com/privacy?lang=en"
+selector: "main"
 ---
 
 # X Privacy Policy
@@ -320,6 +319,8 @@ If you wish to raise a concern about our [data processing practices](https://hel
 **Effective:** July 28, 2025
 
 [View previous policies](https://x.com/privacy/previous)
+
+![true](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
 ## Take control of your privacy
 
