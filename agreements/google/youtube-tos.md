@@ -1,7 +1,6 @@
-# Content from: https://www.youtube.com/t/terms
-
-Selector used: #main-content
-
+---
+url: "https://www.youtube.com/t/terms"
+selector: "#main-content"
 ---
 
 # Terms of Service
