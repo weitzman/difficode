@@ -1,7 +1,6 @@
-# Content from: https://www.airbnb.com/help/article/3175
-
-Selector used: [data-testid="CEPHtmlSection"]
-
+---
+url: "https://www.airbnb.com/help/article/3175"
+selector: "[data-testid="CEPHtmlSection"]"
 ---
 
 Last Updated: February 6, 2025
