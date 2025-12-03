@@ -1,7 +1,6 @@
-# Content from: https://policy.pinterest.com/privacy-policy
-
-Selector used: main
-
+---
+url: "https://policy.pinterest.com/privacy-policy"
+selector: "main"
 ---
 
 # 
