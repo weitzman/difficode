@@ -1,7 +1,6 @@
-# Content from: https://www.adobe.com/legal/terms.html
-
-Selector used: main
-
+---
+url: "https://www.adobe.com/legal/terms.html"
+selector: "main"
 ---
 
 We have updated our General Terms of Use to make the language easier to understand. Please watch the explainer video and read the terms below to learn about the clarifications we have made to more clearly describe how we are treating and protecting your data. Over the next several weeks we will roll these terms out to customers globally.
