@@ -1,7 +1,6 @@
-# Content from: https://www.paypal.com/us/legalhub/paypal/privacy-full
-
-Selector used: #content-wrapper
-
+---
+url: "https://www.paypal.com/us/legalhub/paypal/privacy-full"
+selector: "#content-wrapper"
 ---
 
 # PayPal Privacy Statement
