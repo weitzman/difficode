@@ -1,7 +1,6 @@
-# Content from: https://www.uber.com/global/en/privacy/notice/
-
-Selector used: [data-testid='content-group-dynamic']
-
+---
+url: "https://www.uber.com/global/en/privacy/notice/"
+selector: "[data-testid='content-group-dynamic']"
 ---
 
 **Effective January 1, 2026 globally, except effective November 15, 2025 in the United Arab Emirates.**
