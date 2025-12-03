@@ -1,5 +1,5 @@
 {
-  "url": "https://www.chase.com/digital/resources/privacy-security",
-  "selector": "main",
+  "url": "https://www.chase.com/digital/resources/privacy-security/privacy/online-privacy-policy",
+  "selector": "section.body-copy",
   "enabled": true
 }
