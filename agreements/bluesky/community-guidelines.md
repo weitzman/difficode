@@ -1,7 +1,6 @@
-# Content from: https://bsky.social/about/support/community-guidelines
-
-Selector used: section.support-page
-
+---
+url: "https://bsky.social/about/support/community-guidelines"
+selector: "section.support-page"
 ---
 
 #### Last Updated: September 19, 2025
