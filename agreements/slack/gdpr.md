@@ -1,7 +1,6 @@
-# Content from: https://slack.com/trust/compliance/gdpr
-
-Selector used: #main
-
+---
+url: "https://slack.com/trust/compliance/gdpr"
+selector: "#main"
 ---
 
 # Slack's GDPR Commitment
