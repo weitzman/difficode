@@ -1,7 +1,6 @@
-# Content from: https://www.google.com/drive/terms-of-service/
-
-Selector used: section.tos
-
+---
+url: "https://www.google.com/drive/terms-of-service/"
+selector: "section.tos"
 ---
 
 # Google Drive Additional Terms of Service
