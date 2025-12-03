@@ -1,7 +1,6 @@
-# Content from: https://www.paypal.com/us/legalhub/paypal/useragreement-full
-
-Selector used: #content-wrapper
-
+---
+url: "https://www.paypal.com/us/legalhub/paypal/useragreement-full"
+selector: "#content-wrapper"
 ---
 
 # PAYPAL USER AGREEMENT
