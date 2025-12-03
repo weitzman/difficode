@@ -1,7 +1,6 @@
-# Content from: https://www.snapchat.com/privacy
-
-Selector used: main
-
+---
+url: "https://www.snapchat.com/privacy"
+selector: "main"
 ---
 
 Privacy
