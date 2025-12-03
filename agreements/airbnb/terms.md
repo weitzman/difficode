@@ -1,7 +1,6 @@
-# Content from: https://www.airbnb.com/help/article/2908
-
-Selector used: #react-application
-
+---
+url: "https://www.airbnb.com/help/article/2908"
+selector: "#react-application"
 ---
 
 [](/)[Help Center](/help)
