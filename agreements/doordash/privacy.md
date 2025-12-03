@@ -1,7 +1,6 @@
-# Content from: https://help.doordash.com/consumers/s/privacy-policy-us
-
-Selector used: main
-
+---
+url: "https://help.doordash.com/consumers/s/privacy-policy-us"
+selector: "main"
 ---
 
 Country / Jurisdiction
