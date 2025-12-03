@@ -1,7 +1,6 @@
-# Content from: https://www.uber.com/legal/terms/us/
-
-Selector used: [data-testid='content-group-dynamic']
-
+---
+url: "https://www.uber.com/legal/terms/us/"
+selector: "[data-testid='content-group-dynamic']"
 ---
 
 Last modified: 10/13/2025
