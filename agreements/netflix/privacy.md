@@ -1,7 +1,6 @@
-# Content from: https://help.netflix.com/legal/privacy
-
-Selector used: div.content
-
+---
+url: "https://help.netflix.com/legal/privacy"
+selector: "div.content"
 ---
 
 # Privacy Statement
