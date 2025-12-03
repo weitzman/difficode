@@ -1,7 +1,6 @@
-# Content from: https://www.snap.com/en-US/terms
-
-Selector used: #inc-terms
-
+---
+url: "https://www.snap.com/en-US/terms"
+selector: "#inc-terms"
 ---
 
 ## 
