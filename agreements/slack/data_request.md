@@ -1,7 +1,6 @@
-# Content from: https://slack.com/user-data-request-policy
-
-Selector used: #main
-
+---
+url: "https://slack.com/user-data-request-policy"
+selector: "#main"
 ---
 
 # Data Request Policy
