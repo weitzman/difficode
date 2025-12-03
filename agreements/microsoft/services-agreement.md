@@ -1,7 +1,6 @@
-# Content from: https://www.microsoft.com/en-us/servicesagreement
-
-Selector used: #mainContent
-
+---
+url: "https://www.microsoft.com/en-us/servicesagreement"
+selector: "#mainContent"
 ---
 
 Published: **July 30, 2025**
