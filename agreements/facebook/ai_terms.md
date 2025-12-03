@@ -1,7 +1,6 @@
-# Content from: https://www.facebook.com/legal/ai-terms
-
-Selector used: div[role="main"]
-
+---
+url: "https://www.facebook.com/legal/ai-terms"
+selector: "div[role="main"]"
 ---
 
 **Our AI Terms are different depending on the region you live in**
