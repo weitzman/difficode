@@ -1,7 +1,6 @@
-# Content from: https://aws.amazon.com/service-terms/
-
-Selector used: #aws-service-terms
-
+---
+url: "https://aws.amazon.com/service-terms/"
+selector: "#aws-service-terms"
 ---
 
 # AWS Service Terms
