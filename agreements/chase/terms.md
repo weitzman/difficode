@@ -1,7 +1,6 @@
-# Content from: https://www.chase.com/digital/resources/terms-of-use
-
-Selector used: main
-
+---
+url: "https://www.chase.com/digital/resources/terms-of-use"
+selector: "main"
 ---
 
 *   [About us](/digital/resources/about-chase)
