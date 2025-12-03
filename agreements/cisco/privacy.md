@@ -1,7 +1,6 @@
-# Content from: https://www.cisco.com/c/en/us/about/legal/privacy-full.html
-
-Selector used: #fw-content
-
+---
+url: "https://www.cisco.com/c/en/us/about/legal/privacy-full.html"
+selector: "#fw-content"
 ---
 
 # Cisco Online Privacy Statement
