@@ -1,7 +1,6 @@
-# Content from: https://www.whitehouse.gov/copyright/
-
-Selector used: main
-
+---
+url: "https://www.whitehouse.gov/copyright/"
+selector: "main"
 ---
 
 # Copyright Policy
