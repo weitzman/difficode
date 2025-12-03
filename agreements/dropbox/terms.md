@@ -1,7 +1,6 @@
-# Content from: https://www.dropbox.com/terms
-
-Selector used: #main-content
-
+---
+url: "https://www.dropbox.com/terms"
+selector: "#main-content"
 ---
 
 For users with a separate DocSend or Dropbox Sign account, the DocSend Terms of Service can be found [here](https://www.docsend.com/terms-of-service/), and the Dropbox Sign Terms of Service can be found [here](https://www.hellosign.com/terms).
