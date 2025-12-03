@@ -1,7 +1,6 @@
-# Content from: https://twitter.com/tos?lang=en
-
-Selector used: main
-
+---
+url: "https://twitter.com/tos?lang=en"
+selector: "main"
 ---
 
 # Terms of Service
