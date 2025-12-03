@@ -1,7 +1,6 @@
-# Content from: https://docs.github.com/en/site-policy/github-terms/github-terms-for-additional-products-and-features
-
-Selector used: #article-contents
-
+---
+url: "https://docs.github.com/en/site-policy/github-terms/github-terms-for-additional-products-and-features"
+selector: "#article-contents"
 ---
 
 Version Effective Date: April 1, 2025
