@@ -1,8 +1,9 @@
-# Content from: https://www.linkedin.com/legal/privacy-policy
-
-Selector used: main
-
 ---
+url: "https://www.linkedin.com/legal/privacy-policy"
+selector: "main"
+---
+
+![](https://media.licdn.com/dms/image/v2/C4D08AQFXY7ga83Bafw/croft-frontend-shrinkToFit1024/croft-frontend-shrinkToFit1024/0/1598658592736?e=2147483647&v=beta&t=67ATyf8-3XnHufZtjTwE3_A6AzXU_zgz6GULBKHLBCQ) 
 
 # Privacy Policy
 
