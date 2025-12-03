@@ -1,7 +1,6 @@
-# Content from: https://www.spotify.com/us/legal/privacy-policy/
-
-Selector used: main
-
+---
+url: "https://www.spotify.com/us/legal/privacy-policy/"
+selector: "main"
 ---
 
 *   Legal
