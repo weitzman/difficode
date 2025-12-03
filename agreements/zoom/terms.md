@@ -1,7 +1,6 @@
-# Content from: https://zoom.us/terms
-
-Selector used: section.module-richtext
-
+---
+url: "https://zoom.us/terms"
+selector: "section.module-richtext"
 ---
 
 Please read these terms of service (“**Terms of Service**”) and the Zoom [Services Description](https://explore.zoom.us/en/services-description/) (collectively, this “**Agreement**”) carefully. This Agreement is between you and Zoom Communications, Inc. and its affiliates (“**Zoom**,” “**we**,” “**us**,” or “**our**”) and governs your access to and use of our Services and Software, unless you and Zoom have entered into a written Master Subscription Agreement (**MSA**), in which case such MSA will govern your access to and use of the Services and Software and not these Terms of Service. You may enter into this Agreement on behalf of yourself or on behalf of a legal entity. If you enter into this Agreement on behalf of a legal entity, you represent that you are a duly authorized representative with the authority to bind that legal entity to this Agreement. All references to “**you**” and “**your**” in this Agreement mean the person accepting this Agreement as an individual or the legal entity for which the representative is acting. Capitalized terms in this Agreement will have definitions as set forth in the applicable section where they are defined, in the Zoom [Services Description](https://explore.zoom.us/en/services-description/), or in Section 34 below.
