@@ -1,7 +1,6 @@
-# Content from: https://help.netflix.com/legal/termsofuse
-
-Selector used: div.content
-
+---
+url: "https://help.netflix.com/legal/termsofuse"
+selector: "div.content"
 ---
 
 # Netflix Terms of Use
