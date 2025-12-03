@@ -1,7 +1,6 @@
-# Content from: https://my.xfinity.com/terms/web/
-
-Selector used: [data-component="ArticleContent"]
-
+---
+url: "https://my.xfinity.com/terms/web/"
+selector: "[data-component="ArticleContent"]"
 ---
 
 [Terms of Service](https://www.xfinity.com/terms) |  [Web Terms of Service](https://www.xfinity.com/terms/web/) |  [Software License](https://www.xfinity.com/terms/license/) |  [Residential Services Policies](https://www.xfinity.com/policies) |  [Report Abuse to Comcast](https://www.xfinity.com/terms/abuse/) |  [Terms for Feedback](https://www.xfinity.com/terms/feedback/) |  [Open Source Software](https://www.xfinity.com/terms/opensource/) |  [Purchased Content Terms and Conditions](https://www.xfinity.com/terms/purchases/)
