@@ -1,7 +1,6 @@
-# Content from: https://www.whitehouse.gov/privacy/
-
-Selector used: main
-
+---
+url: "https://www.whitehouse.gov/privacy/"
+selector: "main"
 ---
 
 # Privacy Policy
