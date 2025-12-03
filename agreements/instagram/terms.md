@@ -1,7 +1,6 @@
-# Content from: https://help.instagram.com/581066165581870/
-
-Selector used: #help-center-faq-page-container
-
+---
+url: "https://help.instagram.com/581066165581870/"
+selector: "#help-center-faq-page-container"
 ---
 
 *   [Terms and Policies](/1417489251945243/?helpref=breadcrumb)
