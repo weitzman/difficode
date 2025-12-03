@@ -1,7 +1,6 @@
-# Content from: https://docs.github.com/en/site-policy/acceptable-use-policies/github-acceptable-use-policies
-
-Selector used: #article-contents
-
+---
+url: "https://docs.github.com/en/site-policy/acceptable-use-policies/github-acceptable-use-policies"
+selector: "#article-contents"
 ---
 
 **Short version:** *We host a wide variety of collaborative projects from all over the world, and that collaboration only works when our users are able to work together in good faith. While using the Service, you must comply with our Acceptable Use Policies, which include some restrictions on content and conduct on GitHub related to user safety, intellectual property, privacy, authenticity, and other limitations. In short, be excellent to each other.*
