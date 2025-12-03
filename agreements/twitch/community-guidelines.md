@@ -1,7 +1,6 @@
-# Content from: https://www.twitch.tv/p/en/legal/community-guidelines/
-
-Selector used: .tsc-article-body
-
+---
+url: "https://www.twitch.tv/p/en/legal/community-guidelines/"
+selector: ".tsc-article-body"
 ---
 
 ## Introduction to Safety on Twitch
