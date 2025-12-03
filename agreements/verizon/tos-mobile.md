@@ -1,7 +1,6 @@
-# Content from: https://www.verizon.com/support/website-use-legal/
-
-Selector used: #SupportContentWrapper
-
+---
+url: "https://www.verizon.com/support/website-use-legal/"
+selector: "#SupportContentWrapper"
 ---
 
 *   [Support](/support/ "Support") 
