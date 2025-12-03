@@ -1,7 +1,6 @@
-# Content from: https://openai.com/policies/terms-of-use
-
-Selector used: #main
-
+---
+url: "https://openai.com/policies/terms-of-use"
+selector: "#main"
 ---
 
 Terms of use | OpenAI
