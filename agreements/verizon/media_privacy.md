@@ -1,7 +1,6 @@
-# Content from: https://www.verizonmedia.com/policies/us/en/verizonmedia/privacy/index.html
-
-Selector used: main
-
+---
+url: "https://www.verizonmedia.com/policies/us/en/verizonmedia/privacy/index.html"
+selector: "main"
 ---
 
 ## Welcome to the Yahoo Privacy Policy
