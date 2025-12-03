@@ -1,7 +1,6 @@
-# Content from: https://stripe.com/privacy
-
-Selector used: main
-
+---
+url: "https://stripe.com/privacy"
+selector: "main"
 ---
 
 We've recently added a new data controller, Stripe Technology Company Limited, to our Privacy Center. For an overview of current Stripe data controllers please visit our [Privacy Center](https://stripe.com/legal/privacy-center#which-stripe-entities-are-involved).
