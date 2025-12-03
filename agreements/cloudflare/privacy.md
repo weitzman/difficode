@@ -1,7 +1,6 @@
-# Content from: https://www.cloudflare.com/privacypolicy/
-
-Selector used: div.site-content
-
+---
+url: "https://www.cloudflare.com/privacypolicy/"
+selector: "div.site-content"
 ---
 
 #### Privacy Policy
