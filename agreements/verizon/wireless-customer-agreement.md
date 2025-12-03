@@ -1,7 +1,6 @@
-# Content from: https://www.verizonwireless.com/legal/notices/customer-agreement/
-
-Selector used: #SupportContentWrapper
-
+---
+url: "https://www.verizonwireless.com/legal/notices/customer-agreement/"
+selector: "#SupportContentWrapper"
 ---
 
 *   [Support](/support/ "Support") 
