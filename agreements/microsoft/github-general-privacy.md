@@ -1,7 +1,6 @@
-# Content from: https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement
-
-Selector used: #article-contents
-
+---
+url: "https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement"
+selector: "#article-contents"
 ---
 
 ## [GitHub Privacy Statement](#github-privacy-statement)
