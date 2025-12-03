@@ -1,7 +1,6 @@
-# Content from: https://www.twitch.tv/p/en/legal/privacy-notice/
-
-Selector used: article
-
+---
+url: "https://www.twitch.tv/p/en/legal/privacy-notice/"
+selector: "article"
 ---
 
 # **Twitch.tv Privacy Notice**
