@@ -2,5 +2,16 @@
   "url": "https://discord.com/privacy",
   "selector": ".section-rich",
   "enabled": true,
-  "rules": []
+  "rules": [
+    {
+      "name": "remove-toc",
+      "filter": "a.link-terms",
+      "replacement": ""
+    },
+    {
+      "name": "remove-archive-link",
+      "filter": "a.archived-link",
+      "replacement": ""
+    }
+  ]
 }

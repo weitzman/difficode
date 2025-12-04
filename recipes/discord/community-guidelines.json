@@ -22,6 +22,16 @@
       "name": "remove-banner",
       "filter": "[class*='banner']",
       "replacement": ""
+    },
+    {
+      "name": "remove-toc",
+      "filter": "a.link-terms",
+      "replacement": ""
+    },
+    {
+      "name": "remove-archive-link",
+      "filter": "a.archived-link",
+      "replacement": ""
     }
   ]
 }
