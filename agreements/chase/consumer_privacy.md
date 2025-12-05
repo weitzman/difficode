@@ -3,7 +3,7 @@ url: "https://www.chase.com/digital/resources/privacy-security/privacy/consumer-
 selector: "div.detail__content"
 ---
 
-Last updated: September 2025
+Last updated: December 2025
 
 ## U.S. Consumer Privacy Notice
 
@@ -92,7 +92,7 @@ Call 1-888-868-8618 – our menu will prompt you through your choice(s). We acce
 
 **Who is providing this notice?**
 
-The U.S. consumer financial companies within the JPMorganChase family, including JPMorgan Chase Bank, N.A., Chase Insurance Agency, Inc., J.P. Morgan Securities LLC, and the Frosch family of companies, except where a JPMorganChase company issues a separate notice.
+The U.S. consumer financial companies within the JPMorganChase family, including JPMorgan Chase Bank, N.A., Chase Insurance Agency, Inc., J.P. Morgan Securities LLC, The Infatuation Inc. and the Frosch family of companies, except where a JPMorganChase company issues a separate notice.
 
 ## **What we do**
 
@@ -130,7 +130,7 @@ Your choices will apply to everyone on your account.
 
 Companies related by common ownership or control. They can be financial and nonfinancial companies.
 
-*   *Our affiliates include companies with a Chase or J.P. Morgan name and financial companies such as J.P. Morgan Securities LLC and the Frosch family of companies*
+*   *Our affiliates include companies with a Chase or J.P. Morgan name and financial companies such as J.P. Morgan Securities LLC, The Infatuation Inc. and the Frosch family of companies*
 
 **Nonaffiliates**
 
