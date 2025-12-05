@@ -1,0 +1,17 @@
+{
+  "url": "https://www.grubhub.com/legal/terms-of-use",
+  "selector": ".innerWrapper",
+  "enabled": true,
+  "rules": [
+    {
+      "name": "remove-cruft",
+      "filter": "#static-page-validation-id",
+      "replacement": ""
+    },
+    {
+      "name": "remove-cruft2",
+      "filter": "#static-page-validation",
+      "replacement": ""
+    }
+  ]
+}
