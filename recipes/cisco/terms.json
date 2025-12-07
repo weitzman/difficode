@@ -12,6 +12,11 @@
       "name": "remove-images",
       "filter": "img",
       "replacement": ""
+    },
+    {
+      "name": "remove-always-changing-link",
+      "filter": "#fw-breadcrumb",
+      "replacement": ""
     }
   ]
 }
