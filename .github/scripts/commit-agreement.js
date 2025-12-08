@@ -218,7 +218,7 @@ function generateFallbackMessage(agreementPath) {
 
   // Check if file is new or updated
   try {
-    execSync(`git diff --cached --quiet -- "${agreementPath}"`);
+    execSync(`git diff --cached --diff-filter=A -- "${agreementPath}"`);
     return `📄 Update ${provider} ${filename} agreement`;
   } catch {
     return `➕ Add ${provider} ${filename} agreement`;
