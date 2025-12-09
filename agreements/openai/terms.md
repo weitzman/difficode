@@ -7,7 +7,7 @@ Terms of use | OpenAI
 
 Select language
 
-English (United States)العربيةአማርኛArmenianবাংলাbosanskiбългарскиBurmesecatalàhrvatskičeštinadanskNederlandseestisuomifrançais (Canada)français (France)GeorgianDeutschΕλληνικάગુજરાતીहिन्दीmagyarIcelandicIndonesiaIrishitaliano日本語ಕನ್ನಡKazakh한국어latviešulietuviųMacedonianMelayuമലയാളംMalteseमराठीMongoliannorsk bokmålpolskiportuguês (Brasil)português (Portugal)românăрусскийslovenčinaslovenščinaсрпскиSomaliespañol (Latinoamérica)español (España)KiswahilisvenskaFilipinoதமிழ்తెలుగుไทยTürkçeукраїнськаاردوTiếng Việt中文 (中国)中文 (台灣)中文 (香港)
+English (United States)العربيةአማርኛArmenianবাংলাbosanskiбългарскиBurmesecatalàhrvatskičeštinadanskNederlandseestiفارسیsuomifrançais (Canada)français (France)GeorgianDeutschΕλληνικάગુજરાતીहिन्दीmagyarIcelandicIndonesiaIrishitaliano日本語ಕನ್ನಡKazakh한국어latviešulietuviųMacedonianMelayuമലയാളംMalteseमराठीMongoliannorsk bokmålpolskiportuguês (Brasil)português (Portugal)românăрусскийslovenčinaslovenščinaсрпскиSomaliespañol (Latinoamérica)español (España)KiswahilisvenskaFilipinoதமிழ்తెలుగుไทยTürkçeукраїнськаاردوTiếng Việt中文 (中国)中文 (台灣)中文 (香港)
 
 Published: December 11, 2024
 
