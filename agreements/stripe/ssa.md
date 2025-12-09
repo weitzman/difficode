@@ -7,6 +7,8 @@ The Stripe Services Agreement governs the use of Stripe by our business users. I
 
 *Read more about the Stripe Services Agreement and its structure in our* [*Overview & FAQs*](https://stripe.com/legal/ssa-overview)*.*
 
+*For informational purposes only, we have translated the Stripe Services Agreement into selected languages* [*here*](https://stripe.com/legal/ssa-translations)*.*
+
 *Read more about the changes made November 18, 2025* [*here*](https://support.stripe.com/questions/stripe-user-terms-update-november-18-2025)*.*
 
 The Stripe Services Agreement (the “**Agreement**”) is an agreement between you or the entity you represent (“**User**”) and the applicable Stripe entity specified in Section 12 (Definitions) (“**Stripe**”) and governs User’s access to and use of the Services and Stripe Technology. The Agreement consists of the General Terms (which apply to all Services and Stripe Technology), all Service Terms that apply to User’s use of specific Services and Stripe Technology, and any other terms incorporated into the Agreement. The Regional Terms located in Section 13 (Regional Terms) of the General Terms apply based on User’s Stripe Account Country.
