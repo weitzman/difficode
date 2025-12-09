@@ -182,9 +182,9 @@ We may change our Service and policies, and we may need to make changes to these
 
 [Why your account has been restricted for data scraping and what can you do](/740480200552298/?helpref=related_articles)
 
-[How long does copyright protection last?](/1896184403962569/?helpref=related_articles)
-
 [More information about Standard Contractual Clauses](/272603474673152/?helpref=related_articles)
+
+[How long does copyright protection last?](/1896184403962569/?helpref=related_articles)
 
 Related Articles
 
@@ -214,12 +214,12 @@ Why your account has been restricted for data scraping and what can you do
 
 [
 
-How long does copyright protection last?
-
-](/1896184403962569/?helpref=related_articles)
-
-[
-
 More information about Standard Contractual Clauses
 
 ](/272603474673152/?helpref=related_articles)
+
+[
+
+How long does copyright protection last?
+
+](/1896184403962569/?helpref=related_articles)
