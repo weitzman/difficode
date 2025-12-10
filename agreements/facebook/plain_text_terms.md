@@ -39,7 +39,7 @@ selector: "#root"
 
 Effective January 1, 2025
 
-Meta builds technologies and services that enable people to connect with each other, build communities, and grow businesses. These Terms of Service (the "Terms") govern your access and use of Facebook, Messenger, and the other products, websites, features, apps, services, technologies, and software we offer (the [Meta Products](https://www.facebook.com/help/1561485474074139) or Products), except where we expressly state that separate terms (and not these) apply. (For example, your use of Instagram is subject to the Instagram Terms of Use). These Products are provided to you by Meta Platforms, Inc. These Terms therefore constitute an agreement between you and Meta Platforms, Inc. If you do not agree to these Terms, then do not access or use Facebook or the other products and services covered by these Terms.
+Meta builds technologies and services that enable people to connect with each other, build communities, and grow businesses. These Terms of Service (the "Terms") govern your access and use of Facebook, Messenger, and the other products, websites, features, apps, services, technologies, and software we offer (the [Meta Products](https://facebook.com/legal/meta-products) or Products), except where we expressly state that separate terms (and not these) apply. (For example, your use of Instagram is subject to the Instagram Terms of Use). These Products are provided to you by Meta Platforms, Inc. These Terms therefore constitute an agreement between you and Meta Platforms, Inc. If you do not agree to these Terms, then do not access or use Facebook or the other products and services covered by these Terms.
 
 These Terms (formerly known as the Statement of Rights and Responsibilities) make up the entire agreement between you and Meta Platforms, Inc. regarding your use of our Products. They supersede any prior agreements.
 
@@ -55,7 +55,7 @@ What Products do these Terms cover?
 
 ![](https://static.xx.fbcdn.net/rsrc.php/v4/yf/r/8Hrej50UHOv.png)
 
-](https://www.facebook.com/help/1561485474074139)
+](https://facebook.com/legal/meta-products)
 
 [Return to top![](https://static.xx.fbcdn.net/rsrc.php/v4/yC/r/si3BXjWAx4Y.png)](#)
 
@@ -81,7 +81,7 @@ We show you personalized ads, offers, and other sponsored or commercial content 
 
 ## 1.5 Promote the safety, security, and integrity of our services, combat harmful conduct and keep our community of users safe:
 
-People will only build community on Meta Products if they feel safe and secure. We work hard to maintain the security (including the availability, authenticity, integrity, and confidentiality) of our Products and services. We employ dedicated teams around the world, work with external service providers, partners and other relevant entities and develop advanced technical systems to detect potential misuse of our Products, harmful conduct towards others, and situations where we may be able to help support or protect our community, including to respond to user reports of potentially violating content. If we learn of content or conduct like this, we may take appropriate action based on our assessment that may include - notifying you, offering help, removing content, removing or restricting access to certain features, disabling an account, or contacting law enforcement. We share data across [Meta Companies](https://www.facebook.com/help/111814505650678?ref=tos&entry_point=POLICY_SECTION%3Asection_1) when we detect misuse or harmful conduct by someone using one of our Products or to help keep Meta Products, users and the community safe. For example, we share information with Meta Companies that provide financial products and services to help them promote safety, security and integrity and comply with applicable law. Meta may access, preserve, use and share any information it collects about you where it has a good faith belief it is required or permitted by law to do so. For more information, please review our [Privacy Policy](https://www.facebook.com/privacy/policy?entry_point=POLICY_SECTION%3Asection_1).
+People will only build community on Meta Products if they feel safe and secure. We work hard to maintain the security (including the availability, authenticity, integrity, and confidentiality) of our Products and services. We employ dedicated teams around the world, work with external service providers, partners and other relevant entities and develop advanced technical systems to detect potential misuse of our Products, harmful conduct towards others, and situations where we may be able to help support or protect our community, including to respond to user reports of potentially violating content. If we learn of content or conduct like this, we may take appropriate action based on our assessment that may include - notifying you, offering help, removing content, removing or restricting access to certain features, disabling an account, or contacting law enforcement. We share data across [Meta Companies](https://www.facebook.com/legal/meta-companies?entry_point=POLICY_SECTION%3Asection_1) when we detect misuse or harmful conduct by someone using one of our Products or to help keep Meta Products, users and the community safe. For example, we share information with Meta Companies that provide financial products and services to help them promote safety, security and integrity and comply with applicable law. Meta may access, preserve, use and share any information it collects about you where it has a good faith belief it is required or permitted by law to do so. For more information, please review our [Privacy Policy](https://www.facebook.com/privacy/policy?entry_point=POLICY_SECTION%3Asection_1).
 
 In some cases, the Oversight Board may review our decisions, subject to its terms and bylaws. Learn more [here](https://www.oversightboard.com/?entry_point=POLICY_SECTION%3Asection_1).
 
@@ -95,7 +95,7 @@ We engage in research to develop, test, and improve our Products. This includes 
 
 ## 1.8 Provide consistent and seamless experiences across the Meta Company Products:
 
-Our Products help you find and connect with people, groups, businesses, organizations, and others that are important to you. We design our systems so that your experience is consistent and seamless across the different [Meta Company Products](https://www.facebook.com/help/195227921252400?ref=tos&entry_point=POLICY_SECTION%3Asection_1) that you use. For example, we use data about the people you engage with on Facebook to make it easier for you to connect with them on Instagram or Messenger, and we enable you to communicate with a business you follow on Facebook through Messenger.
+Our Products help you find and connect with people, groups, businesses, organizations, and others that are important to you. We design our systems so that your experience is consistent and seamless across the different [Meta Company Products](https://www.facebook.com/legal/meta-company-products?entry_point=POLICY_SECTION%3Asection_1) that you use. For example, we use data about the people you engage with on Facebook to make it easier for you to connect with them on Instagram or Messenger, and we enable you to communicate with a business you follow on Facebook through Messenger.
 
 ## 1.9 Ensuring access to our services:
 
@@ -105,7 +105,7 @@ To operate our global services and enable you to connect with people around the 
 
 # 2\. How our services are funded
 
-Instead of paying to use Facebook and the other products and services we offer, by using the Meta Products covered by these Terms, you agree that we can show you personalized ads and other commercial and sponsored content that businesses and organizations pay us to promote on and off [Meta Company Products](https://www.facebook.com/help/195227921252400?ref=tos&entry_point=POLICY_SECTION%3Asection_2). We use your personal data, such as information about your activity and interests, to show you personalized ads and sponsored content that may be more relevant to you.
+Instead of paying to use Facebook and the other products and services we offer, by using the Meta Products covered by these Terms, you agree that we can show you personalized ads and other commercial and sponsored content that businesses and organizations pay us to promote on and off [Meta Company Products](https://facebook.com/legal/meta-products?entry_point=POLICY_SECTION%3Asection_2). We use your personal data, such as information about your activity and interests, to show you personalized ads and sponsored content that may be more relevant to you.
 
 Protecting people's privacy is central to how we've designed our personalized ads system. This means that we can show you relevant and useful ads without telling advertisers who you are. We don't sell your personal data. We allow advertisers to tell us things like their business goal, and the kind of audience they want to see their ads (for example, people between the age of 18-35 who like cycling). We then show their ad to people who we think might be interested.
 
@@ -165,7 +165,7 @@ We need certain permissions from you to provide our services:
 
 **1\. Your content:** Some content that you share or upload, such as photos or videos, may be protected by intellectual property laws.
 
-You retain ownership of the intellectual property rights (things like copyright or trademarks) in any such content that you create and share on Facebook and other [Meta Company Products](https://www.facebook.com/help/195227921252400?ref=tos) you use. Nothing in these Terms takes away the rights you have to your own content. You are free to share your content with anyone else, wherever you want.
+You retain ownership of the intellectual property rights (things like copyright or trademarks) in any such content that you create and share on Facebook and other [Meta Company Products](https://www.facebook.com/legal/meta-company-products) you use. Nothing in these Terms takes away the rights you have to your own content. You are free to share your content with anyone else, wherever you want.
 
 However, to provide our services we need you to give us some legal permissions (known as a "license") to use this content. This is solely for the purposes of providing and improving our Products and services as described in Section 1 above.
 
