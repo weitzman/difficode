@@ -15,7 +15,7 @@ This notice describes the personal data (“data”) we collect, how it’s used
 
 Uber Privacy Notice: Drivers and Delivery People
 
-](https://www.uber.com/global/en/privacy-notice-drivers-delivery-people/)
+](https://www.uber.com/us/en/privacy-notice-drivers-delivery-people/)
 
 [
 
@@ -23,33 +23,33 @@ Previous version of the Privacy Notice
 
 ](https://uber.box.com/s/ku2tnx2vo607q86qfdg3scfu2mjm9pyq)
 
-### I. [Overview](https://www.uber.com/global/en/privacy-notice-riders-order-recipients/#overview)
+### I. [Overview](https://www.uber.com/us/en/privacy-notice-riders-order-recipients/#overview)
 
-### II. [Data collections and uses](https://www.uber.com/global/en/privacy-notice-riders-order-recipients/#data-we-collect)
+### II. [Data collections and uses](https://www.uber.com/us/en/privacy-notice-riders-order-recipients/#data-we-collect)
 
-####   A. [The data we collect](https://www.uber.com/global/en/privacy-notice-riders-order-recipients/#data-we-collect)
+####   A. [The data we collect](https://www.uber.com/us/en/privacy-notice-riders-order-recipients/#data-we-collect)
 
-####   B. [How we use data](https://www.uber.com/global/en/privacy-notice-riders-order-recipients/#how-we-use-data)
+####   B. [How we use data](https://www.uber.com/us/en/privacy-notice-riders-order-recipients/#how-we-use-data)
 
-####   C. [Core automated processes](https://www.uber.com/global/en/privacy-notice-riders-order-recipients/#core-automated-processes)
+####   C. [Core automated processes](https://www.uber.com/us/en/privacy-notice-riders-order-recipients/#core-automated-processes)
 
-####   D. [Cookies and related technologies](https://www.uber.com/global/en/privacy-notice-riders-order-recipients/#cookies)
+####   D. [Cookies and related technologies](https://www.uber.com/us/en/privacy-notice-riders-order-recipients/#cookies)
 
-####   E. [Data sharing and disclosure](https://www.uber.com/global/en/privacy-notice-riders-order-recipients/#data-sharing-disclosure)
+####   E. [Data sharing and disclosure](https://www.uber.com/us/en/privacy-notice-riders-order-recipients/#data-sharing-disclosure)
 
-####   F. [Data retention and deletion](https://www.uber.com/global/en/privacy-notice-riders-order-recipients/#data-retention-deletion)
+####   F. [Data retention and deletion](https://www.uber.com/us/en/privacy-notice-riders-order-recipients/#data-retention-deletion)
 
-### III. [Choice and transparency](https://www.uber.com/global/en/privacy-notice-riders-order-recipients/#choice-transparency)
+### III. [Choice and transparency](https://www.uber.com/us/en/privacy-notice-riders-order-recipients/#choice-transparency)
 
-### IV. [Legal information](https://www.uber.com/global/en/privacy-notice-riders-order-recipients/#legal-information)
+### IV. [Legal information](https://www.uber.com/us/en/privacy-notice-riders-order-recipients/#legal-information)
 
-####   A. [Data controllers and Data Protection Officer](https://www.uber.com/global/en/privacy-notice-riders-order-recipients/#data-controllers-data-protection-officer)
+####   A. [Data controllers and Data Protection Officer](https://www.uber.com/us/en/privacy-notice-riders-order-recipients/#data-controllers-data-protection-officer)
 
-####   B. [Our legal bases for using your data](https://www.uber.com/global/en/privacy-notice-riders-order-recipients/#our-legal-bases-for-using-your-data)
+####   B. [Our legal bases for using your data](https://www.uber.com/us/en/privacy-notice-riders-order-recipients/#our-legal-bases-for-using-your-data)
 
-####   C. [Legal framework for data transfers](https://www.uber.com/global/en/privacy-notice-riders-order-recipients/#legal-framework-for-data-transfers)
+####   C. [Legal framework for data transfers](https://www.uber.com/us/en/privacy-notice-riders-order-recipients/#legal-framework-for-data-transfers)
 
-####   D. [Updates to this Privacy Notice](https://www.uber.com/global/en/privacy-notice-riders-order-recipients/#updates-to-this-privacy-notice)
+####   D. [Updates to this Privacy Notice](https://www.uber.com/us/en/privacy-notice-riders-order-recipients/#updates-to-this-privacy-notice)
 
 ## I. Overview
 
@@ -68,7 +68,7 @@ This notice specifically applies if you:
 *   Receive services through Uber’s apps or websites requested by others (a “Guest User”). This includes those who receive ride or delivery services ordered by [Uber Health](https://www.uberhealth.com/), [Central](https://www.uber.com/us/en/business/products/central/), [Uber Direct](https://merchants.ubereats.com/us/en/services/uber-direct/) or [Uber for Business](https://www.uber.com/us/en/business/?utm_campaign=CM2038103-search-google-brand_1_-99_US-National_u4business-ss_all_acq_cpa_en_Travel_Exact_TiS_EXP_Sep2020_uber%20corporate%20account_kwd-302462675969_442302625866_118105149108_e_c&utm_medium=cpc-brand&utm_source=Adwords_Brand) customers (collectively, “Enterprise Customers”), or by friends, family members or other individual account owners, including via [Uber Connect](https://www.uber.com/us/en/item-delivery/). This also includes those who receive Uber gift cards.
     
 
-This notice does **not** describe Uber’s collection and use of your data if you use Uber to provide (instead of request or receive) services through Uber’s app or websites, including as a driver or delivery person. Uber’s notice describing our collection and use of such data is available [here](https://www.uber.com/global/en/privacy-notice-drivers-delivery-people/*). Those who use Uber to either request, receive or provide services are referred to as “users” in this notice.
+This notice does **not** describe Uber’s collection and use of your data if you use Uber to provide (instead of request or receive) services through Uber’s app or websites, including as a driver or delivery person. Uber’s notice describing our collection and use of such data is available [here](https://www.uber.com/us/en/privacy-notice-drivers-delivery-people/*). Those who use Uber to either request, receive or provide services are referred to as “users” in this notice.
 
 Our privacy practices are subject to applicable laws in the places in which we operate. The types of data processing that such laws require, allow, or prohibit vary globally. Therefore, if you travel across national, state or other geographic borders, Uber's data processing practices described in this notice may differ from those in your home country or territory.
 
@@ -429,7 +429,7 @@ If you live in the EEA, UK or Switzerland, please note the following:
 
 *   **Scope.** Uber’s DPF certification applies to personal data originating from the EEA, UK or Switzerland.
 *   **Access.** You have the right to access your personal data that is subject to Uber’s DPF certification. For information on how to exercise this right, please see “Choice and transparency” above.
-*   **Onward transfer.** Uber is responsible for the transfer of personal data, subject to its certification to third parties. For information regarding the parties to whom Uber may transfer personal data, please see “[**Data sharing and disclosure**](https://www.uber.com/global/en/privacy-notice-riders-order-recipients/#data-sharing-disclosure)" above.
+*   **Onward transfer.** Uber is responsible for the transfer of personal data, subject to its certification to third parties. For information regarding the parties to whom Uber may transfer personal data, please see “[**Data sharing and disclosure**](https://www.uber.com/us/en/privacy-notice-riders-order-recipients/#data-sharing-disclosure)" above.
 *   **Request from law enforcement.** Uber is required under applicable law to share user data, including that which may be subject to Uber’s certification, pursuant to legal process or governmental request, including from law enforcement.
 *   **Investigation and enforcement.** Uber is subject to the investigatory and enforcement powers of the US Federal Trade Commission.
 *   **Questions and disputes.** In compliance with the EU-US DPF, the UK Extension to the EU-US DPF, and the Swiss-US DPF, Uber commits to cooperate and comply respectively with the advice of the panel established by the EU data protection authorities (DPAs) and the UK Information Commissioner’s Office (ICO) and the Swiss Federal Data Protection and Information Commissioner (FDPIC) with regard to unresolved complaints concerning our handling of personal data received in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF. You may contact Uber [here](https://help.uber.com/riders/article/submit-a-privacy-inquiry?nodeId=489292a2-27ce-42f5-9a47-d4dd017559fd) with questions regarding our compliance with these Principles. You may also refer a complaint to your local data protection authority, and Uber will work with that authority to resolve that complaint. In certain circumstances, the DPF provides the right to invoke binding arbitration to resolve complaints not resolved by other means, as described in Annex I to the [DPF Principles](https://www.dataprivacyframework.gov/framework-article/ANNEX-I-introduction).
