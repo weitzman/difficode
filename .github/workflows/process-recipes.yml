@@ -176,7 +176,10 @@ jobs:
         run: |
           echo "Processing agreement files..."
           echo "${{ steps.find_agreements.outputs.agreements }}" | while IFS= read -r agreement_file; do
-            if [ -n "$agreement_file" ]; then
+            # If file was deleted, remove from git
+            if [ ! -e "$agreement_file" ]; then
+              git rm "$agreement_file" && git commit -m "Delete $agreement_file"
+            elif [ -n "$agreement_file" ]; then
               .github/scripts/commit-agreement.js "$agreement_file"
             fi
           done     

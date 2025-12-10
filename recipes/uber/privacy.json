@@ -1,7 +1,8 @@
 {
   "url": "https://www.uber.com/global/en/privacy/notice/",
   "selector": "[data-testid='content-group-dynamic']",
-  "enabled": true,
+  "enabled": false,
+  "reason": "TOC links keep changing from /us to /global and back",
   "rules": [
     {
       "name": "remove-nav",
