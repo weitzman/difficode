@@ -19,7 +19,7 @@ Looking to change your privacy settings?
 
 [Take the Privacy Checkup](https://myaccount.google.com/privacycheckup?utm_source=pp&utm_medium=Promo-in-product&utm_campaign=pp_intro)
 
-Effective July 1, 2025 | [Archived versions](privacy/archive) | [Download PDF](https://www.gstatic.com/policies/privacy/pdf/20250701/au717dgi/google_privacy_policy_en_us.pdf)
+Effective December 11, 2025 | [Archived versions](privacy/archive) | [Download PDF](https://www.gstatic.com/policies/privacy/pdf/20251211/mfsjkv52/google_privacy_policy_en_us.pdf)
 
 ## Contents
 
@@ -835,6 +835,9 @@ These laws include:
 *   Tennessee Information Protection Act (TIPA)
 *   Minnesota Consumer Data Privacy Act (MNCDPA)
 *   Maryland Online Data Privacy Act of 2024 (MDODPA)
+*   Indiana Consumer Data Protection Act (INCDPA)
+*   Kentucky Consumer Data Protection Act (KCDPA)
+*   Rhode Island Data Transparency and Privacy Protection Act (RIDTPPA)
 
 ### use the information we collect across our services
 
