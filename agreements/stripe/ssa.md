@@ -237,7 +237,7 @@ Except for Excluded Claims, to the maximum extent permitted by Law, neither part
 
 **8.4 Liability Cap.**
 
-Except for Excluded Claims, a Party’s total aggregate liability for damages and Losses for all claims arising out of or relating to the Agreement (including Data Incident Losses) is limited to the total Fees User paid to Stripe (excluding all pass-through fees levied by Financial Providers) during the 12 month period before the first event giving rise to liability. User’s payment obligations, including Fees, Assessed Fines and Taxes are not limited by this Section 8.4.
+Except for Excluded Claims, a party’s total aggregate liability for damages and Losses for all claims arising out of or relating to the Agreement (including Data Incident Losses) is limited to the total Fees User paid to Stripe (excluding all pass-through fees levied by Financial Providers) during the 12 month period before the first event giving rise to liability. User’s payment obligations, including Fees, Assessed Fines and Taxes are not limited by this Section 8.4.
 
 ### **9\. Indemnification.**
 
