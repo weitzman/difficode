@@ -3,39 +3,39 @@ url: "https://www.uber.com/legal/terms/us/"
 selector: "[data-testid='content-group-dynamic']"
 ---
 
-Last modified: 10/13/2025
+Last modified: 12/12/2025
 
   
 
-# U.S. Terms of Use
+# **U.S. Terms of Use**
 
-1\. [Contractual Relationship; Termination; and Modification](#_qobstazhla4g)
+1\. [Contractual Relationship; Termination; and Modification](https://www.uber.com/legal/en/document/?name=general-terms-of-use&country=united-states&lang=en#_qobstazhla4g)
 
-2. [Arbitration Agreement](#_uz6wxbafm6n3)
+2. [Arbitration Agreement](https://www.uber.com/legal/en/document/?name=general-terms-of-use&country=united-states&lang=en#_uz6wxbafm6n3)
 
-3. [The Services](#_2gyo56p6pjpi)
+3. [The Services](https://www.uber.com/legal/en/document/?name=general-terms-of-use&country=united-states&lang=en#_2gyo56p6pjpi)
 
-4\. [Third-Party Services (including Autonomous Vehicles) and Content](#_mb65keo3hmzi)
+4\. [Third-Party Services (including Autonomous Vehicles) and Content](https://www.uber.com/legal/en/document/?name=general-terms-of-use&country=united-states&lang=en#_mb65keo3hmzi)
 
-5\. [Accessing the Services](#_27lgxzuvgfea)
+5\. [Accessing the Services](https://www.uber.com/legal/en/document/?name=general-terms-of-use&country=united-states&lang=en#_27lgxzuvgfea)
 
-6\. [User Conduct and Requirements; Communications; and User Content](#_m3gvp8crr0f7)
+6\. [User Conduct and Requirements; Communications; and User Content](https://www.uber.com/legal/en/document/?name=general-terms-of-use&country=united-states&lang=en#_m3gvp8crr0f7)
 
-7. [Payment](#_rvuzf7glhu09)
+7. [Payment](https://www.uber.com/legal/en/document/?name=general-terms-of-use&country=united-states&lang=en#_rvuzf7glhu09)
 
-8[. Disclaimers; Limitation of Liability; and Indemnity](#_ja80a6yr7t4q)
+8[. Disclaimers; Limitation of Liability; and Indemnity](https://www.uber.com/legal/en/document/?name=general-terms-of-use&country=united-states&lang=en#_ja80a6yr7t4q)
 
-9\. [Other Provisions](#_loahhohjgdtd)
+9\. [Other Provisions](https://www.uber.com/legal/en/document/?name=general-terms-of-use&country=united-states&lang=en#_loahhohjgdtd)
 
 IMPORTANT: PLEASE BE ADVISED THAT BY AGREEING TO THESE TERMS YOU ARE WAIVING YOUR RIGHT TO SEEK RELIEF IN A COURT OF LAW AND WAIVING YOUR RIGHT TO HAVE A JURY TRIAL ON YOUR CLAIMS.
 
-PLEASE READ THESE TERMS OF SERVICE CAREFULLY AS THEY CONTAIN PROVISIONS THAT GOVERN HOW YOU CAN BRING CLAIMS BETWEEN YOU AND UBER, INCLUDING THE [ARBITRATION AGREEMENT](#_uz6wxbafm6n3) IN SECTION 2 BELOW. THE ARBITRATION AGREEMENT REQUIRES YOU TO RESOLVE ALL DISPUTES WITH UBER ON AN INDIVIDUAL BASIS AND, WITH LIMITED EXCEPTIONS, THROUGH FINAL AND BINDING ARBITRATION. THESE TERMS OF SERVICE OUTLINE HOW SUCH CLAIMS ARE RESOLVED, INCLUDING, WITHOUT LIMITATION, ANY CLAIMS THAT AROSE OR WERE ASSERTED BEFORE THE EFFECTIVE DATE OF THESE TERMS OF SERVICE. BY AGREEING TO THESE TERMS OF SERVICE, YOU EXPRESSLY ACKNOWLEDGE THAT YOU HAVE READ AND UNDERSTOOD ALL OF THEM AND HAVE TAKEN TIME TO CONSIDER THE CONSEQUENCES OF THIS IMPORTANT DECISION.
+PLEASE READ THESE TERMS OF SERVICE CAREFULLY AS THEY CONTAIN PROVISIONS THAT GOVERN HOW YOU CAN BRING CLAIMS BETWEEN YOU AND UBER, INCLUDING THE [ARBITRATION AGREEMENT](https://www.uber.com/legal/en/document/?name=general-terms-of-use&country=united-states&lang=en#_uz6wxbafm6n3) IN SECTION 2 BELOW. THE ARBITRATION AGREEMENT REQUIRES YOU TO RESOLVE ALL DISPUTES WITH UBER ON AN INDIVIDUAL BASIS AND, WITH LIMITED EXCEPTIONS, THROUGH FINAL AND BINDING ARBITRATION. THESE TERMS OF SERVICE OUTLINE HOW SUCH CLAIMS ARE RESOLVED, INCLUDING, WITHOUT LIMITATION, ANY CLAIMS THAT AROSE OR WERE ASSERTED BEFORE THE EFFECTIVE DATE OF THESE TERMS OF SERVICE. BY AGREEING TO THESE TERMS OF SERVICE, YOU EXPRESSLY ACKNOWLEDGE THAT YOU HAVE READ AND UNDERSTOOD ALL OF THEM AND HAVE TAKEN TIME TO CONSIDER THE CONSEQUENCES OF THIS IMPORTANT DECISION.
 
 These Terms of Service (“Terms of Service”) constitute a legally binding agreement between you and Uber Technologies, Inc. and its subsidiaries, representatives, affiliates, officers and directors (collectively, “Uber”) governing your use of Uber’s personalized, multipurpose, digital marketplace platform (“Uber Marketplace Platform”) and any related content or services, including but not limited to mobile and/or web-based applications (“Applications” or the “Uber App,” and together with the Uber Marketplace Platform, the “Services”).
 
 Notwithstanding the foregoing, if you choose, now or in the future, to provide transportation (e.g., ride-hailing, ridesharing and commercial transportation), logistics (e.g., freight), delivery (e.g., food, packages, and other goods) and other services (collectively, “Third-Party Services”), these Terms of Service do not supersede or otherwise impact the enforceability of any agreements you may have with Uber or its subsidiaries regarding such Third-Party Services (e.g., the Platform Access Agreement, the Technology Services Agreement and/or any similar agreements). To the extent (but only to the extent) any agreement you may have with Uber regarding Third-Party Services you provide conflicts with these Terms of Service, those agreements (and not these Terms of Service) will prevail with respect to any disputes arising from your provision of Third-Party Services; otherwise, any relevant provisions in these Terms of Service apply.
 
-### 1\. Contractual Relationship; Termination; and Modification
+### **1\. Contractual Relationship; Termination; and Modification**
 
 In addition to these Terms of Service, your access to, and use of the Services is also governed by the applicable terms found on our website. These include but are not limited to: the [Privacy Notice](https://www.uber.com/privacy/notice), which describes how we collect, use, and disclose your personal information; the [User Generated Content Terms;](https://www.uber.com/legal/en/document/?country=united-states&lang=en&name=user-generated-content-policy) [Community Guidelines](https://www.uber.com/legal/community-guidelines/us-can-en/); [Referral Policies](https://www.uber.com/legal/referral-program-rules/referral-terms-us-can-en/); the [ADT Mobile Security Monitoring Terms](https://www.adt.com/about-adt/legal/mobile-monitoring-terms) and Uber’s other applicable Uber standards and policies (including, without limitation, Uber’s safety standards, the [accessibility policies,](https://accessibility.uber.com/) and the [U.S. Service Animal Policy](https://accessibility.uber.com/service-animal-policy/)), which we refer to collectively as the “Supplemental Terms.”
 
@@ -51,7 +51,7 @@ Modification.
 
 Uber reserves the right to modify these Terms or its policies relating to the Services at any time, effective upon posting of an updated version of these Terms through the Services or Uber’s website. You should regularly review these Terms, as your continued use of the Services after any such changes constitutes your agreement to such changes.
 
-### 2\. Arbitration Agreement
+### **2\. Arbitration Agreement**
 
 By agreeing to these Terms, you agree that you are required to resolve any claim that you may have against Uber on an individual basis in binding arbitration as set forth in this Arbitration Agreement, and not as a class, collective, coordinated, consolidated, mass and/or representative action. Binding arbitration is a procedure in which a dispute is submitted to one or more arbitrators who make a binding decision on the dispute. In choosing binding arbitration, you and Uber are opting for a private dispute resolution procedure where you agree to accept the arbitrator’s decision as final instead of going to court. You and Uber are each waiving your right to a jury trial.
 
@@ -157,7 +157,7 @@ Any and all disputes regarding a party’s obligation to pay any arbitration fee
 
 If any portion of this Arbitration Agreement is found to be unenforceable or unlawful for any reason, (i) the unenforceable or unlawful provision shall be severed from these Terms; (ii) severance of the unenforceable or unlawful provision shall have no impact whatsoever on the remainder of the Arbitration Agreement or the parties’ ability to compel arbitration of any remaining claims on an individual basis pursuant to the Arbitration Agreement; and (iii) to the extent that any claims must therefore proceed on a class, collective, consolidated, or representative basis, such claims must be litigated in a civil court of competent jurisdiction and not in arbitration, and the parties agree that litigation of those claims shall be stayed pending the outcome of any individual claims in arbitration.
 
-### 3\. The Services
+### **3\. The Services**
 
 The Services enable you and other consumers to find, request, or receive (i) Third-Party Services from third party service providers, including without limitation, merchants, retailers, grocers, restaurants, independent drivers, delivery persons, and autonomous vehicles or autonomous vehicle fleet providers (“Third-Party Providers”); (ii) related personalized content, including features, recommendations and advertisements for products or services tailored to your needs and interests; and (iii) certain supporting services, including providing you the ability to express certain preferences about the Third-Party Services or Third-Party Providers, payment processing and customer support. Unless otherwise agreed by Uber in a separate written agreement with you, these Services are made available solely for your personal, noncommercial use.
 
@@ -175,15 +175,15 @@ The Services and all rights, title, and interest, including all related intellec
 
 Subject to your compliance with these Terms, Uber grants you a limited, non-exclusive, non-sublicensable, revocable, non-transferable license to: (i) access and use the Uber App solely in connection with your use of the Services on your personal device; and (ii) access and use any content, information and related materials that may be made available through the Services, in each case solely for your personal, noncommercial use. Any rights not expressly granted herein are reserved by Uber and Uber’s licensors. You agree that you will not use Uber’s copyrights, trademarks, service marks, or trade dress, aside from use incidental to your use of the Services, without express, written permission from Uber. This prohibition includes use in domain names, websites, and social media accounts. You may not: (i) remove any copyright, trademark or other proprietary notices from any portion of the Services; (ii) reproduce, modify, prepare derivative works based upon, distribute, license, lease, sell, resell, transfer, publicly display, publicly perform, transmit, stream, broadcast or otherwise exploit the Services except as expressly permitted by Uber; (iii) decompile, reverse engineer or disassemble the Services except as may be permitted by applicable law; (iv) link to, mirror or frame any portion of the Services; (v) cause or launch any programs or scripts for the purpose of, or which result in, unduly burdening or hindering the operation and/or functionality of any aspect of the Services; or (vi) attempt to gain unauthorized access to or impair any aspect of the Services or its related systems or networks.
 
-### 4\. Third-Party Services (including Autonomous Vehicles) and Content
+### **4\. Third-Party Services (including Autonomous Vehicles) and Content**
 
 While many Third-Party Services are available in the Uber App, certain Third-Party Services or content are only accessible by exiting the Uber App (“Out-of-App Experiences”). Once you click on a link to access Out-of-App Experiences, you will be subject to the terms and conditions and privacy policy of that website, destination, or Out-of-App Experience provider, which are different from Uber’s. Uber will not warn you that you have left the Services or that you are subject to the terms and conditions (including privacy policies) of another website, destination, or Out-of-App Experience provider. You use all links in third-party websites and advertisements at your own risk as these are not part of the Services and are not controlled by Uber. Uber does not endorse such Out-of-App Experience providers and in no event shall Uber be responsible or liable for any products or services of such providers.
 
-Third-Party Services made available to you through the Uber App may be provided by an autonomous vehicle. An autonomous vehicle is a vehicle that is capable of operating at, or is equipped with an automated driving system that will enable the vehicle to operate at SAE Levels 3, 4 or 5 of driving automation as defined in the J3016 April 2021 SAE International specification (“Autonomous Vehicle” or “AV”). Autonomous Vehicles are operated by Third-Party Providers that operate a fleet of one or more AVs and may employ or contract with individuals to manage, monitor, or operate its AVs while such vehicles are in motion (such Third-Party Providers, "Autonomous Vehicle Fleet Providers"). Your access to Third-Party Services provided by AV may be subject to Autonomous Vehicle Fleet Providers' terms including [Waymo’s Terms of Service](https://support.google.com/waymo/answer/9184909), which are incorporated herein by reference.
+Third-Party Services made available to you through the Uber App may be provided by an autonomous vehicle. An autonomous vehicle is a vehicle that is capable of operating at, or is equipped with an automated driving system that will enable the vehicle to operate at SAE Levels 3, 4 or 5 of driving automation as defined in the J3016 April 2021 SAE International specification (“Autonomous Vehicle” or “AV”). Autonomous Vehicles are operated by Third-Party Providers that operate a fleet of one or more AVs and may employ or contract with individuals to manage, monitor, or operate its AVs while such vehicles are in motion (such Third-Party Providers, "Autonomous Vehicle Fleet Providers"). Your access to Third-Party Services provided by AV may be subject to Autonomous Vehicle Fleet Providers' [terms](https://help.uber.com/riders/article/autonomous-vehicle-terms-of-service?nodeId=901fa969-09ec-4698-850a-6645d5b46cb1), which are incorporated herein by reference.
 
 Third-Party Services may be subject to additional terms, conditions, fees, and policies imposed by the Third-Party Provider. In the event of a conflict in the terms of any Third-Party Services and these Terms, these Terms shall control with respect to Uber and your agreements with Uber herein, and the limitations of liability set forth in Section 8 shall also apply to claims involving a Third-Party Provider. The Arbitration Agreement provisions in Section 2 above shall apply instead of the terms of any Third-Party Services for all purposes except with respect to claims that are solely against the Third-Party Provider.
 
-### 5\. Accessing the Services
+### **5\. Accessing the Services**
 
 **User Accounts.**
 
@@ -203,7 +203,7 @@ Network Access and Devices.
 
 You are responsible for obtaining the data network access necessary to use the Services. Your mobile network's data and messaging rates and fees may apply if you access or use the Services from your device. You are responsible for acquiring and updating compatible hardware or devices necessary to access and use the Services and any updates thereto. Uber does not guarantee that the Services, or any portion thereof, will function on any particular hardware or devices. In addition, the Services may be subject to malfunctions and delays inherent in the use of the Internet and electronic communications. Uber is not responsible for any resulting delays, delivery failures, or damage, loss, injury or death.
 
-### 6\. User Conduct and Requirements; Communications; and User Content
+### **6\. User Conduct and Requirements; Communications; and User Content**
 
 **User Conduct and Requirements.**
 
@@ -229,7 +229,7 @@ In the event you use an Uber product or service that enables use of or billing t
 
 Content that you provide to Uber is governed by [Uber’s Generated Content Terms](https://www.uber.com/legal/en/document/?country=united-states&lang=en&name=user-generated-content-policy), which are incorporated in these Terms by reference. Feedback that you provide to Uber is governed by [Uber’s Feedback Policy](https://www.uber.com/legal/en/document/?name=feedback-policy&country=united-states&lang=en), which are incorporated in these Terms by reference.
 
-### 7\. Payment
+### **7\. Payment**
 
 **Prices & Charges.**
 
@@ -289,7 +289,7 @@ You may purchase certain items from our Third-Party Providers that can be delive
 
 If your gift order contains alcohol, the Recipient will be asked to show a government-issued photo ID when the delivery arrives. You may not send alcohol to Recipients unless they are of the legal age to buy alcohol or older. Alcohol orders cannot be left unattended or left at the Recipient’s door. If Recipient is not present to accept the order at the scheduled delivery time, cannot provide valid ID, is under the legal age the buy alcohol, or is too intoxicated to accept the order, the alcohol portion of the order will not be delivered and will be returned to the seller and a return fee will be assessed. In the event an alcohol order cannot be delivered to the Recipient, the Recipient will receive a gift credit in the form of Uber Cash for the value of the alcohol portion of the order less the return fee. You may not place an order for alcohol to be delivered to areas where delivery, possession or consumption of alcohol is prohibited by law.
 
-### 8\. Disclaimers; Limitation of Liability; and Indemnity
+### **8\. Disclaimers; Limitation of Liability; and Indemnity**
 
 **Disclaimers.**
 
@@ -319,7 +319,7 @@ THE LIMITATIONS AND DISCLAIMERS IN THIS SECTION DO NOT PURPORT TO LIMIT LIABILIT
 
 You agree to indemnify and hold Uber and its affiliates and their officers, directors, employees, and agents harmless from and against any and all actions, claims, demands, losses, liabilities, costs, damages, and expenses (including attorneys’ fees), arising out of or in connection with: (i) your use of the Services or services or goods obtained through your use of the Services; (ii) your breach or violation of any of these Terms; (iii) Uber's use of your User Content; or (iv) your violation of the rights of any third party, including Third-Party Providers.
 
-### 9\. Other Provisions
+### **9\. Other Provisions**
 
 **Choice of Law.**
 
