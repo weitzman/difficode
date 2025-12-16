@@ -3,7 +3,7 @@ url: "https://stripe.com/privacy"
 selector: "main"
 ---
 
-We've recently added a new data controller, Stripe Technology Company Limited, to our Privacy Center. For an overview of current Stripe data controllers please visit our [Privacy Center](https://stripe.com/legal/privacy-center#which-stripe-entities-are-involved).
+This Privacy Policy will be updated on January 16, 2026. Please review the upcoming changes [here](https://stripe.com/privacy/preview).
 
 #### Last updated: January 16, 2025
 
