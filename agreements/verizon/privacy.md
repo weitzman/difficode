@@ -1613,6 +1613,8 @@ Open all
     
     90\. sold or may sell
     
+    Rhode Island defines "sale" as the exchange of personal data for monetary or other valuable consideration.
+    
     *   [Verizon & Verizon Community](/about/privacy/third-party-privacy-disclosure)
     *   [Verizon Value brands](https://www.privacy.tracfone.com/privacy-list), including GoSmart Mobile, Net10 Wireless, Page Plus, Simple Mobile, Straight Talk Wireless, Total Wireless, Tracfone, Walmart Family Mobile.
     *   [SafeLink Wireless](https://www.privacy.tracfone.com/privacy-list-safelink)
