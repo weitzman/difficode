@@ -1565,9 +1565,14 @@ Visit your [Ad preferences](https://accountscenter.facebook.com/ad_preferences?e
 
 We advertise our own products and services on non-Meta ad platforms. We use marketing vendors to deliver these ads. If we use your activity on our Products to tailor these ads, you can opt out of this type of use.
 
-*   For cookies on your web browser, you can use the *Dynamic link removed* industry opt-out platform. If you live in Canada, you can use the *Dynamic link removed* industry opt-out platform. Certain ad blockers and tools to restrict cookies can interfere with your ability to opt out.
-*   For your mobile device, check your mobile device settings. Different device manufacturers provide different ways to opt out.
-*   **Other online identifiers:** You may use the *Dynamic link removed* industry opt-out platform.
+If you have an account:
+
+*   Visit your [Ad preferences](https://accountscenter.facebook.com/ads/ads_about_meta/?entry_product=ad_profile_center&entry_point=POLICY_ANNOTATION%3A6.ex.5-AdPreferences) to opt out.
+
+If you don't have an account:
+
+*   You can use the *Dynamic link removed* industry opt-out platform on your web browser. If you live in Canada, you can use the *Dynamic link removed* industry opt-out platform. Certain ad blockers and tools to restrict cookies can interfere with your ability to opt out.
+*   Check your mobile device settings. Device manufacturers provide different ways to opt out.
 
 [Return to top![](https://static.xx.fbcdn.net/rsrc.php/v4/yC/r/si3BXjWAx4Y.png)](#)
 
@@ -1755,9 +1760,14 @@ Visit your [Ad preferences](https://accountscenter.facebook.com/ad_preferences?e
 
 We advertise our own products and services on non-Meta ad platforms. We use marketing vendors to deliver these ads. If we use your activity on our Products to tailor these ads, you can opt out of this type of use.
 
-*   For cookies on your web browser, you can use the *Dynamic link removed* industry opt-out platform. If you live in Canada, you can use the *Dynamic link removed* industry opt-out platform. Certain ad blockers and tools to restrict cookies can interfere with your ability to opt out.
-*   For your mobile device, check your mobile device settings. Different device manufacturers provide different ways to opt out.
-*   **Other online identifiers:** You may use the *Dynamic link removed* industry opt-out platform.
+If you have an account:
+
+*   Visit your [Ad preferences](https://accountscenter.facebook.com/ads/ads_about_meta/?entry_product=ad_profile_center&entry_point=POLICY_ANNOTATION%3A6.ex.5-AdPreferences) to opt out.
+
+If you don't have an account:
+
+*   You can use the *Dynamic link removed* industry opt-out platform on your web browser. If you live in Canada, you can use the *Dynamic link removed* industry opt-out platform. Certain ad blockers and tools to restrict cookies can interfere with your ability to opt out.
+*   Check your mobile device settings. Device manufacturers provide different ways to opt out.
 
 64
 
