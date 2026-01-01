@@ -1345,7 +1345,7 @@ We also have a legitimate interest in ensuring that PayPal remains a secure fina
 
 * * *
 
-*   © 1999–2025
+*   © 1999–2026
 *   [Accessibility](/us/webapps/mpp/accessibility)
 *   [Privacy Statement](https://www.paypal.com/us/legalhub/privacy-full)
 *   [Cookies](/myaccount/privacy/cookiePrefs)
