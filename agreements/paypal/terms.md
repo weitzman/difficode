@@ -1211,7 +1211,7 @@ Any personal data provided to you by PayPal in connection with the PayPal servic
 
 * * *
 
-*   © 1999–2025
+*   © 1999–2026
 *   [Accessibility](/us/webapps/mpp/accessibility)
 *   [Privacy Statement](https://www.paypal.com/us/legalhub/privacy-full)
 *   [Cookies](/myaccount/privacy/cookiePrefs)
