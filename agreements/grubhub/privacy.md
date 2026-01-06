@@ -5,7 +5,7 @@ selector: ".innerWrapper"
 
 # Privacy Policy
 
-**Effective: June 7, 2024.**
+**Effective: January 5, 2026.**
 
 This Privacy Policy explains how Grubhub Holdings Inc. and its subsidiaries and affiliates (“Grubhub”, “we”, “us” or “our”) collect, use, disclose, and otherwise process personal information in connection with our Platform and Services. Our Platform includes: (i) our websites, including related subdomains, (ii) our mobile, tablet, and other smart device applications, (iii) application program interfaces, (iv) in-store kiosks and other online services, and (v) any other tools, technology, and programs now or in the future; in each case, that reference this Privacy Policy. “Services” includes all services associated with the Platform.
 
@@ -24,6 +24,8 @@ We may use this information to: (i) create and manage your Account; (ii) facilit
 We may share this information with ad networks and other advertising partners for the purpose of cross-context behavioral advertising. We may also share this information with other trusted partners, including those that enable you to access offers or promotions by linking or connecting your Grubhub account with account(s) you may hold with the partners. These trusted partners may use this information to support and market partnership benefits (including by communicating with you), as well as for their internal business purposes such as analytics and product improvement. Any such partner uses will be governed by the partners’ respective privacy policies.
 
 For campus users only, we may provide identifiers to select food service providers that operate restaurants and other food ordering and delivery services on your campus so that they can communicate directly with you and send you personalized communications and marketing. Please see Section 2.1 below for additional information about your choices. We may also disclose identifiers to our service providers, or for other lawful purposes, as described in greater detail in Section 1.11 below.
+
+Please note that we do not share text messaging originator opt-in data and consent with third parties for marketing or promotional purposes.
 
 Grubhub retains identifiers for as long as you have an account with Grubhub, and for such additional period as Grubhub determines is necessary to comply with its legal obligations and defend against legal claims.
 
