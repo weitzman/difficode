@@ -433,7 +433,7 @@ Stripe may use subcontractors or its Affiliates in the performance of its obliga
 
 United States
 
-Stripe, Inc.
+Stripe, LLC
 
 Stripe Payments Company\*
 
@@ -451,11 +451,11 @@ Stripe Brasil Soluções de Pagamento - Instituição de Pagamento Ltda\*\*
 
 Other countries in the Americas, to the extent Stripe offers Services in these countries
 
-Stripe, Inc.
+Stripe, LLC
 
 \*This Stripe entity is an additional party to the Agreement if stated in the applicable Stripe Financial Services Terms, or in other applicable Service Terms.
 
-\*\*Stripe, Inc. is an additional party to this Agreement solely for the purposes of processing Personal Data under Section 4 (Privacy and Data Use) of this Agreement.
+\*\*Stripe, LLC is an additional party to this Agreement solely for the purposes of processing Personal Data under Section 4 (Privacy and Data Use) of this Agreement.
 
 #### **Europe, Middle East and Africa**
 
@@ -749,7 +749,7 @@ The laws of Ireland are the Governing Law.
 
 (d) The arbitrator may be the same nationality as any of the parties, and must be a member of the Law Society of Ireland or the Bar of Ireland, unless the parties agree otherwise.
 
-**13.2.2 Claims not subject to Arbitration****—****Jurisdiction and Venue.**
+**13.2.2 Claims not subject to Arbitration—Jurisdiction and Venue.**
 
 For claims that may not be subject to arbitration, which includes claims that relate to IP Rights, each party consents to exclusive jurisdiction in the courts of Ireland.
 
@@ -779,7 +779,7 @@ The laws of England and Wales are the Governing Law.
 
 (c) The arbitrator will apply the laws of England and Wales.
 
-**13.2.2 Claims not subject to Arbitration****—****Jurisdiction and Venue.**
+**13.2.2 Claims not subject to Arbitration—Jurisdiction and Venue.**
 
 For claims that may not be subject to arbitration, which includes claims that relate to IP Rights, each party consents to exclusive jurisdiction in the courts of England.
 
@@ -811,7 +811,7 @@ The laws of the state of New South Wales are the Governing Law.
 
 (d) The party initiating the arbitration is responsible for paying the applicable filing fee. Each party will advance one-half of the fees and expenses of the arbitrator, the costs of the attendance of a stenographer at the arbitration hearing, and the costs of the arbitration facility.
 
-**13.2.2 Claims not subject to Arbitration****—****Jurisdiction and Venue.**
+**13.2.2 Claims not subject to Arbitration—Jurisdiction and Venue.**
 
 For claims that may not be subject to arbitration, which includes claims that relate to IP Rights, each party consents to exclusive jurisdiction in courts of New South Wales, Australia.
 
@@ -901,9 +901,9 @@ Subsections 8.3 and 8.4 of Section 8 (Limitation of Liability) are replaced by t
 
 8.4 *Limitation of Liability*. Except for Excluded Claims, to the maximum extent permitted by Law, neither party will be liable to the other party or to the other party’s Affiliates in connection with this Agreement or the Services (including Data Incident Losses), whether during or after the Term, for any losses, damages, or costs that, in the aggregate, exceed the greater of: (i) the amount of fees actually paid by User to Stripe (excluding fees passed on to Financial Providers) in the 12 months period before the event giving rise to the liability; and (ii) R$2,500.00. User’s payment obligations, including Fees, Assessed Fines and Taxes are not limited by this Section 8.4.
 
-**13.9 Processing of Personal Data by Stripe, Inc.**
+**13.9 Processing of Personal Data by Stripe, LLC**
 
-Stripe, Inc. is an additional party to this Agreement solely for the purposes of processing Personal Data under Section 4 (Privacy and Data Use).
+Stripe, LLC is an additional party to this Agreement solely for the purposes of processing Personal Data under Section 4 (Privacy and Data Use).
 
 #### **Canada.**
 
@@ -943,9 +943,9 @@ The parties agree that this Agreement and all related documents will be written 
 
 User must disclose to User’s Customers in User’s Privacy Policy that Personal Data may be transferred, processed, and stored outside of Canada and, as a result, may be subject to disclosure as Law requires. Stripe will not sell or lease Personal Data that Stripe receives from User to any third party.
 
-**13.5 Processing of Personal Data by Stripe, Inc.**
+**13.5 Processing of Personal Data by Stripe, LLC**
 
-Stripe, Inc. is an additional party to this Agreement solely for the purposes of processing Personal Data under Section 4 (Privacy and Data Use).
+Stripe, LLC is an additional party to this Agreement solely for the purposes of processing Personal Data under Section 4 (Privacy and Data Use).
 
 #### **Hong Kong.**
 
@@ -965,7 +965,7 @@ The laws of Singapore are the Governing Law.
 
 (c) The arbitrator will apply the laws of Singapore.
 
-**13.2.2 Claims not subject to Arbitration****—****Jurisdiction and Venue.**
+**13.2.2 Claims not subject to Arbitration—Jurisdiction and Venue.**
 
 For claims that may not be subject to arbitration, which includes claims that relate to IP Rights, each party consents to exclusive jurisdiction in the courts of Hong Kong.
 
@@ -995,7 +995,7 @@ The laws of Bangalore, India are the Governing Law.
 
 (c) The arbitrator will apply the provisions of the (Indian) Arbitration and Conciliation Act, 1996 (as amended).
 
-**13.2.2 Claims not subject to Arbitration****—****Jurisdiction and Venue.**
+**13.2.2 Claims not subject to Arbitration—Jurisdiction and Venue.**
 
 For claims that may not be subject to arbitration, which includes claims that relate to IP Rights, each party consents to exclusive jurisdiction in the courts in Bangalore, India.
 
@@ -1047,7 +1047,7 @@ The laws of the Republic of Indonesia are the Governing Law.
 
 (c) The arbitrator will apply the laws of Singapore.
 
-**13.2.2 Claims not subject to Arbitration****—****Jurisdiction and Venue.**
+**13.2.2 Claims not subject to Arbitration—Jurisdiction and Venue.**
 
 For claims that may not be subject to arbitration, which includes claims that relate to IP Rights, each party consents to exclusive jurisdiction in the courts of Indonesia.
 
@@ -1097,7 +1097,7 @@ The laws of Malaysia are the Governing Law.
 
 (c) The arbitrator will apply the laws of Malaysia.
 
-**13.2.2 Claims not subject to Arbitration****—****Jurisdiction and Venue.**
+**13.2.2 Claims not subject to Arbitration—Jurisdiction and Venue.**
 
 For claims that may not be subject to arbitration, which includes claims that relate to IP Rights, each party consents to exclusive jurisdiction in the courts of Malaysia.
 
@@ -1167,9 +1167,9 @@ User is responsible for (a) disclosing to User’s Customers that Stripe will pr
 
 User consents to receiving judicial notices at the business address that appears in User’s Stripe Account, which is designated as User’s legal domicile. User must keep that address updated. User also agrees that User’s electronic consent will have the same legal effect as a physical signature, in accordance with article 1803 of the Mexican Federal Civil Code (Código Civil Federal), article 89 and related articles of the Mexican Code of Commerce (Código de Comercio).
 
-**13.5 Processing of Personal Data by Stripe, Inc.**
+**13.5 Processing of Personal Data by Stripe, LLC**
 
-Stripe, Inc. is an additional party to this Agreement solely for the purposes of processing Personal Data under Section 4 (Privacy and Data Use).
+Stripe, LLC is an additional party to this Agreement solely for the purposes of processing Personal Data under Section 4 (Privacy and Data Use).
 
 #### **New Zealand.**
 
@@ -1191,7 +1191,7 @@ The laws of New Zealand are the Governing Law.
 
 (d) The party initiating the arbitration is responsible for paying the applicable filing fee. Each party will advance one-half of the fees and expenses of the arbitrator, the costs of the attendance of a stenographer at the arbitration hearing, and the costs of the arbitration facility.
 
-**13.2.2 Claims not subject to Arbitration****—****Jurisdiction and Venue.**
+**13.2.2 Claims not subject to Arbitration—Jurisdiction and Venue.**
 
 For claims that may not be subject to arbitration, which includes claims that relate to IP Rights, each party consents to exclusive jurisdiction in courts of New Zealand.
 
@@ -1259,7 +1259,7 @@ The laws of Japan are the Governing Law.
 
 (d) The party initiating the arbitration is responsible for paying the applicable filing fee. Each party will advance one-half of the fees and expenses of the arbitrator, the costs of the attendance of a stenographer at the arbitration hearing, and the costs of the arbitration facility.
 
-**13.2.2 Claims not subject to Arbitration****—****Jurisdiction and Venue.**
+**13.2.2 Claims not subject to Arbitration—Jurisdiction and Venue.**
 
 For claims that may not be subject to arbitration, which includes claims that relate to IP Rights, each party consents to exclusive jurisdiction in the Tokyo District Court or Tokyo Summary Court, whichever has jurisdiction over the matter under the Governing Law.
 
@@ -1299,7 +1299,7 @@ The laws of Singapore are the Governing Law.
 
 (c) The arbitrator will apply the laws of Singapore.
 
-**13.2.2 Claims not subject to Arbitration****—****Jurisdiction and Venue.**
+**13.2.2 Claims not subject to Arbitration—Jurisdiction and Venue.**
 
 For claims that may not be subject to arbitration, which includes claims that relate to IP Rights, each party consents to exclusive jurisdiction in the courts of Singapore.
 
@@ -1333,7 +1333,7 @@ The Thailand Arbitration Center (“THAC”) will administer the arbitration und
 
 The arbitrator will apply the laws of Thailand.
 
-**13.2.2 Claims not subject to Arbitration****—****Jurisdiction and Venue.**
+**13.2.2 Claims not subject to Arbitration—Jurisdiction and Venue.**
 
 For claims that may not be subject to arbitration, which includes claims that relate to IP Rights, each party consents to exclusive jurisdiction in the courts of Thailand.
 
@@ -1389,7 +1389,7 @@ The laws of Ireland are the Governing Law.
 
 (d) The arbitrator may be the same nationality as any of the parties, and must be a member of the Law Society of Ireland or the Bar of Ireland, unless the parties agree otherwise.
 
-**13.2.2 Claims not subject to Arbitration****—****Jurisdiction and Venue.**
+**13.2.2 Claims not subject to Arbitration—Jurisdiction and Venue.**
 
 For claims that may not be subject to arbitration, which includes claims that relate to IP Rights, each party consents to exclusive jurisdiction in the courts of Ireland.
 
