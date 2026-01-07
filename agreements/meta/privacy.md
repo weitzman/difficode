@@ -104,13 +104,13 @@ Read the full Policy below.
 
 What Products does this Policy cover? \[1\]
 
-![](https://static.xx.fbcdn.net/rsrc.php/v4/yb/r/MT1bN99FmgA.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v4/yn/r/O3JYK4GMHrf.png)
 
 ](#annotation-1)[
 
 Learn more in Privacy Center about managing your privacy
 
-![](https://static.xx.fbcdn.net/rsrc.php/v4/yb/r/MT1bN99FmgA.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v4/yn/r/O3JYK4GMHrf.png)
 
 ](https://www.facebook.com/privacy/center/)
 
@@ -232,11 +232,11 @@ Partners also share with us their communications with you if they instruct us to
 
 [
 
-![](https://static.xx.fbcdn.net/rsrc.php/v4/y4/r/xtbEoBOzdhe.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v4/y9/r/YkLK_FS4ewB.png)
 
 Your activity off Meta technologies
 
-![](https://static.xx.fbcdn.net/rsrc.php/v4/yF/r/phM4POcOvJv.png)![](https://static.xx.fbcdn.net/rsrc.php/v4/yb/r/MT1bN99FmgA.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v4/yN/r/VvWfa4cCvgP.png)![](https://static.xx.fbcdn.net/rsrc.php/v4/yn/r/O3JYK4GMHrf.png)
 
 ](/privacy/policy/logging/?target=POLICY_PLATFORM_LINK_COLLECTION%3AOFF_FACEBOOK_ACTIVITY&element=privacy_policy_list_cell&containing_element_id=POLICY_SUBPAGE%3A1.subpage.4-InformationFromPartnersVendors&redirect_uri=https%3A%2F%2Fwww.facebook.com%2Foff_facebook_activity%2F%3Fentry_point%3DPOLICY_SUBPAGE%253A1.subpage.4-InformationFromPartnersVendors)
 
@@ -268,7 +268,7 @@ In some cases information is de-identified, aggregated, or anonymized by third p
 
 Manage the information we collect about you
 
-![](https://static.xx.fbcdn.net/rsrc.php/v4/yb/r/MT1bN99FmgA.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v4/yn/r/O3JYK4GMHrf.png)
 
 ](https://www.facebook.com/privacy/guide/collection/)
 
@@ -411,13 +411,13 @@ We collect and store this information to facilitate your purchase, receipt of pa
 
 How do we use your information?
 
-![](https://static.xx.fbcdn.net/rsrc.php/v4/yb/r/MT1bN99FmgA.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v4/yn/r/O3JYK4GMHrf.png)
 
 ](?entry_point=POLICY_ANNOTATION%3A1.ex.15-PurchasesOrOtherTransactions#2-HowDoWeUse)[
 
 How do we respond to legal requests, comply with applicable law and prevent harm?
 
-![](https://static.xx.fbcdn.net/rsrc.php/v4/yb/r/MT1bN99FmgA.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v4/yn/r/O3JYK4GMHrf.png)
 
 ](?entry_point=POLICY_ANNOTATION%3A1.ex.15-PurchasesOrOtherTransactions#10-HowDoWeRespond)
 
@@ -509,7 +509,7 @@ One reason we collect this information is to make your experience better. For ex
 
 How do we use your information?
 
-![](https://static.xx.fbcdn.net/rsrc.php/v4/yb/r/MT1bN99FmgA.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v4/yn/r/O3JYK4GMHrf.png)
 
 ](?entry_point=POLICY_ANNOTATION%3A1.ex.28-InformationAboutTheNetwork#2-HowDoWeUse)
 
@@ -584,7 +584,7 @@ We get datasets from publicly available sources, research institutions, data pro
 
 How do we use your information?
 
-![](https://static.xx.fbcdn.net/rsrc.php/v4/yb/r/MT1bN99FmgA.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v4/yn/r/O3JYK4GMHrf.png)
 
 ](?entry_point=POLICY_ANNOTATION%3A1.ex.40-ThirdPartiesWeGet#2-HowDoWeUse)
 
@@ -661,7 +661,7 @@ We also use information that's been de-identified, aggregated, or anonymized so 
 
 Learn more about how ads work
 
-![](https://static.xx.fbcdn.net/rsrc.php/v4/yb/r/MT1bN99FmgA.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v4/yn/r/O3JYK4GMHrf.png)
 
 ](https://www.facebook.com/privacy/guide/ads/)
 
@@ -699,7 +699,7 @@ We use location-related information, such as your current location, where you li
 
 How to manage Facebook location settings
 
-![](https://static.xx.fbcdn.net/rsrc.php/v4/yf/r/8Hrej50UHOv.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v4/y4/r/CnvZUWJAEk0.png)
 
 ](https://www.facebook.com/help/337244676357509?entry_point=POLICY_SUBPAGE%3A2.subpage.6-HowWeUseLocation)*Dynamic link removed*
 
@@ -765,11 +765,11 @@ Here are some ways we promote safety, security and integrity. We work to:
 
 [
 
-![](https://static.xx.fbcdn.net/rsrc.php/v4/ym/r/f8kiotfG7s3.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v4/yl/r/PjuoEh4YHf1.png)
 
 Account security
 
-![](https://static.xx.fbcdn.net/rsrc.php/v4/yb/r/MT1bN99FmgA.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v4/yn/r/O3JYK4GMHrf.png)
 
 ](/privacy/policy/logging/?target=POLICY_PLATFORM_LINK_COLLECTION%3AACCOUNT_SECURITY&element=privacy_policy_list_cell&containing_element_id=POLICY_SUBPAGE%3A2.subpage.8-PromotingSafetySecurityAnd&redirect_uri=https%3A%2F%2Fmbasic.facebook.com%2Fprivacy%2Fpolicy%2Fprintable%2F%3Fback_id%3Dlink-collection-4%26link_dialog%3DACCOUNT_SECURITY%26entry%3D0%26entry_point%3DPOLICY_SUBPAGE%253A2.subpage.8-PromotingSafetySecurityAnd)
 
@@ -792,7 +792,7 @@ We also use the information we collect to provide business services.
 
 How do we share information with partners, vendors, service providers and other third parties?
 
-![](https://static.xx.fbcdn.net/rsrc.php/v4/yb/r/MT1bN99FmgA.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v4/yn/r/O3JYK4GMHrf.png)
 
 ](?entry_point=POLICY_SUBPAGE%3A2.subpage.10-ProvidingMeasurementAnalyticsAnd#4-HowDoWeShare)
 
@@ -813,11 +813,11 @@ We also use information about how you interact with our messages, like if you op
 
 [
 
-![](https://static.xx.fbcdn.net/rsrc.php/v4/yB/r/TjUvcB8kysx.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v4/yH/r/7ndWjTd8fe6.png)
 
 Communication preferences
 
-![](https://static.xx.fbcdn.net/rsrc.php/v4/yb/r/MT1bN99FmgA.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v4/yn/r/O3JYK4GMHrf.png)
 
 ](/privacy/policy/logging/?target=POLICY_PLATFORM_LINK_COLLECTION%3ACOMMUNICATION_PREFERENCES&element=privacy_policy_list_cell&containing_element_id=POLICY_SUBPAGE%3A2.subpage.12-CommunicatingWithYouWe&redirect_uri=https%3A%2F%2Fmbasic.facebook.com%2Fprivacy%2Fpolicy%2Fprintable%2F%3Fback_id%3Dlink-collection-5%26link_dialog%3DCOMMUNICATION_PREFERENCES%26entry%3D0%26entry_point%3DPOLICY_SUBPAGE%253A2.subpage.12-CommunicatingWithYouWe)
 
@@ -844,7 +844,7 @@ Here are some examples of our research:
 
 Why and how we process your information
 
-![](https://static.xx.fbcdn.net/rsrc.php/v4/yb/r/MT1bN99FmgA.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v4/yn/r/O3JYK4GMHrf.png)
 
 ](?entry_point=POLICY_SECTION%3A2-HowDoWeUse#19-WhyAndHowWe)
 
@@ -870,7 +870,7 @@ If you add accounts to the same [Accounts Center](https://www.facebook.com/help/
 
 How to add or delete accounts in your Accounts Center
 
-![](https://static.xx.fbcdn.net/rsrc.php/v4/yf/r/8Hrej50UHOv.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v4/y4/r/CnvZUWJAEk0.png)
 
 ](https://www.facebook.com/help/213446087365127/?entry_point=POLICY_ANNOTATION%3A2.ex.5-UsingInformationAcrossOur)
 
@@ -1102,7 +1102,7 @@ If you’re uncomfortable with what others have shared about you on our Products
 
 Remove a tag from a photo or post on Facebook
 
-![](https://static.xx.fbcdn.net/rsrc.php/v4/yf/r/8Hrej50UHOv.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v4/y4/r/CnvZUWJAEk0.png)
 
 ](https://www.facebook.com/help/140906109319589?entry_point=POLICY_SUBPAGE%3A3.subpage.2-ContentOthersShareOr)*Dynamic link removed*
 
@@ -1148,7 +1148,7 @@ Search engines and other third parties use this information according to their o
 
 Public information on Facebook
 
-![](https://static.xx.fbcdn.net/rsrc.php/v4/yf/r/8Hrej50UHOv.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v4/y4/r/CnvZUWJAEk0.png)
 
 ](https://www.facebook.com/help/203805466323736?ref=dp&entry_point=POLICY_SUBPAGE%3A3.subpage.3-PublicContentWhatContent)*Dynamic link removed*
 
@@ -1195,7 +1195,7 @@ We encourage you to visit your Apps and Websites settings from time to time to r
 
 How to manage apps and websites on Facebook
 
-![](https://static.xx.fbcdn.net/rsrc.php/v4/yf/r/8Hrej50UHOv.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v4/y4/r/CnvZUWJAEk0.png)
 
 ](https://www.facebook.com/help/1727608884153160/app-visibility-and-privacy?entry_point=POLICY_SUBPAGE%3A3.subpage.4-WhenYouUseAn)*Dynamic link removed*
 
@@ -1217,7 +1217,7 @@ Integrated partners handle the information you share with them according to thei
 
 How Meta reviews apps that integrate with our Products
 
-![](https://static.xx.fbcdn.net/rsrc.php/v4/yf/r/8Hrej50UHOv.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v4/y4/r/CnvZUWJAEk0.png)
 
 ](https://developers.facebook.com/docs/apps/review/?entry_point=POLICY_SUBPAGE%3A3.subpage.6-HowIntegratedPartnersHandle)
 
@@ -1229,7 +1229,7 @@ How Meta reviews apps that integrate with our Products
 
 Learn more about audiences
 
-![](https://static.xx.fbcdn.net/rsrc.php/v4/yb/r/MT1bN99FmgA.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v4/yn/r/O3JYK4GMHrf.png)
 
 ](https://www.facebook.com/privacy/guide/sharing/)
 
@@ -1263,7 +1263,7 @@ On Instagram, you can set the audience for what you share by choosing between a 
 
 Audience settings
 
-![](https://static.xx.fbcdn.net/rsrc.php/v4/yb/r/MT1bN99FmgA.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v4/yn/r/O3JYK4GMHrf.png)
 
 ](/privacy/policy/logging/?target=POLICY_PLATFORM_LINK_COLLECTION%3AAUDIENCE_SETTINGS&element=privacy_policy_list_cell&containing_element_id=POLICY_ANNOTATION%3A3.ex.2-ChoosingAnAudienceOn&redirect_uri=https%3A%2F%2Fmbasic.facebook.com%2Fprivacy%2Fpolicy%2Fprintable%2F%3Flink_dialog%3DAUDIENCE_SETTINGS%26entry%3D0%26entry_point%3DPOLICY_ANNOTATION%253A3.ex.2-ChoosingAnAudienceOn)
 
@@ -1611,7 +1611,7 @@ Meta Products share information with other Meta Companies:
 
 Review the privacy policies of the other Meta Companies
 
-![](https://static.xx.fbcdn.net/rsrc.php/v4/yf/r/8Hrej50UHOv.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v4/y4/r/CnvZUWJAEk0.png)
 
 ](https://www.facebook.com/help/111814505650678?entry_point=POLICY_SECTION%3A5-HowDoTheMeta)
 
@@ -1680,7 +1680,7 @@ To exercise your rights, visit our Help Centers, your settings for Facebook and 
 
 Take a privacy checkup
 
-![](https://static.xx.fbcdn.net/rsrc.php/v4/yf/r/8Hrej50UHOv.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v4/y4/r/CnvZUWJAEk0.png)
 
 ](https://www.facebook.com/privacy/checkup/?entry_point=POLICY_SECTION%3A6-HowCanYouManage)
 
@@ -1688,35 +1688,35 @@ Take a privacy checkup
 
 [
 
-![](https://static.xx.fbcdn.net/rsrc.php/v4/y4/r/xtbEoBOzdhe.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v4/y9/r/YkLK_FS4ewB.png)
 
 Access your information
 
-![](https://static.xx.fbcdn.net/rsrc.php/v4/yb/r/MT1bN99FmgA.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v4/yn/r/O3JYK4GMHrf.png)
 
 ](/privacy/policy/logging/?target=POLICY_PLATFORM_LINK_COLLECTION%3AACCESS_YOUR_INFORMATION&element=privacy_policy_list_cell&containing_element_id=POLICY_SECTION%3A6-HowCanYouManage&redirect_uri=https%3A%2F%2Fmbasic.facebook.com%2Fprivacy%2Fpolicy%2Fprintable%2F%3Fback_id%3Dlink-collection-10%26link_dialog%3DACCESS_YOUR_INFORMATION%26entry%3D0%26entry_point%3DPOLICY_SECTION%253A6-HowCanYouManage)[
 
-![](https://static.xx.fbcdn.net/rsrc.php/v4/yr/r/tRWyZ6R-ZVq.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v4/y1/r/bHSTL8-vh4K.png)
 
 Off-Meta activity
 
-![](https://static.xx.fbcdn.net/rsrc.php/v4/yF/r/phM4POcOvJv.png)![](https://static.xx.fbcdn.net/rsrc.php/v4/yb/r/MT1bN99FmgA.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v4/yN/r/VvWfa4cCvgP.png)![](https://static.xx.fbcdn.net/rsrc.php/v4/yn/r/O3JYK4GMHrf.png)
 
 ](/privacy/policy/logging/?target=POLICY_PLATFORM_LINK_COLLECTION%3AOFF_FACEBOOK_ACTIVITY&element=privacy_policy_list_cell&containing_element_id=POLICY_SECTION%3A6-HowCanYouManage&redirect_uri=https%3A%2F%2Fwww.facebook.com%2Foff_facebook_activity%2F%3Fentry_point%3DPOLICY_SECTION%253A6-HowCanYouManage)[
 
-![](https://static.xx.fbcdn.net/rsrc.php/v4/ye/r/8XmiME2yEeZ.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v4/yA/r/A_621nkP_sx.png)
 
 Ad preferences \[63\]
 
-![](https://static.xx.fbcdn.net/rsrc.php/v4/yb/r/MT1bN99FmgA.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v4/yn/r/O3JYK4GMHrf.png)
 
 ](?entry_point=POLICY_SECTION%3A6-HowCanYouManage#annotation-63)[
 
-![](https://static.xx.fbcdn.net/rsrc.php/v4/yi/r/3nvxrhFvBzz.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v4/y-/r/90k9-V61DDK.png)
 
 Manage your data
 
-![](https://static.xx.fbcdn.net/rsrc.php/v4/yf/r/8Hrej50UHOv.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v4/y4/r/CnvZUWJAEk0.png)
 
 ](https://www.facebook.com/help/contact/1638046109617856?entry_point=POLICY_SECTION%3A6-HowCanYouManage)
 
@@ -1724,27 +1724,27 @@ Manage your data
 
 [
 
-![](https://static.xx.fbcdn.net/rsrc.php/v4/yi/r/3nvxrhFvBzz.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v4/y-/r/90k9-V61DDK.png)
 
 Port your information \[64\]
 
-![](https://static.xx.fbcdn.net/rsrc.php/v4/yb/r/MT1bN99FmgA.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v4/yn/r/O3JYK4GMHrf.png)
 
 ](?entry_point=POLICY_SECTION%3A6-HowCanYouManage#annotation-64)[
 
-![](https://static.xx.fbcdn.net/rsrc.php/v4/yn/r/cfRxlxHyz-N.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v4/y7/r/_hZFSHZDVZg.png)
 
 Download your information
 
-![](https://static.xx.fbcdn.net/rsrc.php/v4/yb/r/MT1bN99FmgA.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v4/yn/r/O3JYK4GMHrf.png)
 
 ](/privacy/policy/logging/?target=POLICY_PLATFORM_LINK_COLLECTION%3ADOWNLOAD_YOUR_INFORMATION&element=privacy_policy_list_cell&containing_element_id=POLICY_SECTION%3A6-HowCanYouManage&redirect_uri=https%3A%2F%2Fmbasic.facebook.com%2Fprivacy%2Fpolicy%2Fprintable%2F%3Fback_id%3Dlink-collection-12%26link_dialog%3DDOWNLOAD_YOUR_INFORMATION%26entry%3D0%26entry_point%3DPOLICY_SECTION%253A6-HowCanYouManage)[
 
-![](https://static.xx.fbcdn.net/rsrc.php/v4/yR/r/vFb7vrUEqb0.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v4/yQ/r/bLbu5bpAwqQ.png)
 
 Delete your information or account \[65\]
 
-![](https://static.xx.fbcdn.net/rsrc.php/v4/yb/r/MT1bN99FmgA.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v4/yn/r/O3JYK4GMHrf.png)
 
 ](?entry_point=POLICY_SECTION%3A6-HowCanYouManage#annotation-65)
 
