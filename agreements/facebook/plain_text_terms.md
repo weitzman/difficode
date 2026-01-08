@@ -53,7 +53,7 @@ Our [Privacy Policy](https://www.facebook.com/privacy/policy/) explains how we c
 
 What Products do these Terms cover?
 
-![](https://static.xx.fbcdn.net/rsrc.php/v4/y4/r/CnvZUWJAEk0.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v4/yf/r/8Hrej50UHOv.png)
 
 ](https://facebook.com/legal/meta-products)
 
