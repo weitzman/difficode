@@ -70,6 +70,8 @@ We provide End User Services when we provide the Services directly to you for yo
 
 You can also share and save bank account details to your Link account using Stripe’s [Financial Connections](https://stripe.com/financial-connections) product. When you use Financial Connections, Stripe will periodically collect and process your account information (such as bank account owner information, account balances, account number and details, account transactions, and, in some cases, log-in credentials). You can ask us to cease the collection of such data at any time. [Learn More](https://support.stripe.com/questions/how-to-disconnect-a-linked-financial-account).
 
+You can also use your Link account to access services provided by Stripe’s partner businesses, such as Buy Now, Pay Later (BNPL) services or crypto wallet services. In these situations, we will collect and share additional Personal Data with partner businesses to facilitate your use of such services. You can save this information to your Link account to access similar services in the future. We may also receive certain information about you from partner businesses in connection with the services they provide. [Learn More](https://stripe.com/legal/privacy-center#what-information-is-shared-with-bnpl-or-crypto-wallet-services).
+
 Finally, you can use Link to store your identity documents (such as your driver’s license) so that you can share them in future interactions with Stripe or its Business Users.
 
 **Paying Stripe**. When you purchase goods or services directly from Stripe, we receive your Transaction Data. For instance, when you make a payment to Stripe Climate, we collect information about the transaction, as well as your contact and payment method details.
