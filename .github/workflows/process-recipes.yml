@@ -172,7 +172,7 @@ jobs:
       - name: Commit+Push agreement files
         if: steps.find_agreements.outputs.has_agreements == 'true'
         env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
         run: |
           echo "Processing agreement files..."
           echo "${{ steps.find_agreements.outputs.agreements }}" | while IFS= read -r agreement_file; do
