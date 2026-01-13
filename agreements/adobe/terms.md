@@ -46,7 +46,7 @@ These General Terms of Use (“**General Terms**”), along with any applicable 
 **By using the services or the software, you affirm that you are of legal age to enter into the terms, or, if you are not, that you have obtained parental or guardian consent to enter into the terms.**
 
 **You must be 13 or older to register for an Adobe ID. Schools and their personnel may deploy Services to children under 13 consistent with the K-12 (Primary and Secondary) and Higher Education Additional Terms for Student Data**  
-([http://www.adobe.com/go/primary-secondary-terms](/go/primary-secondary-terms.html).)
+([http://www.adobe.com/go/primary-secondary-terms](https://www.adobe.com/go/primary-secondary-terms).)
 
 style
 
@@ -82,32 +82,32 @@ style
 
 Our Services and Software are licensed, not sold, to you, and also may be subject to one or more of the additional terms below (“**Product Specific Terms**”). If there is any conflict between the terms in the General Terms and the Product Specific Terms, then the Product Specific Terms govern in relation to those Services or Software. The Product Specific Terms are subject to change as described in section 1.5 (Updates to Terms) below. Product Specific Terms may also be referred to as Additional Terms.
 
-*   [Adobe Acrobat Services (DC APIs)](/go/acrobatservicesterms.html)
-*   [Adobe Acrobat Sign](/go/adobesignterms.html)
-*   [Adobe ColdFusion](/go/adobe-coldfusion-terms.html)
-*   [Adobe Collaboration Space](/go/collaborationspace-terms.html)
-*   [Adobe Developer](/go/developer-terms.html)
-*   [Adobe Express](/go/creativecloudexpressterms.html)
-*   [Adobe Fonts](/go/adobe-fonts-terms.html)
-*   [Adobe Generative AI](/go/adobe-gen-ai-addl-terms.html)
-*   [Adobe Spark](/go/spark-terms.html)
-*   [Adobe Stock](/go/stockterms.html)
-*   [Adobe Stock Contributor](/go/contributorterms.html)
-*   [Adobe Substance 3D Assets](/go/substance3dassets.html)
-*   [Adobe Substance 3D Community Assets](/go/substance3dcommunityassets.html)
-*   [Behance](/go/BehanceTOU.html)
-*   [Business Customers](/go/business_terms.html)
-*   [Demo Assets](/go/demoassets.html)
-*   [Document Cloud](/go/documentcloudterms.html)
-*   [Frame.io](/go/frameio-terms.html)
-*   [Fuse](/go/fuseterms.html)
-*   [InDesign Server](/go/indesign-server-terms.html)
-*   [K-12 and Higher Education](/go/primary-secondary-terms.html)
-*   [Lightroom](/go/lightroom_terms.html)
-*   [Medium](/go/medium-terms.html)
-*   [Photoshop Express](/go/photoshop_express_terms.html)
-*   [Project Aqua](/go/project-aqua-terms.html)
-*   [Software](/go/softwareterms.html)
+*   [Adobe Acrobat Services (DC APIs)](https://www.adobe.com/go/acrobatservicesterms)
+*   [Adobe Acrobat Sign](https://www.adobe.com/go/adobesignterms)
+*   [Adobe ColdFusion](https://www.adobe.com/go/adobe-coldfusion-terms)
+*   [Adobe Collaboration Space](https://www.adobe.com/go/collaborationspace-terms)
+*   [Adobe Developer](https://www.adobe.com/go/developer-terms)
+*   [Adobe Express](https://www.adobe.com/go/creativecloudexpressterms)
+*   [Adobe Fonts](https://www.adobe.com/go/adobe-fonts-terms)
+*   [Adobe Generative AI](https://www.adobe.com/go/adobe-gen-ai-addl-terms)
+*   [Adobe Spark](https://www.adobe.com/go/spark-terms)
+*   [Adobe Stock](https://www.adobe.com/go/stockterms)
+*   [Adobe Stock Contributor](https://www.adobe.com/go/contributorterms)
+*   [Adobe Substance 3D Assets](https://www.adobe.com/go/substance3dassets)
+*   [Adobe Substance 3D Community Assets](https://www.adobe.com/go/substance3dcommunityassets)
+*   [Behance](https://www.adobe.com/go/BehanceTOU)
+*   [Business Customers](https://www.adobe.com/go/business_terms)
+*   [Demo Assets](https://www.adobe.com/go/demoassets)
+*   [Document Cloud](https://www.adobe.com/go/documentcloudterms)
+*   [Frame.io](https://www.adobe.com/go/frameio-terms)
+*   [Fuse](https://www.adobe.com/go/fuseterms)
+*   [InDesign Server](https://www.adobe.com/go/indesign-server-terms)
+*   [K-12 and Higher Education](https://www.adobe.com/go/primary-secondary-terms)
+*   [Lightroom](https://www.adobe.com/go/lightroom_terms)
+*   [Medium](https://www.adobe.com/go/medium-terms)
+*   [Photoshop Express](https://www.adobe.com/go/photoshop_express_terms)
+*   [Project Aqua](https://www.adobe.com/go/project-aqua-terms)
+*   [Software](https://www.adobe.com/go/softwareterms)
 
 ### 1.3 Business Users
 
@@ -119,7 +119,7 @@ style
 
 **xs-spacing, grid-width-12**
 
-If you received an “**Entitlement**” (which is defined as the right to use, access, and consume the Services and Software) from an organization or group, including but not limited to a business or any other commercial entity, government entity, non-profit organization, or educational institution (each, a “**Business**”) under one of Adobe’s business plans (such as Creative Cloud for Teams, Creative Cloud for Enterprise, or Document Cloud), then (A) you are a “**Business User**” of such Business; (B) your Adobe profile associated with such Entitlement is a “**Business Profile**”; and (C) all references to “you” in the Terms will mean such Business and its Business Users, as applicable. If you are a Business User, you agree that, due to your receipt of Entitlements from such Business, (1) Adobe may provide such Business with the ability to access, use, remove, retain, and control your Business Profile and all Content therein whether uploaded or imported before or after the date the Terms were last updated; (2) your use of the Services and Software is governed by such Business’s agreement with Adobe; and (3) Adobe may provide your personal information to such Business. Access to complimentary Entitlements (“**Complimentary Services**”) may be provided to any users added to a Business’s Admin Console (as defined in the [Business Customers Additional Terms](/go/business_terms.html) set forth in Section 1.2) and such users would be considered Business Users. If you are a Business User with Entitlements from multiple Businesses, you may have separate Business Profiles associated with each Business. As a Business User, you may have different agreements with or obligations to a Business, which may affect your Business Profile or your Content (defined in 4.1). Adobe is not responsible for any violation by you of such agreements or obligations. If you did not receive Entitlements from a Business (e.g., you subscribed to a Creative Cloud for individuals plan and received Entitlements through this plan), then (a) you are a “**Personal User**”; (b) your Adobe profile is a personal profile; (c) you maintain sole access and control over all Content in your personal account or personal profile (except as otherwise indicated in the Privacy Policy); and (d) all references to “you” in the Terms will mean you as an individual. If you receive Entitlements through a personal plan and from a Business, then you are both a Personal User and a Business User. You are a Personal User when you utilize the Entitlements you obtained through your personal plan, and you are a Business User when you utilize your Entitlements provided by a Business.
+If you received an “**Entitlement**” (which is defined as the right to use, access, and consume the Services and Software) from an organization or group, including but not limited to a business or any other commercial entity, government entity, non-profit organization, or educational institution (each, a “**Business**”) under one of Adobe’s business plans (such as Creative Cloud for Teams, Creative Cloud for Enterprise, or Document Cloud), then (A) you are a “**Business User**” of such Business; (B) your Adobe profile associated with such Entitlement is a “**Business Profile**”; and (C) all references to “you” in the Terms will mean such Business and its Business Users, as applicable. If you are a Business User, you agree that, due to your receipt of Entitlements from such Business, (1) Adobe may provide such Business with the ability to access, use, remove, retain, and control your Business Profile and all Content therein whether uploaded or imported before or after the date the Terms were last updated; (2) your use of the Services and Software is governed by such Business’s agreement with Adobe; and (3) Adobe may provide your personal information to such Business. Access to complimentary Entitlements (“**Complimentary Services**”) may be provided to any users added to a Business’s Admin Console (as defined in the [Business Customers Additional Terms](https://www.adobe.com/go/business_terms) set forth in Section 1.2) and such users would be considered Business Users. If you are a Business User with Entitlements from multiple Businesses, you may have separate Business Profiles associated with each Business. As a Business User, you may have different agreements with or obligations to a Business, which may affect your Business Profile or your Content (defined in 4.1). Adobe is not responsible for any violation by you of such agreements or obligations. If you did not receive Entitlements from a Business (e.g., you subscribed to a Creative Cloud for individuals plan and received Entitlements through this plan), then (a) you are a “**Personal User**”; (b) your Adobe profile is a personal profile; (c) you maintain sole access and control over all Content in your personal account or personal profile (except as otherwise indicated in the Privacy Policy); and (d) all references to “you” in the Terms will mean you as an individual. If you receive Entitlements through a personal plan and from a Business, then you are both a Personal User and a Business User. You are a Personal User when you utilize the Entitlements you obtained through your personal plan, and you are a Business User when you utilize your Entitlements provided by a Business.
 
 ### 1.4 Business Email Domains
 
@@ -141,7 +141,7 @@ We may make changes to the Terms from time to time ranging from cleaning up typo
 
 ### 2.1 Privacy
 
-For information about how we collect, use, share, or otherwise process information about you and your use of our Services and Software, please see our Privacy Policy ([http://www.adobe.com/go/privacy)](/go/privacy.html). You have the option to manage information preferences here: [https://www.adobe.com/privacy/opt-out.html](/privacy/opt-out.html).
+For information about how we collect, use, share, or otherwise process information about you and your use of our Services and Software, please see our Privacy Policy ([http://www.adobe.com/go/privacy)](https://www.adobe.com/go/privacy). You have the option to manage information preferences here: [https://www.adobe.com/privacy/opt-out.html](/privacy/opt-out.html).
 
 ### 2.2 Our Access to Your Content
 
@@ -167,7 +167,7 @@ We respect your rights to your Content (defined in Section 4.1) and limit our ac
 
 **(C) Illegal and Abusive Cloud Content.** For Content that you have uploaded to our servers or create using our cloud-based Services (“**Cloud Content**”), Content may be automatically scanned to ensure we are not hosting illegal or abusive content, like Child Sexual Abuse Material.
 
-**(D) Content Analytics with Cloud Content.** Subject to your opt-out rights, we may perform Content Analytics (see section 4.3(B)) with Cloud Content to help us understand how our users are using our Services and Software to allow us to improve your Services and Software experience, provide recommendations to you, and customize your experience. Learn more about your right to opt out of us performing Content Analytics using your Content ([adobe.com/go/contentanalysisfaq)](/go/contentanalysisfaq.html) and usage data ([adobe.com/go/usagedatafaq)](/go/usagedatafaq.html). Insights from Content Analytics may be used to inform our marketing to you, subject to your opt-out and consent rights regarding our marketing.
+**(D) Content Analytics with Cloud Content.** Subject to your opt-out rights, we may perform Content Analytics (see section 4.3(B)) with Cloud Content to help us understand how our users are using our Services and Software to allow us to improve your Services and Software experience, provide recommendations to you, and customize your experience. Learn more about your right to opt out of us performing Content Analytics using your Content ([adobe.com/go/contentanalysisfaq)](https://www.adobe.com/go/contentanalysisfaq) and usage data ([adobe.com/go/usagedatafaq)](https://www.adobe.com/go/usagedatafaq). Insights from Content Analytics may be used to inform our marketing to you, subject to your opt-out and consent rights regarding our marketing.
 
 **(E) Public and Shared Cloud Content.** For Cloud Content on our Adobe Stock platform and other public-facing platforms like Behance and Lightroom communities, all Cloud Content is subject to review for intellectual property issues and safety issues (for example, violence and nudity). If you choose to share your Cloud Content with others using our Software and Services, we may automatically review this shared Cloud Content to flag abusive behavior (such as spam or phishing).
 
@@ -186,9 +186,9 @@ Your Local Content is **never** reviewed by us.
 
 In some countries, the law requires that we put a data protection agreement in place with you if we handle Personal Data (as defined in the applicable agreement) for you as part of our Services and Software. These agreements are the EU Data Processing Agreement or Data Protection Terms, found in the following locations:
 
-**(A) European Union (“EU”) Data Processing Agreement (or “DPA”).**  The DPA terms apply where you provide Personal Data (as defined in the DPA) collected from individuals from countries in the European Economic Area (“EEA”) and the UK and where you are a “**Controller**” and Adobe is a “**Processor**” under the General Data Protection Regulation (EU) 2016/679 (“**GDPR**”) or any successor for the GDPR associated with the withdrawal of the United Kingdom from the EU. The DPA terms are available here: [www.adobe.com/go/tou-dpa](/go/tou-dpa.html).
+**(A) European Union (“EU”) Data Processing Agreement (or “DPA”).**  The DPA terms apply where you provide Personal Data (as defined in the DPA) collected from individuals from countries in the European Economic Area (“EEA”) and the UK and where you are a “**Controller**” and Adobe is a “**Processor**” under the General Data Protection Regulation (EU) 2016/679 (“**GDPR**”) or any successor for the GDPR associated with the withdrawal of the United Kingdom from the EU. The DPA terms are available here: [www.adobe.com/go/tou-dpa](https://www.adobe.com/go/tou-dpa).
 
-**(B) Data Protection Terms.**  The Data Protection Terms apply where you provide Personal Data (as defined in the Data Protection Terms) collected from individuals outside of the EEA and the UK and where Adobe is Processing (as defined in the Data Protection Terms) this data at your instruction and on your behalf. The Data Protection Terms are available here: [https://www.adobe.com/go/dpt-ww](/go/dpt-ww.html).
+**(B) Data Protection Terms.**  The Data Protection Terms apply where you provide Personal Data (as defined in the Data Protection Terms) collected from individuals outside of the EEA and the UK and where Adobe is Processing (as defined in the Data Protection Terms) this data at your instruction and on your behalf. The Data Protection Terms are available here: [https://www.adobe.com/go/dpt-ww](https://www.adobe.com/go/dpt-ww).
 
 ### 2.4 Sensitive Personal Information
 
@@ -210,7 +210,7 @@ style
 
 **xs-spacing, grid-width-12**
 
-Subject to your compliance with the Terms and applicable law, we hereby grant you a non-exclusive, limited, revocable right (as set forth herein) for you to install, access and use the Services and Software that we make available to you, and that you license from us. Each license is to be used by only one (1) person and cannot be shared. At the end of your license term, your license(s) will expire as set forth in your order document(s), or the [Subscription and Cancellation Terms](/legal/subscription-terms.html). The version(s) of the Services and Software available at your renewal date may be different from the version(s) available when you first licensed them from Adobe. The versions of the Services and Software that Adobe supports can be found here: [https://www.adobe.com/go/software-support-guidelines](/go/software-support-guidelines.html). You agree that your decision to use, access, or license the Services and Software is not contingent on the delivery of any future functionality or features, or dependent on any oral or written public comments made by us regarding future functionality or features.
+Subject to your compliance with the Terms and applicable law, we hereby grant you a non-exclusive, limited, revocable right (as set forth herein) for you to install, access and use the Services and Software that we make available to you, and that you license from us. Each license is to be used by only one (1) person and cannot be shared. At the end of your license term, your license(s) will expire as set forth in your order document(s), or the [Subscription and Cancellation Terms](/legal/subscription-terms.html). The version(s) of the Services and Software available at your renewal date may be different from the version(s) available when you first licensed them from Adobe. The versions of the Services and Software that Adobe supports can be found here: [https://www.adobe.com/go/software-support-guidelines](https://www.adobe.com/go/software-support-guidelines.html). You agree that your decision to use, access, or license the Services and Software is not contingent on the delivery of any future functionality or features, or dependent on any oral or written public comments made by us regarding future functionality or features.
 
 ### 3.2 Adobe Intellectual Property
 
@@ -300,7 +300,7 @@ style
 
 (A) For any font or font file you upload or submit to the Services and Software (“**Creative Cloud Customer Fonts**”) you represent and warrant that you have all necessary rights to allow us to use, reproduce, display, host, and distribute the Creative Cloud Customer Fonts through the Services and Software **for your use**. Creative Cloud Customer Fonts are not considered Content, as defined in the Terms. You retain all rights to the unmodified Creative Cloud Customer Fonts. You acknowledge that enabling the display of any Creative Cloud Customer Font with the Services and Software for your use may require us to use Adobe Technology, including our proprietary font-optimization technology, and that we retain all rights to such Adobe Technology. “**Adobe Technology**” means technology owned by us or licensed to us by a third-party (including the Services and Software and any related intellectual property rights throughout the world), any Feedback provided to us that is incorporated into any of the foregoing, and any of the modifications, or extensions of any of the foregoing, whenever or wherever developed. Adobe does not represent or warrant that any such Creative Cloud Customer Fonts will be compatible with or be suitable for use with the Services or Software.
 
-(B) If we are informed by a third party, such as a foundry, or become aware that you do not have the rights to which you warrant in section 3.10(A) (Creative Cloud Customer Fonts) or that your Creative Cloud Customer Fonts violate third-party Intellectual Property Rights, then we may remove the Creative Cloud Customer Fonts from your account, from the Services, or from the Content that uses such Creative Cloud Customer Fonts. You acknowledge that if we remove your Creative Cloud Customer Fonts from your account, the Services or the Content that uses the Creative Cloud Customer Fonts, or the display of your Content may change, and we will have no liability in connection with the removal. Information about how your Content may change can be found here: [https://www.adobe.com/go/cc-fonts-faq](/go/cc-fonts-faq.html).
+(B) If we are informed by a third party, such as a foundry, or become aware that you do not have the rights to which you warrant in section 3.10(A) (Creative Cloud Customer Fonts) or that your Creative Cloud Customer Fonts violate third-party Intellectual Property Rights, then we may remove the Creative Cloud Customer Fonts from your account, from the Services, or from the Content that uses such Creative Cloud Customer Fonts. You acknowledge that if we remove your Creative Cloud Customer Fonts from your account, the Services or the Content that uses the Creative Cloud Customer Fonts, or the display of your Content may change, and we will have no liability in connection with the removal. Information about how your Content may change can be found here: [https://www.adobe.com/go/cc-fonts-faq](https://www.adobe.com/go/cc-fonts-faq).
 
 (C) You may revoke our access to your Creative Cloud Customer Fonts and terminate our rights at any time by deleting your Creative Cloud Customer Fonts from the Service.
 
@@ -322,7 +322,7 @@ style
 
 (A)  **Pre-release or Beta Version.**  We may designate the Services and Software, or a feature of the Services and Software, as a prerelease or beta version (“**Beta Version**”). A Beta Version does not represent the final Services and Software and may contain bugs that may cause system or other failure and data loss. We may choose not to release a commercial version of the Beta Version. You must promptly cease using the Beta Version and destroy all copies of the Beta Version if we request you to do so. In exchange for your use of a Beta Version, you agree that Adobe may collect data, including crash data, regarding your use of the Beta Version and analyze your Content, including human review, to improve our Services and Software and to personalize your experience, regardless of whether you have opted-out of data collection for non-Beta Versions. If you do not wish to have your usage tracked or Content analyzed, you must discontinue your use of the Beta Version by uninstalling such Beta Version or utilizing a non-Beta Version of the Services and Software. Any separate agreement we enter into with you governing the Beta Version will supersede these provisions.
 
-(B)  **Education Version.**  If we designate the Services and Software to be for use by educational users (“**Educational Version**”), then you may use the Educational Version only if you meet the eligibility requirements stated at [https://www.adobe.com/go/primary-secondary-institution-eligibility-guidelines](/go/primary-secondary-institution-eligibility-guidelines.html). You may install and use the Educational Version only in the country where you are qualified as an educational user. If you reside in the EEA, then the word “country” in the prior sentence means the EEA.
+(B)  **Education Version.**  If we designate the Services and Software to be for use by educational users (“**Educational Version**”), then you may use the Educational Version only if you meet the eligibility requirements stated at [https://www.adobe.com/go/primary-secondary-institution-eligibility-guidelines](https://www.adobe.com/go/primary-secondary-institution-eligibility-guidelines). You may install and use the Educational Version only in the country where you are qualified as an educational user. If you reside in the EEA, then the word “country” in the prior sentence means the EEA.
 
 ### 3.12 Third-Party Services and Software
 
@@ -334,7 +334,7 @@ style
 
 **xs-spacing, grid-width-12**
 
-Adobe may make third-party software and services (including plug-ins and extensions) available to you through the Services and Software as a convenience. Third-party software and services are not Services and Software as defined in the Terms and your acquisition and use of such third-party software and services is solely between you and the third party. Some third-party terms that may be applicable to your use of the Services and Software are available here: ([https://www.adobe.com/go/thirdparty](/go/thirdparty.html)and [https://www.adobe.com/legal/permissions/image-notice.html](/legal/permissions/image-notice.html)). You are responsible for complying with all applicable third-party terms.
+Adobe may make third-party software and services (including plug-ins and extensions) available to you through the Services and Software as a convenience. Third-party software and services are not Services and Software as defined in the Terms and your acquisition and use of such third-party software and services is solely between you and the third party. Some third-party terms that may be applicable to your use of the Services and Software are available here: ([https://www.adobe.com/go/thirdparty](https://www.adobe.com/go/thirdparty)and [https://www.adobe.com/legal/permissions/image-notice.html](/legal/permissions/image-notice.html)). You are responsible for complying with all applicable third-party terms.
 
 ## 4\. Your Content
 
@@ -441,7 +441,7 @@ You, as a Personal User or a Business User, are responsible for all activity tha
 
 ### 5.2 Account Security
 
-You are responsible for taking reasonable steps to maintain the security and control of your Adobe Account. Adobe may require you to enable multi-factor authentication and provide a phone number or an alternate email for security purposes. Adobe assumes no responsibility for any loss that you may sustain due to a compromise of your account login credentials, or your failure to follow or act on any notices or alerts that we may send to your email address or telephone number. You are responsible for keeping your email address and telephone number up to date to receive any notices or alerts that we may send you, and you are also responsible for carefully reviewing any messages purporting to be from Adobe to ensure they are legitimate. We assume no responsibility if you are unable to access your Adobe Account because you cannot provide the appropriate login credentials, such as a password, email address, or telephone number. If you suspect that your Adobe Account or any of your security details have been compromised, please contact your account administrator or Adobe Customer Care [https://www.adobe.com/go/csupport\_subscripterms](/go/csupport_subscripterms.html).
+You are responsible for taking reasonable steps to maintain the security and control of your Adobe Account. Adobe may require you to enable multi-factor authentication and provide a phone number or an alternate email for security purposes. Adobe assumes no responsibility for any loss that you may sustain due to a compromise of your account login credentials, or your failure to follow or act on any notices or alerts that we may send to your email address or telephone number. You are responsible for keeping your email address and telephone number up to date to receive any notices or alerts that we may send you, and you are also responsible for carefully reviewing any messages purporting to be from Adobe to ensure they are legitimate. We assume no responsibility if you are unable to access your Adobe Account because you cannot provide the appropriate login credentials, such as a password, email address, or telephone number. If you suspect that your Adobe Account or any of your security details have been compromised, please contact your account administrator or Adobe Customer Care [https://www.adobe.com/go/csupport\_subscripterms](https://www.adobe.com/go/csupport_subscripterms).
 
 ### 5.3 Free Account Inactivity
 
@@ -605,7 +605,7 @@ Upon the expiration or termination of the Terms, some or all of the Services and
 
 ### 11.4 Account Deactivations and Appeals
 
-If you believe your Adobe Account has been deactivated in error, you may submit an appeal by following the process outlined when you attempt to log into your account or at our [Transparency Center](/go/transparencycenter.html). If you have any related questions, please contact [Adobe Customer Care](/go/csupport_subscripterms.html).
+If you believe your Adobe Account has been deactivated in error, you may submit an appeal by following the process outlined when you attempt to log into your account or at our [Transparency Center](https://www.adobe.com/go/transparencycenter). If you have any related questions, please contact [Adobe Customer Care](https://www.adobe.com/go/csupport_subscripterms).
 
 ## 12\. Trade Sanctions and Export Control Compliance
 
@@ -617,7 +617,7 @@ Nothing in the Terms is intended to exclude, restrict, or modify any consumer ri
 
 ## 14\. Dispute Resolution, Class Action Waiver, Arbitration Agreement
 
-Adobe Customer Care is available to address most concerns that you may have regarding Adobe’s Services and Software. Contact Adobe Customer Care here: [https://www.adobe.com/go/csupport\_subscripterms](/go/csupport_subscripterms.html).
+Adobe Customer Care is available to address most concerns that you may have regarding Adobe’s Services and Software. Contact Adobe Customer Care here: [https://www.adobe.com/go/csupport\_subscripterms](https://www.adobe.com/go/csupport_subscripterms).
 
 ### 14.1 Notice of Claim and Required Information Dispute Resolution Process
 
@@ -743,7 +743,7 @@ General Terms of Use Hyperlinked Document List (listed in order of mention above
 
 1\. Subscription and Cancellation Terms: [https://www.adobe.com/legal/subscription-terms.html](/legal/subscription-terms.html)
 
-2\. K-12 (Primary and Secondary) and Higher Education Additional Terms for Student Data: [https://www.adobe.com/content/dam/cc/en/legal/servicetou/Adobe-EDU-Terms-en\_US-20210701.pdf](https://www.adobe.com/cc-shared/assets/pdf/legal/servicetou/adobe-edu-terms-en-us-20210701.pdf)
+2\. K-12 (Primary and Secondary) and Higher Education Additional Terms for Student Data:  https://www.adobe.com/cc-shared/assets/pdf/legal/servicetou/adobe-edu-terms-en-us-20251103.pdf
 
 3\. Personal content stored in Creative Cloud and Document Cloud for teams or enterprise cloud storage HelpX: [https://helpx.adobe.com/enterprise/kb/business-storage.html](https://helpx.adobe.com/enterprise/kb/business-storage.html)
 
