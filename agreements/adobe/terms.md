@@ -402,7 +402,7 @@ Under this clause 4.3(B), we do **not** have the right to, and we will not, publ
 
 **(C) You May Choose Not to Participate in Content Analytics.**
 
-1.  **Opt-out Rights.** You have the right to opt out of us performing Content Analytics using your Content ([https://www.adobe.com/go/contentanalysisfaq](/go/contentanalysisfaq.html)) and usage data ([https://www.adobe.com/go/usagedatafaq](/go/usagedatafaq.html)).
+1.  **Opt-out Rights.** You have the right to opt out of us performing Content Analytics using your Content ([https://www.adobe.com/go/contentanalysisfaq](/go/contentanalysisfaq)) and usage data ([https://www.adobe.com/go/usagedatafaq](/go/usagedatafaq)).
 2.  **Generative AI.** We will **not** use your Content to train generative AI models except for Content you chose to submit to the Adobe Stock marketplace, and this use is governed by the separate Adobe Stock Contributor Agreement.
 
 ### 4.4 Sharing Your Content
