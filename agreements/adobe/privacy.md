@@ -167,7 +167,7 @@ The following links provide further information on:
 *   Your [privacy choices](/privacy/opt-out.html) regarding how we use this information;
 *   Adobe products and services licensed by [educational institutions](/privacy/k12-student-page.html);
 *   How Adobe uses [cookies and similar technologies](/privacy/cookies.html); and
-*   How Adobe [analyzes your content](https://helpx.adobe.com/manage-account/amr/machine-learning-faq.html) using techniques such as machine learning in order to improve our Services and Software, and how to [opt out](/go/machine_learning_opt_out.html) of this.
+*   How Adobe [analyzes your content](https://helpx.adobe.com/manage-account/amr/machine-learning-faq.html) using techniques such as machine learning in order to improve our Services and Software, and how to [opt out](/go/machine_learning_opt_out) of this.
 
 **Adobe Software activation and automatic updates**
 
@@ -304,7 +304,7 @@ info-share
 
 There are several places within Adobe’s Services and Software that allow you to post comments, upload pictures, participate in message boards or chats, engage with blogs, share technical information, or submit other content for others to see. Sometimes you can limit who can see what you share, but there are some places where what you share can be seen by the general public or other users of the service. Such information can appear in search engine results or through other publicly available platforms and can be “crawled” or searched by third parties. For example, when users post content on message boards, online chats, blogs, and Community Forums, the information posted by the user will become public. Some online content may remain accessible publicly even after Adobe fulfils a request to delete the poster’s personal information.
 
-Please be careful when you share your personal information. Do not share anything you wouldn’t want publicly known unless you are sure you are posting it within an app or website that allows you to control who sees what you post. Please note that when you post messages on certain user forums on our websites and app, your email address or name and/or profile photo may be included and displayed with your message. You can find more information about managing your public profile [here](https://helpx.adobe.com/manage-account/using/edit-adobe-account-personal-profile.html). To remove content you have shared on our Services and Software, please use the same feature you used to share the content. If another user invites you to participate in shared viewing, editing, or commenting of content, you may be able to delete your contributions, but usually the user who invited you has full control. If you have questions or concerns about this, please [contact us](/go/privacyinquiry.html).
+Please be careful when you share your personal information. Do not share anything you wouldn’t want publicly known unless you are sure you are posting it within an app or website that allows you to control who sees what you post. Please note that when you post messages on certain user forums on our websites and app, your email address or name and/or profile photo may be included and displayed with your message. You can find more information about managing your public profile [here](https://helpx.adobe.com/manage-account/using/edit-adobe-account-personal-profile.html). To remove content you have shared on our Services and Software, please use the same feature you used to share the content. If another user invites you to participate in shared viewing, editing, or commenting of content, you may be able to delete your contributions, but usually the user who invited you has full control. If you have questions or concerns about this, please [contact us](/go/privacyinquiry).
 
 anchor
 
@@ -404,7 +404,7 @@ Certain products, including those listed below are available to children (indivi
 *   Adobe Express, Creative Cloud, and Document Cloud apps are available to students, including children, for educational purposes under the supervision of school personnel. To provide these Student Services, Adobe collects student data on behalf of participating schools. For more information about how children’s data is handled in this context, see [Adobe’s COPPA Notice for Student Services](/cc-shared/assets/pdf/legal/documents/coppa-notice.pdf).
 *   Project Aqua is an app designed for parents and guardians to use with children. For more information about how children’s data is handled in this app, see [Project Aqua Children’s Privacy Notice](/privacy/project-aqua-childrens-privacy-notice.html).
 
-All other Adobe Services and Software are not intended for use by children and certain products specifically prohibit users who are under a certain age. If you do not meet applicable age requirements, please do not use those Services and Software. If you believe we have mistakenly or unintentionally collected personal information from a minor without appropriate permission or consent, please contact us using t[he privacy inquiry form](/go/privacyinquiry.html) (also found in the Contact section below) and we will take appropriate steps to respond to your request.
+All other Adobe Services and Software are not intended for use by children and certain products specifically prohibit users who are under a certain age. If you do not meet applicable age requirements, please do not use those Services and Software. If you believe we have mistakenly or unintentionally collected personal information from a minor without appropriate permission or consent, please contact us using t[he privacy inquiry form](/go/privacyinquiry) (also found in the Contact section below) and we will take appropriate steps to respond to your request.
 
 anchor
 
@@ -420,7 +420,7 @@ policy-change
 
 ## Who can I contact with questions or concerns?
 
-If you have a privacy question, concern, or request, please fill out a [privacy inquiry form](/go/privacyinquiry.html).
+If you have a privacy question, concern, or request, please fill out a [privacy inquiry form](/go/privacyinquiry).
 
 If you are outside North America, you can also get in touch with Adobe Ireland's data protection officer at [DPO@Adobe.com](mailto:DPO@Adobe.com) or by postal mail at 4-6 Riverwalk, Citywest Business Park, Dublin 24, Ireland.
 
