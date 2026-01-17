@@ -505,7 +505,7 @@ You must use the Services and Software responsibly and not misuse the Services a
 
 ## 7\. Fees and Payment
 
-### 7.1 Taxes and Third-Party
+### 7.1 Taxes and Third-Party Fees
 
 You must pay any applicable taxes and third-party fees (including, for example, telephone toll charges, mobile carrier fees, ISP charges, data plan charges, credit card fees, VAT, foreign exchange fees, and foreign transaction fees). We are not responsible for these fees. Contact your financial institution with questions about fees. We may take steps to collect the fees you owe us. You are responsible for all related collection costs and expenses. If you are located in a different country from the applicable Adobe entity with which you are transacting (i.e., Adobe Inc. for North American customers, Adobe KK for Japanese customers, and Adobe Systems Software Ireland Limited for customers in all other countries), your payments will be made to a foreign entity.
 
