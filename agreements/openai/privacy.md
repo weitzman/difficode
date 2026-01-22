@@ -135,43 +135,27 @@ Some U.S. state privacy laws require specific disclosures. The following table p
 We collect the following information, as described above:
 
 *   Identifiers, such as your name, contact details, IP address, and other device identifiers
-    
 *   Commercial information, such as your transaction history
-    
 *   Network activity information, such as Content and how you interact with our Services
-    
 *   Communication information, such as your contact information when you send us email
-    
 *   Geolocation data, such as the general area from which your device accesses our Services based on information like its IP address, or precise location information you choose to provide
-    
 *   Your account credentials and payment information
-    
 
 We use this information for the following purposes, as described above:
 
 *   Provide, analyze, and maintain our Services
-    
 *   Improve and develop our Services and conduct research
-    
 *   Communicate with you, including to send you information about our Services and events
-    
 *   Prevent fraud, illegal activity, or misuses of our Services, and to protect the security of our systems and Services
-    
 *   Comply with legal obligations and protect the rights, privacy, safety, or property of our users, OpenAI, or third parties
-    
 
 We may disclose this information in the following circumstances, as described above:
 
 *   Vendors, service providers, and affiliates to process in accordance with our instructions
-    
 *   Government authorities or other third parties for the legal reasons described above
-    
 *   Parties involved in Transactions
-    
 *   Business account administrators for the reasons described above
-    
 *   Other users and third parties you interact or share information with
-    
 
 Depending on where you live and subject to applicable exceptions, you may have the following privacy rights in relation to your Personal Data:
 
