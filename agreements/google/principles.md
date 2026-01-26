@@ -121,5 +121,3 @@ Learn how we keep more people safe online than anyone else in the world.
 *   2
 *   3
 *   4
-
-Not all products or features may be available in all locations.
