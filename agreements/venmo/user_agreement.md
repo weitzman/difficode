@@ -9,6 +9,8 @@ User
 
 Agreement
 
+A new User Agreement will go into effect on February 19, 2026. To view that version of the User Agreement, click [here](/legal/us-user-agreement/20260219). Starting February 19, 2026, you won’t be able to use Visa+ to send money to or receive money from PayPal accounts. If you currently use Visa+ to receive payments into your Venmo account via Payactiv, DailyPay, eTip or MyBambu, this service won’t be affected.
+
 ### Last Updated
 
 This user agreement is effective as of November 17, 2025.
