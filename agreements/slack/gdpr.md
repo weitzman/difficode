@@ -86,7 +86,7 @@ We also monitor the guidance around GDPR compliance from privacy-related regulat
 
 ## Our Security Infrastructure and Certifications
 
-Protecting our customers’ information and their users’ privacy is extremely important to us. As a cloud-based company entrusted with some of our customers’ most valuable data, we’ve set high standards for security. We’ve received several security certifications from the American Institute of Certified Public Accountants such as SOC 2 and [SOC 3](https://a.slack-edge.com/53bfd26/marketing/downloads/security/Slack_SOC_3_2024_Report.pdf). Slack has received internationally recognized security certifications for [ISO 27001](https://a.slack-edge.com/53bfd26/marketing/downloads/security/Slack_ISO_27001_cert_2024.pdf) (information security management system), [ISO 27017](https://a.slack-edge.com/2bba6c7/marketing/downloads/security/Slack-27017-Cert.pdf) (security controls for the provision and use of cloud services) and [ISO 27018](https://a.slack-edge.com/2bba6c7/marketing/downloads/security/Slack-27018-Cert.pdf) (for protecting personal data in the cloud).
+Protecting our customers’ information and their users’ privacy is extremely important to us. As a cloud-based company entrusted with some of our customers’ most valuable data, we’ve set high standards for security. We’ve received several security certifications from the American Institute of Certified Public Accountants such as SOC 2 and [SOC 3](https://a.slack-edge.com/d6e4a4e/marketing/downloads/security/Slack_SOC_3_2025_Report.pdf). Slack has received internationally recognized security certifications for [ISO 27001](https://a.slack-edge.com/53bfd26/marketing/downloads/security/Slack_ISO_27001_cert_2024.pdf) (information security management system), [ISO 27017](https://a.slack-edge.com/2bba6c7/marketing/downloads/security/Slack-27017-Cert.pdf) (security controls for the provision and use of cloud services) and [ISO 27018](https://a.slack-edge.com/2bba6c7/marketing/downloads/security/Slack-27018-Cert.pdf) (for protecting personal data in the cloud).
 
 Slack has invested heavily in building a robust security team, one that can handle a variety of issues — everything from threat detection to building new tools. In accordance with GDPR requirements around security incident notifications, Slack will continue to meet its obligations and offer contractual assurances.
 
@@ -110,6 +110,6 @@ At Slack, we are committed to the security and privacy of your data. So we’re 
 *   [Slack's Data Processing Addendum](https://slack.com/terms-of-service/data-processing)
 *   [“Slack’s Approach to Security” whitepaper \[PDF\]](/resources/why-use-slack/security-at-slack)
 *   [Slack’s security page](https://slack.com/security)
-*   [Slack and SOC compliance \[PDF\]](https://a.slack-edge.com/53bfd26/marketing/downloads/security/Slack_SOC_3_2024_Report.pdf)
+*   [Slack and SOC compliance \[PDF\]](https://a.slack-edge.com/d6e4a4e/marketing/downloads/security/Slack_SOC_3_2025_Report.pdf)
 *   [Data Privacy Framework (DPF) Program Overview](https://www.dataprivacyframework.gov/Program-Overview)
 *   [Full text of the GDPR](https://gdpr-info.eu/)
