@@ -7,7 +7,7 @@ The Google Earth Additional Terms of Service are now available [here](../terms_m
 
 # Google Maps End User Additional Terms of Service
 
-Last Modified: June 4, 2025
+Last Modified: January 27, 2026
 
 By using Google Maps, or any third party products or services that integrate Google Maps Platform Services, you, as an end user, must accept (1) the [Google Terms of Service](https://policies.google.com/terms), and (2) these Google Maps Additional Terms of Service (the “**Maps Additional Terms**”). The Maps Additional Terms incorporate by reference the [Legal Notices for Google Maps/Google Earth and Google Maps/Google Earth APIs.](../legalnotices_maps/)
 
@@ -25,9 +25,10 @@ We encourage you to read [our Privacy Policy.](https://policies.google.com/priva
         
     3.  publicly display content with proper attribution online, in video, and in print.
         
-2.  For more details about specific things that you’re permitted to do with Google Maps, please see the [Using Google Maps, Google Earth, and Street View](https://www.google.com/permissions/geoguidelines/) permissions page.
     
-3.  **Prohibited Conduct.** Your compliance with this Section 2 is a condition of your license to use Google Maps. When using Google Maps, you may not (or allow those acting on your behalf to):
+    For more details about specific things that you’re permitted to do with Google Maps, please see the [Using Google Maps, Google Earth, and Street View](https://www.google.com/permissions/geoguidelines/) permissions page.
+    
+2.  **Prohibited Conduct.** Your compliance with this Section 2 is a condition of your license to use Google Maps. When using Google Maps, you may not (or allow those acting on your behalf to):
     
     1.  redistribute or sell any part of Google Maps or create a new product or service based on Google Maps;
         
@@ -39,11 +40,11 @@ We encourage you to read [our Privacy Policy.](https://policies.google.com/priva
         
     5.  use any part of Google Maps with other people's products or services for or in connection with real-time navigation or autonomous vehicle control, except through a specific Google-provided feature such as Android Auto.
         
-4.  **Actual Conditions; Assumption of Risk.** When you use Google Maps map data, traffic, directions, and other content, you may find that actual conditions differ from the map results and content, so exercise your independent judgment and use Google Maps at your own risk. You’re responsible at all times for your conduct and its consequences.
+3.  **Actual Conditions; Assumption of Risk.** When you use Google Maps map data, traffic, directions, and other content, you may find that actual conditions differ from the map results and content, so exercise your independent judgment and use Google Maps at your own risk. You’re responsible at all times for your conduct and its consequences.
     
-5.  **Your Content in Google Maps.** Content you upload, submit, store, send, or receive through Google Maps is subject to Google’s [Terms of Service](https://policies.google.com/terms), including the license in the section called [“Permission to use your content”](https://policies.google.com/terms/update#toc-permission). However, content that remains exclusively local to your device (such as a locally-stored KML file) is not uploaded or submitted to Google, and is therefore not subject to that license.
+4.  **Your Content in Google Maps.** Content you upload, submit, store, send, or receive through Google Maps is subject to Google’s [Terms of Service](https://policies.google.com/terms), including the license in the section called [“Permission to use your content”](https://policies.google.com/terms/update#toc-permission). However, content that remains exclusively local to your device (such as a locally-stored KML file) is not uploaded or submitted to Google, and is therefore not subject to that license.
     
-6.  **Government End Users.** If you’re using Google Maps as a representative of a government entity, the following terms apply:
+5.  **Government End Users.** If you’re using Google Maps as a representative of a government entity, the following terms apply:
     
     1.  **Governing Law.**
         
