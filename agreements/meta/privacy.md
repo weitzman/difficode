@@ -1027,7 +1027,7 @@ A person, business, organization or body that provides services to Meta or to ou
 *   You might decide to use a product that integrates with one of ours, like if you use Facebook Login to log into a music service or a shopping site
 *   If you do, that organization will ask you to receive some information about you, like your email address or birthday
 
-![Hands holding a phone, using Facebook Login to log into an Integrated Partner's website.](https://static.xx.fbcdn.net/rsrc.php/v4/yE/r/Ua2bgQaiNAA.png)
+![Hands holding a phone, using Facebook Login to log into an Integrated Partner's website.](https://static.xx.fbcdn.net/rsrc.php/v4/yj/r/zFL7ocAbVM0.png)
 
 ## On Meta Products
 
