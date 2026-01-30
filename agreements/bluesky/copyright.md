@@ -3,11 +3,11 @@ url: "https://bsky.social/about/support/copyright"
 selector: "main"
 ---
 
-[Support](/about/support)Copyright Policy
+[Support](/about/support)Copyright Policy and Intellectual Property Policy
 
-# Copyright Policy
+# Copyright Policy and Intellectual Property Policy
 
-#### Last Updated: 14 August, 2025
+#### Last Updated: 29 January, 2026
 
 Bluesky respects the intellectual property rights of others and expects our users to do the same. Users may not post content that infringes the copyrights or intellectual property rights of others.
 
@@ -15,34 +15,70 @@ If you believe content on Bluesky infringes your copyright or other IP rights, y
 
 ## 1\. Defined Terms
 
-Unless otherwise defined in this Copyright Policy, all capitalized terms have the meaning given to them in the [Bluesky Terms of Service](/about/support/tos).
+Unless otherwise defined in this Intellectual Property Policy, all capitalized terms have the meaning given to them in the [Bluesky Terms of Service](/about/support/tos).
 
-## 2\. Submitting a Copyright Complaint
+## 2\. Submission type
 
-If you are a copyright owner (or authorized to act on behalf of one), you may send us a takedown request that includes all of the following information:
+*   **2.a. Submitting a Copyright Complaint**
+    
+    If you are a copyright owner (or authorized to act on behalf of one), you may send us a takedown request that includes all of the following information:
+    
+    *   A. A description of the copyrighted work you believe has been infringed;
+    *   B. The specific URL or other identifying information of the allegedly infringing content;
+    *   C. Your name, address, phone number, and email address;
+    *   D. A statement that you have a good faith belief the use of the content is not authorized by the copyright owner, its agent, or the law;
+    *   E. A statement, under penalty of perjury, that the information in your notice is accurate and that you are authorized to act on behalf of the copyright owner; and
+    *   F. Your physical or electronic signature.
+    
+    Submit your request [here](https://docs.google.com/forms/d/e/1FAIpQLSc4EzXFaEkm1y3eu7cHyfb2YXqu9QRZB63KB9VXBaniJzqO8A/viewform?usp=sf_link).
+    
+*   **2.b. Submitting a Trademark Complaint**
+    
+    If you are a trademark owner (or authorized to act on behalf of one), you may send us a takedown request that includes all of the following information:
+    
+    *   A. A description of the trademark you believe has been infringed.
+    *   B. The specific URL or other identifying information of the allegedly infringing content.
+    *   C. Your name, address, phone number, and email address;
+    *   D. A statement that you have a good faith belief the use of the content is not authorized by the trademark owner, its agent, or the law;
+    *   E. A statement, under penalty of perjury, that the information in your notice is accurate and that you are the trademark owner or are authorized to act on behalf of the owner.
+    *   F. Your physical or electronic signature.
+    
+    Submit your request [here](https://forms.gle/cUsqYRKsCeY9BciP6).
+    
 
-1.  A description of the copyrighted work you believe has been infringed;
-2.  The specific URL or other identifying information of the allegedly infringing content;
-3.  Your name, address, phone number, and email address;
-4.  A statement that you have a good faith belief the use of the content is not authorized by the copyright owner, its agent, or the law;
-5.  A statement, under penalty of perjury, that the information in your notice is accurate and that you are authorized to act on behalf of the copyright owner; and
-6.  Your physical or electronic signature.
+## 3\. Counter-Notification and Appeals Process
 
-Submit your request [here](https://docs.google.com/forms/d/e/1FAIpQLSc4EzXFaEkm1y3eu7cHyfb2YXqu9QRZB63KB9VXBaniJzqO8A/viewform).
+*   **3.a. Copyright Counter Notice**
+    
+    If you believe your content was removed in error under a copyright claim, you may submit a counter-notification. Your counter-notification must include:
+    
+    *   A. Your contact details;
+    *   B. The URL or identification of the material that was removed;
+    *   C. A statement under penalty of perjury that you believe the content was wrongly removed;
+    *   D. A statement consenting to the jurisdiction of your local federal court (if in the U.S.) or, if outside the U.S., consenting to jurisdiction in any place where Bluesky is located;
+    *   E. Your physical or electronic signature.
+    
+    Submit your copyright counter-notice [here](https://forms.gle/d2Egxrcoamgf3yyc7).
+    
+*   **3.b. Trademark Appeal**
+    
+    If content or an account you manage is removed or restricted due to a trademark report, you may request an internal review by following these steps:
+    
+    *   1\. Submit a written appeal to Bluesky’s IP support team, including:
+        
+        *   A. Your contact details
+        *   B. The URL or other identifying information of the content that was removed or restricted.
+        *   C. Proof of ownership of the registered trademark or authorization to act on behalf of the trademark owner.
+        *   D. A statement, under penalty of perjury, that you have a good faith belief that the content was wrongly removed or restricted.
+        *   E. A statement consenting to the jurisdiction of your local federal court (if in the U.S.) or, if outside the U.S., consenting to jurisdiction in any place where Bluesky is located.
+        *   F. Your physical or electronic signature.
+        
+        Submit your trademark appeal [here](https://forms.gle/71kJ1Bqrsr9pnbrC9).
+        
 
-## 3\. Counter-Notification Process
+A decision will be communicated to you via email within a reasonable timeframe.
 
-If you believe your content was removed in error under a copyright claim, you may submit a counter-notification. Your counter-notification must include:
-
-1.  Your contact details;
-2.  The URL or identification of the material that was removed;
-3.  A statement under penalty of perjury that you believe the content was wrongly removed;
-4.  A statement consenting to the jurisdiction of your local federal court (if in the U.S.) or, if outside the U.S., consenting to jurisdiction in any place where Bluesky is located;
-5.  Your physical or electronic signature.
-
-Submit your counter-notice [here](https://docs.google.com/forms/d/e/1FAIpQLSc4EzXFaEkm1y3eu7cHyfb2YXqu9QRZB63KB9VXBaniJzqO8A/viewform).
-
-We will take appropriate action when we receive a valid counter-notice.
+We will take appropriate action upon receiving a valid counter-notice or appeal, in accordance with applicable laws and our internal policies.
 
 ## 4\. Repeat Infringer and Abusive Reporting Policy
 
