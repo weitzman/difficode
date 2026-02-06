@@ -9,9 +9,9 @@ selector: "main"
 
 #### Last Updated: 29 January, 2026
 
-Bluesky respects the intellectual property rights of others and expects our users to do the same. Users may not post content that infringes the copyrights or intellectual property rights of others.
+Bluesky respects the intellectual property rights of others and expects our users to do the same. Users may not post content that infringes the copyrights, trademarks, or intellectual property rights of others.
 
-If you believe content on Bluesky infringes your copyright or other IP rights, you may report it by following the process described below. We respond promptly to valid legal requests and, when appropriate, remove or disable access to the infringing material.
+If you believe content on Bluesky infringes your copyright, trademark, or other IP rights, you may report it by following the process described below. We respond promptly to valid legal requests and, when appropriate, remove or disable access to the infringing material.
 
 ## 1\. Defined Terms
 
@@ -19,7 +19,15 @@ Unless otherwise defined in this Intellectual Property Policy, all capitalized t
 
 ## 2\. Submission type
 
-*   **2.a. Submitting a Copyright Complaint**
+*   **2.a. Non-rights Holder**
+    
+    If you are not the owner or authorized agent of the content or intellectual property, you cannot submit a legal copyright or trademark claim. Instead, you can report content or behavior you believe violates policies.
+    
+    *   • Report the account or content in-app, following the reporting tools provided.
+    *   • Contact moderation@blueskyweb.xyz to submit a report.
+*     
+    
+*   **2.b. Submitting a Copyright Complaint**
     
     If you are a copyright owner (or authorized to act on behalf of one), you may send us a takedown request that includes all of the following information:
     
@@ -29,10 +37,12 @@ Unless otherwise defined in this Intellectual Property Policy, all capitalized t
     *   D. A statement that you have a good faith belief the use of the content is not authorized by the copyright owner, its agent, or the law;
     *   E. A statement, under penalty of perjury, that the information in your notice is accurate and that you are authorized to act on behalf of the copyright owner; and
     *   F. Your physical or electronic signature.
+    *     
+        
+    *   Submit your request [here](https://docs.google.com/forms/d/e/1FAIpQLSc4EzXFaEkm1y3eu7cHyfb2YXqu9QRZB63KB9VXBaniJzqO8A/viewform?usp=sf_link).
+*     
     
-    Submit your request [here](https://docs.google.com/forms/d/e/1FAIpQLSc4EzXFaEkm1y3eu7cHyfb2YXqu9QRZB63KB9VXBaniJzqO8A/viewform?usp=sf_link).
-    
-*   **2.b. Submitting a Trademark Complaint**
+*   **2.c. Submitting a Trademark Complaint**
     
     If you are a trademark owner (or authorized to act on behalf of one), you may send us a takedown request that includes all of the following information:
     
@@ -42,9 +52,9 @@ Unless otherwise defined in this Intellectual Property Policy, all capitalized t
     *   D. A statement that you have a good faith belief the use of the content is not authorized by the trademark owner, its agent, or the law;
     *   E. A statement, under penalty of perjury, that the information in your notice is accurate and that you are the trademark owner or are authorized to act on behalf of the owner.
     *   F. Your physical or electronic signature.
-    
-    Submit your request [here](https://forms.gle/cUsqYRKsCeY9BciP6).
-    
+    *     
+        
+    *   Submit your request [here](https://forms.gle/cUsqYRKsCeY9BciP6).
 
 ## 3\. Counter-Notification and Appeals Process
 
@@ -57,8 +67,10 @@ Unless otherwise defined in this Intellectual Property Policy, all capitalized t
     *   C. A statement under penalty of perjury that you believe the content was wrongly removed;
     *   D. A statement consenting to the jurisdiction of your local federal court (if in the U.S.) or, if outside the U.S., consenting to jurisdiction in any place where Bluesky is located;
     *   E. Your physical or electronic signature.
-    
-    Submit your copyright counter-notice [here](https://forms.gle/d2Egxrcoamgf3yyc7).
+    *     
+        
+    *   Submit your copyright counter-notice [here](https://forms.gle/d2Egxrcoamgf3yyc7).
+*     
     
 *   **3.b. Trademark Appeal**
     
@@ -72,9 +84,9 @@ Unless otherwise defined in this Intellectual Property Policy, all capitalized t
         *   D. A statement, under penalty of perjury, that you have a good faith belief that the content was wrongly removed or restricted.
         *   E. A statement consenting to the jurisdiction of your local federal court (if in the U.S.) or, if outside the U.S., consenting to jurisdiction in any place where Bluesky is located.
         *   F. Your physical or electronic signature.
-        
-        Submit your trademark appeal [here](https://forms.gle/71kJ1Bqrsr9pnbrC9).
-        
+        *     
+            
+        *   Submit your trademark appeal [here](https://forms.gle/71kJ1Bqrsr9pnbrC9).
 
 A decision will be communicated to you via email within a reasonable timeframe.
 
@@ -82,20 +94,20 @@ We will take appropriate action upon receiving a valid counter-notice or appeal,
 
 ## 4\. Repeat Infringer and Abusive Reporting Policy
 
-In accordance with the Digital Millennium Copyright Act (DMCA) and other applicable laws, Bluesky may suspend or terminate the accounts of users who (i) repeatedly infringe copyright or (ii) repeatedly file unfounded, inaccurate, abusive, or harassing copyright infringement complaints, in appropriate circumstances and at our discretion.
+In accordance with the Digital Millennium Copyright Act (DMCA), trademark law, and other applicable laws, Bluesky may suspend or terminate the accounts of users who (i) repeatedly infringe copyright or trademark, or (ii) repeatedly file unfounded, inaccurate, abusive, or harassing copyright or trademark infringement complaints, in appropriate circumstances and at our discretion.
 
 ## 5\. Transparency and Compliance
 
 To comply with the EU Digital Services Act (DSA) and other jurisdictional transparency laws, Bluesky:
 
-1.  Publishes data on copyright takedown actions as required;
+1.  Publishes data on copyright and trademark takedown actions as required;
 2.  Cooperates with competent authorities upon valid legal request; and
 3.  Preserves metadata and documentation related to copyright reports as required by law.
 
-## 6\. Use of Your Copyrighted Content
+## 6\. Use of Your Copyrighted or Trademarked Content
 
 For details on how Bluesky uses user-submitted content and the license you grant us, please review our [Terms of Service](/about/support/tos) and [Privacy Policy](/about/support/privacy-policy).
 
 ## 7\. Contact
 
-For questions or copyright concerns, contact us at [support@bsky.app](mailto:support@bsky.app).
+For questions or concerns regarding copyright, trademark, or other intellectual property rights, please contact us at [ip@blueskyweb.xyz](mailto:ip@blueskyweb.xyz).
