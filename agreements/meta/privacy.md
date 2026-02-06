@@ -230,7 +230,7 @@ Partners also share with us their communications with you if they instruct us to
 
 [
 
-![](https://static.xx.fbcdn.net/rsrc.php/v4/y9/r/YkLK_FS4ewB.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v4/yr/r/Q5oWG-4yzrP.png)
 
 Your activity off Meta technologies
 
@@ -1686,7 +1686,7 @@ Take a privacy checkup
 
 [
 
-![](https://static.xx.fbcdn.net/rsrc.php/v4/y9/r/YkLK_FS4ewB.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v4/yr/r/Q5oWG-4yzrP.png)
 
 Access your information
 
