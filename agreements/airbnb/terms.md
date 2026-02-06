@@ -29,20 +29,20 @@ If your country of residence or establishment is in Australia, the [Terms of Ser
 
 ## Terms of Service for Users outside of the EEA, UK, and Australia
 
-**Section 22 of these Terms contains an arbitration agreement and class action waiver that apply to all claims brought against Airbnb in the United States. Please read them carefully.**
+**Section 23 of these Terms contains an arbitration agreement and class action waiver that apply to all claims brought against Airbnb in the United States. Please read them carefully.**
 
-Last Updated: May 13, 2025
+Last Updated: February 5, 2026
 
 Thank you for using Airbnb!
 
 The documents referred to within these Terms include but are not limited to our:
 
 *   [Payments Terms of Service](/help/article/2909), which govern any payment services provided to Members by the Airbnb payment entities (such entities, collectively, "**Airbnb Payments**").
-*   [Privacy Policy,](/help/article/2855) which describes our collection and use of personal data.
+*   [Privacy Policy](/help/article/2855) which describes our collection and use of personal data.
 *   [Service Fees Policy](/help/article/1857), which describes how Airbnb service fees are charged to Hosts and Guests.
 *   [Offline Fee Policy](/help/article/2827), which describes the circumstances in which a Host can charge additional fees or charges outside the Airbnb Platform.
 *   [Off-Platform Policy](/help/article/2799), which prohibits certain actions from occurring outside of the Airbnb Platform.
-*   [Taxes Policy](https://www.airbnb.com/help/article/318), which explains what taxes may apply to a Reservation.
+*   [Taxes Policy](/help/article/318), which explains what taxes may apply to a Reservation.
 *   [Host Privacy Standards](/help/article/2862), that specify how Hosts should handle Guest Personal Information.
 *   [Additional Terms for Service and Experience Hosts](/help/article/2870), which govern the use of the Airbnb Platform to publish and offer Services and Experiences.
 *   [Cancellation Policies for Homes](/help/article/475/), that explain the cancellation policies that may apply to a listing. The Host’s cancellation policy applicable to each reservation is displayed on the Listing page before booking.
@@ -53,7 +53,6 @@ The documents referred to within these Terms include but are not limited to our:
 *   [Resolution Center page](/help/article/767), which describes how money-related disputes between Hosts and Guests may be resolved.
 *   [Host Damage Protection Terms](/help/article/3528), which explains the terms, exclusions and limitations under which Airbnb will agree to pay a Host to repair or replace Covered Property as a result of a Covered Loss.
 *   [Reviews Policy](/help/article/2673), which governs reviews left by Members on the Airbnb Platform.
-*   [Community Standards](/help/article/3328), that apply to Members and help ensure safe stays, services, experiences, and interactions.
 *   [Community Policies](/help/feature/1/), which sets out expectations of Members of the Airbnb Community.
 *   [Content Policy](/help/article/546/), which governs the posting by Members of content on the Airbnb Platform.
 *   [Nondiscrimination Policy](/terms/nondiscrimination_policy), which describes the fundamental principles of inclusion and respect and provides guidance to Members in making accommodation distinctions based on certain personal characteristics.
@@ -105,25 +104,29 @@ The Airbnb Platform enables users (“**Members**”) to publish, offer, search 
 
 [16\. Member Accounts.](#16)
 
-[17\. Disclaimer of Warranties.](#17)
+[17\. Consent to Identity and Background Screening.](#17)
 
-[18\. Limitations on Liability.](#18)
+[18\. Disclaimer of Warranties.](#18)
 
-[19\. Indemnification.](#19)
+[19\. Limitations on Liability.](#19)
 
-[20\. Contracting Entities.](#20)
+[20\. Indemnification.](#20)
 
-[21\. United States Governing Law and Venue.](#21)
+[21\. Contracting Entities.](#21)
 
-[22\. United States Dispute Resolution and Arbitration Agreement.](#22)
+[22\. United States Governing Law and Venue.](#22)
 
-[23\. China Governing Law and Dispute Resolution.](#23)
+[23\. United States Dispute Resolution and Arbitration Agreement.](#23)
 
-[24\. Brazil Governing Law and Venue.](#24)
+[24\. China Governing Law and Dispute Resolution.](#24)
 
-[25\. Rest of World Dispute Resolution, Venue and Forum, and Governing Law.](#25)
+[25\. Brazil Governing Law and Venue.](#25)
 
-[26\. Miscellaneous.](#26)
+[26\. Rest of World Dispute Resolution, Venue and Forum, and Governing Law.](#26)
+
+[27\. Canada Class Action Waiver.](#27)
+
+[28\. Miscellaneous.](#28)
 
 [Schedule 1 - Contracting Entities](#Schedule1)
 
@@ -219,6 +222,14 @@ If you work with a co-host or host as part of a team, business, or other organiz
 
 **You acknowledge that hosting carries inherent risks and agree that you assume the entire risk arising out of your access to and use of the Airbnb Platform, offering Host Services, or any interaction you have with other Members whether in person or online. You agree that you have had the opportunity to investigate the Airbnb Platform and any laws, rules, regulations, or obligations that may be applicable to your Listings or Host Services and that you are not relying upon any statement of law made by Airbnb.**
 
+### 5.7 Your Insurance Obligations.
+
+You agree to obtain and maintain at your expense primary insurance covering your liability and the liability of any of your employees or agents working with you or on your behalf for third party bodily injury and property damage arising from a Guest’s stay at your Accommodation during a Reservation.
+
+You agree to cooperate with Airbnb and our third party insurance partners to verify all insurance you are required to maintain, including promptly providing proof of such insurance upon request. If any insurance you are required to maintain under this Section lapses or is cancelled, you agree to notify Airbnb of this immediately. 
+
+While Airbnb maintains the Host liability insurance program (“**HLI program**”), you agree to cooperate with us and our third party insurance partners in the event of a claim under the HLI program for purposes of assisting us with our compliance obligations. This includes, but is not limited to timely and accurately providing information to both us and our third party insurance partners, assisting in the claim investigation, and complying with reasonable requests relating to the claim. When required by the terms of the HLI program, you agree to promptly notify the insurer on any insurance policies you maintain under this Section of any incident giving rise to third party bodily injury or property damage arising from a Guest’s stay at your Accommodation during a Reservation.
+
 ## 6\. Cancellations, Reservation Issues, and Booking Modifications.
 
 ### 6.1 Cancellations and Reservation Issues. 
@@ -251,7 +262,7 @@ After each Host Service, Guests and Hosts will have an opportunity to review eac
 
 ## 9\. Content.
 
-Parts of the Airbnb Platform enable you to provide, share, or communicate feedback, text, photos, audio, video, information, and other content (“**Content**”). By providing Content, in whatever form and through whatever means, you grant Airbnb a non-exclusive, worldwide, royalty-free, perpetual, sub-licensable and transferable license to access, use, store, copy, modify, prepare derivative works of, distribute, publish, transmit, stream, broadcast, and otherwise exploit, in any manner such that Content to provide and/or promote the Airbnb Platform, in any media or platform, known or unknown to date and in particular on Internet and social networks. If Content includes personal information, such Content will only be used for these purposes if such use complies with applicable data protection laws in accordance with our [Privacy Policy](/terms/privacy_policy). Where Airbnb (including its affiliates) pays for the creation of Content or facilitates its creation, Airbnb (including its affiliates) may own that Content, in which case supplemental terms or disclosures will say that. You are solely responsible for all Content that you provide and warrant that you either own it or are authorized to grant Airbnb (including its affiliates) the rights described in these Terms. You are responsible and liable if any of your Content violates or infringes the intellectual property or privacy rights of any third party. Content must comply with our [Content Policy](/help/article/546/) and [Nondiscrimination Policy](/terms/nondiscrimination_policy), which prohibit, among other things, discriminatory, obscene, harassing, deceptive, violent, and illegal content. You agree that Airbnb may make available services or automated tools to translate Content and that your Content may be translated using such services or tools. Airbnb does not guarantee the accuracy or quality of translations and Members are responsible for confirming the accuracy of such translations.
+Parts of the Airbnb Platform enable you to provide, share, or communicate feedback, text, photos, audio, video, information, and other content (“**Content**”). By providing Content, in whatever form and through whatever means, you grant Airbnb a non-exclusive, worldwide, royalty-free, perpetual, sub-licensable and transferable license to access, use, store, copy, modify, prepare derivative works of, distribute, publish, transmit, stream, broadcast, and otherwise exploit, in any manner such that Content to provide and/or promote the Airbnb Platform, in any media or platform, known or unknown to date and in particular on Internet and social networks. If Content includes personal information, such Content will only be used for these purposes if such use complies with applicable data protection laws in accordance with our [Privacy Policy](/terms/privacy_policy). Where Airbnb (including its affiliates) pays for the creation of Content or facilitates its creation, Airbnb (including its affiliates) may own that Content, in which case supplemental terms or disclosures will say that. You are solely responsible for all Content that you provide and warrant that you either own it or are authorized to grant Airbnb (including its affiliates) the rights described in these Terms. You are responsible and liable if any of your Content violates or infringes the intellectual property or privacy rights of any third party. Content must comply with our [Content Policy](/help/article/546/) and [Nondiscrimination Policy](/terms/nondiscrimination_policy), which prohibit, among other things, discriminatory, obscene, harassing, deceptive, violent, and illegal content. You agree that Airbnb may make available services or automated tools to generate or translate Content and that you may use these services, interact with generated Content, or have your Content translated using such services or tools. Airbnb does not guarantee the accuracy or quality of generated Content or translations and Members are responsible for confirming the accuracy of generated Content and translations.
 
 ## 10\. Fees.
 
@@ -281,7 +292,7 @@ You must follow these rules and must not help or induce others to break or circu
     *   Do not request, make, or accept a booking or any payment outside of the Airbnb Platform to avoid paying fees, taxes or for any other reason. See our [Offline Fee Policy](/help/article/2827/what-is-the-airbnb-policy-for-collecting-fees-in-person) for exceptions.
     *   Do not require or encourage Guests to open an account, leave a review, complete a survey, or otherwise interact, with a third party website, application or service before, during or after a Reservation, unless authorized by Airbnb.
     *   Do not engage in any practices that are intended to manipulate our search algorithm.
-    *   Do not book Host Services unless you are actually using the Host Services.
+    *   Do not book Host Services unless you, or an authorized Guest, are actually using the Host Services.
     *   Do not use, copy, display, mirror or frame the Airbnb Platform, any Content, any Airbnb branding, or any page layout or design without our consent.
 *   Honor your legal obligations
     *   Understand and follow the laws that apply to you, including privacy, data protection, and export laws.
@@ -334,7 +345,7 @@ If you are a Host and terminate your Airbnb account, any confirmed booking(s) wi
 
 ### 12.6 Survival. 
 
-Parts of these Terms that by their nature survive termination, will survive termination of this agreement, including Sections 1 through 25.
+Parts of these Terms that by their nature survive termination, will survive termination of this agreement, including Sections 1 through 28.
 
 ## 13\. Modification.
 
@@ -342,15 +353,15 @@ Airbnb may modify these Terms at any time. When we make material changes to thes
 
 ## 14\. Resolving Complaints and Damage Reports.
 
-If a Member provides valid evidence that you, your guest(s), or your pet(s) have:
+If a Host provides valid evidence that you, your guest(s), or your pet(s) have directly caused:
 
-(i) damaged the complaining Member’s, or the Accommodation owner’s (where the Accommodation owner is not also the Host), real or personal property, or real or personal property the complaining Member is responsible for, or has an economic interest in; or 
+(i) physical loss or physical damage to the complaining Host’s, or the Accommodation owner’s (where the Accommodation owner is not also the Host), real or personal property, or real or personal property the complaining Host is responsible for, or has an economic interest in; or 
 
-(ii) caused loss of booking income for bookings via the Airbnb Platform or other consequential damages which result directly from the damage caused under (i) above; or
+(ii) loss of booking income for bookings via the Airbnb Platform or other consequential damages which result directly from the damage caused under (i) above; or
 
-(iii) otherwise caused the complaining Member to incur cleaning costs in excess of the Member’s cleaning fee (each of (i), (ii), and (iii) being a ("**Damage Report**"), 
+(iii) the complaining Host to incur cleaning costs in excess of the Host’s cleaning fee (each of (i), (ii), and (iii) being a ("**Damage Report**"), 
 
-the complaining Member can notify Airbnb and/or seek compensation through the [Resolution Center](/resolutions). You will be notified of the Damage Report and given an opportunity to respond. If you agree to pay, or if the Damage Report is escalated to Airbnb and Airbnb determines in its sole discretion that the Damage Report is valid and you are responsible for the Damage Report, Airbnb via Airbnb Payments can collect the amount of the Damage Report from you. You agree that Airbnb may seek to recover from you under any insurance policies you maintain and that Airbnb may also pursue against you any remedies it may have available under applicable law, including referral of the matter to a collections agency, and/or pursuit of available causes of action and/or claims against you. You agree to cooperate in good faith, provide any information Airbnb requests, execute documents, and take further reasonable action, in connection with Damage Reports, Member complaints, claims under insurance policies, or other claims related to your provision or use of Host Services.
+the complaining Host can notify Airbnb and/or seek compensation through the [Resolution Center](/resolutions). You will be notified of the Damage Report and given an opportunity to respond. If you agree to pay, or if the Damage Report is escalated to Airbnb and Airbnb determines in its sole discretion that the Damage Report is valid and you are responsible for the Damage Report, Airbnb via Airbnb Payments can collect the amount of the Damage Report from you. You agree that Airbnb may seek to recover from you under any insurance policies you maintain and that Airbnb may also pursue against you any remedies it may have available under applicable law, including referral of the matter to a collections agency, and/or pursuit of available causes of action and/or claims against you. You agree to cooperate in good faith, provide any information Airbnb requests, execute documents, and take further reasonable action, in connection with Damage Reports, Member complaints, claims under insurance policies, or other claims related to your provision or use of Host Services.
 
 ## 15\. Airbnb’s Role.
 
@@ -358,13 +369,17 @@ We offer you the right to use a platform that enables Members to publish, offer,
 
 ## 16\. Member Accounts.
 
-You must register an account to access and use many features of the Airbnb Platform. Registration is only permitted for legal entities, partnerships and natural persons who are 18 years or older. You represent and warrant that you are not a person or entity barred from using the Airbnb Platform under the laws of the United States, your place of residence, or any other applicable jurisdiction. You must provide accurate, current, and complete information during registration and keep your account information up-to-date. You may not transfer your account to someone else. You are responsible for maintaining the confidentiality and security of your account credentials and may not disclose your credentials to any third party. You are responsible and liable for activities conducted through your account and must immediately notify Airbnb if you suspect that your credentials have been lost, stolen, or your account is otherwise compromised. If and as permitted by applicable law, we may, but have no obligation to (i) ask you to provide identification or other information, (ii) undertake checks designed to help verify your identity or background, (iii) screen you against third-party databases or other sources and request reports from service providers, and (iv) obtain reports from public records of criminal convictions or sex offender registrations or their local equivalents.
+You must register an account to access and use many features of the Airbnb Platform. Registration is only permitted for legal entities, partnerships and natural persons who are 18 years or older. You represent and warrant that you are not a person or entity barred from using the Airbnb Platform under the laws of the United States, your place of residence, or any other applicable jurisdiction. You must provide accurate, current, and complete information during registration and keep your account information up-to-date. You may not transfer your account to someone else. You are responsible for maintaining the confidentiality and security of your account credentials and may not disclose your credentials to any third party. You are responsible and liable for activities conducted through your account and must immediately notify Airbnb if you suspect that your credentials have been lost, stolen, or your account is otherwise compromised. If and as permitted by applicable law, we may, but have no obligation to ask you to provide identification or other information.
 
-## 17\. Disclaimer of Warranties.
+## 17\. Consent to Identity and Background Screening.
+
+To help Airbnb to assess the safety, integrity, and trustworthiness of our platform and its users, you authorize Airbnb to undertake checks designed to help verify your identity or review your background, and consent that Airbnb may screen you against and obtain reports from service providers, third-party databases, or other sources including public records of criminal convictions or sex offender registrations or their local equivalents.
+
+## 18\. Disclaimer of Warranties.
 
 **The Airbnb Platform and all Content are provided “as is” without warranty of any kind and Airbnb (or its affiliates) disclaim all warranties, whether express or implied. For example: (i) we do not endorse or warrant the existence, conduct, performance, safety, quality, legality or suitability of any Guest, Host, Host Service, Listing or third party; (ii) we do not warrant the performance or non-interruption of the Airbnb Platform; and (iii) we do not warrant that verification, identity or background checks conducted on Listings or Members (if any) will identify past misconduct or prevent future misconduct. Any references to a Member or Listing being "verified" (or similar language) indicate only that the Member or Listing or Airbnb (or its affiliates) has completed a relevant verification or identification process and nothing else. The disclaimers in these Terms apply to the maximum extent permitted by law. If you have statutory rights or warranties Airbnb (or its affiliates) cannot disclaim, the duration of any such statutorily required rights or warranties, will be limited to the maximum extent permitted by law.**
 
-## 18\. Limitations on Liability.
+## 19\. Limitations on Liability.
 
 **Neither Airbnb (including its affiliates and personnel) nor any other party involved in creating, producing, or delivering the Airbnb Platform or any Content will be liable for any incidental, special, exemplary or consequential damages, including lost profits, loss of data or loss of goodwill, service interruption, computer damage or system failure or the cost of substitute products or services, or for any damages for personal or bodily injury or emotional distress arising out of or in connection with (i) these Terms, (ii) the use of or inability to use the Airbnb Platform or any Content, (iii) any communications, interactions or meetings you may have with someone you interact or meet with through, or as a result of, your use of the Airbnb Platform, or (iv) publishing or booking of a Listing, including the provision or use of Host Services, whether based on warranty, contract, tort (including negligence), product liability or any other legal theory, and whether or not Airbnb has been informed of the possibility of such damage, even if a limited remedy set out in these Terms is found to have failed of its essential purpose.**
 
@@ -372,159 +387,163 @@ You must register an account to access and use many features of the Airbnb Platf
 
 **These limitations of liability and damages are fundamental elements of the agreement between you and Airbnb. If applicable law does not allow the limitations of liability set out in these Terms, the above limitations may not apply to you.**
 
-## 19\. Indemnification.
+## 20\. Indemnification.
 
 **To the maximum extent permitted by applicable law, you agree to release, defend (at Airbnb’s option), indemnify, and hold Airbnb (including Airbnb Payments, other affiliates, and their personnel) harmless from and against any claims, liabilities, damages, losses, and expenses, including, without limitation, reasonable legal and accounting fees, arising out of or in any way connected with: (i) your breach of these Terms (including any supplemental or additional terms that apply to a product or feature) or our [Additional Legal Terms](/help/feature/2/),  [Policies](/help/feature/1/) or [Standards](/standards), (ii) your improper use of the Airbnb Platform, (iii) your interaction with any Member, stay at an Accommodation, participation in a Service, Experience, or other Host Service, including without limitation any injuries, losses or damages (whether compensatory, direct, incidental, consequential or otherwise) of any kind arising in connection with or as a result of such interaction, stay, participation or use, (iv) your failure, or our failure at your direction, to accurately report, collect or remit Taxes, or (v) your breach of any laws, regulations or third party rights such as intellectual property or privacy rights. You agree to indemnify and hold Airbnb (including Airbnb Payments, other affiliates, and their personnel) harmless from and against any of the aforementioned claims, liabilities, damages, losses, and expenses, regardless of Airbnb’s responsibility for negligence and howsoever the same may be caused.**
 
-## 20\. Contracting Entities.
+## 21\. Contracting Entities.
 
-Based on your country of residence or establishment and what you are doing on the Airbnb Platform, Schedule 1 below sets out the Airbnb entity with whom you are contracting. If we identify through the Airbnb Platform, an Airbnb entity other than the one set out on Schedule 1 as being responsible for a product, feature or transaction, the Airbnb entity so identified is your contracting entity with respect to that product, feature or transaction. If you change your country of residence or establishment, the Airbnb company you contract with (as set out on Schedule 1) and the applicable version of the Terms of Service will be determined by your new country of residence or establishment, from the date on which your country of residence or establishment changes.
+Based on your place of residence or establishment and what you are doing on the Airbnb Platform, Schedule 1 below sets out the Airbnb entity with whom you are contracting. If we identify through the Airbnb Platform, an Airbnb entity other than the one set out on Schedule 1 as being responsible for a product, feature or transaction, the Airbnb entity so identified is your contracting entity with respect to that product, feature or transaction. If you change your place of residence or establishment, the Airbnb company you contract with (as set out on Schedule 1) and the applicable version of the Terms of Service will be determined by your new place of residence or establishment, from the date on which your place of residence or establishment changes.
 
-## 21\. United States Governing Law and Venue.
+## 22\. United States Governing Law and Venue.
 
-If you reside or have your place of establishment in the United States, these Terms will be interpreted in accordance with the laws of the State of California and the United States of America, without regard to conflict-of-law provisions. Judicial proceedings (other than small claims actions) that are excluded from the arbitration agreement in Section 22 must be brought in state or federal court in San Francisco, California, unless we both agree to some other location. You and we both consent to venue and personal jurisdiction in San Francisco, California.
+If you reside or have your place of establishment in the United States, the laws of the State of California and the United States of America will apply to the interpretation of these Terms and any disputes arising out of or relating to these Terms or your use of the Airbnb Platform, without regard to conflict-of-law provisions. Judicial proceedings (other than small claims actions) that are excluded from the arbitration agreement in Section 23 must be brought in state or federal court in San Francisco, California, unless we both agree to some other location. You and we both consent to venue and personal jurisdiction in San Francisco, California.
 
-## 22\. United States Dispute Resolution and Arbitration Agreement.
+## 23\. United States Dispute Resolution and Arbitration Agreement.
 
 PLEASE READ THE FOLLOWING PARAGRAPHS CAREFULLY BECAUSE THEY PROVIDE THAT YOU AND AIRBNB AGREE TO RESOLVE ALL DISPUTES BETWEEN US THROUGH BINDING INDIVIDUAL ARBITRATION AND INCLUDE A CLASS ACTION WAIVER AND JURY TRIAL WAIVER. This Arbitration Agreement supersedes all prior versions.
 
-### 22.1 Application. 
+### 23.1 Application. 
 
-This Arbitration Agreement only applies to you if your country of residence or establishment is the United States. If your country of residence or establishment is not the United States, and you nevertheless attempt to bring any legal claim against Airbnb in the United States, this Arbitration Agreement will apply for determination of the threshold issue of whether this Section 22 applies to you, and all other threshold determinations, including residency, arbitrability, venue, and applicable law.
+This Arbitration Agreement only applies to you if your country of residence or establishment is the United States. If your country of residence or establishment is not the United States, and you nevertheless attempt to bring any legal claim against Airbnb in the United States, this Arbitration Agreement will apply for determination of the threshold issue of whether this Section 23 applies to you, and all other threshold determinations, including residency, arbitrability, venue, and applicable law.
 
-### 22.2 Overview of Dispute Resolution Process. 
+### 23.2 Overview of Dispute Resolution Process. 
 
-Airbnb is committed to participating in a consumer-friendly dispute resolution process. To that end, these Terms provide for a two-part process for individuals to whom this Section 22 applies: (1) an informal negotiation directly with Airbnb’s customer service team (described in paragraph 22.3, below), and if necessary (2) a binding arbitration in accordance with the terms of this Arbitration Agreement. You and Airbnb each retain the right to seek resolution of the dispute in small claims court as an alternative to arbitration.
+Airbnb is committed to participating in a consumer-friendly dispute resolution process. To that end, these Terms provide for a two-part process for individuals to whom this Section 23 applies: (1) an informal negotiation directly with Airbnb (described in paragraph 23.3, below), and if necessary (2) a binding arbitration in accordance with the terms of this Arbitration Agreement. You and Airbnb each retain the right to seek resolution of the dispute in small claims court as an alternative to arbitration. To the extent provided by applicable law, and except to the extent that any party to the arbitration seeks to enforce any final award in a court of competent jurisdiction, the arbitration proceedings and any information exchanged during the proceeding shall remain confidential.
 
-### 22.3 Mandatory Pre-Arbitration Dispute Resolution and Notification. 
+### 23.3 Mandatory Pre-Arbitration Dispute Resolution and Notification. 
 
-At least 30 days prior to initiating an arbitration, you and Airbnb each agree to send the other party an individualized notice of the dispute in writing (“**Pre-Dispute Notice**") and attempt in good faith to negotiate an informal resolution of the individual claim. You must send your Pre-Dispute Notice to Airbnb by mailing it to Airbnb’s agent for service: **CSC Lawyers Incorporating Service, 2710 Gateway Oaks Drive, Suite 150N, Sacramento, California 95833**. Airbnb will send its Pre-Dispute Notice to the email address associated with your Airbnb account. A Pre-Dispute Notice must include: the date, your name, mailing address, your Airbnb username, the email address you used to set up your Airbnb account, your signature, a brief description of the dispute, and the relief sought. If the parties are unable to resolve the dispute within the 30-day period, only then may either party commence arbitration by filing a written demand for arbitration with the arbitration provider designated pursuant to Section 22.6, below. A claimant’s Pre-Dispute Notice requirement is a prerequisite to any arbitration, and a copy of the Pre-Dispute Notice and evidence that it was sent as required by this Section must be attached to any arbitration demand.
+At least 30 days prior to a party initiating an arbitration, you and Airbnb each agree to send the other party an individualized notice of the dispute in writing (“**Pre-Dispute Notice**") and attempt in good faith to negotiate an informal resolution of the individual claim. If you are bringing the dispute, you must send your Pre-Dispute Notice to Airbnb by mailing it to Airbnb’s agent for service: **CSC Lawyers Incorporating Service, 2710 Gateway Oaks Drive, Suite 150N, Sacramento, California 95833**. If Airbnb is bringing the dispute, Airbnb will send its Pre-Dispute Notice to the email address associated with your Airbnb account. A Pre-Dispute Notice must include: the date, your name, mailing address, your Airbnb username, the email address you used to set up your Airbnb account, your signature, a brief description of the dispute, and the relief sought. If the parties are unable to resolve the dispute within the 30-day period, only then may either party commence arbitration by filing a written demand for arbitration with the arbitration provider designated pursuant to Section 23.6, below. A claimant’s Pre-Dispute Notice requirement is a prerequisite to any arbitration, and a copy of the Pre-Dispute Notice and evidence that it was sent as required by this Section must be attached to any arbitration demand. In addition, you must make any demand for arbitration under the Arbitration Agreement before the expiration of the statute of limitations provided under the laws of the State of California. Otherwise, to the extent permitted by applicable law, you forever waive the right to pursue any claim or cause of action, of any kind or character, based on such events or facts, and such claims or causes of action are permanently barred.
 
-### 22.4 Agreement to Arbitrate; Delegation. 
+### 23.4 Agreement to Arbitrate; Delegation. 
 
-**You and Airbnb mutually agree that any dispute, claim or controversy arising out of or relating to these Terms or the applicability, breach, termination, validity, enforcement or interpretation thereof, or any use of the Airbnb Platform, Host Services, or any Content (collectively, “**Disputes**”) will be settled by binding arbitration on an individual basis (the “**Arbitration Agreement**”). If there is a dispute about whether this Arbitration Agreement can be enforced or applies to a Dispute, you and Airbnb agree that an arbitrator will decide that issue. For the avoidance of doubt, you and Airbnb agree that any question regarding arbitrability and the formation, enforceability, validity, scope, or interpretation of all or part of this Section 22, including any dispute over compliance with the Pre-Dispute Notice requirement and a party’s responsibility to pay arbitration fees, shall be resolved exclusively by an arbitrator.**
+**You and Airbnb mutually agree that any dispute, claim or controversy arising out of or relating to these Terms or the applicability, breach, termination, validity, enforcement or interpretation thereof, or any use of the Airbnb Platform, Host Services, or any Content (collectively, “**Disputes**”) will be settled by binding arbitration on an individual basis (the “**Arbitration Agreement**”). If there is a dispute about whether this Arbitration Agreement can be enforced or applies to a Dispute, you and Airbnb agree that an arbitrator will decide that issue. For the avoidance of doubt, you and Airbnb agree that any question regarding arbitrability and the formation, enforceability, validity, scope, or interpretation of all or part of this Section 23, including any dispute over compliance with the Pre-Dispute Notice requirement and a party’s responsibility to pay arbitration fees, shall be resolved exclusively by an arbitrator.**
 
-### 22.5 Exceptions to Arbitration Agreement. 
+### 23.5 Exceptions to Arbitration Agreement. 
 
-You and Airbnb each agree that the following causes of action and/or claims for relief are exceptions to the Arbitration Agreement and will be brought in a judicial proceeding in a court of competent jurisdiction (as defined by Section 22): (i) any claim or cause of action alleging actual or threatened infringement, misappropriation or violation of a party’s copyrights, trademarks, trade secrets, patents, or other intellectual property rights; (ii) any claim or cause of action seeking emergency injunctive relief based on exigent circumstances (e.g., imminent danger or commission of a crime, hacking, cyber-attack); or (iii) a request for the remedy of public injunctive relief; (iv) any claim or cause of action for vexatious litigation; or (v) any individual claim of sexual assault or sexual harassment arising from your use of the Airbnb Platform or Host Services. You and Airbnb agree that any request for the remedy of public injunctive relief will proceed after the arbitration of all arbitrable claims, remedies, or causes of action, and will be stayed pending the outcome of the arbitration pursuant to section 3 of the Federal Arbitration Act.
+You and Airbnb each agree that the following causes of action and/or claims for relief are exceptions to the Arbitration Agreement and will be brought in a judicial proceeding in a court of competent jurisdiction (as defined by Section 23): (i) any claim or cause of action alleging actual or threatened infringement, misappropriation or violation of a party’s copyrights, trademarks, trade secrets, patents, or other intellectual property rights; (ii) any claim or cause of action seeking emergency injunctive relief based on exigent circumstances (e.g., imminent danger or commission of a crime, hacking, cyber-attack); or (iii) a request for the remedy of public injunctive relief; (iv) any claim or cause of action for vexatious litigation; or (v) any individual claim of sexual assault or sexual harassment arising from your use of the Airbnb Platform or Host Services. You and Airbnb agree that any request for the remedy of public injunctive relief will proceed after the arbitration of all arbitrable claims, remedies, or causes of action, and will be stayed pending the outcome of the arbitration pursuant to section 3 of the Federal Arbitration Act.
 
-### 22.6 Arbitration Forum Rules and Governing Law. 
+### 23.6 Arbitration Forum Rules and Governing Law. 
 
-This Arbitration Agreement evidences a transaction in interstate commerce and the Federal Arbitration Act governs all substantive and procedural interpretation and enforcement of this Arbitration Agreement, and not state law. The arbitration will be administered by ADR Services, Inc. (“**ADR**”) ([www.adrservices.com](http://www.adrservices.com/)) in accordance with Rules 1, 6–7, 8–9, and 11–12, 45, 54, and 56 of the Federal Rules of Civil Procedure (“Selected **Federal Rules**") ([https://www.uscourts.gov/rules-policies/current-rules-practice-procedure/federal-rules-civil-procedure](https://www.uscourts.gov/rules-policies/current-rules-practice-procedure/federal-rules-civil-procedure)) and ADR’s Arbitration Rules then in effect (the “**ADR Rules**”), except as the Selected Federal Rules or ADR Rules are modified by or conflict with this Arbitration Agreement. The ADR Rules are available at [www.adrservices.com](http://www.adrservices.com/). If an arbitration demand is submitted to ADR Services in accordance with this agreement and the ADR Rules, and ADR Services cannot or will not administer the arbitration, the arbitration will be administered by the American Arbitration Association (“**AAA**”) in accordance with the Selected Federal Rules and the AAA’s Consumer Arbitration Rules (the “**AAA Rules**”) then in effect, except as modified here. The AAA Rules are available at [www.adr.org](http://www.adr.org/). If the AAA cannot and will not administer the arbitration, you and Airbnb shall confer and select an alternative arbitral forum, and if we are unable to agree, either you or Airbnb may ask a court to appoint an arbitrator pursuant to 9 U.S.C. § 5. In that event, the arbitration will be conducted in accordance with the rules of the appointed arbitral forum, unless those rules are inconsistent with the provisions of this Arbitration Agreement.
+This Arbitration Agreement evidences a transaction in interstate commerce and the Federal Arbitration Act governs all substantive and procedural interpretation and enforcement of this Arbitration Agreement, and not state law. The arbitration will be administered by the American Arbitration Association (“**AAA**”) in accordance with Rules 1, 6–7, 8–9, and 11–12, 45, 54, and 56 of the Federal Rules of Civil Procedure (“Selected **Federal Rules**") ([https://www.uscourts.gov/rules-policies/current-rules-practice-procedure/federal-rules-civil-procedure](https://www.uscourts.gov/rules-policies/current-rules-practice-procedure/federal-rules-civil-procedure)) and the AAA’s Consumer Arbitration Rules then in effect (the “**AAA Rules**”), except as modified here. The AAA Rules are available at [www.adr.org](https://www.adr.org/). Immediately after submitting an arbitration demand to the appropriate arbitration provider as identified above, you must send a copy of the demand to Airbnb by mailing it to Airbnb’s agent for service: **CSC Lawyers Incorporating Service, 2710 Gateway Oaks Drive, Suite 150N, Sacramento, California 95833**. Airbnb does not agree to and will not accept service in any other format, on any other entity, or at any other physical address, via email or via other digital submission. If the AAA cannot and will not administer the arbitration, you and Airbnb shall confer and select an alternative arbitral forum, and if we are unable to agree, either you or Airbnb may ask a court to appoint an arbitrator pursuant to 9 U.S.C. § 5. In that event, the arbitration will be conducted in accordance with the rules of the appointed arbitral forum, unless those rules are inconsistent with the provisions of this Arbitration Agreement.
 
-### 22.7 Modification of Arbitration Rules - Arbitration Hearing/Location. 
+### 23.7 Modification of Arbitration Rules - Arbitration Hearing/Location. 
 
-In order to make the arbitration most cost-effective, efficient, and convenient, any required arbitration hearing in an arbitration wherein the amount in controversy does not exceed $1,000,000 shall be conducted remotely via video conference except as otherwise agreed by the parties or instructed by the arbitrator. Any required arbitration hearing in an arbitration wherein the amount in controversy exceeds $1,000,000 shall be conducted in San Francisco County except as otherwise agreed by the parties or instructed by the arbitrator. If the amount in controversy is $10,000 or less, the parties agree to proceed solely on the submission of documents to the arbitrator, provided that the arbitrator has discretion to decide to hold a hearing in response to the reasonable and proportionate request from a party.
+In order to make the arbitration most cost-effective, efficient, and convenient, any required arbitration hearing in an arbitration wherein the amount in controversy does not exceed $1,000,000 shall be conducted remotely via video conference except as otherwise agreed by the parties or instructed by the arbitrator. Any required arbitration hearing in an arbitration wherein the amount in controversy exceeds $1,000,000 shall be conducted in San Francisco County except as otherwise agreed by the parties or instructed by the arbitrator. If the amount in controversy is $50,000 or less, the parties agree to proceed solely on the submission of documents to the arbitrator, provided that the arbitrator has discretion to decide to hold a hearing in response to the reasonable and proportionate request from a party.
 
-### 22.8 Modification of Arbitration Rules - Arbitration Fees and Costs. 
+### 23.8 Modification of Arbitration Rules - Arbitration Fees and Costs. 
 
-Your arbitration fees and your share of arbitrator compensation shall be governed by the ADR Rules and the ADR Services fee schedule (available at [www.adrservices.com](http://www.adrservices.com/)). If you have a gross monthly income of less than 300% of the federal poverty guidelines, you are entitled to a waiver of arbitration fees and costs, exclusive of arbitrator fees. You may request a fee waiver by providing the arbitration provider with a declaration under oath stating your monthly income and the number of persons in your household. If a fee waiver is granted by the arbitration provider and you provide Airbnb with documents necessary to prove that your gross monthly income is less than 300% of the federal poverty guidelines, Airbnb will pay your share of any arbitrator fees.
+Your arbitration fees and your share of arbitrator compensation shall be governed by the rules and service fee schedule of the arbitration provider administering the arbitration. The ADR Rules and the ADR Services fee schedule are available at [www.adrservices.com](http://www.adrservices.com/) and the AAA Rules and AAA Services fee schedule are available at [www.adr.org](http://www.adr.org/). If you have a gross monthly income of less than 300% of the federal poverty guidelines, you are entitled to a waiver of arbitration fees and costs, exclusive of arbitrator fees. You may request a fee waiver by providing the arbitration provider with a declaration under oath stating your monthly income and the number of persons in your household. If a fee waiver is granted by the arbitration provider and you provide Airbnb with documents necessary to prove that your gross monthly income is less than 300% of the federal poverty guidelines, Airbnb will pay your share of any arbitrator fees.
 
-### 22.9 Modification of Arbitration Rules - Claims Brought for an Improper Purpose or In Violation of This Arbitration Agreement. 
+### 23.9 Modification of Arbitration Rules - Claims Brought for an Improper Purpose or In Violation of This Arbitration Agreement. 
 
 Either party may make a request that the arbitrator impose sanctions upon proving that the other party or its attorney(s) has asserted a claim or defense that is groundless in fact or law, brought in bad faith or for the purpose of harassment, or is otherwise frivolous. As allowed by applicable law, the arbitrator shall impose sanctions equal to the requesting party’s reasonable attorneys’ fees and costs upon finding that a claim or defense is groundless in fact or law, brought in bad faith or for the purpose of harassment, asserted in violation of Fed. R. Civ. P. 11(b) (treating the arbitrator as “the court”), or is otherwise frivolous. Either party may seek dismissal of any arbitration filed in violation of any provision of this Arbitration Agreement. Either party may assert in arbitration a counterclaim for the other party’s initiation of proceedings concerning an arbitrable Dispute without complying with or otherwise in violation of the requirements of this Arbitration Agreement. Upon finding that a party has initiated proceedings concerning an arbitrable Dispute without complying with or otherwise in violation of the requirements of this Arbitration Agreement, the arbitrator shall award the other party its actual damages, including but not limited to reasonable attorneys’ fees and costs.
 
-### 22.10 Arbitrator’s Decision. 
+### 23.10 Arbitrator’s Decision. 
 
-The arbitrator will issue a written decision which shall include the essential findings and conclusions upon which the arbitrator based the award. Judgment on the arbitration award may be entered in any court with proper jurisdiction. The arbitrator may award any relief allowed by law or the ADR Rules, but declaratory or injunctive relief may be awarded only on an individual basis and only to the extent necessary to provide relief warranted by the claimant’s individual claim.
+The arbitrator will issue a written decision which shall include the essential findings and conclusions upon which the arbitrator based the award. Judgment on the arbitration award may be entered in any court with proper jurisdiction. The arbitrator may award any relief allowed by law or the AAA Rules, but declaratory or injunctive relief may be awarded only on an individual basis and only to the extent necessary to provide relief warranted by the claimant’s individual claim.
 
-### 22.11 Jury Trial Waiver. 
+### 23.11 Jury Trial Waiver. 
 
 You and Airbnb acknowledge and agree that both parties are each waiving the right to a trial by jury as to all arbitrable Disputes.
 
-### 22.12 No Class Actions or Representative Proceedings. 
+### 23.12 No Class Actions or Representative Proceedings. 
 
 You and Airbnb acknowledge and agree that, to the fullest extent permitted by law, we are each waiving the right to participate as a plaintiff or class member in any purported class action lawsuit, class-wide arbitration, private attorney general action, or any other representative or consolidated proceeding. Unless we agree in writing or as provided in this agreement, the arbitrator may not consolidate more than one party’s claims and may not otherwise preside over any form of any class or representative proceeding. If there is a final judicial determination that applicable law precludes enforcement of the waiver contained in this paragraph as to any claim, cause of action or requested remedy, then that claim, cause of action or requested remedy, and only that claim, cause of action or requested remedy, will be severed from this agreement to arbitrate and will be brought in a court of competent jurisdiction. In the event that a claim, cause of action or requested remedy is severed pursuant to this paragraph, then you and we agree that the claims, causes of action or requested remedies that are not subject to arbitration will be stayed until all arbitrable claims, causes of action and requested remedies are resolved by the arbitrator.
 
-### 22.13 Mass Action Waiver. 
+### 23.13 Mass Action Waiver. 
 
-You and Airbnb acknowledge and agree that the relative benefits and efficiencies of arbitration may be lost when 100 or more arbitration claims are filed within 180 days which (1) involve the same or similarly situated parties; (2) are based on the same or similar claims which arise from the same or substantially identical transactions, incidents, alleged violations or events requiring the determination of the same or substantially identical questions of law or fact; and (3) involve the same or coordinated counsel for the parties (“**Mass Action**”). Accordingly, you and Airbnb agree to waive the right to have any Dispute administered, arbitrated, or resolved as part of a Mass Action (though Sections 21 and 22.12 of these Terms will continue to apply to the Dispute). In case of a dispute, the appointed arbitrator for the first matter instituted within a set of claims identified by either party shall decide whether those claims are part of a Mass Action. If no arbitrator has yet been appointed, an arbitrator shall be appointed solely to determine whether claims identified by either party are part of a Mass Action. Nothing in this provision prevents you or Airbnb from participating in a mass settlement of claims.
+You and Airbnb acknowledge and agree that the relative benefits and efficiencies of arbitration may be lost when 100 or more arbitration claims are filed within 180 days which (1) involve the same or similarly situated parties; (2) are based on the same or similar claims which arise from the same or substantially identical transactions, incidents, alleged violations or events requiring the determination of the same or substantially identical questions of law or fact; and (3) involve the same or coordinated counsel for the parties (“**Mass Action**”). Accordingly, you and Airbnb agree to waive the right to have any Dispute administered, arbitrated, or resolved as part of a Mass Action (though Sections 22 and 23.12 of these Terms will continue to apply to the Dispute). In case of a dispute, the appointed arbitrator for the first matter instituted within a set of claims identified by either party shall decide whether those claims are part of a Mass Action. If no arbitrator has yet been appointed, an arbitrator shall be appointed solely to determine whether claims identified by either party are part of a Mass Action. Nothing in this provision prevents you or Airbnb from participating in a mass settlement of claims.
 
-### 22.14 Modification of Arbitration Rules – Mass Action Batching Requirements. 
+### 23.14 Modification of Arbitration Rules – Mass Action Batching Requirements. 
 
-If for any reason, notwithstanding Section 22.13, an arbitration proceeds as part of a Mass Action, the parties shall group the arbitration demands into batches of no more than 200. The batches shall be determined by listing the claimants’ alphabetically (by last name or business name, as applicable)—for example, the first 200 claimants listed will be the first batch, the next 200 claimants listed will be the second batch, and so forth. The parties shall randomly assign each batch a sequential number and arbitrate the batches one at a time, in sequential order. While one batch is being arbitrated, the arbitration provider shall hold the remainder in abeyance unless otherwise agreed by the parties or instructed by the arbitration provider. Each batch shall be resolved within 240 days of the pre-hearing conference for that batch. Notwithstanding the forgoing, if any claimant’s demand has not been the subject of a pre-hearing conference within 2 years of the latest-filed demand in the Mass Action, such claimant may elect to pursue the claims asserted in the claimant’s demand in court subject to Sections 21 and 22.12 of these Terms.
+If for any reason, notwithstanding Section 23.13, an arbitration proceeds as part of a Mass Action, the parties shall group the arbitration demands into batches of no more than 200. The batches shall be determined by listing the claimants’ alphabetically (by last name or business name, as applicable)—for example, the first 200 claimants listed will be the first batch, the next 200 claimants listed will be the second batch, and so forth. The parties shall randomly assign each batch a sequential number and arbitrate the batches one at a time, in sequential order. One arbitrator shall be appointed for each batch and shall resolve each batch as a single consolidated arbitration with one set of filing and administrative fees due per side per batch, one procedural calendar, one hearing (if any) in a manner and/or place to be determined by the arbitrator, and one final award. While one batch is being arbitrated, the arbitration provider shall hold the remainder in abeyance unless otherwise agreed by the parties or instructed by the arbitration provider. Each batch shall be resolved within 240 days of the pre-hearing conference for that batch. Notwithstanding the forgoing, if any claimant’s demand has not been the subject of a pre-hearing conference within 2 years of the latest-filed demand in the Mass Action, such claimant may elect to pursue the claims asserted in the claimant’s demand in court subject to Sections 22 and 23.12 of these Terms.
 
-### 22.15 Modifications of Arbitration Rules - Offers of Judgment. 
+### 23.15 Modifications of Arbitration Rules - Offers of Judgment. 
 
 At least 10 days before the date set for the arbitration hearing, you or Airbnb may serve a written offer of judgment on the other party to allow judgment on specified terms. If the offer is accepted, the offer with proof of acceptance shall be submitted to the arbitration provider, who shall issue an award accordingly. If the offer is not accepted prior to the arbitration hearing or within 30 days after it is made, whichever occurs first, it shall be deemed withdrawn and cannot be given as evidence in the arbitration, other than with respect to costs (including all fees paid to the arbitration provider). If an offer made by one party is not accepted by the other party, and the other party fails to obtain a more favorable award, the other party shall not recover their post-offer costs and shall pay the offering party’s costs (including all fees paid to the arbitration provider) from the time of the offer.
 
-### 22.16 Severability. 
+### 23.16 Severability. 
 
-Except as provided in Section 22.11, in the event that any portion of this Arbitration Agreement is deemed illegal or unenforceable, such provision will be severed and the remainder of the Arbitration Agreement will be given full force and effect.
+Except as provided in Section 23.11, in the event that any portion of this Arbitration Agreement is deemed illegal or unenforceable, such provision will be severed and the remainder of the Arbitration Agreement will be given full force and effect.
 
-### 22.17 Amendment to Agreement to Arbitrate. 
+### 23.17 Amendment to Agreement to Arbitrate. 
 
-If Airbnb amends this Section 22 after the date you last accepted these Terms (or accepted any subsequent changes to these Terms), you may reject the change by sending us written notice no later than 30 days of the date the change is effective. Your notice must include your name, mailing address, the date of the notice, your Airbnb username, the email address you used to set up your Airbnb account, your signature, and an unequivocal statement that you want to opt out of the amended Section 22. You must either mail your notice to this address: 888 Brannan St, San Francisco, CA 94103, Attn: Arbitration Opt-Out, or email the opt-out notice to arbitration.opt.out@airbnb.com. Rejecting a new change, however, does not revoke or alter your prior consent to any earlier agreements to arbitrate any Dispute between you and Airbnb (or your prior consent to any subsequent changes thereto), which will remain in effect and enforceable as to any Dispute between you and Airbnb.
+If Airbnb amends this Section 23 after the date you last accepted these Terms (or accepted any subsequent changes to these Terms), you may reject the change by sending us written notice no later than 30 days of the date the change is effective. Your notice must include your name, mailing address, the date of the notice, your Airbnb username, the email address you used to set up your Airbnb account, your signature, and an unequivocal statement that you want to opt out of the amended Section 23. You must either mail your notice to this address: 888 Brannan St, San Francisco, CA 94103, Attn: Arbitration Opt-Out, or email the opt-out notice to arbitration.opt.out@airbnb.com. Rejecting a new change, however, does not revoke or alter your prior consent to any earlier agreements to arbitrate any Dispute between you and Airbnb (or your prior consent to any subsequent changes thereto), which will remain in effect and enforceable as to any Dispute between you and Airbnb.
 
-### 22.18 Survival. 
+### 23.18 Survival. 
 
-Except as provided in Section 22.12 and subject to Section 12.6, this Section 22 will survive any termination of these Terms and will continue to apply even if you stop using the Airbnb Platform or terminate your Airbnb account.  
+Except as provided in Section 23.12 and subject to Section 12.6, this Section 23 will survive any termination of these Terms and will continue to apply even if you stop using the Airbnb Platform or terminate your Airbnb account.  
 
-## 23\. China Governing Law and Dispute Resolution.
+## 24\. China Governing Law and Dispute Resolution.
 
-### 23.1 Cross-border Transactions. 
+### 24.1 Cross-border Transactions. 
 
 If you reside or have your place of establishment in China, and are contracting with Airbnb, Inc., Airbnb Stays Inc., Airbnb Travel, LLC, Airbnb Global Holdings, Inc., Airbnb Singapore Private Limited, Luxury Retreats International ULC or any other non-China entity, these Terms and this Section are governed by the laws of Singapore. In this situation, any dispute arising out of or in connection with these Terms or use of the Airbnb Platform, including any question regarding the existence, validity or termination of these Terms, shall be referred to and finally resolved by arbitration administered by the Singapore International Arbitration Centre (“**SIAC**”) in accordance with the Arbitration Rules of the Singapore International Arbitration Centre (“**SIAC Rules**”) for the time being in force, which rules are deemed to be incorporated by reference in this clause. The seat of the arbitration shall be Singapore. The Tribunal shall consist of three (3) arbitrators. The language of the arbitration shall be English.
 
-### 23.2 Without Limitation Provisions. 
+### 24.2 Without Limitation Provisions. 
 
-The above Section 23.1 is expressed to be without regard to conflict of laws provisions and shall not be construed to limit any rights which Airbnb (or its affiliates) may have to apply to any court of competent jurisdiction for any order requiring you to perform or be prohibited from performing certain acts and other provisional relief permitted under the laws of Singapore, the People’s Republic of China, or any other laws that may apply to you.
+The above Section 24.1 is expressed to be without regard to conflict of laws provisions and shall not be construed to limit any rights which Airbnb (or its affiliates) may have to apply to any court of competent jurisdiction for any order requiring you to perform or be prohibited from performing certain acts and other provisional relief permitted under the laws of Singapore, the People’s Republic of China, or any other laws that may apply to you.
 
-## 24\. Brazil Governing Law and Venue
+## 25\. Brazil Governing Law and Venue
 
 If you reside or have your place of establishment in Brazil, these Terms will be interpreted in accordance with the laws of Brazil, without regard to conflict-of-law provisions. Legal proceedings that you are able to bring against us arising from or in connection with these Terms may only be brought in a court located in Brazil.
 
-## 25\. Rest of World Dispute Resolution, Venue and Forum, and Governing Law. 
+## 26\. Rest of World Dispute Resolution, Venue and Forum, and Governing Law. 
 
 If you reside or have your place of establishment outside of the United States, China, and Brazil, this Section applies to you and these Terms will be interpreted in accordance with Irish law. The application of the United Nations Convention on Contracts for the International Sale of Goods (CISG) is excluded. If you are acting as an individual consumer and if mandatory statutory consumer protection regulations in your country of residence contain provisions that are more beneficial for you, such provisions shall apply irrespective of the choice of Irish law. As an individual consumer, you may bring any judicial proceedings relating to these Terms before the competent court of your place of residence or the competent court of Airbnb's place of business in Ireland. If Airbnb wishes to enforce any of its rights against you as a consumer, we may do so only in the courts of the jurisdiction in which you are a resident. If you are acting as a business, you agree to submit to the exclusive jurisdiction of the Irish courts.  
 
-## 26\. Miscellaneous.
+## 27\. Canada Class Action Waiver.
 
-### 26.1 Interpreting these Terms. 
+If you reside or have your place of establishment in Canada, you and Airbnb acknowledge and agree that, to the fullest extent permitted by law, we are each waiving the right to participate as a plaintiff or class member in any purported class action lawsuit, class-wide arbitration, or any other representative or consolidated proceeding, unless otherwise prohibited by law or with regards to residents of Québec.
 
-Except as they may be supplemented by additional terms, conditions, policies, guidelines, standards, and in-product disclosures, these Terms (including those items incorporated by reference) constitute the entire agreement between Airbnb and you pertaining to your access to or use of the Airbnb Platform and supersede any and all prior oral or written understandings or agreements between Airbnb and you. These Terms do not and are not intended to confer any rights or remedies upon anyone other than you and Airbnb. If any provision of these Terms is held to be invalid or unenforceable, except as otherwise indicated in Section 22.11 above, such provision will be struck and will not affect the validity and enforceability of the remaining provisions. Where the word “will” is used in these Terms it connotes an obligation with the same meaning as “shall.”
+## 28\. Miscellaneous.
 
-### 26.2 No Waiver. 
+### 28.1 Interpreting these Terms. 
+
+Except as they may be supplemented by additional terms, conditions, policies, guidelines, standards, and in-product disclosures, these Terms (including those items incorporated by reference) constitute the entire agreement between Airbnb and you pertaining to your access to or use of the Airbnb Platform and supersede any and all prior oral or written understandings or agreements between Airbnb and you. These Terms do not and are not intended to confer any rights or remedies upon anyone other than you and Airbnb. If any provision of these Terms is held to be invalid or unenforceable, except as otherwise indicated in Section 23.11 above, such provision will be struck and will not affect the validity and enforceability of the remaining provisions. Where the word “will” is used in these Terms it connotes an obligation with the same meaning as “shall.”
+
+### 28.2 No Waiver. 
 
 Airbnb’s failure to enforce any right or provision in these Terms will not constitute a waiver of such right or provision unless acknowledged and agreed to by us in writing. Except as expressly set forth in these Terms, the exercise by either party of any of its remedies under these Terms will be without prejudice to its other remedies under these Terms or otherwise permitted under law.
 
-### 26.3 Assignment. 
+### 28.3 Assignment. 
 
 You may not assign, transfer or delegate this agreement or your rights and obligations hereunder without Airbnb's prior written consent. Airbnb may without restriction assign, transfer or delegate this agreement and any rights and obligations hereunder, at its sole discretion, with 30 days’ prior notice.
 
-### 26.4 Notice. 
+### 28.4 Notice. 
 
 Unless specified otherwise, any notices or other communications to Members permitted or required under this agreement, will be provided electronically and given by Airbnb via email, Airbnb Platform notification, messaging service (including SMS and WeChat), or any other contact method we enable and you provide. If a notification relates to a booking or Listing in Japan, you agree and acknowledge that such notifications via electronic means in lieu of a written statement, satisfies Airbnb’s obligations under Article 59 (1) of the Japanese Housing Accommodation Business Act.
 
-### 26.5 Third-Party Services. 
+### 28.5 Third-Party Services. 
 
 The Airbnb Platform may contain links to third-party websites, applications, services or resources (“**Third-Party Services**”) that are subject to different terms and privacy practices. Airbnb is not responsible or liable for any aspect of such Third-Party Services and links to such Third-Party Services are not an endorsement.
 
-### 26.6 Google Terms. 
+### 28.6 Google Terms. 
 
 Some translations on the Airbnb Platform are powered by Google. Google disclaims all warranties related to the translations, express or implied, including any warranties of accuracy, reliability, and any implied warranties for merchantability, fitness for a particular purpose and non-infringement. Some areas of the Airbnb Platform implement Google Maps/Earth mapping services, including Google Maps API(s). Your use of Google Maps/Earth is subject to the [Google Maps/Google Earth Additional Terms of Service](https://www.google.com/help/terms_maps.html).
 
-### 26.7 Apple Terms. 
+### 28.7 Apple Terms. 
 
 If you access or download our application from the Apple App Store, you agree to [Apple’s Licensed Application End User License Agreement](https://www.apple.com/legal/internet-services/itunes/appstore/dev/stdeula/).
 
-### 26.8 Platform Content. 
+### 28.8 Platform Content. 
 
 Content made available through the Airbnb Platform, including without limitation trademarks, trade dress, inventions, algorithms, computer programs (in source code and object code), customer and marketing information and other content (“**Platform Content**”), whether registered or unregistered, which may be protected by copyright, trademark, patent, trade secrets, know how, and/or other laws of the United States and other countries. You acknowledge that all intellectual property rights for that Platform Content are the exclusive property of Airbnb and/or its licensors and agree that you will not remove, alter or obscure any copyright, trademark, service mark or other proprietary rights notices. You may not use, copy, adapt, modify, prepare derivative works of, distribute, license, sell, transfer, publicly display, publicly perform, transmit, broadcast or otherwise exploit any Platform Content accessed through the Airbnb Platform except to the extent you are the legal owner of that Platform Content or as expressly permitted in these Terms. Subject to your compliance with these Terms, Airbnb grants you a limited, non-exclusive, non-sublicensable, revocable, non-transferable license to (i) download and use the Airbnb Platform mobile application on your personal device(s); and (ii) access and view the Platform Content made available on or through the Airbnb Platform and accessible to you, solely for your personal and non-commercial use.
 
-### 26.9 Airbnb.org. 
+### 28.9 Airbnb.org. 
 
 Airbnb.org is a nonprofit corporation exempt from income taxation under U.S. Internal Revenue Code Section 501(c)(3), operating as a public charity. Airbnb.org is not owned or controlled by Airbnb. Airbnb.org administers a number of charitable programs that benefit our Host and Guest communities and the public.
 
-### 26.10 Force Majeure. 
+### 28.10 Force Majeure. 
 
 Airbnb shall not be liable for any delay or failure to perform resulting from abnormal or unforeseeable circumstances outside its reasonable control, the consequences of which would have been unavoidable despite all efforts to the contrary, including, but not limited to, acts of God, natural disasters, war, terrorism, riots, embargoes, acts of civil or military authorities, fire, floods, accidents, pandemics, epidemics or disease, strikes or shortages of transportation facilities, fuel, energy, labor or materials.
 
-### 26.11 Emails and SMS. 
+### 28.11 Emails and SMS. 
 
 You will receive administrative communications from us using the email address or other contact information you provide for your Airbnb account. Enrollment in additional email subscription programs will not affect the frequency of these administrative emails, though you should expect to receive additional emails specific to the program(s) to which you have subscribed. You may also receive promotional emails from us. No fee is charged for these promotional emails, but third-party data rates could apply. You can control whether you receive promotional emails using the notification preferences in your account settings. Please note that you will not be able to take advantage of certain promotions if you disable certain communication settings or do not have an Airbnb account. In the U.S. if you consent to receive SMS (text messages) from us, you will be subject to our [SMS Terms](/help/article/2864/).
 
-### 26.12 Contact Us. 
+### 28.12 Contact Us. 
 
 If you have any questions about these Terms please [email us](mailto:terms@airbnb.com).
 
@@ -564,7 +583,7 @@ Airbnb Beyond LLC
 
 All other activities.
 
-Airbnb, Inc.
+Airbnb, Inc.\*\*
 
 888 Brannan Street, San Francisco, CA 94103, United States
 
@@ -598,9 +617,9 @@ Booking or offering of Services or Experiences located outside China.
 
 Airbnb Singapore Private Limited
 
-158 Cecil Street, #14-01, Singapore 069545
+138 Market Street, #08-01, Capitagreen, Singapore 048946
 
-Licensing of Content and/or Platform Content, and all other activities falling within scope of Sections 10 and 27.9 of these Terms
+Licensing of Content and/or Platform Content, and all other activities falling within scope of Sections 9 and 28.8 of these Terms
 
 Airbnb Global Holdings, Inc.
 
@@ -610,7 +629,7 @@ All other activities
 
 Airbnb Singapore Private Limited
 
-158 Cecil Street, #14-01, Singapore 069545
+138 Market Street, #08-01, Capitagreen, Singapore 048946
 
 ### Your Place of Resident or Establishment: Japan
 
@@ -634,9 +653,9 @@ Airbnb Stays, Inc.
 
 Booking or offering any other Host Service, located outside Japan.
 
-Airbnb Ireland UC
+Airbnb Ireland UC\*\*
 
-8 Hanover Quay, Dublin 2, Ireland
+25 North Wall Quay, Dublin 1, D01 H104, Ireland
 
 Booking or offering accommodations where Luxury Retreats International ULC is identified in the checkout or listing process or other product surface.
 
@@ -646,13 +665,13 @@ Luxury Retreats International ULC
 
 Booking or offering Services or Experiences.
 
-Airbnb Beyond Limited
+Airbnb Beyond Limited(+)
 
-8 Hanover Quay, Dublin 2, Ireland
+25 North Wall Quay, Dublin 1, D01 H104, Ireland
 
 All other activities.
 
-Airbnb Global Services Limited
+Airbnb Global Services Limited\*\*
 
 25 North Wall Quay, Dublin, D01 H104, Ireland
 
@@ -670,7 +689,7 @@ Airbnb Plataforma Digital Ltda.
 
 Rua Aspicuelta 422, conjunto 51, CEP: 05433-010, São Paulo - SP - Brazil
 
-### Your Place of Resident or Establishment: All other countries and territories
+### Your Place of Resident or Establishment: Israel or Palestinian Territories (as of April 20, 2026)
 
 **YOUR ACTIVITY ON THE AIRBNB PLATFORM:**
 
@@ -698,15 +717,61 @@ Luxury Retreats International ULC
 
 Booking or offering Services or Experiences.
 
-Airbnb Beyond Limited
+Airbnb Beyond LLC
 
-8 Hanover Quay, Dublin 2, Ireland
+888 Brannan Street, San Francisco, CA 94103, United States
 
 All other activities.
 
-Airbnb Ireland UC
+Airbnb Limited LLC
 
-8 Hanover Quay, Dublin 2, Ireland
+888 Brannan Street, San Francisco, CA 94103, United States
+
+\*including United States territories
+
+### Your Place of Resident or Establishment: All other countries and territories\*
+
+**YOUR ACTIVITY ON THE AIRBNB PLATFORM:**
+
+**AIRBNB CONTRACTING ENTITY:**
+
+**CONTACT INFORMATION:**
+
+Booking or offering certain hotels or traditional accommodations, where Airbnb Travel, LLC is identified in the checkout or listing process.
+
+Airbnb Travel, LLC
+
+888 Brannan Street, San Francisco, CA 94103, United States
+
+Booking or offering accommodations located in the United States for stays of 28 nights or more where Airbnb Stays, Inc. is identified in the checkout or listing process.
+
+Airbnb Stays, Inc.
+
+888 Brannan Street, San Francisco, CA 94103, United States
+
+Booking or offering accommodations where Luxury Retreats International ULC is identified in the checkout or listing process or other product surface.
+
+Luxury Retreats International ULC
+
+5530 St. Patrick Street, Suite 2210, Montreal, Quebec, H4E 1A8
+
+Booking or offering Services or Experiences.
+
+Airbnb Beyond Limited(+)
+
+25 North Wall Quay, Dublin 1, D01 H104, Ireland
+
+All other activities.
+
+Airbnb Ireland UC\*\*
+
+25 North Wall Quay, Dublin 1, D01 H104, Ireland
+
+\*including United States territories
+
+\*\* If you book or offer an accommodation located in Israel or the Palestinian Territories, on or after April 20, 2026, you are contracting with Airbnb Limited LLC located at 888 Brannan Street, San Francisco, CA 94103, United States.
+
+(+) If you book or offer Services or Experiences located in Israel or the Palestinian Territories, on or after April 20, 2026, you are contracting with Airbnb Beyond LLC located at 888 Brannan Street, San Francisco, CA 94103, United States.
 
 * * *
 
@@ -718,7 +783,7 @@ Please note that Airbnb is not committed nor obliged to use an alternative dispu
 
 **Section 25 of these Terms contains an arbitration agreement and class action waiver that applies to all claims brought against Airbnb in the United States. Please read them carefully.**
 
-Last Updated: May 13, 2025
+Last Updated: February 5, 2026
 
 Thank you for using Airbnb!
 
@@ -740,7 +805,6 @@ The documents referred to within these Terms include but are not limited to our:
 *   [Resolution Centre page](/help/article/767), which describes how money-related disputes between Hosts and Guests may be resolved.
 *   [Host Damage Protection Terms](/help/article/3528), which explains the terms, exclusions and limitations under which Airbnb will agree to pay a Host to repair or replace Covered Property as a result of a Covered Loss.
 *   [Reviews Policy](/help/article/2673), which governs reviews left by Members on the Airbnb Platform.
-*   [Community Standards](/help/article/3328), that apply to Members and help ensure safe stays, experiences, and interactions.
 *   [Community Policies](/help/feature/1/), which sets out expectations of Members of the Airbnb Community.
 *   [Content Policy](/help/article/546/), which governs the posting by Members of content on the Airbnb Platform.
 *   [Nondiscrimination Policy](/terms/nondiscrimination_policy), which describes the fundamental principles of inclusion and respect and provides guidance to Members in making accommodation distinctions based on certain personal characteristics.
@@ -828,9 +892,11 @@ Airbnb is committed to the digital accessibility of our website and app. To lear
 
 ## 1\. Searching and Booking on Airbnb.
 
-### 1.1 Searching.
+### 1.1 Searching and Recommendations.
 
-You can search for Host Services by using criteria like the type of Host Service, type of listing, travel destination, travel dates, and number of guests. You can also use filters to refine your search results. Search results are based on their relevance to your search and other criteria. Relevance considers factors like price, availability, reviews, customer service and cancellation history, popularity, previous trips and saved Listings, Host requirements (e.g. minimum or maximum nights), and more. Learn more about search results in Section 5.3 and in our [Help Center](/help/article/39/what-factors-determine-how-my-listing-appears-in-search-results).
+You can search for Host Services by using criteria like the type of Host Service, type of listing, travel destination, travel dates, and number of guests. You can also use filters to refine your search results. Search results are based on their relevance to your search and other criteria. Relevance considers factors like price, availability, reviews, customer service and cancellation history, popularity, previous trips and saved Listings, Host requirements (e.g. minimum or maximum nights), and more. Learn more about search results in Section 5.3 and in our [Help Centre](/help/article/4083).
+
+Airbnb also uses content recommendation systems to offer personalized recommendations to help guests discover destinations, homes, experiences, or services that may be of interest to them. These systems take into account a range of criteria which may include location, search history, language, past bookings, time of year or seasonality, price of bookings, number and type of guests, recency and length of reviews, and interest in certain destinations expressed by similar guests. Learn more about Airbnb’s content recommendation systems in our [Help Centre](/help/article/4083). 
 
 ### 1.2 Booking.
 
@@ -886,7 +952,7 @@ You are responsible for understanding and complying with any laws, rules, regula
 
 ### 5.3 Search Results.
 
-The ranking and display of Listings in search results on the Airbnb Platform depends on a variety of factors, including these main parameters:
+The ranking and display of Listings in search results and other content recommendation systems on the Airbnb Platform depends on a variety of factors, including these main parameters:
 
 *   Guest search parameters (e.g. number of Guests, destination, time and duration of the trip, price range),
 *   Listing characteristics (e.g. location, price, calendar availability, number and quality of images, reviews, ratings and other quality signals, type or category of Host Service, host status, length of time the Listing has been live on the Airbnb Platform, Guest engagement and popularity),
@@ -894,7 +960,7 @@ The ranking and display of Listings in search results on the Airbnb Platform de
 *   Host and Listing requirements (e.g. minimum or maximum nights, booking cut-off time), and
 *   Guest preferences and history (e.g. previous trips, viewed and saved Listings, location from where the Guest is searching).
 
-Search results may be different on our mobile application than on our website, and may also differ in the map view. Airbnb may allow Hosts to promote their Listings in search or elsewhere on the Airbnb Platform by paying an additional fee. More information about the factors that determine how your Listing appears in search results, our current promotional programs (if any) and how we identify promoted Content can be found in our [Help Center](/help/article/39/what-factors-determine-how-my-listing-appears-in-search-results).
+Search results may be different on our mobile application than on our website, and may also differ in the map view. Airbnb may allow Hosts to promote their Listings in search or elsewhere on the Airbnb Platform by paying an additional fee. More information about the factors that determine how your Listing appears in search results, our current promotional programs (if any) and how we identify promoted Content can be found in our [Help Centre](/help/article/39/what-factors-determine-how-my-listing-appears-in-search-results).
 
 ### 5.4 Your Responsibilities.
 
@@ -903,6 +969,14 @@ Search results may be different on our mobile application than on our website, a
 ### 5.5 Hosting as a Team or Organization.
 
 If you work with a co-host or host as part of a team, business or other organization, you are responsible and liable as a Host under these Terms for the acts and omissions of each entity and individual who participates with you in providing Host services for each of your listings and you are required to inform personnel engaged by you to deliver any Host Services of your obligations under these Terms. If you accept terms or enter into contracts, you represent and warrant that you are authorized to enter into contracts for and bind your team, business or other organization, and that each entity you use is in good standing under the laws of the place where it is established. If you perform other functions, you represent and warrant that you are authorized to perform those functions. If you instruct Airbnb to transfer a portion of your payout to a co-host or other Hosts, or send payments to someone else, you must be authorized to do so, and are responsible and liable for the payment amounts and accuracy of any payout information you provide.
+
+### 5.6 Your Insurance Obligations.
+
+You agree to obtain and maintain at your expense primary insurance covering your liability and the liability of any of your employees or agents working with you or on your behalf for third party bodily injury and property damage arising from a Guest’s stay at your Accommodation during a Reservation.
+
+You agree to cooperate with Airbnb and our third party insurance partners to verify all insurance you are required to maintain, including promptly providing proof of such insurance upon request. If any insurance you are required to maintain under this Section lapses or is cancelled, you agree to notify Airbnb of this immediately. 
+
+While Airbnb maintains the Host liability insurance program (“**HLI program**”), you agree to cooperate with us and our third party insurance partners in the event of a claim under the HLI program for purposes of assisting us with our compliance obligations. This includes, but is not limited to timely and accurately providing information to both us and our third party insurance partners, assisting in the claim investigation, and complying with reasonable requests relating to the claim. When required by the terms of the HLI program, you agree to promptly notify the insurer on any insurance policies you maintain under this Section of any incident giving rise to third party bodily injury or property damage arising from a Guest’s stay at your Accommodation during a Reservation.
 
 ## 6\. Cancellations, Reservation Issues, and Booking Modifications.
 
@@ -936,7 +1010,7 @@ After each Host Service, Guests and Hosts will have an opportunity to review eac
 
 ## **9\. Content.**
 
-Parts of the Airbnb Platform enable you to provide, share, or communicate feedback, text, photos, audio, video, information and other content (“**Content**”). By providing Content, in whatever form and through whatever means, you grant Airbnb a non-exclusive, worldwide, royalty-free, sub-licensable and transferable license, for the term of the protection of the rights so licensed, to access, use, store, copy, modify, prepare derivative works of, distribute, publish, transmit, stream, broadcast, and otherwise exploit in any manner such Content to provide and/or promote the Airbnb Platform, in any media or platform, known or unknown to date and in particular on Internet and social networks. If Content includes personal information, such Content will only be used for these purposes if such use complies with applicable data protection laws in accordance with our [Privacy Policy](/terms/privacy_policy). Where Airbnb pays for the creation of Content or facilitates its creation, Airbnb may own that Content, in which case supplemental terms or disclosures will say that. You are solely responsible for all Content that you provide and warrant that you either own it or are authorized to grant Airbnb the rights described in these Terms. You are responsible and liable if any of your Content violates or infringes the intellectual property or privacy rights of any third party. Content must comply with our [Content Policy](/help/article/546/what-is-airbnb-s-content-policy) and [Nondiscrimination Policy](/terms/nondiscrimination_policy), which prohibit, among other things, discriminatory, obscene, harassing, deceptive, violent and illegal content. You agree that Airbnb may make available services or automated tools to translate Content and that your Content may be translated using such services or tools. Airbnb does not guarantee the accuracy or quality of translations and Members are responsible for confirming the accuracy of such translations.
+Parts of the Airbnb Platform enable you to provide, share, or communicate feedback, text, photos, audio, video, information and other content (“**Content**”). By providing Content, in whatever form and through whatever means, you grant Airbnb a non-exclusive, worldwide, royalty-free, sub-licensable and transferable license, for the term of the protection of the rights so licensed, to access, use, store, copy, modify, prepare derivative works of, distribute, publish, transmit, stream, broadcast, and otherwise exploit in any manner such Content to provide and/or promote the Airbnb Platform, in any media or platform, known or unknown to date and in particular on Internet and social networks. If Content includes personal information, such Content will only be used for these purposes if such use complies with applicable data protection laws in accordance with our [Privacy Policy](/terms/privacy_policy). Where Airbnb pays for the creation of Content or facilitates its creation, Airbnb may own that Content, in which case supplemental terms or disclosures will say that. You are solely responsible for all Content that you provide and warrant that you either own it or are authorized to grant Airbnb the rights described in these Terms. You are responsible and liable if any of your Content violates or infringes the intellectual property or privacy rights of any third party. Content must comply with our [Content Policy](/help/article/546/what-is-airbnb-s-content-policy) and [Nondiscrimination Policy](/terms/nondiscrimination_policy), which prohibit, among other things, discriminatory, obscene, harassing, deceptive, violent and illegal content. You agree that Airbnb may make available services or automated tools to generate or translate Content and that you may use these services, interact with generated Content, or have your Content translated using such services or tools. Airbnb does not guarantee the accuracy or quality of generated Content or translations and Members are responsible for confirming the accuracy of generated Content and translations.
 
 ## 10\. Fees.
 
@@ -966,7 +1040,7 @@ You must follow these rules and must not help or induce others to break or circu
     *   Do not request, make or accept a booking or any payment outside of the Airbnb Platform to avoid paying fees, taxes or for any other reason. See our [Offline Fee Policy](/help/article/2827/what-is-the-airbnb-policy-for-collecting-fees-in-person) for exceptions.
     *   Do not require or encourage Guests to open an account, leave a review, or otherwise interact, with a third party website, application or service before, during or after a Reservation, unless authorized by Airbnb.
     *   Do not engage in any practices that are intended to manipulate our search algorithm.
-    *   Do not book Host Services unless you are actually using the Host Services.
+    *   Do not book Host Services unless you, or an authorized Guest, are actually using the Host Services.
     *   Do not use, copy, display, mirror or frame the Airbnb Platform, any Content, any Airbnb branding, or any page layout or design without our consent.
 *   Honor your legal obligations
     *   Understand and follow the laws that apply to you, including privacy, data protection, and export laws.
@@ -996,7 +1070,7 @@ You agree to cooperate with and assist Airbnb in good faith, and to provide Airb
 
 ### 12.3
 
-Airbnb provides Members and third parties, including designated trusted flaggers according to Article 22 of Regulation (EU) 2022/2065, (“**Notifiers**”) with the means to notify Airbnb of allegedly illegal Content (including copyright infringements) on the Airbnb Platform by using our electronic notification form (“**Content Notification**”). Learn more about how to report Content on our [Help Center](/help/article/3506).
+Airbnb provides Members and third parties, including designated trusted flaggers according to Article 22 of Regulation (EU) 2022/2065, (“**Notifiers**”) with the means to notify Airbnb of allegedly illegal Content (including copyright infringements) on the Airbnb Platform by using our electronic notification form (“**Content Notification**”). Learn more about how to report Content on our [Help Centre](/help/article/3506).
 
 ### 12.4
 
@@ -1043,7 +1117,7 @@ If you are a Host and terminate your Airbnb account, any confirmed booking(s) wi
 
 ### 14.1
 
-If you are a Member with your country of residence or establishment within the EEA and Airbnb takes any of the measures according to Section 13.3 on the grounds that Content provided by you is illegal or incompatible with these Terms, you may submit a complaint against such a measure through our internal complaint handling system. Learn more about how to submit a complaint on our [Help Center](/help/article/3508).
+If you are a Member with your country of residence or establishment within the EEA and Airbnb takes any of the measures according to Section 13.3 on the grounds that Content provided by you is illegal or incompatible with these Terms, you may submit a complaint against such a measure through our internal complaint handling system. Learn more about how to submit a complaint on our [Help Centre](/help/article/3508).
 
 ### 14.2
 
@@ -1073,19 +1147,19 @@ When we propose changes to these Terms, we will post the revised Terms on the Ai
 
 ### 16.1
 
-If a Member provides valid evidence that you, your guest(s), or your pet(s) have culpably: 
+If a Host provides valid evidence that you, your guest(s), or your pet(s) are responsible for directly causing: 
 
-(i) damaged the complaining Member’s, or the Accommodation owner’s (where the Accommodation owner is not also the Host), real or personal property, or real or personal property the complaining Member is responsible for, or has an economic interest in, or 
+(i) physical loss or physical damage to the complaining Host’s, or the Accommodation owner’s (where the Accommodation owner is not also the Host), real or personal property, or real or personal property the complaining Host is responsible for, or has an economic interest in, or 
 
-(ii) caused loss of booking income for bookings via the Airbnb Platform or other consequential damages, which result directly from the damage caused under (i) above; or
+(ii) loss of booking income for bookings via the Airbnb Platform or other consequential damages, which result directly from the damage caused under (i) above; or
 
-(iii) otherwise caused the complaining Member to incur cleaning costs in excess of the Member’s cleaning fee (each of (i), (ii), and (iii) being a "**Damage Report**"),
+(iii) the complaining Host to incur cleaning costs in excess of the Member’s cleaning fee (each of (i), (ii), and (iii) being a "**Damage Report**"),
 
-the complaining Member can notify Airbnb and/or seek compensation through the [Resolution Center](/resolutions). You will be notified of the Damage Report and given an opportunity to respond. If you agree to pay, you authorize Airbnb via Airbnb Payments to collect the amount of the Damage Report from you.
+the complaining Host can notify Airbnb and/or seek compensation through the [Resolution Centre](/resolutions). You will be notified of the Damage Report and given an opportunity to respond. If you agree to pay, you authorize Airbnb via Airbnb Payments to collect the amount of the Damage Report from you.
 
 ### 16.2
 
-If the Host and Guest cannot resolve, or a Guest fails to pay a Damage Report, the Host may notify Airbnb through the [Resolution Center](/resolutions) under the terms of the Host Damage Protection Terms and seek compensation. Airbnb will review the Damage Report and ask the Host to provide any required evidence (e.g. through appropriate documents, photos, invoices, or third-party experts) which substantiates the Damage Report and the Damage Report amount. The Guest will be given the opportunity to respond and provide any relevant counter evidence. If Airbnb determines, under consideration of the evidence provided, the Host Damage Protection Terms, and applicable statutory rules on the burden of proof that the Guest is responsible for the Damage Report, Airbnb (via Airbnb Payments) will pay out the Damage Report to the Host. If Airbnb pays out the Damage Report to the Host, Airbnb may collect the amount of the Damage Report from the Guest, including by charging the guest’s Payment Method up to a maximum amount of $500 USD. Airbnb may also pursue claims for recovering Damage Report amounts, including amounts exceeding the maximum amount applicable for charging the Guest’s Payment Method, against a Guest using any remedies it may have available under applicable law, including referral of the matter to a collections agency, and/or pursuit of available causes of action and/or claims against a Guest. Members may appeal a decision by Airbnb by contacting our [customer service](/help/contact_us). As between Members and Airbnb, the burden of proof regarding the Damage Report and the Damage Report amount always lies with Airbnb.
+If you and the Host cannot resolve, or you fail to pay a Damage Report, the Host may notify Airbnb through the [Resolution Centre](/resolutions) under the terms of the Host Damage Protection Terms and seek compensation. Airbnb will review the Damage Report and ask the Host to provide any required evidence (e.g. through appropriate documents, photos, invoices, or third-party experts) which substantiates the Damage Report and the Damage Report amount. You will be given the opportunity to respond and provide any relevant counter evidence. If Airbnb determines, under consideration of the evidence provided and applicable statutory rules on the burden of proof that you are responsible for the Damage Report, Airbnb (via Airbnb Payments) will pay out the Damage Report to the Host. If Airbnb pays out the Damage Report to the Host, Airbnb may collect the amount of the Damage Report from you, including by charging your Payment Method up to a maximum amount of $500 USD. Airbnb may also pursue claims for recovering Damage Report amounts, including amounts exceeding the maximum amount applicable for charging your Payment Method, against you using any remedies it may have available under applicable law, including referral of the matter to a collections agency, and/or pursuit of available causes of action and/or claims against you. Members may appeal a decision by Airbnb by contacting our [customer service](/help/contact_us). In any dispute resolution process in respect to this Section 16, the burden of proof regarding the Damage Report and the Damage Report amount always lies with Airbnb.
 
 ### 16.3
 
@@ -1201,11 +1275,11 @@ This Arbitration Agreement only applies to you if your country of residence or e
 
 ### 25.2 Overview of Dispute Resolution Process.
 
-Airbnb is committed to participating in a consumer-friendly dispute resolution process. To that end, these Terms provide for a two-part process for individuals to whom this Section 25 applies: (1) an informal negotiation directly with Airbnb’s customer service team (described in paragraph 25.3, below), and if necessary (2) a binding arbitration in accordance with the terms of this Arbitration Agreement. You and Airbnb each retain the right to seek resolution of the dispute in small claims court as an alternative to arbitration.
+Airbnb is committed to participating in a consumer-friendly dispute resolution process. To that end, these Terms provide for a two-part process for individuals to whom this Section 25 applies: (1) an informal negotiation directly with Airbnb (described in paragraph 25.3, below), and if necessary (2) a binding arbitration in accordance with the terms of this Arbitration Agreement. You and Airbnb each retain the right to seek resolution of the dispute in small claims court as an alternative to arbitration. To the extent provided by applicable law, and except to the extent that any party to the arbitration seeks to enforce any final award in a court of competent jurisdiction, the arbitration proceedings and any information exchanged during the proceeding shall remain confidential.
 
 ### 25.3 Mandatory Pre-Arbitration Dispute Resolution and Notification.
 
-At least 30 days prior to initiating an arbitration, you and Airbnb each agree to send the other party an individualized notice of the dispute in writing (“**Pre-Dispute Notice**") and attempt in good faith to negotiate an informal resolution of the individual claim. You must send your Pre-Dispute Notice to Airbnb by mailing it to Airbnb’s agent for service: **CSC Lawyers Incorporating Service, 2710 Gateway Oaks Drive, Suite 150N, Sacramento, California 95833**. Airbnb will send its Pre-Dispute Notice to the email address associated with your Airbnb account. A Pre-Dispute Notice must include: the date, your name, mailing address, your Airbnb username, the email address you used to set up your Airbnb account, your signature, a brief description of the dispute, and the relief sought. If the parties are unable to resolve the dispute within the 30-day period, only then may either party commence arbitration by filing a written demand for arbitration with the arbitration provider designated pursuant to Section 25.6, below. A claimant’s Pre-Dispute Notice requirement is a prerequisite to any arbitration, and a copy of the Pre-Dispute Notice and evidence that it was sent as required by this Section must be attached to any arbitration demand.
+At least 30 days prior to a party initiating an arbitration, you and Airbnb each agree to send the other party an individualized notice of the dispute in writing (“**Pre-Dispute Notice**") and attempt in good faith to negotiate an informal resolution of the individual claim. If you are bringing the dispute, you must send your Pre-Dispute Notice to Airbnb by mailing it to Airbnb’s agent for service: **CSC Lawyers Incorporating Service, 2710 Gateway Oaks Drive, Suite 150N, Sacramento, California 95833**. If Airbnb is bringing the dispute, Airbnb will send its Pre-Dispute Notice to the email address associated with your Airbnb account. A Pre-Dispute Notice must include: the date, your name, mailing address, your Airbnb username, the email address you used to set up your Airbnb account, your signature, a brief description of the dispute, and the relief sought. If the parties are unable to resolve the dispute within the 30-day period, only then may either party commence arbitration by filing a written demand for arbitration with the arbitration provider designated pursuant to Section 25.6, below. A claimant’s Pre-Dispute Notice requirement is a prerequisite to any arbitration, and a copy of the Pre-Dispute Notice and evidence that it was sent as required by this Section must be attached to any arbitration demand. In addition, you must make any demand for arbitration under the Arbitration Agreement before the expiration of the statute of limitations provided under the laws of the State of California. Otherwise, to the extent permitted by applicable law, you forever waive the right to pursue any claim or cause of action, of any kind or character, based on such events or facts, and such claims or causes of action are permanently barred.
 
 ### 25.4 Agreement to Arbitrate; Delegation.
 
@@ -1217,15 +1291,15 @@ You and Airbnb each agree that the following causes of action and/or claims for 
 
 ### 25.6 Arbitration Forum Rules and Governing Law.
 
-This Arbitration Agreement evidences a transaction in interstate commerce and the Federal Arbitration Act governs all substantive and procedural interpretation and enforcement of this Arbitration Agreement, and not state law. The arbitration will be administered by ADR Services, Inc. (“**ADR**”) ([www.adrservices.com](http://www.adrservices.com/)) in accordance with Rules 1, 6–7, 8–9, and 11–12, 45, 54, and 56 of the Federal Rules of Civil Procedure (“Selected **Federal Rules**") ([https://www.uscourts.gov/rules-policies/current-rules-practice-procedure/federal-rules-civil-procedure](https://www.uscourts.gov/rules-policies/current-rules-practice-procedure/federal-rules-civil-procedure)) and ADR’s Arbitration Rules then in effect (the “**ADR Rules**”), except as the Selected Federal Rules or ADR Rules are modified by or conflict with this Arbitration Agreement. The ADR Rules are available at [www.adrservices.com](http://www.adrservices.com/). If an arbitration demand is submitted to ADR Services in accordance with this agreement and the ADR Rules, and ADR Services cannot or will not administer the arbitration, the arbitration will be administered by the American Arbitration Association (“**AAA**”) in accordance with the Selected Federal Rules and the AAA’s Consumer Arbitration Rules (the “**AAA Rules**”) then in effect, except as modified here. The AAA Rules are available at [www.adr.org](http://www.adr.org/). If the AAA cannot and will not administer the arbitration, you and Airbnb shall confer and select an alternative arbitral forum, and if we are unable to agree, either you or Airbnb may ask a court to appoint an arbitrator pursuant to 9 U.S.C. § 5. In that event, the arbitration will be conducted in accordance with the rules of the appointed arbitral forum, unless those rules are inconsistent with the provisions of this Arbitration Agreement.
+This Arbitration Agreement evidences a transaction in interstate commerce and the Federal Arbitration Act governs all substantive and procedural interpretation and enforcement of this Arbitration Agreement, and not state law. The arbitration will be administered by the American Arbitration Association (“**AAA**”) ([www.adrservices.com](http://www.adrservices.com/)) in accordance with Rules 1, 6–7, 8–9, and 11–12, 45, 54, and 56 of the Federal Rules of Civil Procedure (“Selected **Federal Rules**") ([https://www.uscourts.gov/rules-policies/current-rules-practice-procedure/federal-rules-civil-procedure](https://www.uscourts.gov/rules-policies/current-rules-practice-procedure/federal-rules-civil-procedure)) and the AAA’s Consumer Arbitration Rules then in effect (the “**AAA Rules**”), except as modified here. The AAA Rules are available at [www.adr.org](https://www.adr.org/). Immediately after submitting an arbitration demand to the appropriate arbitration provider as identified above, you must send a copy of the demand to Airbnb by mailing it to Airbnb’s agent for service: **CSC Lawyers Incorporating Service, 2710 Gateway Oaks Drive, Suite 150N, Sacramento, California 95833**. Airbnb does not agree to and will not accept service in any other format, on any other entity, or at any other physical address, via email or via other digital submission. If the AAA cannot and will not administer the arbitration, you and Airbnb shall confer and select an alternative arbitral forum, and if we are unable to agree, either you or Airbnb may ask a court to appoint an arbitrator pursuant to 9 U.S.C. § 5. In that event, the arbitration will be conducted in accordance with the rules of the appointed arbitral forum, unless those rules are inconsistent with the provisions of this Arbitration Agreement.
 
 ### 25.7 Modification of Arbitration Rules - Arbitration Hearing/Location.
 
-In order to make the arbitration most cost-effective, efficient, and convenient, any required arbitration hearing in an arbitration wherein the amount in controversy does not exceed $1,000,000 shall be conducted remotely via video conference except as otherwise agreed by the parties or instructed by the arbitrator. Any required arbitration hearing in an arbitration wherein the amount in controversy exceeds $1,000,000 shall be conducted in San Francisco County except as otherwise agreed by the parties or instructed by the arbitrator. If the amount in controversy is $10,000 or less, the parties agree to proceed solely on the submission of documents to the arbitrator, provided that the arbitrator has discretion to decide to hold a hearing in response to the reasonable and proportionate request from a party.
+In order to make the arbitration most cost-effective, efficient, and convenient, any required arbitration hearing in an arbitration wherein the amount in controversy does not exceed $1,000,000 shall be conducted remotely via video conference except as otherwise agreed by the parties or instructed by the arbitrator. Any required arbitration hearing in an arbitration wherein the amount in controversy exceeds $1,000,000 shall be conducted in San Francisco County except as otherwise agreed by the parties or instructed by the arbitrator. If the amount in controversy is $50,000 or less, the parties agree to proceed solely on the submission of documents to the arbitrator, provided that the arbitrator has discretion to decide to hold a hearing in response to the reasonable and proportionate request from a party.
 
 ### 25.8 Modification of Arbitration Rules - Arbitration Fees and Costs.
 
-Your arbitration fees and your share of arbitrator compensation shall be governed by the ADR Rules and the ADR Services fee schedule (available at [www.adrservices.com](http://www.adrservices.com/)). If you have a gross monthly income of less than 300% of the federal poverty guidelines, you are entitled to a waiver of arbitration fees and costs, exclusive of arbitrator fees. You may request a fee waiver by providing the arbitration provider with a declaration under oath stating your monthly income and the number of persons in your household. If a fee waiver is granted by the arbitration provider and you provide Airbnb with documents necessary to prove that your gross monthly income is less than 300% of the federal poverty guidelines, Airbnb will pay your share of any arbitrator fees.
+Your arbitration fees and your share of arbitrator compensation shall be governed by the rules and service fee schedule of the arbitration provider administering the arbitration. The ADR Rules and the ADR Services fee schedule are available at [www.adrservices.com](http://www.adrservices.com/) and the AAA Rules and AAA Services fee schedule are available at [www.adr.org](http://www.adr.org/). If you have a gross monthly income of less than 300% of the federal poverty guidelines, you are entitled to a waiver of arbitration fees and costs, exclusive of arbitrator fees. You may request a fee waiver by providing the arbitration provider with a declaration under oath stating your monthly income and the number of persons in your household. If a fee waiver is granted by the arbitration provider and you provide Airbnb with documents necessary to prove that your gross monthly income is less than 300% of the federal poverty guidelines, Airbnb will pay your share of any arbitrator fees.
 
 ### 25.9 Modification of Arbitration Rules - Claims Brought for an Improper Purpose or In Violation of This Arbitration Agreement.
 
@@ -1233,7 +1307,7 @@ Either party may make a request that the arbitrator impose sanctions upon provin
 
 ### 25.10 Arbitrator’s Decision.
 
-The arbitrator will issue a written decision which shall include the essential findings and conclusions upon which the arbitrator based the award. Judgment on the arbitration award may be entered in any court with proper jurisdiction. The arbitrator may award any relief allowed by law or the ADR Rules, but declaratory or injunctive relief may be awarded only on an individual basis and only to the extent necessary to provide relief warranted by the claimant’s individual claim.
+The arbitrator will issue a written decision which shall include the essential findings and conclusions upon which the arbitrator based the award. Judgment on the arbitration award may be entered in any court with proper jurisdiction. The arbitrator may award any relief allowed by law or the AAA Rules, but declaratory or injunctive relief may be awarded only on an individual basis and only to the extent necessary to provide relief warranted by the claimant’s individual claim.
 
 ### 25.11 Jury Trial Waiver.
 
@@ -1249,7 +1323,7 @@ You and Airbnb acknowledge and agree that the relative benefits and efficiencies
 
 ### 25.14 Modification of Arbitration Rules – Mass Action Batching Requirements.
 
-If for any reason, notwithstanding Section 25.13, an arbitration proceeds as part of a Mass Action, the parties shall group the arbitration demands into batches of no more than 200. The batches shall be determined by listing the claimants’ alphabetically (by last name or business name, as applicable)—for example, the first 200 claimants listed will be the first batch, the next 200 claimants listed will be the second batch, and so forth. The parties shall randomly assign each batch a sequential number and arbitrate the batches one at a time, in sequential order. While one batch is being arbitrated, the arbitration provider shall hold the remainder in abeyance unless otherwise agreed by the parties or instructed by the arbitration provider. Each batch shall be resolved within 240 days of the pre-hearing conference for that batch. Notwithstanding the forgoing, if any claimant’s demand has not been the subject of a pre-hearing conference within 2 years of the latest-filed demand in the Mass Action, such claimant may elect to pursue the claims asserted in the claimant’s demand in court subject to Sections 23 and 25.12 of these Terms.
+If for any reason, notwithstanding Section 25.13, an arbitration proceeds as part of a Mass Action, the parties shall group the arbitration demands into batches of no more than 200. The batches shall be determined by listing the claimants’ alphabetically (by last name or business name, as applicable)—for example, the first 200 claimants listed will be the first batch, the next 200 claimants listed will be the second batch, and so forth. The parties shall randomly assign each batch a sequential number and arbitrate the batches one at a time, in sequential order. One arbitrator shall be appointed for each batch and shall resolve each batch as a single consolidated arbitration with one set of filing and administrative fees due per side per batch, one procedural calendar, one hearing (if any) in a manner and/or place to be determined by the arbitrator, and one final award. While one batch is being arbitrated, the arbitration provider shall hold the remainder in abeyance unless otherwise agreed by the parties or instructed by the arbitration provider. Each batch shall be resolved within 240 days of the pre-hearing conference for that batch. Notwithstanding the forgoing, if any claimant’s demand has not been the subject of a pre-hearing conference within 2 years of the latest-filed demand in the Mass Action, such claimant may elect to pursue the claims asserted in the claimant’s demand in court subject to Sections 23 and 25.12 of these Terms.
 
 ### 25.15 Modifications of Arbitration Rules - Offers of Judgment.
 
@@ -1296,7 +1370,7 @@ You are responsible for the accuracy of the information provided and are require
 
 ## 27\. Complaints Handling and Mediation.
 
-If you are a Business Host established within the EEA or the United Kingdom you have access to our internal complaint handling system for Business Hosts which allows you to make a complaint in relation to issues falling under the remit of Article 11 of Regulation (EU) 2019/1150 including to clarify the facts and circumstances leading to measures according to Section 13.2 and 13.3 of these Terms. Our [Help Center](/help/article/2838/) explains how you can access our internal complaint-handling system for Business Hosts and what you can expect when you make a complaint. It also sets out the details of the mediation service that you can use in the event that such a complaint is not resolved.
+If you are a Business Host established within the EEA or the United Kingdom you have access to our internal complaint handling system for Business Hosts which allows you to make a complaint in relation to issues falling under the remit of Article 11 of Regulation (EU) 2019/1150 including to clarify the facts and circumstances leading to measures according to Section 13.2 and 13.3 of these Terms. Our [Help Centre](/help/article/2838/) explains how you can access our internal complaint-handling system for Business Hosts and what you can expect when you make a complaint. It also sets out the details of the mediation service that you can use in the event that such a complaint is not resolved.
 
 ## 28\. Access to Data.
 
@@ -1336,17 +1410,21 @@ Luxury Retreats International ULC
 
 Booking or offering Services or Experiences.
 
-Airbnb Beyond Limited
+Airbnb Beyond Limited(+)
 
-8 Hanover Quay, Dublin 2, Ireland
+25 North Wall Quay, Dublin 1, D01 H104, Ireland
 
 All other activities.
 
-Airbnb Ireland UC
+Airbnb Ireland UC\*\*
 
-8 Hanover Quay, Dublin 2, Ireland
+25 North Wall Quay, Dublin 1, D01 H104, Ireland
 
 [Company details page](https://news.airbnb.com/about-us/)
+
+\*\* If you book or offer an accommodation located in Israel or the Palestinian Territories, on or after April 20, 2026, you are contracting with Airbnb Limited LLC located at 888 Brannan Street, San Francisco, CA 94103, United States.
+
+(+) If you book or offer Services or Experiences located in Israel or the Palestinian Territories, on or after April 20, 2026, you are contracting with Airbnb Beyond LLC located at 888 Brannan Street, San Francisco, CA 94103, United States.
 
 * * *
 
@@ -1358,7 +1436,7 @@ These Terms of Service for Australian Users (“**Terms**”) are subject to the
 
 **Section 23 of these Terms contains an arbitration agreement and class action waiver that applies to all claims brought against Airbnb in the United States. Please read them carefully.**
 
-Last Updated: May 13, 2025  
+Last Updated: February 5, 2026  
 
 Thank you for using Airbnb!
 
@@ -1382,7 +1460,6 @@ The documents referred to within these Terms include but are not limited to our:
 *   [Resolution Centre page](/help/article/767), which describes how money-related disputes between Hosts and Guests may be resolved.
 *   [Host Damage Protection Terms](/help/article/3528), which explains the terms, exclusions and limitations under which Airbnb will agree to pay a Host to repair or replace Covered Property as a result of a Covered Loss.
 *   [Reviews Policy](/help/article/2673), which governs reviews left by Members on the Airbnb Platform.
-*   [Community Standards](/help/article/3328), that apply to Members and help ensure safe stays, services, experiences, and interactions.
 *   [Community Policies](/help/feature/1/), which sets out expectations of Members of the Airbnb Community.
 *   [Content Policy](/help/article/546/), which governs the posting by Members of content on the Airbnb Platform.
 *   [Nondiscrimination Policy](/terms/nondiscrimination_policy), which describes the fundamental principles of inclusion and respect and provides guidance to Members in making accommodation distinctions based on certain personal characteristics.
@@ -1542,6 +1619,14 @@ To the maximum extent permitted by law, if you work with a co-host or host as pa
 
 You acknowledge that hosting carries inherent risks and agree that, to the maximum extent permitted by law, you assume the risk arising out of your access to and use of the Airbnb Platform, offering Host Services, or any interaction you have with other Members whether in person or online. You agree that you have had the opportunity to investigate the Airbnb Platform and any laws, rules, regulations, or obligations that may be applicable to your Listings or Host Services.
 
+### 5.7 Your Insurance Obligations.
+
+You agree to obtain and maintain at your expense primary insurance covering your liability and the liability of any of your employees or agents working with you or on your behalf for third party bodily injury and property damage arising from a Guest’s stay at your Accommodation during a Reservation.
+
+You agree to cooperate with Airbnb and our third party insurance partners to verify all insurance you are required to maintain, including promptly providing proof of such insurance upon request. If any insurance you are required to maintain under this Section lapses or is cancelled, you agree to notify Airbnb of this immediately. 
+
+While Airbnb maintains the Host liability insurance program (“**HLI program**”), you agree to cooperate with us and our third party insurance partners in the event of a claim under the HLI program for purposes of assisting us with our compliance obligations. This includes, but is not limited to timely and accurately providing information to both us and our third party insurance partners, assisting in the claim investigation, and complying with reasonable requests relating to the claim. When required by the terms of the HLI program, you agree to promptly notify the insurer on any insurance policies you maintain under this Section of any incident giving rise to third party bodily injury or property damage arising from a Guest’s stay at your Accommodation during a Reservation.
+
 ## 6\. Cancellations, Reservation Issues, and Booking Modifications.
 
 ### 6.1 Cancellations and Reservation Issues.
@@ -1576,7 +1661,7 @@ After each Host Service, Guests and Hosts will have an opportunity to review eac
 
 ## 9\. Content.
 
-Parts of the Airbnb Platform enable you to provide, share, or communicate feedback, text, photos, audio, video, information and other content (“**Content**”). By providing Content, in whatever form and through whatever means, you grant Airbnb a non-exclusive, worldwide, royalty-free, perpetual, sub-licensable and transferable license, to access, use, store, copy, modify, prepare derivative works of, distribute, publish, transmit, stream, broadcast, and otherwise exploit in any manner such Content to provide and/or promote the Airbnb Platform, in any media or platform, known or unknown to date and in particular on Internet and social networks. If Content includes personal information, such Content will only be used for these purposes if such use complies with applicable data protection laws in accordance with our [Privacy Policy](/terms/privacy_policy). Where Airbnb pays for the creation of Content or facilitates its creation, Airbnb may own that Content, in which case supplemental terms or disclosures will say that. You are solely responsible for all Content that you provide and warrant that you either own it or are authorized to grant Airbnb the rights described in these Terms. You are responsible and liable if any of your Content violates or infringes the intellectual property or privacy rights of any third party. Content must comply with our [Content Policy](/help/article/546/) and [Nondiscrimination Policy](/terms/nondiscrimination_policy), which prohibit, among other things, discriminatory, obscene, harassing, deceptive, violent and illegal content. You agree that Airbnb may make available services or automated tools to translate Content and that your Content may be translated using such services or tools. Airbnb does not guarantee the accuracy or quality of translations and Members are responsible for confirming the accuracy of such translations.
+Parts of the Airbnb Platform enable you to provide, share, or communicate feedback, text, photos, audio, video, information and other content (“**Content**”). By providing Content, in whatever form and through whatever means, you grant Airbnb a non-exclusive, worldwide, royalty-free, perpetual, sub-licensable and transferable license, to access, use, store, copy, modify, prepare derivative works of, distribute, publish, transmit, stream, broadcast, and otherwise exploit in any manner such Content to provide and/or promote the Airbnb Platform, in any media or platform, known or unknown to date and in particular on Internet and social networks. If Content includes personal information, such Content will only be used for these purposes if such use complies with applicable data protection laws in accordance with our [Privacy Policy](/terms/privacy_policy). Where Airbnb pays for the creation of Content or facilitates its creation, Airbnb may own that Content, in which case supplemental terms or disclosures will say that. You are solely responsible for all Content that you provide and warrant that you either own it or are authorized to grant Airbnb the rights described in these Terms. You are responsible and liable if any of your Content violates or infringes the intellectual property or privacy rights of any third party. Content must comply with our [Content Policy](/help/article/546/) and [Nondiscrimination Policy](/terms/nondiscrimination_policy), which prohibit, among other things, discriminatory, obscene, harassing, deceptive, violent and illegal content. You agree that Airbnb may make available services or automated tools to generate or translate Content and that you may use these services, interact with generated Content, or have your Content translated using such services or tools. Airbnb does not guarantee the accuracy or quality of generated Content or translations and Members are responsible for confirming the accuracy of generated Content and translations.
 
 ## 10\. Fees.
 
@@ -1606,7 +1691,7 @@ You must follow these rules and must not help or induce others to break or circu
     *   Do not request, make or accept a booking or any payment outside of the Airbnb Platform to avoid paying fees, taxes or for any other reason. See our [Offline Fee Policy](/help/article/2827/) for exceptions.
     *   Do not require or encourage Guests to open an account, leave a review, or otherwise interact, with a third party website, application or service before, during or after a Reservation, unless authorized by Airbnb.
     *   Do not engage in any practices that are intended to manipulate our search algorithm.
-    *   Do not book Host Services unless you are actually using the Host Services.
+    *   Do not book Host Services unless you, or an authorized Guest, are actually using the Host Services.
     *   Do not use, copy, display, mirror or frame the Airbnb Platform, any Content, any Airbnb branding, or any page layout or design without our consent.
 *   Honor your legal obligations.
     *   Understand and follow the laws that apply to you, including privacy, data protection, and export laws.
@@ -1634,7 +1719,7 @@ The agreement between you and Airbnb reflected by these Terms is effective when 
 
 ### 12.2 Termination.
 
-You may terminate this agreement for any reason and at any time by sending us an email or by deleting your account. Airbnb may terminate this agreement, stop providing access to the Airbnb Platform, deactivate your account, remove your Listing(s), or any combination thereof, for any reason (including if your account has been inactive for more than two years) by providing you 30 days’ notice via email or using any other contact information you have provided for your account. Airbnb may also terminate this agreement, stop providing access to the Airbnb Platform, deactivate your account, remove your Listing(s), or any combination thereof, immediately and without prior notice if (i) you materially breach these Terms or our [Additional Legal Terms](/help/feature/2/), or [Policies](/help/feature/1/), (ii) you violate applicable laws, or (iii) such action is necessary to protect the personal safety or property of Airbnb, its Members, or third parties (for example in the case of fraudulent behavior of a Member).
+You may terminate this agreement for any reason or no reason and at any time by sending us an email or by deleting your account. Airbnb may terminate this agreement, stop providing access to the Airbnb Platform, deactivate your account, remove your Listing(s), or any combination thereof, for any reason or no reason (including if your account has been inactive for more than two years) by providing you 30 days’ notice via email or using any other contact information you have provided for your account. Airbnb may also terminate this agreement, stop providing access to the Airbnb Platform, deactivate your account, remove your Listing(s), or any combination thereof, immediately and without prior notice if (i) you materially breach these Terms or our [Additional Legal Terms](/help/feature/2/), or [Policies](/help/feature/1/), (ii) you violate applicable laws or your conduct causes Airbnb to violate applicable laws, or (iii) such action is necessary to protect the personal safety or property of Airbnb, its Members, or third parties (for example in the case of fraudulent behavior of a Member).
 
 Airbnb reserves the right to change our services, including to add or remove features and functionalities or change the types of Listings we accept or allow on the platform, including but not limited to: improve or update our services, prevent abuse, or respond to legal requirements. If we make material changes, we will provide you with 30 days’ advance notice, unless the changes are to prevent abuse or respond to legal requirements.
 
@@ -1673,19 +1758,19 @@ Airbnb may modify these Terms at any time. When we make material changes to thes
 
 ### 14.1
 
-If a Member provides valid evidence that you, your guest(s), or your pet(s) have culpably:
+If a Host provides valid evidence that you, your guest(s), or your pet(s) are responsible for directly causing:
 
-(i) damaged the complaining Member’s, or the Accommodation owner’s (where the Accommodation owner is not also the Host), real or personal property, or real or personal property the complaining Member is responsible for, or has an economic interest in;
+(i) physical loss or physical damage to the complaining Host’s, or the Accommodation owner’s (where the Accommodation owner is not also the Host), real or personal property, or real or personal property the complaining Host is responsible for, or has an economic interest in;
 
-(ii) caused loss of booking income for bookings via the Airbnb Platform or other consequential damages which result directly from the damage caused under (i) above; or
+(ii) loss of booking income for bookings via the Airbnb Platform or other consequential damages which result directly from the damage caused under (i) above; or
 
-(iii) otherwise caused the complaining Member to incur cleaning costs in excess of the Member’s cleaning fee (each of (i), (ii), and (iii) being a "**Damage Report**"),
+(iii) the complaining Host to incur cleaning costs in excess of the Host’s cleaning fee (each of (i), (ii), and (iii) being a "**Damage Report**"),
 
-the complaining Member can notify Airbnb and/or seek compensation through the [Resolution Center](/resolutions). You will be notified of the Damage Report and given an opportunity to respond. If you agree to pay, or if the Damage Report is escalated to Airbnb and Airbnb reasonably determines that the Damage Report is valid and you are responsible for the Damage Report, Airbnb via Airbnb Payments can collect the amount of the Damage Report from you.
+the complaining Host can notify Airbnb and/or seek compensation through the [Resolution Center](/resolutions). You will be notified of the Damage Report and given an opportunity to respond. If you agree to pay, Airbnb via Airbnb Payments can collect the amount of the Damage Report from you.
 
 ### 14.2
 
-If the Host and Guest cannot resolve, or a Guest fails to pay a Damage Report, the Host may notify Airbnb through the [Resolution Center](/resolutions) under the terms of the Host Damage Protection Terms and seek compensation. Airbnb will review the Damage Report and ask the Host to provide any required evidence (e.g. through appropriate documents, photos, invoices, or third- party experts) which substantiates the Damage Report and the Damage Report amount. The Guest will be given the opportunity to respond and provide any relevant counter evidence. If Airbnb reasonably determines, under (i) consideration of the evidence provided; (ii) the Host Damage Protection Terms; and (iii) applicable statutory rules on the burden of proof, that the Guest is responsible for the Damage Report, Airbnb (via Airbnb Payments) will pay out the Damage Report to the Host. If Airbnb pays out the Damage Report to the Host, Airbnb may collect the amount of the Damage Report from the Guest, including by charging the Guest’s Payment Method up to a maximum amount of $500 USD. Airbnb may also pursue claims for recovering Damage Report amounts, including amounts exceeding the maximum amount applicable for charging the Guest’s Payment Method, against a Guest using any remedies it may have available under applicable law, including referral of the matter to a collections agency, and/or pursuit of available causes of action and/or claims against a Guest. Members may appeal a decision by Airbnb by contacting our [customer service](/help/contact_us). As between Members and Airbnb, the burden of proof regarding the Damage Report and the Damage Report amount always lies with Airbnb.
+If you and the Host cannot resolve, or you fail to pay a Damage Report, the Host may notify Airbnb through the [Resolution Center](/resolutions) under the terms of the Host Damage Protection Terms and seek compensation. Airbnb will review the Damage Report and ask the Host to provide any required evidence (e.g. through appropriate documents, photos, invoices, or third- party experts) which substantiates the Damage Report and the Damage Report amount. You will be given the opportunity to respond and provide any relevant counter evidence. If Airbnb reasonably determines, under consideration of the evidence provided that you are more likely than not (on the balance of probabilities) responsible for the Damage Report, Airbnb (via Airbnb Payments) will pay out the Damage Report to the Host. If Airbnb pays out the Damage Report to the Host, Airbnb may collect the amount of the Damage Report from you, including by charging your Payment Method up to a maximum amount of $500 USD. Airbnb may also pursue claims for recovering Damage Report amounts, including amounts exceeding the maximum amount applicable for charging your Payment Method, against you using any remedies it may have available under applicable law, including referral of the matter to a collections agency, and/or pursuit of available causes of action and/or claims against you. Members may appeal a decision by Airbnb by contacting our [customer service](/help/contact_us).
 
 ### 14.3
 
@@ -1711,7 +1796,7 @@ You must register an account to access and use many features of the Airbnb Platf
 
 **To the maximum extent permitted by law, no party, including Airbnb’s affiliates and personnel, or any other party involved in creating, producing, or delivering the Airbnb Platform or any Content, will be liable for any incidental, special, exemplary or consequential damages. Incidental, special, exemplary or consequential damages include, to the maximum extent permitted by law, lost profits, loss of data or loss of goodwill, service interruption, computer damage or system failure or the cost of substitute products or services. Neither is Airbnb liable nor any other party liable, to the extent permitted by law, for any damages for personal or bodily injury or emotional distress arising out of or in connection with (i) these Terms, (ii) the use of or inability to use the Airbnb Platform or any Content, (iii) any communications, interactions or meetings you may have with someone you interact or meet with through, or as a result of, your use of the Airbnb Platform, or (iv) the publishing or booking of a Listing, including the provision or use of Host Services, whether based on warranty, contract, tort (including negligence), product liability or any other legal theory, and whether or not Airbnb has been informed of the possibility of such damage, even if a limited remedy set out in these Terms is found to have failed of its essential purpose.**
 
-**Except for (i) Airbnb’s obligation to transmit payments to Hosts under these Terms, (ii) Airbnb’s obligation to make payments under the Airbnb [Host Damage Protection](/help/article/279/), which contains its own limitations of liability, and (iii) Airbnb’s wilful breach of these Terms, to the maximum extent permitted by law, in no event shall Airbnb’s aggregate liability for any claim or dispute arising out of or in connection with these Terms, interaction with any Members, or use of or inability to use the Airbnb Platform, any Content, or any Host Service, exceed: (A) to Guests, three (3) times the amount you paid for the relevant Reservation(s) giving rise to the liability, or (B) to Hosts, three (3) times the amount paid to you for the relevant Reservation(s) giving rise to the liability.**
+**Except for (i) Airbnb’s obligation to transmit payments to Hosts under these Terms, (ii) Airbnb’s obligation to make payments under the Airbnb [Host Damage Protection](/help/article/279/), and (iii) Airbnb’s wilful breach of these Terms, to the maximum extent permitted by law, in no event shall Airbnb’s aggregate liability for any claim or dispute arising out of or in connection with these Terms, interaction with any Members, or use of or inability to use the Airbnb Platform, any Content, or any Host Service, exceed: (A) to Guests, three (3) times the amount you paid for the relevant Reservation(s) giving rise to the liability, or (B) to Hosts, three (3) times the amount paid to you for the relevant Reservation(s) giving rise to the liability.**
 
 **Except in the case of a Member’s wilful breach of these Terms, to the maximum extent permitted by law, in no event shall a Member’s liability to Airbnb or any other party involved in creating, producing, or delivering the Airbnb Platform or any Content for any claim or dispute arising out of or in connection with these Terms, interaction with any Member, or use of or inability to use the Airbnb Platform, any Content, or any Host Service exceed: (A) in the case of Guests, three (3) times the amount you paid for the relevant Reservation(s) giving rise to the liability, or (B) in the case of Hosts, three (3) times the amount paid to you for the relevant Reservation(s) giving rise to the liability.**  
 
@@ -1791,11 +1876,11 @@ This Arbitration Agreement only applies to you if your country of residence or e
 
 ### 23.2 Overview of Dispute Resolution Process. 
 
-Airbnb is committed to participating in a consumer-friendly dispute resolution process. To that end, these Terms provide for a two-part process for individuals to whom this Section 23 applies: (1) an informal negotiation directly with Airbnb’s customer service team (described in Section 23.3, below), and if necessary (2) a binding arbitration in accordance with the terms of this Arbitration Agreement. You and Airbnb each retain the right to seek resolution of the dispute in small claims court as an alternative to arbitration.
+Airbnb is committed to participating in a consumer-friendly dispute resolution process. To that end, these Terms provide for a two-part process for individuals to whom this Section 23 applies: (1) an informal negotiation directly with Airbnb (described in Section 23.3, below), and if necessary (2) a binding arbitration in accordance with the terms of this Arbitration Agreement. You and Airbnb each retain the right to seek resolution of the dispute in small claims court as an alternative to arbitration. To the extent provided by applicable law, and except to the extent that any party to the arbitration seeks to enforce any final award in a court of competent jurisdiction, the arbitration proceedings and any information exchanged during the proceeding shall remain confidential.
 
 ### 23.3 Mandatory Pre-Arbitration Dispute Resolution and Notification. 
 
-At least 30 days prior to initiating an arbitration, you and Airbnb each agree to send the other party an individualized notice of the dispute in writing (“**Pre-Dispute Notice**") and attempt in good faith to negotiate an informal resolution of the individual claim. You must send your Pre-Dispute Notice to Airbnb by mailing it to Airbnb’s agent for service: **CSC Lawyers Incorporating Service, 2710 Gateway Oaks Drive, Suite 150N, Sacramento, California 95833**. Airbnb will send its Pre-Dispute Notice to the email address associated with your Airbnb account. A Pre-Dispute Notice must include: the date, your name, mailing address, your Airbnb username, the email address you used to set up your Airbnb account, your signature, a brief description of the dispute, and the relief sought. If the parties are unable to resolve the dispute within the 30-day period, only then may either party commence arbitration by filing a written demand for arbitration with the arbitration provider designated pursuant to Section 23.6, below. A claimant’s Pre-Dispute Notice requirement is a prerequisite to any arbitration, and a copy of the Pre-Dispute Notice and evidence that it was sent as required by this Section must be attached to any arbitration demand.
+At least 30 days prior to a party initiating an arbitration, you and Airbnb each agree to send the other party an individualized notice of the dispute in writing (“**Pre-Dispute Notice**") and attempt in good faith to negotiate an informal resolution of the individual claim. If you are bringing the dispute, you must send your Pre-Dispute Notice to Airbnb by mailing it to Airbnb’s agent for service: **CSC Lawyers Incorporating Service, 2710 Gateway Oaks Drive, Suite 150N, Sacramento, California 95833**. If Airbnb is bringing the dispute, Airbnb will send its Pre-Dispute Notice to the email address associated with your Airbnb account. A Pre-Dispute Notice must include: the date, your name, mailing address, your Airbnb username, the email address you used to set up your Airbnb account, your signature, a brief description of the dispute, and the relief sought. If the parties are unable to resolve the dispute within the 30-day period, only then may either party commence arbitration by filing a written demand for arbitration with the arbitration provider designated pursuant to Section 23.6, below. A claimant’s Pre-Dispute Notice requirement is a prerequisite to any arbitration, and a copy of the Pre-Dispute Notice and evidence that it was sent as required by this Section must be attached to any arbitration demand. In addition, you must make any demand for arbitration under the Arbitration Agreement before the expiration of the statute of limitations provided under the laws of the State of California. Otherwise, to the extent permitted by applicable law, you forever waive the right to pursue any claim or cause of action, of any kind or character, based on such events or facts, and such claims or causes of action are permanently barred.
 
 ### 23.4 Agreement to Arbitrate; Delegation. 
 
@@ -1807,15 +1892,15 @@ You and Airbnb each agree that the following causes of action and/or claims for 
 
 ### 23.6 Arbitration Rules and Governing Law. 
 
-This Arbitration Agreement evidences a transaction in interstate commerce and the Federal Arbitration Act governs all substantive and procedural interpretation and enforcement of this Arbitration Agreement, and not state law. The arbitration will be administered by ADR Services, Inc. (“**ADR**”) ([www.adrservices.com](http://www.adrservices.com/)) in accordance with Rules 1, 6–7, 8–9, and 11–12, 45, 54, and 56 of the Federal Rules of Civil Procedure (“**Selected Federal Rules**") ([https://www.uscourts.gov/rules-policies/current-rules-practice-procedure/federal-rules-civil-procedure](https://www.uscourts.gov/rules-policies/current-rules-practice-procedure/federal-rules-civil-procedure)) and ADR’s Arbitration Rules then in effect (the “**ADR Rules**”), except as the Selected Federal Rules or ADR Rules are modified by or conflict with this Arbitration Agreement. The ADR Rules are available at [www.adrservices.com](http://www.adrservices.com/). If an arbitration demand is submitted to ADR Services in accordance with this agreement and the ADR Rules, and ADR Services cannot or will not administer the arbitration, the arbitration will be administered by the American Arbitration Association (“**AAA**”) in accordance with the Selected Federal Rules and the AAA’s Consumer Arbitration Rules (the “**AAA Rules**”) then in effect, except as modified here. The AAA Rules are available at [www.adr.org](http://www.adr.org/). If the AAA cannot and will not administer the arbitration, you and Airbnb shall confer and select an alternative arbitral forum, and if we are unable to agree, either you or Airbnb may ask a court to appoint an arbitrator pursuant to 9 U.S.C. § 5. In that event, the arbitration will be conducted in accordance with the rules of the appointed arbitral forum, unless those rules are inconsistent with the provisions of this Arbitration Agreement.
+This Arbitration Agreement evidences a transaction in interstate commerce and the Federal Arbitration Act governs all substantive and procedural interpretation and enforcement of this Arbitration Agreement, and not state law. The arbitration will be administered by the American Arbitration Association (“**AAA**”) in accordance with Rules 1, 6–7, 8–9, and 11–12, 45, 54, and 56 of the Federal Rules of Civil Procedure (“**Selected Federal Rules**") ([https://www.uscourts.gov/rules-policies/current-rules-practice-procedure/federal-rules-civil-procedure](https://www.uscourts.gov/rules-policies/current-rules-practice-procedure/federal-rules-civil-procedure)) and the AAA's Consumer Arbitration Rules then in effect (the “**AAA Rules**”), except as modified here. The AAA Rules are available at [www.adr.org](https://www.adr.org/). Immediately after submitting an arbitration demand to the appropriate arbitration provider as identified above, you must send a copy of the demand to Airbnb by mailing it to Airbnb’s agent for service: **CSC Lawyers Incorporating Service, 2710 Gateway Oaks Drive, Suite 150N, Sacramento, California 95833**. Airbnb does not agree to and will not accept service in any other format, on any other entity, or at any other physical address, via email or via other digital submission. If the AAA cannot and will not administer the arbitration, you and Airbnb shall confer and select an alternative arbitral forum, and if we are unable to agree, either you or Airbnb may ask a court to appoint an arbitrator pursuant to 9 U.S.C. § 5. In that event, the arbitration will be conducted in accordance with the rules of the appointed arbitral forum, unless those rules are inconsistent with the provisions of this Arbitration Agreement.
 
 ### 23.7 Modification of Arbitration Rules - Arbitration Hearing/Location.
 
-In order to make the arbitration most cost-effective, efficient, and convenient, any required arbitration hearing in an arbitration wherein the amount in controversy does not exceed $1,000,000 USD shall be conducted remotely via video conference except as otherwise agreed by the parties or instructed by the arbitrator. Any required arbitration hearing in an arbitration wherein the amount in controversy exceeds $1,000,000 USD shall be conducted in San Francisco County except as otherwise agreed by the parties or instructed by the arbitrator. If the amount in controversy is $10,000 USD or less, the parties agree to proceed solely on the submission of documents to the arbitrator, provided that the arbitrator has discretion to decide to hold a hearing in response to the reasonable and proportionate request from a party.
+In order to make the arbitration most cost-effective, efficient, and convenient, any required arbitration hearing in an arbitration wherein the amount in controversy does not exceed $1,000,000 USD shall be conducted remotely via video conference except as otherwise agreed by the parties or instructed by the arbitrator. Any required arbitration hearing in an arbitration wherein the amount in controversy exceeds $1,000,000 USD shall be conducted in San Francisco County except as otherwise agreed by the parties or instructed by the arbitrator. If the amount in controversy is $50,000 USD or less, the parties agree to proceed solely on the submission of documents to the arbitrator, provided that the arbitrator has discretion to decide to hold a hearing in response to the reasonable and proportionate request from a party.
 
-### 23.8 Modification of AAA Rules - Arbitration Fees and Costs. 
+### 23.8 Modification of Arbitration Rules - Arbitration Fees and Costs. 
 
-Your arbitration fees and your share of arbitrator compensation shall be governed by the ADR Rules and the ADR Services fee schedule (available at [www.adrservices.com](http://www.adrservices.com/)). If you have a gross monthly income of less than 300% of the federal poverty guidelines, you are entitled to a waiver of arbitration fees and costs, exclusive of arbitrator fees. You may request a fee waiver by providing the arbitration provider with a declaration under oath stating your monthly income and the number of persons in your household. If a fee waiver is granted by the arbitration provider and you provide Airbnb with documents necessary to prove that your gross monthly income is less than 300% of the federal poverty guidelines, Airbnb will pay your share of any arbitrator fees.
+Your arbitration fees and your share of arbitrator compensation shall be governed by the rules and service fee schedule of the arbitration provider administering the arbitration. The ADR Rules and the ADR Services fee schedule are available at [www.adrservices.com](http://www.adrservices.com/) and the AAA Rules and AAA Services fee schedule are available at [www.adr.org](http://www.adr.org/). If you have a gross monthly income of less than 300% of the federal poverty guidelines, you are entitled to a waiver of arbitration fees and costs, exclusive of arbitrator fees. You may request a fee waiver by providing the arbitration provider with a declaration under oath stating your monthly income and the number of persons in your household. If a fee waiver is granted by the arbitration provider and you provide Airbnb with documents necessary to prove that your gross monthly income is less than 300% of the federal poverty guidelines, Airbnb will pay your share of any arbitrator fees.
 
 ### 23.9 Modification of Arbitration Rules - Claims Brought for an Improper Purpose or In Violation of This Arbitration Agreement.
 
@@ -1823,7 +1908,7 @@ Either party may make a request that the arbitrator impose sanctions upon provin
 
 ### 23.10 Arbitrator’s Decision.
 
-The arbitrator will issue a written decision which shall include the essential findings and conclusions upon which the arbitrator based the award. Judgment on the arbitration award may be entered in any court with proper jurisdiction. The arbitrator may award any relief allowed by law or the ADR Rules, but declaratory or injunctive relief may be awarded only on an individual basis and only to the extent necessary to provide relief warranted by the claimant’s individual claim.
+The arbitrator will issue a written decision which shall include the essential findings and conclusions upon which the arbitrator based the award. Judgment on the arbitration award may be entered in any court with proper jurisdiction. The arbitrator may award any relief allowed by law or the AAA Rules, but declaratory or injunctive relief may be awarded only on an individual basis and only to the extent necessary to provide relief warranted by the claimant’s individual claim.
 
 ### 23.11 Jury Trial Waiver.
 
@@ -1839,7 +1924,7 @@ You and Airbnb acknowledge and agree that the relative benefits and efficiencies
 
 ### 23.14 Modification of Arbitration Rules – Mass Action Batching Requirements.
 
-If for any reason, notwithstanding Section 23.13, an arbitration proceeds as part of a Mass Action, the parties shall group the arbitration demands into batches of no more than 200. The batches shall be determined by listing the claimants’ alphabetically (by last name or business name, as applicable)—for example, the first 200 claimants listed will be the first batch, the next 200 claimants listed will be the second batch, and so forth. The parties shall randomly assign each batch a sequential number and arbitrate the batches one at a time, in sequential order. While one batch is being arbitrated, the arbitration provider shall hold the remainder in abeyance unless otherwise agreed by the parties or instructed by the arbitration provider. Each batch shall be resolved within 240 days of the pre-hearing conference for that batch. Notwithstanding the forgoing, if any claimant’s demand has not been the subject of a pre-hearing conference within 2 years of the latest-filed demand in the Mass Action, such claimant may elect to pursue the claims asserted in the claimant’s demand in court subject to Sections 21 and 23.12 of these Terms.
+If for any reason, notwithstanding Section 23.13, an arbitration proceeds as part of a Mass Action, the parties shall group the arbitration demands into batches of no more than 200. The batches shall be determined by listing the claimants’ alphabetically (by last name or business name, as applicable)—for example, the first 200 claimants listed will be the first batch, the next 200 claimants listed will be the second batch, and so forth. The parties shall randomly assign each batch a sequential number and arbitrate the batches one at a time, in sequential order. One arbitrator shall be appointed for each batch and shall resolve each batch as a single consolidated arbitration with one set of filing and administrative fees due per side per batch, one procedural calendar, one hearing (if any) in a manner and/or place to be determined by the arbitrator, and one final award. While one batch is being arbitrated, the arbitration provider shall hold the remainder in abeyance unless otherwise agreed by the parties or instructed by the arbitration provider. Each batch shall be resolved within 240 days of the pre-hearing conference for that batch. Notwithstanding the forgoing, if any claimant’s demand has not been the subject of a pre-hearing conference within 2 years of the latest-filed demand in the Mass Action, such claimant may elect to pursue the claims asserted in the claimant’s demand in court subject to Sections 21 and 23.12 of these Terms.
 
 ### 23.15 Modifications of Arbitration Rules - Offers of Judgment.
 
@@ -1908,9 +1993,9 @@ Booking or offering Services or Experiences.
 
   
 
-Airbnb Beyond Limited
+Airbnb Beyond Limited (+)
 
-8 Hanover Quay, Dublin 2, Ireland
+25 North Wall Quay, Dublin 1, D01 H104, Ireland
 
   
 
@@ -1918,9 +2003,13 @@ All other activities.
 
   
 
-Airbnb Ireland UC
+Airbnb Ireland UC\*\*
 
-8 Hanover Quay, Dublin 2, Ireland
+25 North Wall Quay, Dublin 1, D01 H104, Ireland
+
+\*\* If you book or offer an accommodation located in Israel or the Palestinian Territories, on or after April 20, 2026, you are contracting with Airbnb Limited LLC located at 888 Brannan Street, San Francisco, CA 94103, United States.
+
+(+) If you book or offer Services or Experiences located in Israel or the Palestinian Territories, on or after April 20, 2026, you are contracting with Airbnb Beyond LLC located at 888 Brannan Street, San Francisco, CA 94103, United States.  
 
 [Download or print Terms](/e/termsofserviceupdate).
 
