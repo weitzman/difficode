@@ -3,7 +3,7 @@ url: "https://openai.com/policies/privacy-policy"
 selector: "#main"
 ---
 
-Privacy policy | OpenAI
+US privacy policy | OpenAI
 
 Table of contents
 
@@ -18,13 +18,11 @@ Table of contents
 *   [9\. Changes to the privacy policy](#changes-to-the-privacy-policy)
 *   [10\. How to contact us](#how-to-contact-us)
 
-Select language
+Published: June 27, 2025
 
-English (United States)العربيةአማርኛArmenianবাংলাbosanskiбългарскиBurmesecatalàhrvatskičeštinadanskNederlandseestisuomifrançais (Canada)français (France)GeorgianDeutschΕλληνικάગુજરાતીहिन्दीmagyarIcelandicIndonesiaIrishitaliano日本語ಕನ್ನಡKazakh한국어latviešulietuviųMacedonianMelayuമലയാളംMalteseमराठीMongoliannorsk bokmålpolskiportuguês (Brasil)português (Portugal)românăрусскийslovenčinaslovenščinaсрпскиSomaliespañol (Latinoamérica)español (España)KiswahilisvenskaFilipinoதமிழ்తెలుగుไทยTürkçeукраїнськаاردوTiếng Việt中文 (中国)中文 (台灣)中文 (香港)
+# US privacy policy
 
-Updated: June 27, 2025
-
-# Privacy policy
+([Previous version⁠](/policies/row-privacy-policy/revisions/2023-06-23/))
 
 For individuals in the European Economic Area, United Kingdom, and Switzerland, you can read this [version⁠⁠](/policies/eu-privacy-policy/) of our Privacy Policy.
 
