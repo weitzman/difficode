@@ -5,7 +5,7 @@ selector: "#aws-service-terms"
 
 # AWS Service Terms
 
-Last Updated: February 6, 2026
+Last Updated: February 9, 2026
 
 ## 1\. Universal Service Terms (Applicable to All Services)
 
@@ -485,7 +485,7 @@ Amazon Web Services, Inc.
 Seattle, WA 98109-5210  
 U.S.A.
 
-1 Excludes professional services, for which the applicable AWS Contracting Party is Amazon Web Services, Inc. Additionally, this applies only if your purchase on AWS Marketplace is from a third party that has been onboarded to Amazon Web Services EMEA SARL. Otherwise, Amazon Web Services, Inc. is the applicable AWS Contracting Party.
+1 This applies only if your purchase on AWS Marketplace is from a third party that has been onboarded to Amazon Web Services EMEA SARL. Otherwise, Amazon Web Services, Inc. is the applicable AWS Contracting Party.
 
 **20.1.7.** The contract term of your purchase or subscription commences on the date specified in the end user license agreement, order form, or other contract between you and the applicable third party provider. If no contract term is specified, then the contract term commences on the date specified in your AWS Marketplace invoice.
 
