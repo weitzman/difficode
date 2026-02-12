@@ -36,11 +36,11 @@ Open all
     
     ### We collect information when you interact with us and use our products and services.
     
-    The types of information [Verizon Value 1](#), or service providers acting on our behalf, collect depends on your use of our products and services and [the ways that you interact with us 2](#). This may include information about:
+    The types of information [Verizon 1](#), or service providers acting on our behalf, collect depends on your use of our products and services and [the ways that you interact with us 2](#). This may include information about:
     
     Close×
     
-    1\. Verizon Value
+    1\. Verizon
     
     This policy applies to Verizon Wireless, Verizon Value, and Visible customers and to the visitors of websites where this policy is posted, including for example, within mobile apps we offer. Verizon Value includes Clearway Wireless for Business, GoSmart Mobile, Net10 Wireless, Page Plus, SafeLink Wireless, Simple Mobile, Straight Talk Wireless, Total Wireless, Tracfone and Walmart Family Mobile.
     
