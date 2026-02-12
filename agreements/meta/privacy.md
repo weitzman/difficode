@@ -697,7 +697,7 @@ We use location-related information, such as your current location, where you li
 
 How to manage Facebook location settings
 
-![](https://static.xx.fbcdn.net/rsrc.php/v4/y4/r/CnvZUWJAEk0.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v4/y1/r/jJLKZXbUN9u.png)
 
 ](https://www.facebook.com/help/337244676357509?entry_point=POLICY_SUBPAGE%3A2.subpage.6-HowWeUseLocation)*Dynamic link removed*
 
@@ -868,7 +868,7 @@ If you add accounts to the same [Accounts Center](https://www.facebook.com/help/
 
 How to add or delete accounts in your Accounts Center
 
-![](https://static.xx.fbcdn.net/rsrc.php/v4/y4/r/CnvZUWJAEk0.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v4/y1/r/jJLKZXbUN9u.png)
 
 ](https://www.facebook.com/help/213446087365127/?entry_point=POLICY_ANNOTATION%3A2.ex.5-UsingInformationAcrossOur)
 
@@ -1100,7 +1100,7 @@ If you’re uncomfortable with what others have shared about you on our Products
 
 Remove a tag from a photo or post on Facebook
 
-![](https://static.xx.fbcdn.net/rsrc.php/v4/y4/r/CnvZUWJAEk0.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v4/y1/r/jJLKZXbUN9u.png)
 
 ](https://www.facebook.com/help/140906109319589?entry_point=POLICY_SUBPAGE%3A3.subpage.2-ContentOthersShareOr)*Dynamic link removed*
 
@@ -1146,7 +1146,7 @@ Search engines and other third parties use this information according to their o
 
 Public information on Facebook
 
-![](https://static.xx.fbcdn.net/rsrc.php/v4/y4/r/CnvZUWJAEk0.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v4/y1/r/jJLKZXbUN9u.png)
 
 ](https://www.facebook.com/help/203805466323736?ref=dp&entry_point=POLICY_SUBPAGE%3A3.subpage.3-PublicContentWhatContent)*Dynamic link removed*
 
@@ -1193,7 +1193,7 @@ We encourage you to visit your Apps and Websites settings from time to time to r
 
 How to manage apps and websites on Facebook
 
-![](https://static.xx.fbcdn.net/rsrc.php/v4/y4/r/CnvZUWJAEk0.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v4/y1/r/jJLKZXbUN9u.png)
 
 ](https://www.facebook.com/help/1727608884153160/app-visibility-and-privacy?entry_point=POLICY_SUBPAGE%3A3.subpage.4-WhenYouUseAn)*Dynamic link removed*
 
@@ -1215,7 +1215,7 @@ Integrated partners handle the information you share with them according to thei
 
 How Meta reviews apps that integrate with our Products
 
-![](https://static.xx.fbcdn.net/rsrc.php/v4/y4/r/CnvZUWJAEk0.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v4/y1/r/jJLKZXbUN9u.png)
 
 ](https://developers.facebook.com/docs/apps/review/?entry_point=POLICY_SUBPAGE%3A3.subpage.6-HowIntegratedPartnersHandle)
 
@@ -1609,7 +1609,7 @@ Meta Products share information with other Meta Companies:
 
 Review the privacy policies of the other Meta Companies
 
-![](https://static.xx.fbcdn.net/rsrc.php/v4/y4/r/CnvZUWJAEk0.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v4/y1/r/jJLKZXbUN9u.png)
 
 ](https://www.facebook.com/help/111814505650678?entry_point=POLICY_SECTION%3A5-HowDoTheMeta)
 
@@ -1678,7 +1678,7 @@ To exercise your rights, visit our Help Centers, your settings for Facebook and 
 
 Take a privacy checkup
 
-![](https://static.xx.fbcdn.net/rsrc.php/v4/y4/r/CnvZUWJAEk0.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v4/y1/r/jJLKZXbUN9u.png)
 
 ](https://www.facebook.com/privacy/checkup/?entry_point=POLICY_SECTION%3A6-HowCanYouManage)
 
@@ -1714,7 +1714,7 @@ Ad preferences \[63\]
 
 Manage your data
 
-![](https://static.xx.fbcdn.net/rsrc.php/v4/y4/r/CnvZUWJAEk0.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v4/y1/r/jJLKZXbUN9u.png)
 
 ](https://www.facebook.com/help/contact/1638046109617856?entry_point=POLICY_SECTION%3A6-HowCanYouManage)
 
