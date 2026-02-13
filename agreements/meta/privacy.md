@@ -1710,7 +1710,7 @@ Ad preferences \[63\]
 
 ](?entry_point=POLICY_SECTION%3A6-HowCanYouManage#annotation-63)[
 
-![](https://static.xx.fbcdn.net/rsrc.php/v4/y-/r/90k9-V61DDK.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v4/ye/r/qwujt2lT3MY.png)
 
 Manage your data
 
@@ -1722,7 +1722,7 @@ Manage your data
 
 [
 
-![](https://static.xx.fbcdn.net/rsrc.php/v4/y-/r/90k9-V61DDK.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v4/ye/r/qwujt2lT3MY.png)
 
 Port your information \[64\]
 
