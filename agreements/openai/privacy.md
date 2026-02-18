@@ -142,7 +142,7 @@ Depending on where you live, you may have certain statutory rights in relation t
 *   Withdraw your consent—where we rely on consent as the legal basis for processing. 
 *   Lodge a complaint with your local data protection authority.
 
-You can exercise some of these rights through your OpenAI account using the tools described \[in the Data controls section\], or you can submit your request through [privacy.openai.com⁠(opens in a new window)](https://privacy.openai.com/) or to [dsar@openai.com⁠](mailto:dsar@openai.com). You can contact our data protection officer at [dpo@openai.com⁠](mailto:dpo@openai.com).
+You can exercise some of these rights through your OpenAI account using the tools described in the [Data controls ⁠](#data-controls)section, or you can submit your request through [privacy.openai.com⁠(opens in a new window)](https://privacy.openai.com/) or to [dsar@openai.com⁠](mailto:dsar@openai.com). You can contact our data protection officer at [dpo@openai.com⁠](mailto:dpo@openai.com).
 
 A note about accuracy: Services like ChatGPT generate responses by reading a user’s request and, in response, predicting the words most likely to appear next. In some cases, the words most likely to appear next may not be the most factually accurate. For this reason, you should not rely on the factual accuracy of output from our models. If you notice that ChatGPT output contains factually inaccurate information about you and you would like to request a correction or removal of the information, you can submit these requests through [privacy.openai.com⁠(opens in a new window)](https://privacy.openai.com/) or to [dsar@openai.com⁠](mailto:dsar@openai.com), and we will consider your request based on applicable law and the technical capabilities of our models.
 
