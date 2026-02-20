@@ -104,7 +104,7 @@ The Airbnb Platform enables users (“**Members**”) to publish, offer, search 
 
 [16\. Member Accounts.](#16)
 
-[17\. Consent to Identity and Background Screening.](#17)
+[17\. Consent to Identity and Background Screening for United States Users.](#17)
 
 [18\. Disclaimer of Warranties.](#18)
 
@@ -369,11 +369,11 @@ We offer you the right to use a platform that enables Members to publish, offer,
 
 ## 16\. Member Accounts.
 
-You must register an account to access and use many features of the Airbnb Platform. Registration is only permitted for legal entities, partnerships and natural persons who are 18 years or older. You represent and warrant that you are not a person or entity barred from using the Airbnb Platform under the laws of the United States, your place of residence, or any other applicable jurisdiction. You must provide accurate, current, and complete information during registration and keep your account information up-to-date. You may not transfer your account to someone else. You are responsible for maintaining the confidentiality and security of your account credentials and may not disclose your credentials to any third party. You are responsible and liable for activities conducted through your account and must immediately notify Airbnb if you suspect that your credentials have been lost, stolen, or your account is otherwise compromised. If and as permitted by applicable law, we may, but have no obligation to ask you to provide identification or other information.
+You must register an account to access and use many features of the Airbnb Platform. Registration is only permitted for legal entities, partnerships and natural persons who are 18 years or older. You represent and warrant that you are not a person or entity barred from using the Airbnb Platform under the laws of the United States, your place of residence, or any other applicable jurisdiction. You must provide accurate, current, and complete information during registration and keep your account information up-to-date. You may not transfer your account to someone else. You are responsible for maintaining the confidentiality and security of your account credentials and may not disclose your credentials to any third party. You are responsible and liable for activities conducted through your account and must immediately notify Airbnb if you suspect that your credentials have been lost, stolen, or your account is otherwise compromised. If and as permitted by applicable law, we may, but have no obligation to (i) ask you to provide identification or other information, (ii) undertake checks designed to help verify your identity or background, (iii) screen you against third-party databases or other sources and request reports from service providers, and (iv) obtain reports from public records of criminal convictions or sex offender registrations or their local equivalents.
 
-## 17\. Consent to Identity and Background Screening.
+## 17\. Consent to Identity and Background Screening for United States Users.
 
-To help Airbnb to assess the safety, integrity, and trustworthiness of our platform and its users, you authorize Airbnb to undertake checks designed to help verify your identity or review your background, and consent that Airbnb may screen you against and obtain reports from service providers, third-party databases, or other sources including public records of criminal convictions or sex offender registrations or their local equivalents.
+For United States users, to help Airbnb to assess the safety, integrity, and trustworthiness of our platform and its users, you authorize Airbnb to undertake checks designed to help verify your identity or review your background, and consent that Airbnb may screen you against and obtain reports from service providers, third-party databases, or other sources including public records of criminal convictions or sex offender registrations or their local equivalents.
 
 ## 18\. Disclaimer of Warranties.
 
