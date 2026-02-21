@@ -472,6 +472,7 @@ Contact [Online](https://www.paypal.com/my/smarthelp/contact-us/privacy) for Pr
 
 Mexico
 
+Operadora PayPal de México, S. de R.L. de C.V  
 Avenida General Mariano Escobedo 476, 14th Floor, Colonia Nueva Anzures, Miguel Hidalgo, Mexico City, Mexico 11590  
 Contact [Online](https://www.paypal.com/mx/smarthelp/contact-us/privacy) for Privacy queries
 
@@ -1229,7 +1230,7 @@ We and other organisations, including parties that accept PayPal, may also share
 
 ## Disclosures for Individuals in Mexico
 
-This section contains additional disclosures for individuals in Mexico and supplements PayPal’s Privacy Statement above. The data controller of your Personal Information is the PayPal entity established in the country or jurisdiction where you reside, which can be found in Our Contact Information. Below we describe our primary and secondary purpose for processing your Personal Information.
+This section contains additional disclosures for individuals in Mexico and supplements PayPal’s Privacy Statement above. The data controller of your Personal Information is the PayPal entity established in the country or jurisdiction where you reside, which can be found in [**Our Contact Information**](#contact). Below we describe our primary and secondary purpose for processing your Personal Information.
 
 **Primary** **Purpose**
 
