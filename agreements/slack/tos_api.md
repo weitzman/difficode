@@ -25,6 +25,7 @@ Terms
 *   [Slack Partner Program Terms & Conditions](https://slack.com/terms-of-service/partners)
 *   [Slack Developer Program Agreement](https://slack.com/terms-of-service/slack-developer-program)
 *   [Slack Brand Terms of Service](https://slack.com/terms-of-service/slack-brand)
+*   [Salesforce Starter for Slack Terms of Service](https://slack.com/terms-of-service/salesforce-starter)
 
 ### Policies
 
