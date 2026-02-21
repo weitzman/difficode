@@ -1738,7 +1738,7 @@ Download your information
 
 ](/privacy/policy/logging/?target=POLICY_PLATFORM_LINK_COLLECTION%3ADOWNLOAD_YOUR_INFORMATION&element=privacy_policy_list_cell&containing_element_id=POLICY_SECTION%3A6-HowCanYouManage&redirect_uri=https%3A%2F%2Fmbasic.facebook.com%2Fprivacy%2Fpolicy%2Fprintable%2F%3Fback_id%3Dlink-collection-12%26link_dialog%3DDOWNLOAD_YOUR_INFORMATION%26entry%3D0%26entry_point%3DPOLICY_SECTION%253A6-HowCanYouManage)[
 
-![](https://static.xx.fbcdn.net/rsrc.php/v4/ye/r/wfjbGq-nZyU.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v4/ya/r/otwOyZ2dKH3.png)
 
 Delete your information or account \[65\]
 
