@@ -234,7 +234,7 @@ Partners also share with us their communications with you if they instruct us to
 
 Your activity off Meta technologies
 
-![](https://static.xx.fbcdn.net/rsrc.php/v4/yp/r/QpHhgNkEjdV.png)![](https://static.xx.fbcdn.net/rsrc.php/v4/yn/r/O3JYK4GMHrf.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v4/y2/r/wzkT_dqrOOZ.png)![](https://static.xx.fbcdn.net/rsrc.php/v4/yn/r/O3JYK4GMHrf.png)
 
 ](/privacy/policy/logging/?target=POLICY_PLATFORM_LINK_COLLECTION%3AOFF_FACEBOOK_ACTIVITY&element=privacy_policy_list_cell&containing_element_id=POLICY_SUBPAGE%3A1.subpage.4-InformationFromPartnersVendors&redirect_uri=https%3A%2F%2Fwww.facebook.com%2Foff_facebook_activity%2F%3Fentry_point%3DPOLICY_SUBPAGE%253A1.subpage.4-InformationFromPartnersVendors)
 
@@ -644,6 +644,15 @@ Read more about how we use information to provide, personalize and improve our P
 ## How we show ads and other sponsored or commercial content
 
 When you use our Products, you see ads and sponsored or commercial content, like product listings in Shops. Meta personalizes your ads on and across Meta Company Products. You also see ads shown through [Meta Audience Network](https://www.facebook.com/help/119468292028768/?helpref=search&entry_point=POLICY_SUBPAGE%3A2.subpage.2-HowWeShowAds) or commercial content when you visit other apps. We use your information to show you ads paid for by advertisers, businesses, and organizations. We want everything you see to be interesting and useful to you.
+
+To decide what to show you and others, we use information we have about you, including:
+
+*   Your profile information
+*   Your activity on and off our Products, including information we receive through cookies and similar technologies, according to your settings
+*   Content you create or interact with across Facebook and Instagram
+*   Interactions with [AI at Meta](https://www.facebook.com/privacy/genai?entry_point=POLICY_SUBPAGE%3A2.subpage.2-HowWeShowAds)
+*   Things we infer about you, like topics we think you may be interested in
+*   Information about your friends, followers or other connections, including their activity or interests
 
 [See some examples.\[30\]](?entry_point=POLICY_SUBPAGE%3A2.subpage.2-HowWeShowAds#annotation-30)
 
@@ -1698,7 +1707,7 @@ Access your information
 
 Off-Meta activity
 
-![](https://static.xx.fbcdn.net/rsrc.php/v4/yp/r/QpHhgNkEjdV.png)![](https://static.xx.fbcdn.net/rsrc.php/v4/yn/r/O3JYK4GMHrf.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v4/y2/r/wzkT_dqrOOZ.png)![](https://static.xx.fbcdn.net/rsrc.php/v4/yn/r/O3JYK4GMHrf.png)
 
 ](/privacy/policy/logging/?target=POLICY_PLATFORM_LINK_COLLECTION%3AOFF_FACEBOOK_ACTIVITY&element=privacy_policy_list_cell&containing_element_id=POLICY_SECTION%3A6-HowCanYouManage&redirect_uri=https%3A%2F%2Fwww.facebook.com%2Foff_facebook_activity%2F%3Fentry_point%3DPOLICY_SECTION%253A6-HowCanYouManage)[
 
