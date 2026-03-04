@@ -3,7 +3,6 @@ url: "https://www.chase.com/digital/resources/terms-of-use"
 selector: "main"
 ---
 
-*   [About us](/digital/resources/about-chase)
 *   [Privacy and security](/digital/resources/privacy-security)
 *   [Terms of use](/digital/resources/terms-of-use)
 *   [Social media terms](/digital/resources/social-media-terms)
