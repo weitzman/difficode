@@ -9,7 +9,7 @@ selector: "#content-wrapper"
 
 PayPal Privacy Statement
 
-Last updated on November 17, 2025
+Last updated on January 22, 2026
 
 ## Overview
 
