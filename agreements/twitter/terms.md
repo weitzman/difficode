@@ -89,7 +89,7 @@ Attn: Copyright Agent
 865 FM 1209, Building 2  
 Bastrop, TX 78602  
 Reports: [https://help.x.com/forms/ipi](https://help.x.com/forms/ipi)  
-Email:
+Email: [copyright@x.com](mailto:copyright@x.com)
 
 ### Your Rights and Grant of Rights in the Content
 
@@ -224,7 +224,7 @@ Attn: Copyright Agent
 865 FM 1209, Building 2  
 Bastrop, TX 78602  
 Reports: [https://help.x.com/forms/ipi](https://help.x.com/forms/ipi)  
-Email:
+Email: [copyright@x.com](mailto:copyright@x.com)
 
 ### Your Rights and Grant of Rights in the Content
 
