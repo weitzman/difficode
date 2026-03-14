@@ -3,7 +3,7 @@ url: "https://www.facebook.com/policy/cookies/printable"
 selector: "#root"
 ---
 
-![](https://static.xx.fbcdn.net/rsrc.php/v4/yV/r/Y1oMjgd9pE3.png)
+![](https://static.xx.fbcdn.net/rsrc.php/yR/r/on19k6ac8bZ.webp)
 
 # Cookies Policy
 
@@ -13,33 +13,33 @@ selector: "#root"
 
 ## What are cookies, and what does this policy cover?
 
-![](https://static.xx.fbcdn.net/rsrc.php/v4/yd/r/BgOYs7wm6L2.png)](#1)[
+![](https://static.xx.fbcdn.net/rsrc.php/yG/r/O0My_p0z_D0.webp)](#1)[
 
 ## Why do we use cookies?
 
-![](https://static.xx.fbcdn.net/rsrc.php/v4/yd/r/BgOYs7wm6L2.png)](#2)[
+![](https://static.xx.fbcdn.net/rsrc.php/yG/r/O0My_p0z_D0.webp)](#2)[
 
 ## Where do we use cookies?
 
-![](https://static.xx.fbcdn.net/rsrc.php/v4/yd/r/BgOYs7wm6L2.png)](#3)[
+![](https://static.xx.fbcdn.net/rsrc.php/yG/r/O0My_p0z_D0.webp)](#3)[
 
 ## Do other Companies use cookies in connection with the Meta Products?
 
-![](https://static.xx.fbcdn.net/rsrc.php/v4/yd/r/BgOYs7wm6L2.png)](#4)[
+![](https://static.xx.fbcdn.net/rsrc.php/yG/r/O0My_p0z_D0.webp)](#4)[
 
 ## How can you control your Information?
 
-![](https://static.xx.fbcdn.net/rsrc.php/v4/yd/r/BgOYs7wm6L2.png)](#5)
+![](https://static.xx.fbcdn.net/rsrc.php/yG/r/O0My_p0z_D0.webp)](#5)
 
 ## Other policies[
 
 ## Terms of Service
 
-![](https://static.xx.fbcdn.net/rsrc.php/v4/yp/r/wP7vmoCGURh.png)](/terms/)[
+![](https://static.xx.fbcdn.net/rsrc.php/yg/r/nk3UMyQWV8b.webp)](/terms/)[
 
 ## Cookies Policy
 
-![](https://static.xx.fbcdn.net/rsrc.php/v4/yp/r/wP7vmoCGURh.png)](/policies/cookies/)
+![](https://static.xx.fbcdn.net/rsrc.php/yg/r/nk3UMyQWV8b.webp)](/policies/cookies/)
 
 # What are cookies, and what does this policy cover?
 
@@ -51,7 +51,7 @@ We use cookies if you have a Facebook or Instagram account, use the [Meta Produc
 
 This policy explains how we use cookies and the choices you have. Except as otherwise stated in this policy, the [Privacy Policy](https://www.facebook.com/privacy/policy) will apply to our processing of the data that we collect via cookies.
 
-[Return to top![](https://static.xx.fbcdn.net/rsrc.php/v4/yC/r/si3BXjWAx4Y.png)](#)
+[Return to top![](https://static.xx.fbcdn.net/rsrc.php/yB/r/vDK-9_qzobV.webp)](#)
 
 # Why do we use cookies?
 
@@ -183,7 +183,7 @@ These cookies help [deliver an optimal experience](?entry_point=POLICY_ANNOTATIO
 
 7 days
 
-[Return to top![](https://static.xx.fbcdn.net/rsrc.php/v4/yC/r/si3BXjWAx4Y.png)](#)
+[Return to top![](https://static.xx.fbcdn.net/rsrc.php/yB/r/vDK-9_qzobV.webp)](#)
 
 # Where do we use cookies?
 
@@ -193,7 +193,7 @@ We may place cookies on your computer or device and receive information stored i
 *   Products provided by other members of the [Meta Companies](https://www.facebook.com/help/111814505650678?ref=cookies&entry_point=POLICY_SECTION%3A2_where); and
 *   Websites and apps provided by other companies that use the Meta Products, including companies that incorporate Meta technologies into their websites and apps. Meta uses cookies and receives information when you visit those sites and apps, including [device information](https://www.facebook.com/privacy/policy?subpage=1.subpage.3-AppBrowserAndDevice&entry_point=POLICY_SECTION%3A2_where) and information about your activity, without any further action from you. This occurs whether or not you have a Facebook or Instagram account or are logged in.
 
-[Return to top![](https://static.xx.fbcdn.net/rsrc.php/v4/yC/r/si3BXjWAx4Y.png)](#)
+[Return to top![](https://static.xx.fbcdn.net/rsrc.php/yB/r/vDK-9_qzobV.webp)](#)
 
 # Do other Companies use cookies in connection with the Meta Products?
 
@@ -435,7 +435,7 @@ Zendesk
 
 zendesk.com
 
-[Return to top![](https://static.xx.fbcdn.net/rsrc.php/v4/yC/r/si3BXjWAx4Y.png)](#)
+[Return to top![](https://static.xx.fbcdn.net/rsrc.php/yB/r/vDK-9_qzobV.webp)](#)
 
 # How can you control your Information?
 
@@ -477,6 +477,6 @@ In addition, your browser or device may offer settings that allow you to choose 
 *   *Dynamic link removed*
 *   *Dynamic link removed*
 
-[Return to top![](https://static.xx.fbcdn.net/rsrc.php/v4/yC/r/si3BXjWAx4Y.png)](#)
+[Return to top![](https://static.xx.fbcdn.net/rsrc.php/yB/r/vDK-9_qzobV.webp)](#)
 
 ![](https://facebook.com/security/hsts-pixel.gif)
