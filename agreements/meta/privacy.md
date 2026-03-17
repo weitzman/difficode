@@ -772,7 +772,7 @@ Here are some ways we promote safety, security and integrity. We work to:
 
 [
 
-![](https://static.xx.fbcdn.net/rsrc.php/yC/r/vsGpfX4xsAA.webp)
+![](https://static.xx.fbcdn.net/rsrc.php/y3/r/xRo5a-owYMB.webp)
 
 Account security
 
