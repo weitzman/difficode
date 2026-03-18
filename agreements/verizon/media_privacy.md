@@ -5,7 +5,7 @@ selector: "main"
 
 ## Welcome to the Yahoo Privacy Policy
 
-*Last updated: January 2026*
+*Last updated: March 2026*
 
 1.  **About Yahoo**
     1.  Yahoo, previously known as Verizon Media, is a technology and media company that provides a range of services. We serve our consumers, partners, advertisers and talent through our portfolio of digital platforms, products and services offered under Yahoo and our other [brands](https://www.yahooinc.com/our-brands).
@@ -21,9 +21,8 @@ selector: "main"
     2.  **Information You Provide to Us.** We may collect the information that you provide to us, such as:
         1.  When you create an account with a Yahoo Service or brand. (Please note, when you use our Services, we may recognize you or your devices even if you are not signed in to our Services.) Yahoo may use device IDs, cookies, and other signals, including information obtained from third parties, to associate accounts and/or devices with you.
         2.  When you use our Services to communicate with others or post, upload or store content (such as comments, photos, voice inputs, videos, emails, messaging services and attachments).
-        3.  Yahoo analyzes and stores all communications content, including email content from incoming and outgoing mail. This allows us to deliver, personalize and develop relevant features, content, advertising and Services.
-        4.  When you otherwise use our Services, such as title queries, watch history, page views, search queries, view the content we make available or install any Yahoo software such as plugins.
-        5.  When you sign up for paid Services, use Services that require your financial information or complete transactions with us or our business partners, we may collect your payment and billing information.
+        3.  When you otherwise use our Services, such as title queries, watch history, page views, search queries, view the content we make available or install any Yahoo software such as plugins.
+        4.  When you sign up for paid Services, use Services that require your financial information or complete transactions with us or our business partners, we may collect your payment and billing information.
     3.  **Device Information.** We collect information from your devices (computers, mobile phones, tablets, etc.), including information about how you interact with our Services and those of our third-party partners and information that allows us to recognize and associate your activity across devices and Services. This information includes device specific identifiers and information such as [IP address](/us/en/yahoo/privacy/topics/ipaddress/index.html), [cookie information](/us/en/yahoo/privacy/topics/cookies/index.html), mobile device and advertising identifiers, browser version, operating system type and version, mobile network information, device settings, and software data. We may recognize your devices to provide you with personalized experiences and advertising across the devices you use.
     4.  **Location Information.** We collect location information from a variety of sources. You can learn more about and manage your location permissions on our [Locations page](/us/en/yahoo/privacy/topics/location/index.html) and by visiting the location settings tool on your devices.
     5.  **Information from Cookies and Other Technologies.**
@@ -37,7 +36,7 @@ selector: "main"
 5.  **How We Use This Information**
     1.  We are able to deliver, personalize, and improve our Services by combining and using the information we have about you (including information we receive on and off our Services) to understand how you use and interact with our Services and the people or things you’re connected to and interested in. We also may use the information we have about you for the following purposes:
         1.  Provide, maintain, improve, and develop relevant features, content, and Services.
-        2.  Analyze your content and other information (including emails, instant messages, posts [photos, attachments, and other communications](/us/en/yahoo/privacy/products/communications/faq/index.html)). You can review and control certain types of information tied to your Yahoo account by using [Privacy Controls](/us/en/yahoo/privacy/dashboard/index.html).
+        2.  Analyze your content and other information (including email content, posts [photos, attachments, and other communications](/us/en/yahoo/privacy/products/communications/faq/index.html)). Analysis of email content to create advertising interest profiles to personalize the ads we show you or tailor the content we show you across our consumer properties relies on emails from retailers and other organizations (these are not personal emails between individuals) and is subject to opt-out controls and, in some jurisdictions, user consent. You can review your privacy settings in your Yahoo account by using [Privacy Controls](/us/en/yahoo/privacy/dashboard/index.html).
         3.  Fulfill your requests and when authorized by you.
         4.  Help advertisers and publishers connect to offer relevant advertising in their apps and websites.
         5.  Match and serve targeted advertising (across devices and both on and off of our Services) and provide [targeted advertising](/us/en/yahoo/privacy/topics/adserving/index.html) based on your device activity, inferred interests and location information.
@@ -104,3 +103,4 @@ selector: "main"
      4.  September 2021 - updates to reflect name change; additional information added regarding data retention;
      5.  September 2024 - updates to data transfers.
      6.  December 2024 - updates to Information from Cookies and Other Technologies; additional information added regarding data sharing with trusted partners.
+     7.  March 2026 - relocated moved the analysis of email content information to the How We Use Your Information section.
