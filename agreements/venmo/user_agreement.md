@@ -9,11 +9,9 @@ User
 
 Agreement
 
-A new User Agreement will go into effect on March 17, 2026. To view that version of the User Agreement, click [here](/legal/us-user-agreement/20260317).
-
 ### Last Updated
 
-This user agreement is effective as of February 19, 2026.
+This user agreement is effective as of March 17, 2026.
 
 **Welcome to Venmo!**
 
@@ -484,6 +482,20 @@ You are responsible for providing an accurate date of birth for any Teen User an
 You are responsible for notifying us of any suspected Unauthorized Transactions, problems, or errors on a Teen Account, as described in the sections below. You are also responsible for filing and responding to any claims or disputes on behalf of the Teen Account, such as Venmo Purchase Protection claims. The Teen User will not have access to or be able to file or respond to claims or disputes in the Venmo app. If we owe a refund in connection with activity on a Teen Account, we will credit the refund to the Teen Account.
 
 Disputes and refunds related to a Teen Account may impact your Venmo account balance. If we are owed funds in connection with a Teen Account, we will try to recover the amount owed from the Teen Account balance. If the Teen Account balance does not cover the payment amount due, plus any fees, payment will be taken from your personal account balance. If the balances do not cover the amount due, your personal account will have a negative balance and we will restrict your Teen Accounts from sending money, except into your personal account, until your negative balance is resolved. We also reserve the right to take the actions described under Amounts Owed to Us, including limiting your personal account until the negative balance is resolved.
+
+**Transitioning from a Teen Account to a Graduated Account**
+
+When a Teen User turns 18 years old, they’ll have the option to take ownership of the Teen Account and transition it to a standalone personal account established in their name (a “Graduated Account”).
+
+To be eligible to transition the Teen Account to a personal account (“Graduation”), the Teen Account must have been open for at least one year, be in good standing, and have no unresolved disputes. Graduation is subject to our approval, which may be granted or denied in our sole discretion. The Teen User must also verify their identity and agree to this and any other applicable agreements.
+
+The Graduated Account will no longer be linked to their parent or legal guardian’s personal account, and the parent or legal guardian will not own or be liable for the activities of the Graduated Account. However, the parent or legal guardian will remain responsible for transactions that occurred on the Teen Account prior to Graduation, including filing and responding to any claims or disputes on pre-Graduation transactions, such as Venmo Purchase Protection or error claims. Credits or debits related to these claims or disputes will be made to the parent or legal guardian’s personal account.
+
+At Graduation any funds in the Teen Account balance will transfer to the new Graduated Account. The Graduated Account will keep the payment methods that were linked to the Teen Account and the Direct Deposit feature (including the same account and routing number) subject to applicable laws, rules, and regulations. The Graduated Account will also have access to Teen Account transaction history and account statements from before Graduation.
+
+Upon Graduation, we will close the Teen User’s Teen Debit Card. The Teen User must then complete identity verification and accept the applicable terms for a new Venmo Debit Card. After successfully completing these steps, the Teen User will be issued a Venmo Debit Card linked to the Graduated Account. **There may be a delay between closing the Teen Debit Card and receiving the Venmo Debit Card linked to the Graduated Account.**
+
+**By creating and maintaining a Teen Account, you agree that once a Teen User turns 18 years old, they may transition the Teen Account to a Graduated Account without any further action from you. You also authorize and consent to the transfer of any remaining funds in the Teen Account balance to the Graduated Account, the transfer of any linked payment methods in the Teen Account to the Graduated Account to be used by the owner of the Graduated Account, and to the continued visibility of the Teen Account’s prior transaction history by the owner of the Graduated Account.**
 
 ### Venmo Credit Card
 
