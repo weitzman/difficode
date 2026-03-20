@@ -1201,6 +1201,8 @@ Any personal data provided to you by PayPal in connection with the PayPal servic
 *   [Enterprise](/us/enterprise)
 *   [Partners](/us/enterprise/industry-solutions/platforms-and-marketplaces)
 
+[United States](#)
+
 * * *
 
 *   [About](https://about.pypl.com/about-us/default.aspx)
