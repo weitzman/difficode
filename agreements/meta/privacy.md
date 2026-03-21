@@ -3,7 +3,7 @@ url: "https://mbasic.facebook.com/privacy/policy/printable/"
 selector: "#root"
 ---
 
-![](https://static.xx.fbcdn.net/rsrc.php/yR/r/on19k6ac8bZ.webp)
+![](https://static.xx.fbcdn.net/rsrc.php/v4/yV/r/Y1oMjgd9pE3.png)
 
 # Privacy Policy
 
@@ -13,69 +13,69 @@ selector: "#root"
 
 ## What is the Privacy Policy and what does it cover?
 
-![](https://static.xx.fbcdn.net/rsrc.php/yG/r/O0My_p0z_D0.webp)](#1)[
+![](https://static.xx.fbcdn.net/rsrc.php/v4/yd/r/BgOYs7wm6L2.png)](#1)[
 
 ## What information do we collect?
 
-![](https://static.xx.fbcdn.net/rsrc.php/yG/r/O0My_p0z_D0.webp)](#2)[
+![](https://static.xx.fbcdn.net/rsrc.php/v4/yd/r/BgOYs7wm6L2.png)](#2)[
 
 ## How do we use your information?
 
-![](https://static.xx.fbcdn.net/rsrc.php/yG/r/O0My_p0z_D0.webp)](#3)[
+![](https://static.xx.fbcdn.net/rsrc.php/v4/yd/r/BgOYs7wm6L2.png)](#3)[
 
 ## How is your information shared on Meta Products or with integrated partners?
 
-![](https://static.xx.fbcdn.net/rsrc.php/yG/r/O0My_p0z_D0.webp)](#4)[
+![](https://static.xx.fbcdn.net/rsrc.php/v4/yd/r/BgOYs7wm6L2.png)](#4)[
 
 ## How do we share information with third parties?
 
-![](https://static.xx.fbcdn.net/rsrc.php/yG/r/O0My_p0z_D0.webp)](#5)[
+![](https://static.xx.fbcdn.net/rsrc.php/v4/yd/r/BgOYs7wm6L2.png)](#5)[
 
 ## How do the Meta Companies work together?
 
-![](https://static.xx.fbcdn.net/rsrc.php/yG/r/O0My_p0z_D0.webp)](#6)[
+![](https://static.xx.fbcdn.net/rsrc.php/v4/yd/r/BgOYs7wm6L2.png)](#6)[
 
 ## How can you manage or delete your information and exercise your rights?
 
-![](https://static.xx.fbcdn.net/rsrc.php/yG/r/O0My_p0z_D0.webp)](#7)[
+![](https://static.xx.fbcdn.net/rsrc.php/v4/yd/r/BgOYs7wm6L2.png)](#7)[
 
 ## How long do we keep your information?
 
-![](https://static.xx.fbcdn.net/rsrc.php/yG/r/O0My_p0z_D0.webp)](#8)[
+![](https://static.xx.fbcdn.net/rsrc.php/v4/yd/r/BgOYs7wm6L2.png)](#8)[
 
 ## How do we transfer information?
 
-![](https://static.xx.fbcdn.net/rsrc.php/yG/r/O0My_p0z_D0.webp)](#9)[
+![](https://static.xx.fbcdn.net/rsrc.php/v4/yd/r/BgOYs7wm6L2.png)](#9)[
 
 ## How do we respond to legal requests, comply with applicable law and prevent harm?
 
-![](https://static.xx.fbcdn.net/rsrc.php/yG/r/O0My_p0z_D0.webp)](#10)[
+![](https://static.xx.fbcdn.net/rsrc.php/v4/yd/r/BgOYs7wm6L2.png)](#10)[
 
 ## How will you know the Policy has changed?
 
-![](https://static.xx.fbcdn.net/rsrc.php/yG/r/O0My_p0z_D0.webp)](#11)[
+![](https://static.xx.fbcdn.net/rsrc.php/v4/yd/r/BgOYs7wm6L2.png)](#11)[
 
 ## Privacy notice for United States residents
 
-![](https://static.xx.fbcdn.net/rsrc.php/yG/r/O0My_p0z_D0.webp)](#12)[
+![](https://static.xx.fbcdn.net/rsrc.php/v4/yd/r/BgOYs7wm6L2.png)](#12)[
 
 ## How to contact Meta with questions
 
-![](https://static.xx.fbcdn.net/rsrc.php/yG/r/O0My_p0z_D0.webp)](#13)[
+![](https://static.xx.fbcdn.net/rsrc.php/v4/yd/r/BgOYs7wm6L2.png)](#13)[
 
 ## Why and how we process your information
 
-![](https://static.xx.fbcdn.net/rsrc.php/yG/r/O0My_p0z_D0.webp)](#14)
+![](https://static.xx.fbcdn.net/rsrc.php/v4/yd/r/BgOYs7wm6L2.png)](#14)
 
 ## Other policies[
 
 ## Terms of Service
 
-![](https://static.xx.fbcdn.net/rsrc.php/yg/r/nk3UMyQWV8b.webp)](/terms/)[
+![](https://static.xx.fbcdn.net/rsrc.php/v4/yp/r/wP7vmoCGURh.png)](/terms/)[
 
 ## Cookies Policy
 
-![](https://static.xx.fbcdn.net/rsrc.php/yg/r/nk3UMyQWV8b.webp)](/policies/cookies/)
+![](https://static.xx.fbcdn.net/rsrc.php/v4/yp/r/wP7vmoCGURh.png)](/policies/cookies/)
 
 # What is the Privacy Policy and what does it cover?
 
@@ -102,13 +102,13 @@ Read the full Policy below.
 
 What Products does this Policy cover? \[1\]
 
-![](https://static.xx.fbcdn.net/rsrc.php/y_/r/BYOV4_dXSsH.webp)
+![](https://static.xx.fbcdn.net/rsrc.php/v4/yn/r/O3JYK4GMHrf.png)
 
 ](#annotation-1)[
 
 Learn more in Privacy Center about managing your privacy
 
-![](https://static.xx.fbcdn.net/rsrc.php/y_/r/BYOV4_dXSsH.webp)
+![](https://static.xx.fbcdn.net/rsrc.php/v4/yn/r/O3JYK4GMHrf.png)
 
 ](https://www.facebook.com/privacy/center/)
 
@@ -116,11 +116,11 @@ Learn more in Privacy Center about managing your privacy
 
 ## What Products does this Policy cover?
 
-![A Meta Quest, a mobile phone showing the Facebook, Instagram and Messenger apps, and a pair of Ray-Ban Stories glasses sit on a table.](https://static.xx.fbcdn.net/rsrc.php/yd/r/n1miQMk0I4W.webp)
+![A Meta Quest, a mobile phone showing the Facebook, Instagram and Messenger apps, and a pair of Ray-Ban Stories glasses sit on a table.](https://static.xx.fbcdn.net/rsrc.php/v4/yR/r/v0IJ2q8ETdP.png)
 
 This Policy describes the information we, Meta Platforms, Inc., process to provide [Meta Products](https://www.facebook.com/legal/meta-products?entry_point=POLICY_ANNOTATION%3A0.ex.0-WhatProductsDoesThis), which we also call "Products."
 
-[Return to top![](https://static.xx.fbcdn.net/rsrc.php/yB/r/vDK-9_qzobV.webp)](#)
+[Return to top![](https://static.xx.fbcdn.net/rsrc.php/v4/yC/r/si3BXjWAx4Y.png)](#)
 
 # What information do we collect?
 
@@ -142,7 +142,7 @@ Here's the information we collect:
 
 ## Your activity and information you provide
 
-![An elderly man sitting at a desk and using a credit card to shop on his laptop.](https://static.xx.fbcdn.net/rsrc.php/yQ/r/MIzGbRTNdSl.webp)
+![An elderly man sitting at a desk and using a credit card to shop on his laptop.](https://static.xx.fbcdn.net/rsrc.php/v4/y6/r/g2Jo9K8oV6n.png)
 
 On our [Products\[3\]](?entry_point=POLICY_SUBPAGE%3A1.subpage.1-YourActivityAndInformation#annotation-3), you can send messages, take photos and videos, buy or sell things and much more. We call all of the things you can do on our Products "activity." We collect your activity across our Products and [information you provide\[5\]](?entry_point=POLICY_SUBPAGE%3A1.subpage.1-YourActivityAndInformation#annotation-5), such as:
 
@@ -230,11 +230,11 @@ Partners also share with us their communications with you if they instruct us to
 
 [
 
-![](https://static.xx.fbcdn.net/rsrc.php/yR/r/rTKqSI11GC2.webp)
+![](https://static.xx.fbcdn.net/rsrc.php/v4/yr/r/Q5oWG-4yzrP.png)
 
 Your activity off Meta technologies
 
-![](https://static.xx.fbcdn.net/rsrc.php/yY/r/0sWbCMQ5FWH.webp)![](https://static.xx.fbcdn.net/rsrc.php/y_/r/BYOV4_dXSsH.webp)
+![](https://static.xx.fbcdn.net/rsrc.php/v4/y2/r/wzkT_dqrOOZ.png)![](https://static.xx.fbcdn.net/rsrc.php/v4/yn/r/O3JYK4GMHrf.png)
 
 ](/privacy/policy/logging/?target=POLICY_PLATFORM_LINK_COLLECTION%3AOFF_FACEBOOK_ACTIVITY&element=privacy_policy_list_cell&containing_element_id=POLICY_SUBPAGE%3A1.subpage.4-InformationFromPartnersVendors&redirect_uri=https%3A%2F%2Fwww.facebook.com%2Foff_facebook_activity%2F%3Fentry_point%3DPOLICY_SUBPAGE%253A1.subpage.4-InformationFromPartnersVendors)
 
@@ -250,7 +250,7 @@ Some information is required for our Products to work. Other information is opti
 
 [Learn more\[23\]
 
-![](https://static.xx.fbcdn.net/rsrc.php/yu/r/ioNDApdcCcZ.webp)
+![](https://static.xx.fbcdn.net/rsrc.php/v4/yg/r/p89N49q3NZ1.png)
 
 ](?entry_point=POLICY_SECTION%3A1-WhatInformationDoWe#annotation-23)
 
@@ -262,11 +262,11 @@ In some cases information is de-identified, aggregated, or anonymized by third p
 
 [
 
-![](https://static.xx.fbcdn.net/rsrc.php/y8/r/RQKu_gZwah8.webp)
+![](https://static.xx.fbcdn.net/rsrc.php/v4/y8/r/c8bIrX_Q8yW.png)
 
 Manage the information we collect about you
 
-![](https://static.xx.fbcdn.net/rsrc.php/y_/r/BYOV4_dXSsH.webp)
+![](https://static.xx.fbcdn.net/rsrc.php/v4/yn/r/O3JYK4GMHrf.png)
 
 ](https://www.facebook.com/privacy/guide/collection/)
 
@@ -280,7 +280,7 @@ A person, business, organization or body using or integrating our Products to ad
 
 ## What Products does this Policy cover?
 
-![A Meta Quest, a mobile phone showing the Facebook, Instagram and Messenger apps, and a pair of Ray-Ban Stories glasses sit on a table.](https://static.xx.fbcdn.net/rsrc.php/yd/r/n1miQMk0I4W.webp)
+![A Meta Quest, a mobile phone showing the Facebook, Instagram and Messenger apps, and a pair of Ray-Ban Stories glasses sit on a table.](https://static.xx.fbcdn.net/rsrc.php/v4/yR/r/v0IJ2q8ETdP.png)
 
 This Policy describes the information we, Meta Platforms, Inc., process to provide [Meta Products](https://www.facebook.com/legal/meta-products?entry_point=POLICY_ANNOTATION%3A0.ex.0-WhatProductsDoesThis), which we also call "Products."
 
@@ -329,19 +329,19 @@ We also collect information you provide when you:
 
 ## What we collect from our camera feature
 
-![A hand holding a mobile phone applies a butterfly Instagram filter to a photo of a flower garden.](https://static.xx.fbcdn.net/rsrc.php/yU/r/gRwJWDEaUu9.webp)
+![A hand holding a mobile phone applies a butterfly Instagram filter to a photo of a flower garden.](https://static.xx.fbcdn.net/rsrc.php/v4/yc/r/nsc2flLLQ5J.png)
 
 José likes using Instagram’s Camera feature to take pictures of his flower garden. We collect information about how José uses the Camera feature. For example, if he chooses a background effect for the photo he’s about to take, we collect information from the camera so we can apply the effect to his photo.
 
 ## How filters, effects, masks and avatars work
 
-![A mobile phone screen of a man taking a selfie with a flower filter applied to the face.](https://static.xx.fbcdn.net/rsrc.php/y6/r/n_hcAF8kemL.webp)
+![A mobile phone screen of a man taking a selfie with a flower filter applied to the face.](https://static.xx.fbcdn.net/rsrc.php/v4/y5/r/wHgME0kb-7v.png)
 
 If you use our camera or allow access to photos and videos, on certain Meta Products you can add filters, effects, masks or avatars. Some of these features process parts of faces or bodies within the camera frame, photo or video. Then they can do things like fit a mask correctly over the eyes, nose and mouth. The information we use for this process is used to create the feature. It’s not used to identify you.
 
 ## What we collect from voice-enabled features
 
-![A person using Ray-Ban Stories to take a photo of three friends posing on the beach.](https://static.xx.fbcdn.net/rsrc.php/yp/r/QBOqS5XRvbU.webp)
+![A person using Ray-Ban Stories to take a photo of three friends posing on the beach.](https://static.xx.fbcdn.net/rsrc.php/v4/yE/r/BxuyplCYKaL.png)
 
 Ren tells Meta’s voice-enabled Assistant to take a photo on smart glasses. A visual indicator shows that Assistant is activated and listening for Ren’s command. We collect this voice interaction, which includes any background sound that occurs when Ren says the command. Collecting Ren’s voice interactions lets us provide and, depending on Ren’s settings, improve the Assistant feature.
 
@@ -409,13 +409,13 @@ We collect and store this information to facilitate your purchase, receipt of pa
 
 How do we use your information?
 
-![](https://static.xx.fbcdn.net/rsrc.php/y_/r/BYOV4_dXSsH.webp)
+![](https://static.xx.fbcdn.net/rsrc.php/v4/yn/r/O3JYK4GMHrf.png)
 
 ](?entry_point=POLICY_ANNOTATION%3A1.ex.15-PurchasesOrOtherTransactions#2-HowDoWeUse)[
 
 How do we respond to legal requests, comply with applicable law and prevent harm?
 
-![](https://static.xx.fbcdn.net/rsrc.php/y_/r/BYOV4_dXSsH.webp)
+![](https://static.xx.fbcdn.net/rsrc.php/v4/yn/r/O3JYK4GMHrf.png)
 
 ](?entry_point=POLICY_ANNOTATION%3A1.ex.15-PurchasesOrOtherTransactions#10-HowDoWeRespond)
 
@@ -507,7 +507,7 @@ One reason we collect this information is to make your experience better. For ex
 
 How do we use your information?
 
-![](https://static.xx.fbcdn.net/rsrc.php/y_/r/BYOV4_dXSsH.webp)
+![](https://static.xx.fbcdn.net/rsrc.php/v4/yn/r/O3JYK4GMHrf.png)
 
 ](?entry_point=POLICY_ANNOTATION%3A1.ex.28-InformationAboutTheNetwork#2-HowDoWeUse)
 
@@ -582,7 +582,7 @@ We get datasets from publicly available sources, research institutions, data pro
 
 How do we use your information?
 
-![](https://static.xx.fbcdn.net/rsrc.php/y_/r/BYOV4_dXSsH.webp)
+![](https://static.xx.fbcdn.net/rsrc.php/v4/yn/r/O3JYK4GMHrf.png)
 
 ](?entry_point=POLICY_ANNOTATION%3A1.ex.40-ThirdPartiesWeGet#2-HowDoWeUse)
 
@@ -606,7 +606,7 @@ A partner who uses technologies that help you make a connection to them through 
 
 A person, business, organization or body that is not part of the Meta Companies
 
-[Return to top![](https://static.xx.fbcdn.net/rsrc.php/yB/r/vDK-9_qzobV.webp)](#)
+[Return to top![](https://static.xx.fbcdn.net/rsrc.php/v4/yC/r/si3BXjWAx4Y.png)](#)
 
 # How do we use your information?
 
@@ -664,11 +664,11 @@ We also use information that's been de-identified, aggregated, or anonymized so 
 
 [
 
-![](https://static.xx.fbcdn.net/rsrc.php/yB/r/-Q1xtO3IwRe.webp)
+![](https://static.xx.fbcdn.net/rsrc.php/v4/yk/r/lNvazYPWMsT.png)
 
 Learn more about how ads work
 
-![](https://static.xx.fbcdn.net/rsrc.php/y_/r/BYOV4_dXSsH.webp)
+![](https://static.xx.fbcdn.net/rsrc.php/v4/yn/r/O3JYK4GMHrf.png)
 
 ](https://www.facebook.com/privacy/guide/ads/)
 
@@ -706,7 +706,7 @@ We use location-related information, such as your current location, where you li
 
 How to manage Facebook location settings
 
-![](https://static.xx.fbcdn.net/rsrc.php/yQ/r/64vfQNAQijJ.webp)
+![](https://static.xx.fbcdn.net/rsrc.php/v4/y1/r/jJLKZXbUN9u.png)
 
 ](https://www.facebook.com/help/337244676357509?entry_point=POLICY_SUBPAGE%3A2.subpage.6-HowWeUseLocation)*Dynamic link removed*
 
@@ -718,7 +718,7 @@ We use information we collect to help protect people from harm and provide safe,
 
 [Learn more
 
-![](https://static.xx.fbcdn.net/rsrc.php/yu/r/ioNDApdcCcZ.webp)
+![](https://static.xx.fbcdn.net/rsrc.php/v4/yg/r/p89N49q3NZ1.png)
 
 ](?entry_point=POLICY_SUBSECTION%3A2.1-ToProvidePersonalizeAnd#2.subpage.8-PromotingSafetySecurityAnd)
 
@@ -728,7 +728,7 @@ Lots of people rely on our Products to run or promote their businesses or share 
 
 [Learn more
 
-![](https://static.xx.fbcdn.net/rsrc.php/yu/r/ioNDApdcCcZ.webp)
+![](https://static.xx.fbcdn.net/rsrc.php/v4/yg/r/p89N49q3NZ1.png)
 
 ](?entry_point=POLICY_SUBSECTION%3A2.1-ToProvidePersonalizeAnd#2.subpage.10-ProvidingMeasurementAnalyticsAnd)
 
@@ -738,7 +738,7 @@ We communicate with you using information you've given us, like contact informat
 
 [Learn more
 
-![](https://static.xx.fbcdn.net/rsrc.php/yu/r/ioNDApdcCcZ.webp)
+![](https://static.xx.fbcdn.net/rsrc.php/v4/yg/r/p89N49q3NZ1.png)
 
 ](?entry_point=POLICY_SUBSECTION%3A2.1-ToProvidePersonalizeAnd#2.subpage.12-CommunicatingWithYouWe)
 
@@ -748,7 +748,7 @@ We use information we have, information from researchers and datasets from publi
 
 [Learn more
 
-![](https://static.xx.fbcdn.net/rsrc.php/yu/r/ioNDApdcCcZ.webp)
+![](https://static.xx.fbcdn.net/rsrc.php/v4/yg/r/p89N49q3NZ1.png)
 
 ](?entry_point=POLICY_SUBSECTION%3A2.1-ToProvidePersonalizeAnd#2.subpage.14-ResearchingAndInnovatingFor)
 
@@ -772,11 +772,11 @@ Here are some ways we promote safety, security and integrity. We work to:
 
 [
 
-![](https://static.xx.fbcdn.net/rsrc.php/y3/r/xRo5a-owYMB.webp)
+![](https://static.xx.fbcdn.net/rsrc.php/v4/yb/r/7kF_f6za20u.png)
 
 Account security
 
-![](https://static.xx.fbcdn.net/rsrc.php/y_/r/BYOV4_dXSsH.webp)
+![](https://static.xx.fbcdn.net/rsrc.php/v4/yn/r/O3JYK4GMHrf.png)
 
 ](/privacy/policy/logging/?target=POLICY_PLATFORM_LINK_COLLECTION%3AACCOUNT_SECURITY&element=privacy_policy_list_cell&containing_element_id=POLICY_SUBPAGE%3A2.subpage.8-PromotingSafetySecurityAnd&redirect_uri=https%3A%2F%2Fmbasic.facebook.com%2Fprivacy%2Fpolicy%2Fprintable%2F%3Fback_id%3Dlink-collection-4%26link_dialog%3DACCOUNT_SECURITY%26entry%3D0%26entry_point%3DPOLICY_SUBPAGE%253A2.subpage.8-PromotingSafetySecurityAnd)
 
@@ -799,7 +799,7 @@ We also use the information we collect to provide business services.
 
 How do we share information with partners, vendors, service providers and other third parties?
 
-![](https://static.xx.fbcdn.net/rsrc.php/y_/r/BYOV4_dXSsH.webp)
+![](https://static.xx.fbcdn.net/rsrc.php/v4/yn/r/O3JYK4GMHrf.png)
 
 ](?entry_point=POLICY_SUBPAGE%3A2.subpage.10-ProvidingMeasurementAnalyticsAnd#4-HowDoWeShare)
 
@@ -820,11 +820,11 @@ We also use information about how you interact with our messages, like if you op
 
 [
 
-![](https://static.xx.fbcdn.net/rsrc.php/yJ/r/3gCTiKDv_K3.webp)
+![](https://static.xx.fbcdn.net/rsrc.php/v4/yH/r/7ndWjTd8fe6.png)
 
 Communication preferences
 
-![](https://static.xx.fbcdn.net/rsrc.php/y_/r/BYOV4_dXSsH.webp)
+![](https://static.xx.fbcdn.net/rsrc.php/v4/yn/r/O3JYK4GMHrf.png)
 
 ](/privacy/policy/logging/?target=POLICY_PLATFORM_LINK_COLLECTION%3ACOMMUNICATION_PREFERENCES&element=privacy_policy_list_cell&containing_element_id=POLICY_SUBPAGE%3A2.subpage.12-CommunicatingWithYouWe&redirect_uri=https%3A%2F%2Fmbasic.facebook.com%2Fprivacy%2Fpolicy%2Fprintable%2F%3Fback_id%3Dlink-collection-5%26link_dialog%3DCOMMUNICATION_PREFERENCES%26entry%3D0%26entry_point%3DPOLICY_SUBPAGE%253A2.subpage.12-CommunicatingWithYouWe)
 
@@ -851,7 +851,7 @@ Here are some examples of our research:
 
 Why and how we process your information
 
-![](https://static.xx.fbcdn.net/rsrc.php/y_/r/BYOV4_dXSsH.webp)
+![](https://static.xx.fbcdn.net/rsrc.php/v4/yn/r/O3JYK4GMHrf.png)
 
 ](?entry_point=POLICY_SECTION%3A2-HowDoWeUse#19-WhyAndHowWe)
 
@@ -877,7 +877,7 @@ If you add accounts to the same [Accounts Center](https://www.facebook.com/help/
 
 How to add or delete accounts in your Accounts Center
 
-![](https://static.xx.fbcdn.net/rsrc.php/yQ/r/64vfQNAQijJ.webp)
+![](https://static.xx.fbcdn.net/rsrc.php/v4/y1/r/jJLKZXbUN9u.png)
 
 ](https://www.facebook.com/help/213446087365127/?entry_point=POLICY_ANNOTATION%3A2.ex.5-UsingInformationAcrossOur)
 
@@ -909,7 +909,7 @@ Our reviewers work at Meta, for [Meta Companies](https://www.facebook.com/help/1
 
 ## What Products does this Policy cover?
 
-![A Meta Quest, a mobile phone showing the Facebook, Instagram and Messenger apps, and a pair of Ray-Ban Stories glasses sit on a table.](https://static.xx.fbcdn.net/rsrc.php/yd/r/n1miQMk0I4W.webp)
+![A Meta Quest, a mobile phone showing the Facebook, Instagram and Messenger apps, and a pair of Ray-Ban Stories glasses sit on a table.](https://static.xx.fbcdn.net/rsrc.php/v4/yR/r/v0IJ2q8ETdP.png)
 
 This Policy describes the information we, Meta Platforms, Inc., process to provide [Meta Products](https://www.facebook.com/legal/meta-products?entry_point=POLICY_ANNOTATION%3A0.ex.0-WhatProductsDoesThis), which we also call "Products."
 
@@ -917,13 +917,13 @@ This Policy describes the information we, Meta Platforms, Inc., process to provi
 
 ## Your activity on our Products
 
-![A cup of coffee, two donuts, and a hand holding a phone that shows an ad for a bakery.](https://static.xx.fbcdn.net/rsrc.php/yl/r/I83C_PXrnGc.webp)
+![A cup of coffee, two donuts, and a hand holding a phone that shows an ad for a bakery.](https://static.xx.fbcdn.net/rsrc.php/v4/yk/r/XdNA0zQO1f8.png)
 
 For example, William checks into a local bakery on Facebook, so later we might show him ads on Instagram for other local bakeries.
 
 ## Your activity on third-party websites and apps, depending on your settings
 
-![An open shoebox, a new pair of shoes, and a hand holding a phone that shows an ad for shoes.](https://static.xx.fbcdn.net/rsrc.php/yX/r/4EbV13MY4xh.webp)
+![An open shoebox, a new pair of shoes, and a hand holding a phone that shows an ad for shoes.](https://static.xx.fbcdn.net/rsrc.php/v4/yu/r/L7u3jLrSplT.png)
 
 For example, Jane buys a pair of shoes from an online shoe store or in an online chat with a shoe seller. The seller shares Jane’s activity with us using our Business Tools, subject to our Business Tools Terms.
 
@@ -933,7 +933,7 @@ If she doesn't want to see ads from this shoe store again, she can hide them in 
 
 ## Topics we think you might be interested in
 
-![A turntable, a laptop, headphones, and a pair of hands holding a phone that shows an ad for a music festival.](https://static.xx.fbcdn.net/rsrc.php/y-/r/jtG8rf24D2z.webp)
+![A turntable, a laptop, headphones, and a pair of hands holding a phone that shows an ad for a music festival.](https://static.xx.fbcdn.net/rsrc.php/v4/ym/r/24n65WR4CNc.png)
 
 For example, Jon likes several Facebook Pages about famous musicians, so we think he has an interest in "music."
 
@@ -943,7 +943,7 @@ Jon can manage his interests in his [ad topics](https://www.facebook.com/adprefe
 
 ## Your connections
 
-![An easel with a painting on it and a hand holding a phone that shows an ad for an art fair.](https://static.xx.fbcdn.net/rsrc.php/yG/r/wxPTdrMJdWP.webp)
+![An easel with a painting on it and a hand holding a phone that shows an ad for an art fair.](https://static.xx.fbcdn.net/rsrc.php/v4/yo/r/NhfQuxrVWgM.png)
 
 For example, Fiona’s friend likes an Instagram account for a local art fair. Based on her friend’s activity, we might show Fiona an ad for the art fair.
 
@@ -965,7 +965,7 @@ Just like you need a mailing address to receive a letter from a friend, your dev
 
 ## Personalizing ads for you and others
 
-![A hand holding a mobile phone that shows a map of an airport.](https://static.xx.fbcdn.net/rsrc.php/yz/r/SDxhnDly829.webp)
+![A hand holding a mobile phone that shows a map of an airport.](https://static.xx.fbcdn.net/rsrc.php/v4/y-/r/dTRW1UcruDU.png)
 
 For example, Marcus is going on a trip and wants to use Find Wi-Fi to find free, public Wi-Fi at the airport. He has turned on Location Services on his device and allowed location access on the Facebook app, so we can use his GPS information to help him find the most relevant public Wi-Fi networks. We’ll also use this information to show him ads for local businesses near the airport.
 
@@ -1025,7 +1025,7 @@ Devices include computers, phones, hardware, connected TVs, Meta Quest and other
 
 A person, business, organization or body that provides services to Meta or to our users on behalf of Meta. For example, our service providers do things like investigate suspicious activity and provide customer support.
 
-[Return to top![](https://static.xx.fbcdn.net/rsrc.php/yB/r/vDK-9_qzobV.webp)](#)
+[Return to top![](https://static.xx.fbcdn.net/rsrc.php/v4/yC/r/si3BXjWAx4Y.png)](#)
 
 # How is your information shared on Meta Products or with integrated partners?
 
@@ -1036,7 +1036,7 @@ A person, business, organization or body that provides services to Meta or to ou
 *   You might decide to use a product that integrates with one of ours, like if you use Facebook Login to log into a music service or a shopping site
 *   If you do, that organization will ask you to receive some information about you, like your email address or birthday
 
-![Hands holding a phone, using Facebook Login to log into an Integrated Partner's website.](https://static.xx.fbcdn.net/rsrc.php/yG/r/Gn7etv3-VBV.webp)
+![Hands holding a phone, using Facebook Login to log into an Integrated Partner's website.](https://static.xx.fbcdn.net/rsrc.php/v4/yE/r/Ua2bgQaiNAA.png)
 
 ## On Meta Products
 
@@ -1109,7 +1109,7 @@ If you’re uncomfortable with what others have shared about you on our Products
 
 Remove a tag from a photo or post on Facebook
 
-![](https://static.xx.fbcdn.net/rsrc.php/yQ/r/64vfQNAQijJ.webp)
+![](https://static.xx.fbcdn.net/rsrc.php/v4/y1/r/jJLKZXbUN9u.png)
 
 ](https://www.facebook.com/help/140906109319589?entry_point=POLICY_SUBPAGE%3A3.subpage.2-ContentOthersShareOr)*Dynamic link removed*
 
@@ -1155,7 +1155,7 @@ Search engines and other third parties use this information according to their o
 
 Public information on Facebook
 
-![](https://static.xx.fbcdn.net/rsrc.php/yQ/r/64vfQNAQijJ.webp)
+![](https://static.xx.fbcdn.net/rsrc.php/v4/y1/r/jJLKZXbUN9u.png)
 
 ](https://www.facebook.com/help/203805466323736?ref=dp&entry_point=POLICY_SUBPAGE%3A3.subpage.3-PublicContentWhatContent)*Dynamic link removed*
 
@@ -1202,7 +1202,7 @@ We encourage you to visit your Apps and Websites settings from time to time to r
 
 How to manage apps and websites on Facebook
 
-![](https://static.xx.fbcdn.net/rsrc.php/yQ/r/64vfQNAQijJ.webp)
+![](https://static.xx.fbcdn.net/rsrc.php/v4/y1/r/jJLKZXbUN9u.png)
 
 ](https://www.facebook.com/help/1727608884153160/app-visibility-and-privacy?entry_point=POLICY_SUBPAGE%3A3.subpage.4-WhenYouUseAn)*Dynamic link removed*
 
@@ -1224,7 +1224,7 @@ Integrated partners handle the information you share with them according to thei
 
 How Meta reviews apps that integrate with our Products
 
-![](https://static.xx.fbcdn.net/rsrc.php/yQ/r/64vfQNAQijJ.webp)
+![](https://static.xx.fbcdn.net/rsrc.php/v4/y1/r/jJLKZXbUN9u.png)
 
 ](https://developers.facebook.com/docs/apps/review/?entry_point=POLICY_SUBPAGE%3A3.subpage.6-HowIntegratedPartnersHandle)
 
@@ -1232,11 +1232,11 @@ How Meta reviews apps that integrate with our Products
 
 [
 
-![](https://static.xx.fbcdn.net/rsrc.php/yi/r/OEsJCMfyuPd.webp)
+![](https://static.xx.fbcdn.net/rsrc.php/v4/yI/r/PDJveUaGphA.png)
 
 Learn more about audiences
 
-![](https://static.xx.fbcdn.net/rsrc.php/y_/r/BYOV4_dXSsH.webp)
+![](https://static.xx.fbcdn.net/rsrc.php/v4/yn/r/O3JYK4GMHrf.png)
 
 ](https://www.facebook.com/privacy/guide/sharing/)
 
@@ -1246,7 +1246,7 @@ Learn more about audiences
 
 ## What Products does this Policy cover?
 
-![A Meta Quest, a mobile phone showing the Facebook, Instagram and Messenger apps, and a pair of Ray-Ban Stories glasses sit on a table.](https://static.xx.fbcdn.net/rsrc.php/yd/r/n1miQMk0I4W.webp)
+![A Meta Quest, a mobile phone showing the Facebook, Instagram and Messenger apps, and a pair of Ray-Ban Stories glasses sit on a table.](https://static.xx.fbcdn.net/rsrc.php/v4/yR/r/v0IJ2q8ETdP.png)
 
 This Policy describes the information we, Meta Platforms, Inc., process to provide [Meta Products](https://www.facebook.com/legal/meta-products?entry_point=POLICY_ANNOTATION%3A0.ex.0-WhatProductsDoesThis), which we also call "Products."
 
@@ -1270,7 +1270,7 @@ On Instagram, you can set the audience for what you share by choosing between a 
 
 Audience settings
 
-![](https://static.xx.fbcdn.net/rsrc.php/y_/r/BYOV4_dXSsH.webp)
+![](https://static.xx.fbcdn.net/rsrc.php/v4/yn/r/O3JYK4GMHrf.png)
 
 ](/privacy/policy/logging/?target=POLICY_PLATFORM_LINK_COLLECTION%3AAUDIENCE_SETTINGS&element=privacy_policy_list_cell&containing_element_id=POLICY_ANNOTATION%3A3.ex.2-ChoosingAnAudienceOn&redirect_uri=https%3A%2F%2Fmbasic.facebook.com%2Fprivacy%2Fpolicy%2Fprintable%2F%3Flink_dialog%3DAUDIENCE_SETTINGS%26entry%3D0%26entry_point%3DPOLICY_ANNOTATION%253A3.ex.2-ChoosingAnAudienceOn)
 
@@ -1317,13 +1317,13 @@ A partner who uses technologies that help you make a connection to them through 
 
 ## When an integrated partner might receive your information
 
-![Two friends playing a game on their mobile phones while a third watches them play and cheers.](https://static.xx.fbcdn.net/rsrc.php/y1/r/f3tgksbxafh.webp)
+![Two friends playing a game on their mobile phones while a third watches them play and cheers.](https://static.xx.fbcdn.net/rsrc.php/v4/yQ/r/HNxsM0JJ9tQ.png)
 
 For example, you might use your Facebook login to play an online game with your Facebook friends. The game developer automatically receives information about your activities in the game.
 
 ## When an integrated partner might receive your information
 
-![Hands using a tablet to tap the Like button on a news article.](https://static.xx.fbcdn.net/rsrc.php/ya/r/zCEENWmseD1.webp)
+![Hands using a tablet to tap the Like button on a news article.](https://static.xx.fbcdn.net/rsrc.php/v4/yc/r/_wepGnzI5Kv.png)
 
 Or you might use the Facebook Like button on an article posted on a news website. The website developer automatically receives information about your Like on their article.
 
@@ -1342,7 +1342,7 @@ If you use Facebook Login to log into an app, the app developer might request ac
 
 Your friends might choose to share their friends lists with app developers through Facebook Login. But your friends can’t use Facebook Login to share nonpublic information about you.
 
-[Return to top![](https://static.xx.fbcdn.net/rsrc.php/yB/r/vDK-9_qzobV.webp)](#)
+[Return to top![](https://static.xx.fbcdn.net/rsrc.php/v4/yC/r/si3BXjWAx4Y.png)](#)
 
 # How do we share information with third parties?
 
@@ -1357,7 +1357,7 @@ We share certain information with:
 
 We don’t sell your information, and we never will.
 
-![A row of images, including a bar graph, two ads and an online shopping cart.](https://static.xx.fbcdn.net/rsrc.php/y2/r/1oMABrXjHwl.webp)
+![A row of images, including a bar graph, two ads and an online shopping cart.](https://static.xx.fbcdn.net/rsrc.php/v4/yV/r/gtEnAsA-MTO.png)
 
 We don't sell any of your information to anyone, and we never will. We also require [partners\[50\]](?entry_point=POLICY_SECTION%3A4-HowDoWeShare#annotation-50) and other [third parties\[51\]](?entry_point=POLICY_SECTION%3A4-HowDoWeShare#annotation-51) to follow rules about how they can and cannot use and disclose the information we provide.
 
@@ -1526,7 +1526,7 @@ For example, you might request more information from a business by clicking thei
 
 ## What Products does this Policy cover?
 
-![A Meta Quest, a mobile phone showing the Facebook, Instagram and Messenger apps, and a pair of Ray-Ban Stories glasses sit on a table.](https://static.xx.fbcdn.net/rsrc.php/yd/r/n1miQMk0I4W.webp)
+![A Meta Quest, a mobile phone showing the Facebook, Instagram and Messenger apps, and a pair of Ray-Ban Stories glasses sit on a table.](https://static.xx.fbcdn.net/rsrc.php/v4/yR/r/v0IJ2q8ETdP.png)
 
 This Policy describes the information we, Meta Platforms, Inc., process to provide [Meta Products](https://www.facebook.com/legal/meta-products?entry_point=POLICY_ANNOTATION%3A0.ex.0-WhatProductsDoesThis), which we also call "Products."
 
@@ -1581,7 +1581,7 @@ If you don't have an account:
 *   You can use the *Dynamic link removed* industry opt-out platform on your web browser. If you live in Canada, you can use the *Dynamic link removed* industry opt-out platform. Certain ad blockers and tools to restrict cookies can interfere with your ability to opt out.
 *   Check your mobile device settings. Device manufacturers provide different ways to opt out.
 
-[Return to top![](https://static.xx.fbcdn.net/rsrc.php/yB/r/vDK-9_qzobV.webp)](#)
+[Return to top![](https://static.xx.fbcdn.net/rsrc.php/v4/yC/r/si3BXjWAx4Y.png)](#)
 
 # How do the Meta Companies work together?
 
@@ -1593,7 +1593,7 @@ If you don't have an account:
 *   We do this to make new features or shared experiences between different products
 *   We also share information, like your name and email address, to help verify your accounts, and check out suspicious activities. This helps us keep your accounts safe.
 
-![A Meta Quest, a mobile phone showing the Facebook, Instagram and Messenger apps, and a pair of Ray-Ban Stories glasses sit on a table.](https://static.xx.fbcdn.net/rsrc.php/yd/r/n1miQMk0I4W.webp)
+![A Meta Quest, a mobile phone showing the Facebook, Instagram and Messenger apps, and a pair of Ray-Ban Stories glasses sit on a table.](https://static.xx.fbcdn.net/rsrc.php/v4/yR/r/v0IJ2q8ETdP.png)
 
 We are part of the [Meta Companies](https://www.facebook.com/help/111814505650678?entry_point=POLICY_SECTION%3A5-HowDoTheMeta) that provide Meta Company Products. [Meta Company Products](https://www.facebook.com/legal/meta-company-products?entry_point=POLICY_SECTION%3A5-HowDoTheMeta) include all the [Meta Products\[60\]](?entry_point=POLICY_SECTION%3A5-HowDoTheMeta#annotation-60) covered by this Policy, plus other products like WhatsApp and more.
 
@@ -1618,7 +1618,7 @@ Meta Products share information with other Meta Companies:
 
 Review the privacy policies of the other Meta Companies
 
-![](https://static.xx.fbcdn.net/rsrc.php/yQ/r/64vfQNAQijJ.webp)
+![](https://static.xx.fbcdn.net/rsrc.php/v4/y1/r/jJLKZXbUN9u.png)
 
 ](https://www.facebook.com/help/111814505650678?entry_point=POLICY_SECTION%3A5-HowDoTheMeta)
 
@@ -1626,7 +1626,7 @@ Review the privacy policies of the other Meta Companies
 
 ## What Products does this Policy cover?
 
-![A Meta Quest, a mobile phone showing the Facebook, Instagram and Messenger apps, and a pair of Ray-Ban Stories glasses sit on a table.](https://static.xx.fbcdn.net/rsrc.php/yd/r/n1miQMk0I4W.webp)
+![A Meta Quest, a mobile phone showing the Facebook, Instagram and Messenger apps, and a pair of Ray-Ban Stories glasses sit on a table.](https://static.xx.fbcdn.net/rsrc.php/v4/yR/r/v0IJ2q8ETdP.png)
 
 This Policy describes the information we, Meta Platforms, Inc., process to provide [Meta Products](https://www.facebook.com/legal/meta-products?entry_point=POLICY_ANNOTATION%3A0.ex.0-WhatProductsDoesThis), which we also call "Products."
 
@@ -1665,7 +1665,7 @@ We also share information with Meta Companies to support innovation. For example
 
 We count the number of unique users, monthly active users and daily active users on our products. This information helps us understand the community using our products and publicly share important trends about how our products are used.
 
-[Return to top![](https://static.xx.fbcdn.net/rsrc.php/yB/r/vDK-9_qzobV.webp)](#)
+[Return to top![](https://static.xx.fbcdn.net/rsrc.php/v4/yC/r/si3BXjWAx4Y.png)](#)
 
 # How can you manage or delete your information and exercise your rights?
 
@@ -1683,11 +1683,11 @@ To exercise your rights, visit our Help Centers, your settings for Facebook and 
 
 [
 
-![](https://static.xx.fbcdn.net/rsrc.php/yX/r/Brm_1kKB4Df.webp)
+![](https://static.xx.fbcdn.net/rsrc.php/v4/y1/r/x-xQ-klkPtK.png)
 
 Take a privacy checkup
 
-![](https://static.xx.fbcdn.net/rsrc.php/yQ/r/64vfQNAQijJ.webp)
+![](https://static.xx.fbcdn.net/rsrc.php/v4/y1/r/jJLKZXbUN9u.png)
 
 ](https://www.facebook.com/privacy/checkup/?entry_point=POLICY_SECTION%3A6-HowCanYouManage)
 
@@ -1695,35 +1695,35 @@ Take a privacy checkup
 
 [
 
-![](https://static.xx.fbcdn.net/rsrc.php/yR/r/rTKqSI11GC2.webp)
+![](https://static.xx.fbcdn.net/rsrc.php/v4/yr/r/Q5oWG-4yzrP.png)
 
 Access your information
 
-![](https://static.xx.fbcdn.net/rsrc.php/y_/r/BYOV4_dXSsH.webp)
+![](https://static.xx.fbcdn.net/rsrc.php/v4/yn/r/O3JYK4GMHrf.png)
 
 ](/privacy/policy/logging/?target=POLICY_PLATFORM_LINK_COLLECTION%3AACCESS_YOUR_INFORMATION&element=privacy_policy_list_cell&containing_element_id=POLICY_SECTION%3A6-HowCanYouManage&redirect_uri=https%3A%2F%2Fmbasic.facebook.com%2Fprivacy%2Fpolicy%2Fprintable%2F%3Fback_id%3Dlink-collection-10%26link_dialog%3DACCESS_YOUR_INFORMATION%26entry%3D0%26entry_point%3DPOLICY_SECTION%253A6-HowCanYouManage)[
 
-![](https://static.xx.fbcdn.net/rsrc.php/y5/r/nWQbbRb2Z4C.webp)
+![](https://static.xx.fbcdn.net/rsrc.php/v4/yi/r/nepDKx7rdGF.png)
 
 Off-Meta activity
 
-![](https://static.xx.fbcdn.net/rsrc.php/yY/r/0sWbCMQ5FWH.webp)![](https://static.xx.fbcdn.net/rsrc.php/y_/r/BYOV4_dXSsH.webp)
+![](https://static.xx.fbcdn.net/rsrc.php/v4/y2/r/wzkT_dqrOOZ.png)![](https://static.xx.fbcdn.net/rsrc.php/v4/yn/r/O3JYK4GMHrf.png)
 
 ](/privacy/policy/logging/?target=POLICY_PLATFORM_LINK_COLLECTION%3AOFF_FACEBOOK_ACTIVITY&element=privacy_policy_list_cell&containing_element_id=POLICY_SECTION%3A6-HowCanYouManage&redirect_uri=https%3A%2F%2Fwww.facebook.com%2Foff_facebook_activity%2F%3Fentry_point%3DPOLICY_SECTION%253A6-HowCanYouManage)[
 
-![](https://static.xx.fbcdn.net/rsrc.php/yd/r/Hkp7xeavr3u.webp)
+![](https://static.xx.fbcdn.net/rsrc.php/v4/yA/r/A_621nkP_sx.png)
 
 Ad preferences \[63\]
 
-![](https://static.xx.fbcdn.net/rsrc.php/y_/r/BYOV4_dXSsH.webp)
+![](https://static.xx.fbcdn.net/rsrc.php/v4/yn/r/O3JYK4GMHrf.png)
 
 ](?entry_point=POLICY_SECTION%3A6-HowCanYouManage#annotation-63)[
 
-![](https://static.xx.fbcdn.net/rsrc.php/y_/r/E1eY1dA1Nd2.webp)
+![](https://static.xx.fbcdn.net/rsrc.php/v4/ye/r/qwujt2lT3MY.png)
 
 Manage your data
 
-![](https://static.xx.fbcdn.net/rsrc.php/yQ/r/64vfQNAQijJ.webp)
+![](https://static.xx.fbcdn.net/rsrc.php/v4/y1/r/jJLKZXbUN9u.png)
 
 ](https://www.facebook.com/help/contact/1638046109617856?entry_point=POLICY_SECTION%3A6-HowCanYouManage)
 
@@ -1731,27 +1731,27 @@ Manage your data
 
 [
 
-![](https://static.xx.fbcdn.net/rsrc.php/y_/r/E1eY1dA1Nd2.webp)
+![](https://static.xx.fbcdn.net/rsrc.php/v4/ye/r/qwujt2lT3MY.png)
 
 Port your information \[64\]
 
-![](https://static.xx.fbcdn.net/rsrc.php/y_/r/BYOV4_dXSsH.webp)
+![](https://static.xx.fbcdn.net/rsrc.php/v4/yn/r/O3JYK4GMHrf.png)
 
 ](?entry_point=POLICY_SECTION%3A6-HowCanYouManage#annotation-64)[
 
-![](https://static.xx.fbcdn.net/rsrc.php/yh/r/iXKRnkL1VeD.webp)
+![](https://static.xx.fbcdn.net/rsrc.php/v4/y6/r/zf2XCMURfOt.png)
 
 Download your information
 
-![](https://static.xx.fbcdn.net/rsrc.php/y_/r/BYOV4_dXSsH.webp)
+![](https://static.xx.fbcdn.net/rsrc.php/v4/yn/r/O3JYK4GMHrf.png)
 
 ](/privacy/policy/logging/?target=POLICY_PLATFORM_LINK_COLLECTION%3ADOWNLOAD_YOUR_INFORMATION&element=privacy_policy_list_cell&containing_element_id=POLICY_SECTION%3A6-HowCanYouManage&redirect_uri=https%3A%2F%2Fmbasic.facebook.com%2Fprivacy%2Fpolicy%2Fprintable%2F%3Fback_id%3Dlink-collection-12%26link_dialog%3DDOWNLOAD_YOUR_INFORMATION%26entry%3D0%26entry_point%3DPOLICY_SECTION%253A6-HowCanYouManage)[
 
-![](https://static.xx.fbcdn.net/rsrc.php/yR/r/kR9DrEwCH65.webp)
+![](https://static.xx.fbcdn.net/rsrc.php/v4/ya/r/otwOyZ2dKH3.png)
 
 Delete your information or account \[65\]
 
-![](https://static.xx.fbcdn.net/rsrc.php/y_/r/BYOV4_dXSsH.webp)
+![](https://static.xx.fbcdn.net/rsrc.php/v4/yn/r/O3JYK4GMHrf.png)
 
 ](?entry_point=POLICY_SECTION%3A6-HowCanYouManage#annotation-65)
 
@@ -1797,7 +1797,7 @@ If you request that we delete your account or content, it may take up to 90 days
 
 If you leave your deleted content in your trash on Facebook or your Recently Deleted folder on Instagram, the deletion process will begin automatically in 30 days. Or you can start the deletion process right away by deleting the content from your trash or Recently Deleted folder.
 
-[Return to top![](https://static.xx.fbcdn.net/rsrc.php/yB/r/vDK-9_qzobV.webp)](#)
+[Return to top![](https://static.xx.fbcdn.net/rsrc.php/v4/yC/r/si3BXjWAx4Y.png)](#)
 
 # How long do we keep your information?
 
@@ -1830,7 +1830,7 @@ But even if you don’t clear your search or delete your account, within six mon
 
 ## The feature we use it for, and how that feature works
 
-![A person at a birthday party, using a phone to send a message in vanish mode.](https://static.xx.fbcdn.net/rsrc.php/yj/r/OWVXBKJtGHN.webp)
+![A person at a birthday party, using a phone to send a message in vanish mode.](https://static.xx.fbcdn.net/rsrc.php/v4/yD/r/QZMmL-WJ5_M.png)
 
 For example, May is planning a surprise party for Yang. She sends Cynthia the party details in Messenger using vanish mode so that the message will disappear. The message will no longer be visible to May once she leaves the chat, and Cynthia will see the message only the first time she opens the chat thread.
 
@@ -1901,7 +1901,7 @@ We also might preserve some of your account information as part of our review of
 
 We may preserve your information where we deem it necessary for reasons related to a legal claim or complaint. For example, we may be required to defend ourselves in legal proceedings in a claim related to your information.
 
-[Return to top![](https://static.xx.fbcdn.net/rsrc.php/yB/r/vDK-9_qzobV.webp)](#)
+[Return to top![](https://static.xx.fbcdn.net/rsrc.php/v4/yC/r/si3BXjWAx4Y.png)](#)
 
 # How do we transfer information?
 
@@ -1959,7 +1959,7 @@ A person, business, organization or body that is not part of the Meta Companies
 
 ## What Products does this Policy cover?
 
-![A Meta Quest, a mobile phone showing the Facebook, Instagram and Messenger apps, and a pair of Ray-Ban Stories glasses sit on a table.](https://static.xx.fbcdn.net/rsrc.php/yd/r/n1miQMk0I4W.webp)
+![A Meta Quest, a mobile phone showing the Facebook, Instagram and Messenger apps, and a pair of Ray-Ban Stories glasses sit on a table.](https://static.xx.fbcdn.net/rsrc.php/v4/yR/r/v0IJ2q8ETdP.png)
 
 This Policy describes the information we, Meta Platforms, Inc., process to provide [Meta Products](https://www.facebook.com/legal/meta-products?entry_point=POLICY_ANNOTATION%3A0.ex.0-WhatProductsDoesThis), which we also call "Products."
 
@@ -1973,7 +1973,7 @@ We rely on appropriate mechanisms for international data transfers. For example,
 *   We rely on determinations from the European Commission, and from other relevant authorities, about whether other countries have *Dynamic link removed*
 *   We use equivalent mechanisms under applicable laws that apply to data transfers to the United States and other relevant countries.
 
-[Return to top![](https://static.xx.fbcdn.net/rsrc.php/yB/r/vDK-9_qzobV.webp)](#)
+[Return to top![](https://static.xx.fbcdn.net/rsrc.php/v4/yC/r/si3BXjWAx4Y.png)](#)
 
 # How do we respond to legal requests, comply with applicable law and prevent harm?
 
@@ -2012,7 +2012,7 @@ Learn more about *Dynamic link removed* and *Dynamic link removed*
 
 ## What Products does this Policy cover?
 
-![A Meta Quest, a mobile phone showing the Facebook, Instagram and Messenger apps, and a pair of Ray-Ban Stories glasses sit on a table.](https://static.xx.fbcdn.net/rsrc.php/yd/r/n1miQMk0I4W.webp)
+![A Meta Quest, a mobile phone showing the Facebook, Instagram and Messenger apps, and a pair of Ray-Ban Stories glasses sit on a table.](https://static.xx.fbcdn.net/rsrc.php/v4/yR/r/v0IJ2q8ETdP.png)
 
 This Policy describes the information we, Meta Platforms, Inc., process to provide [Meta Products](https://www.facebook.com/legal/meta-products?entry_point=POLICY_ANNOTATION%3A0.ex.0-WhatProductsDoesThis), which we also call "Products."
 
@@ -2082,19 +2082,19 @@ We also might preserve some of your account information as part of our review of
 
 We may preserve your information where we deem it necessary for reasons related to a legal claim or complaint. For example, we may be required to defend ourselves in legal proceedings in a claim related to your information.
 
-[Return to top![](https://static.xx.fbcdn.net/rsrc.php/yB/r/vDK-9_qzobV.webp)](#)
+[Return to top![](https://static.xx.fbcdn.net/rsrc.php/v4/yC/r/si3BXjWAx4Y.png)](#)
 
 # How will you know the Policy has changed?
 
 We'll notify you before we make material changes to this Policy. You’ll have the opportunity to review the revised Policy before you choose to continue using our Products.
 
-[Return to top![](https://static.xx.fbcdn.net/rsrc.php/yB/r/vDK-9_qzobV.webp)](#)
+[Return to top![](https://static.xx.fbcdn.net/rsrc.php/v4/yC/r/si3BXjWAx4Y.png)](#)
 
 # Privacy notice for United States residents
 
 You can learn more about the consumer privacy rights that may be available to you by reviewing the [United States Regional Privacy Notice](https://www.facebook.com/privacy/policies/uso?entry_point=POLICY_SECTION%3A12-PrivacyNoticeForUnitedStates).
 
-[Return to top![](https://static.xx.fbcdn.net/rsrc.php/yB/r/vDK-9_qzobV.webp)](#)
+[Return to top![](https://static.xx.fbcdn.net/rsrc.php/v4/yC/r/si3BXjWAx4Y.png)](#)
 
 # How to contact Meta with questions
 
@@ -2110,7 +2110,7 @@ ATTN: Privacy Operations
 
 Menlo Park, CA 94025
 
-[Return to top![](https://static.xx.fbcdn.net/rsrc.php/yB/r/vDK-9_qzobV.webp)](#)
+[Return to top![](https://static.xx.fbcdn.net/rsrc.php/v4/yC/r/si3BXjWAx4Y.png)](#)
 
 # Why and how we process your information
 
@@ -2749,7 +2749,7 @@ The categories of information depend on the specific circumstances of each manda
 
 ## What Products does this Policy cover?
 
-![A Meta Quest, a mobile phone showing the Facebook, Instagram and Messenger apps, and a pair of Ray-Ban Stories glasses sit on a table.](https://static.xx.fbcdn.net/rsrc.php/yd/r/n1miQMk0I4W.webp)
+![A Meta Quest, a mobile phone showing the Facebook, Instagram and Messenger apps, and a pair of Ray-Ban Stories glasses sit on a table.](https://static.xx.fbcdn.net/rsrc.php/v4/yR/r/v0IJ2q8ETdP.png)
 
 This Policy describes the information we, Meta Platforms, Inc., process to provide [Meta Products](https://www.facebook.com/legal/meta-products?entry_point=POLICY_ANNOTATION%3A0.ex.0-WhatProductsDoesThis), which we also call "Products."
 
@@ -2803,6 +2803,6 @@ A person, business, organization or body that is not part of the Meta Companies
 
 A person, business, organization or body that provides services to Meta or to our users on behalf of Meta. For example, our service providers do things like investigate suspicious activity and provide customer support.
 
-[Return to top![](https://static.xx.fbcdn.net/rsrc.php/yB/r/vDK-9_qzobV.webp)](#)
+[Return to top![](https://static.xx.fbcdn.net/rsrc.php/v4/yC/r/si3BXjWAx4Y.png)](#)
 
 ![](https://facebook.com/security/hsts-pixel.gif)
