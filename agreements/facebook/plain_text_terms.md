@@ -3,7 +3,7 @@ url: "https://mbasic.facebook.com/legal/terms/plain_text_terms/"
 selector: "#root"
 ---
 
-![](https://static.xx.fbcdn.net/rsrc.php/v4/yV/r/Y1oMjgd9pE3.png)
+![](https://static.xx.fbcdn.net/rsrc.php/yR/r/on19k6ac8bZ.webp)
 
 # Terms of Service
 
@@ -13,27 +13,27 @@ selector: "#root"
 
 ## Overview
 
-![](https://static.xx.fbcdn.net/rsrc.php/v4/yd/r/BgOYs7wm6L2.png)](#1)[
+![](https://static.xx.fbcdn.net/rsrc.php/yG/r/O0My_p0z_D0.webp)](#1)[
 
 ## 1\. The services we provide
 
-![](https://static.xx.fbcdn.net/rsrc.php/v4/yd/r/BgOYs7wm6L2.png)](#2)[
+![](https://static.xx.fbcdn.net/rsrc.php/yG/r/O0My_p0z_D0.webp)](#2)[
 
 ## 2\. How our services are funded
 
-![](https://static.xx.fbcdn.net/rsrc.php/v4/yd/r/BgOYs7wm6L2.png)](#3)[
+![](https://static.xx.fbcdn.net/rsrc.php/yG/r/O0My_p0z_D0.webp)](#3)[
 
 ## 3\. Your commitments to Facebook and our community
 
-![](https://static.xx.fbcdn.net/rsrc.php/v4/yd/r/BgOYs7wm6L2.png)](#4)[
+![](https://static.xx.fbcdn.net/rsrc.php/yG/r/O0My_p0z_D0.webp)](#4)[
 
 ## 4\. Additional provisions
 
-![](https://static.xx.fbcdn.net/rsrc.php/v4/yd/r/BgOYs7wm6L2.png)](#5)[
+![](https://static.xx.fbcdn.net/rsrc.php/yG/r/O0My_p0z_D0.webp)](#5)[
 
 ## 5\. Other terms and policies that may apply to you
 
-![](https://static.xx.fbcdn.net/rsrc.php/v4/yd/r/BgOYs7wm6L2.png)](#6)
+![](https://static.xx.fbcdn.net/rsrc.php/yG/r/O0My_p0z_D0.webp)](#6)
 
 # Overview
 
@@ -53,11 +53,11 @@ Our [Privacy Policy](https://www.facebook.com/privacy/policy/) explains how we c
 
 What Products do these Terms cover?
 
-![](https://static.xx.fbcdn.net/rsrc.php/v4/y1/r/jJLKZXbUN9u.png)
+![](https://static.xx.fbcdn.net/rsrc.php/yQ/r/64vfQNAQijJ.webp)
 
 ](https://facebook.com/legal/meta-products)
 
-[Return to top![](https://static.xx.fbcdn.net/rsrc.php/v4/yC/r/si3BXjWAx4Y.png)](#)
+[Return to top![](https://static.xx.fbcdn.net/rsrc.php/yB/r/vDK-9_qzobV.webp)](#)
 
 # 1\. The services we provide
 
@@ -101,7 +101,7 @@ Our Products help you find and connect with people, groups, businesses, organiza
 
 To operate our global services and enable you to connect with people around the world, we need to transfer, store and distribute content and data to our data centers, partners, service providers, vendors and systems around the world, including outside your country of residence. The use of this global infrastructure is necessary and essential to provide our services. This infrastructure may be owned, operated, or controlled by Meta Platforms, Inc., Meta Platforms Ireland Limited, or its affiliates.
 
-[Return to top![](https://static.xx.fbcdn.net/rsrc.php/v4/yC/r/si3BXjWAx4Y.png)](#)
+[Return to top![](https://static.xx.fbcdn.net/rsrc.php/yB/r/vDK-9_qzobV.webp)](#)
 
 # 2\. How our services are funded
 
@@ -113,7 +113,7 @@ We also provide advertisers with reports about the performance of their ads to h
 
 We collect and use your personal data in order to provide the services described above to you. You can learn about how we collect and use your data in our [Privacy Policy](https://www.facebook.com/privacy/policy?entry_point=POLICY_SECTION%3Asection_2). You have controls over the types of ads and advertisers you see, and the types of information we use to determine which ads we show you. [Learn more](https://www.facebook.com/about/ads?entry_point=POLICY_SECTION%3Asection_2).
 
-[Return to top![](https://static.xx.fbcdn.net/rsrc.php/v4/yC/r/si3BXjWAx4Y.png)](#)
+[Return to top![](https://static.xx.fbcdn.net/rsrc.php/yB/r/vDK-9_qzobV.webp)](#)
 
 # 3\. Your commitments to Facebook and our community
 
@@ -197,7 +197,7 @@ In each of the above cases, this license will continue until the content has bee
 
 If you use content covered by intellectual property rights that we have and make available in our Products (for example, images, designs, videos, or sounds we provide that you add to content you create or share on Facebook), we retain all rights to that content (but not yours). You can only use our copyrights or [trademarks (or any similar marks)](https://about.meta.com/brand/resources/meta/our-trademarks/) as expressly permitted by our [Brand Usage Guidelines](https://about.meta.com/brand/resources/meta/company-brand/) or with our prior written permission. You must obtain our written permission (or permission under an open source license) to modify, translate, create derivative works of, decompile, or reverse engineer our products or their components, or otherwise attempt to extract source code from us, unless an exception or limitation applies under applicable law or your conduct relates to the [Meta Bug Bounty Program](https://m.facebook.com/whitehat). We reserve all rights not expressly granted to you.
 
-[Return to top![](https://static.xx.fbcdn.net/rsrc.php/v4/yC/r/si3BXjWAx4Y.png)](#)
+[Return to top![](https://static.xx.fbcdn.net/rsrc.php/yB/r/vDK-9_qzobV.webp)](#)
 
 # 4\. Additional provisions
 
@@ -239,7 +239,7 @@ You and Meta each agree that any claim, cause of action, or dispute between us t
 6.  **User Name Change:** We may need to change the username for your account in certain circumstances (for example, if someone else claims the username and it appears unrelated to the name you use in everyday life).
 7.  **Feedback:** We always appreciate your feedback and other suggestions about our products and services. But we may use feedback and other suggestions without any restriction or obligation to compensate you, and we are under no obligation to keep them confidential.
 
-[Return to top![](https://static.xx.fbcdn.net/rsrc.php/v4/yC/r/si3BXjWAx4Y.png)](#)
+[Return to top![](https://static.xx.fbcdn.net/rsrc.php/yB/r/vDK-9_qzobV.webp)](#)
 
 # 5\. Other terms and policies that may apply to you
 
@@ -259,6 +259,6 @@ You and Meta each agree that any claim, cause of action, or dispute between us t
 *   [Avatar Terms](https://www.facebook.com/legal/avatars_terms?entry_point=POLICY_SECTION%3Asection_5): These terms apply to the use of our Avatars and our Avatar features, including purchases and acquisitions of Avatar clothing in the Avatar store.
 *   [Meta AI Terms](https://www.facebook.com/legal/ai-terms?entry_point=POLICY_SECTION%3Asection_5): These terms govern use of our Generative AI products and features.
 
-[Return to top![](https://static.xx.fbcdn.net/rsrc.php/v4/yC/r/si3BXjWAx4Y.png)](#)
+[Return to top![](https://static.xx.fbcdn.net/rsrc.php/yB/r/vDK-9_qzobV.webp)](#)
 
 ![](https://facebook.com/security/hsts-pixel.gif)
