@@ -179,3 +179,7 @@ You can choose not to accept cookies from any website, including WhiteHouse.gov,
 For more information about cookies, including how to delete them from your computer and configure your browser to refuse them from WhiteHouse.gov or any other site, visit the following resource, or refer to your individual browser settings for additional information on disabling cookies:
 
 *   [USA.gov](https://www.usa.gov/optout-instructions)
+
+## White House Mobile App
+
+Email: app@mail.whitehouse.gov
