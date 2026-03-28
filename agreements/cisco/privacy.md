@@ -183,7 +183,7 @@ The Global CBPR System Certification Mark and Global PRP System Certification Ma
     
     #### EU/U.K. (and Gibraltar)/Swiss - U.S. transfer of Personal Data
     
-    When we transfer Personal Data out of the European Union (“EU”), European Economic Area (“EEA”), the United Kingdom (“U.K.”)(and Gibraltar), and Switzerland to countries that do not benefit from an adequacy decision, we may rely on Standard Contractual Clauses, Binding Corporate Rules—Controller, or other legal transfer mechanisms with appropriate safeguards in place to protect Personal Data. Additionally, Cisco Systems, Inc. and its [U.S. based subsidiaries](https://www.dataprivacyframework.gov/s/participant-search/participant-detail?id=a2zt0000000GnJ2AAK&status=Active) (collectively "Cisco-U.S.") comply with the EU-U.S. Data Privacy Framework (EU-U.S. DPF), the U.K. Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF) for transfers of Personal Data from the EU, EEA, U.K. (and Gibraltar), and Switzerland to the U.S.
+    When we transfer Personal Data out of the European Union (“EU”), European Economic Area (“EEA”), the United Kingdom (“U.K.”)(and Gibraltar), and Switzerland to countries that do not benefit from an adequacy decision, we may rely on Standard Contractual Clauses, Binding Corporate Rules—Controller, or other legal transfer mechanisms with appropriate safeguards in place to protect Personal Data. Additionally, Cisco Systems, Inc. and its [U.S. based subsidiaries](https://www.dataprivacyframework.gov/s/participant-search/participant-detail?id=a2zt0000000GnJ2AAK&status=Active) — Amorblox, Inc.; AppDynamics LLC; Broadsoft, Inc.; Cisco OpenDNS LLC; Cisco Systems Capital Corporation; Duo Security LLC; Fluidmesh Networks LLC; Isovalent LLC; Jasper Technologies LLC; Kenna Security, Inc.; Meraki, LLC; Socio Labs LLC; Splunk LLC; Thousand Eyes LLC; and Valix, Inc. — (collectively "Cisco-U.S.") comply with the EU-U.S. Data Privacy Framework (EU-U.S. DPF), the U.K. Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF) for transfers of Personal Data from the EU, EEA, U.K. (and Gibraltar), and Switzerland to the U.S.
     
 
 #### Data Privacy Framework
@@ -238,7 +238,7 @@ Cisco has a comprehensive Privacy Statement and provides you with details on how
 
 We may update this Privacy Statement from time to time. If we modify our Privacy Statement, we will post the revised version here with an updated revision date. If we make material changes to our Privacy Statement, we may also notify you by other means, such as by posting a notice on our websites or sending you a notification. By continuing to use our website after such revisions are in effect, you accept and agree to the revisions and to abide by them.
 
-### The Cisco Privacy Statement was revised and effective as of June 2, 2025.
+### The Cisco Privacy Statement was revised and effective as of March 27, 2026.
 
 Click [here](/c/en/us/about/legal/privacy-full/previous-2025-02.html) for the previous version of the Privacy Statement.
 
