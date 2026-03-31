@@ -287,3 +287,39 @@ If you have any questions about, or wish to contact us in connection with, these
 For technical support or other assistance with respect to our services, you can submit a request [here](https://support.discord.com/hc/en-us/requests/new). 
 
 Discord Inc. is located at 444 De Haro Street #200, San Francisco, CA 94107, USA. Discord Netherlands B.V. is located at Schiphol Boulevard 195, 1118 BG Schiphol, Netherlands.
+
+[![Home page](https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/66e278299a53f5bf88615e90_Symbol.svg)](/)
+
+Language
+
+English
+
+![](https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/66e2c5a476e29535c2465b24_Chevron%20Down.svg)
+
+Social
+
+[![Twitter](https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/65a4fe4237b6a1c4fa714f76_x.svg)](https://twitter.com/discord)[![Instagram](https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/65a4fe42d907d27f3dead7a0_instagram.svg)](https://www.instagram.com/discord/)[![Facebook](https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/65a4fe4173c1df8be608c8a2_facebook.svg)](https://www.facebook.com/discord/)[![Youtube](https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/65a4fe42d907d27f3dead7ad_youtube.svg)](https://www.youtube.com/discord)[![Tiktok](https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/65a4fe4152ae5860036dadf1_tiktok.svg)](https://www.tiktok.com/@discord)
+
+Menu
+
+Product
+
+![](https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/66e15958db56b5a91218f5e9_Chevron%20Down.svg)
+
+Company
+
+![](https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/66e15958db56b5a91218f5e9_Chevron%20Down.svg)
+
+Resources
+
+![](https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/66e15958db56b5a91218f5e9_Chevron%20Down.svg)
+
+Policies
+
+![](https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/66e15958db56b5a91218f5e9_Chevron%20Down.svg)
+
+Social
+
+[![Twitter](https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/65a4fe4237b6a1c4fa714f76_x.svg)](https://x.com/discord)[![Instagram](https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/65a4fe42d907d27f3dead7a0_instagram.svg)](https://www.instagram.com/discord/)[![Facebook](https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/65a4fe4173c1df8be608c8a2_facebook.svg)](https://www.facebook.com/discord/)[![Youtube](https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/65a4fe42d907d27f3dead7ad_youtube.svg)](https://www.youtube.com/discord)[![Tiktok](https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/65a4fe4152ae5860036dadf1_tiktok.svg)](https://www.tiktok.com/@discord)
+
+![Discord](https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/67ac9b4644222140ae614b06_Wordmark.svg)
