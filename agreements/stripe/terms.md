@@ -3,15 +3,15 @@ url: "https://stripe.com/legal/consumer"
 selector: "main"
 ---
 
-## **Welcome!**
+## Welcome!
 
-Last updated: January 16, 2025
+Last updated: March 30, 2026
 
 ### **1\. Introduction and Scope**
 
-These Consumer Terms of Service ("*Terms of Service*" or "*Terms*") are a legal agreement between us ( "us", "our", "we", or "Stripe") and you, the individual who uses one or more of the products and services we offer for your personal use under these Terms (referred to as "you" or "your"), which are Link, Financial Connections, and Identity (each, a "Consumer Service"). The following Terms are a legally binding agreement between you and us, and it describes the terms and conditions applicable to your use of our Consumer Services. By using our Consumer Services, you agree to be bound by these Terms, and any new features or tools that are added will also be subject to these Terms. The Stripe entity with which you are entering into these Terms depends on your location and can be found [here](https://link.com/terms/contracting-entity).
+These Consumer Terms of Service ("*Terms of Service*" or "*Terms*") are a legal agreement between us ( "us", "our", "we", or "Stripe") and you (referred to as "you" or "your"), the individual who uses one or more of the products and services we offer for your personal use under these Terms (each service offered to you, a "Consumer Service"). The following Terms are a legally binding agreement between you and us, and it describes the terms and conditions applicable to your use of our Consumer Services. By using our Consumer Services, you agree to be bound by these Terms, and any new features or tools that are added will also be subject to these Terms. The Stripe entity with which you are entering into these Terms depends on your location and the specific Consumer Service used and can be found [here](https://stripe.com/legal/consumer/contracting-entity).
 
-These general Terms apply to all of our Consumer Services that reference these Terms. Businesses that are using our products and services for business purposes ("Business Users") are subject to the [Stripe Services Agreement](https://stripe.com/legal/ssa).
+These general Terms apply to all of our Consumer Services that reference these Terms. Businesses that use the Consumer Services described in these Terms are subject to these Terms even if used for business purposes and the business using the Consumer Service is referred to as "you" or "your." Businesses that use Stripe products and services offered under the [Stripe Services Agreement](https://stripe.com/legal/ssa) are referred to as "Business Users."
 
 ### **2\. Additional Terms That Apply to You**
 
@@ -31,17 +31,15 @@ You may only enter into these Terms if you are over the age of majority and able
 
 You must not use the Consumer Services if you have previously been terminated or suspended from using any of our services, including any Consumer Service. You may not enter into the Terms or use any Consumer Service if you are the target of government sanctions, such as those applied by the U.S. Department of the Treasury Office of Foreign Assets Control, or any other national government.
 
-You must be eligible for the particular Consumer Services to the extent they are available in your country. If we present an incorrect country for you or you move countries, then you must correct the country in your account or [contact support](https://support.link.com/contact) before using the Consumer Services again.
+You must be eligible for the particular Consumer Services to the extent they are available in your country. If we present an incorrect country for you or you move countries, then you must correct the country in your account or [contact support](https://support.stripe.com/contact) before using the Consumer Services again.
 
 ### **4\. Stripe’s Role**
 
-Any contract of sale made using the Consumer Services is directly between you and the Business User. You, and not Stripe, are responsible for the purchases you make using the Consumer Services. The Business User, and not Stripe, is responsible for the goods or services that you may purchase from them using the Consumer Services, including but not limited to delivery, quality of goods, returns, accuracy, refunds, fraud, advertising, customer support, protection of intellectual property rights, liability relating to the Business User's products or services, or non-compliance with applicable law.
+Stripe offers and provides you with the Consumer Services described in these Terms. You, and not Stripe, are responsible for the purchases you make using the Consumer Services. The Business User, and not Stripe, is responsible for the goods or services that you may purchase from them using the Consumer Services, including but not limited to quality of goods, returns, accuracy, refunds (except as stated in the Sold Through Link Terms), fraud, advertising, protection of intellectual property rights, liability relating to the Business User's products or services, or non-compliance with applicable law. If you purchased digital goods or digital services from a Business user that is stated as "Sold through Link" (each purchase, an "Order"), then Stripe may have additional responsibilities to you as described in the "[Sold Through Link Terms](https://link.com/terms/preview#sold-through-link-terms)".
 
 Your access to and use of the Consumer Services does not change your relationship with the Business User, third party services or platforms or with your bank or credit or debit card company.
 
-Except as provided otherwise in these Terms, Stripe will not intervene in any dispute between you and a Business User for any transactions using the Consumer Services. If you find yourself in a dispute with a Business User or a third party, we encourage you to contact the other party and try to resolve the dispute. If you choose to [contact Stripe's support](https://support.link.com) team regarding a Business User, you acknowledge that we may, but are not required to, forward information about your issue, such as your email address and a summary of your issue to the Business User with a request that they contact you directly to resolve your concern. Except as provided otherwise in these Terms, Stripe will not make judgments regarding factual disputes or legal issues or claims between you and the Business User, and Stripe has no obligation to resolve any disputes. You release Stripe from any claims, demands, and damages arising out of disputes relating to your use of the Consumer Services, including those with other Business Users or parties.
-
-We make no warranties with respect to the products, services or information provided by Business Users, and we are not responsible or liable for claims, including but not limited to: (a) product liability claims in respect of Business User products; (b) claims that the offer or sale of Business User products or services fails to conform to any applicable legal or regulatory requirement; (c) claims respecting Business Users' products, services, or practices arising under consumer protection or similar legislation; (d) any inaccurate, incomplete or out of date information offered by a Business User; (e) infringement of intellectual property rights by the Business User; or (f) the acts or omissions of any third party platform where you may interact with or purchase from.
+Except as provided otherwise in these Terms, Stripe will not intervene in any dispute between you and a Business User for any transactions using the Consumer Services. If you find yourself in a dispute with a Business User or a third party, we encourage you to contact the other party and try to resolve the dispute. If you choose to [contact Stripe's support](https://support.stripe.com/) team regarding a Business User, you acknowledge that we may, but are not required to, forward information about your issue, such as your email address and a summary of your issue to the Business User with a request that they contact you directly to resolve your concern. Except as provided otherwise in these Terms, Stripe will not make judgments regarding factual disputes or legal issues or claims between you and the Business User, and Stripe has no obligation to resolve any disputes.
 
 ### **5\. Identification and Prevention of Fraud**
 
@@ -55,7 +53,7 @@ You agree that:
 
 To the extent allowable under law, by providing us with a phone number, you consent to receiving text (SMS) messages, push notifications, and phone calls from us. Such communications may include, but are not limited to, requests for authentication, receipts, reminders, notifications regarding updates to your account or account support, requests for product feedback, and marketing or promotional communications. You acknowledge that you are not required to consent to receive promotional texts or calls as a condition of using any Consumer Service. Call and text message communications may be generated by automatic telephone dialing systems. Standard message and data rates your cell phone carrier applies may apply to the text messages we send you.
 
-You may opt-out of receiving promotional email communications we send to you by following the unsubscribe options on such emails or by managing your communications preferences in the app. You may opt-out of text messages from Stripe by replying STOP or by following instructions that you receive in the text message. You may opt-out of phone calls by notifying the caller or by [contacting support](https://support.link.com/contact). You acknowledge that opting out of receiving communications may impact your use of Consumer Services.
+You may opt-out of receiving promotional email communications we send to you by following the unsubscribe options on such emails or by managing your communications preferences in the app. You may opt-out of text messages from Stripe by replying STOP or by following instructions that you receive in the text message. You may opt-out of phone calls by notifying the caller or by [contacting support](https://support.stripe.com/contact). You acknowledge that opting out of receiving communications may impact your use of Consumer Services.
 
 ### **7\. Our Intellectual Property Rights**
 
@@ -65,7 +63,7 @@ For the purposes of these Terms, "Intellectual Property Rights" means all patent
 
 ### **8\. Feedback**
 
-You may choose to submit feedback, ideas and suggestions about the Consumer Services, but it is never required. You may provide us with feedback on the Consumer Services by [contacting support](https://support.link.com/contact). You agree that we may use, integrate, and share all feedback, ideas, and suggestions you submit for any purpose and without compensation or obligation to you. You assign to us all rights, title and interest to any feedback, ideas and suggestions, including the right to use, modify and integrate them in any manner. 
+You may choose to submit feedback, ideas and suggestions about the Consumer Services, but it is never required. You may provide us with feedback on the Consumer Services by [contacting support](https://support.stripe.com/contact). You agree that we may use, integrate, and share all feedback, ideas, and suggestions you submit for any purpose and without compensation or obligation to you. You assign to us all rights, title and interest to any feedback, ideas and suggestions, including the right to use, modify and integrate them in any manner. 
 
 ### **9\. Termination**
 
@@ -77,24 +75,29 @@ You may choose to submit feedback, ideas and suggestions about the Consumer Serv
 
 ### **10\. Disclaimer of Warranties**
 
-Subject to statutory consumer guarantees, which will apply irrespective of this disclaimer, the Consumer Services are provided "as-is" and without any representation or warranty, whether express or implied. We, our affiliates, and our respective agents, contractors, and Business Users (together, the "Disclaiming Entities") make no representation or warranty of any kind whatsoever (other than those implied by statute) with respect to the Consumer Services or the content, materials, information and functions we make accessible, and specifically disclaim all implied warranties of merchantability, fitness for a particular purpose, title and non-infringement. We do not promise that the Consumer Services will be uninterrupted, error-free, free from cyber attacks, or secure.
+You release Stripe from any claims, demands, and damages arising out of disputes relating to your use of the Consumer Services or your placement of an Order, including those disputes with other Business Users or parties.
 
-The Disclaiming Entities do not control or make any warranties regarding the products or services others provide in connection with the Consumer Services. In other words, we do not have control over the businesses from which you're purchasing when using the Consumer Services, and we do not promise or imply that the products or services you buy using the Consumer Services will work as promised or be safe to use.
+We, our affiliates, and our respective agents, and contractors (together, the "Disclaiming Entities") make no warranties with respect to the products, services or information provided by Business Users to you. You agree, with respect to any claim regarding the products, service or information provided by Business Users to you, that the Disclaiming Entities are not responsible or liable for, and you release the Disclaiming Entities from all claims, demands and damages, including but not limited to: (a) product liability claims related to Business User products; (b) claims that the offer or sale of Business User products or services fails to conform to any applicable legal or regulatory requirement; (c) claims about Business Users' products, services, or practices arising under consumer protection or similar legislation; (d) claims based on any inaccurate, incomplete or out of date information offered by a Business User; (e) claims of infringement of intellectual property rights by the Business User; or (f) claims about any third party platform where you may interact with or purchase from. Your recourse for claims related to the products or services that you purchase from a Business User is against the Business User and not the Disclaiming Entities.
+
+Subject to statutory consumer guarantees, which will apply irrespective of this disclaimer, the Consumer Services are provided "as-is" and without any representation or warranty, whether express or implied. The Disclaiming Entities and Business Users make no representation or warranty of any kind whatsoever (other than those implied by statute) with respect to the Consumer Services or the content, materials, information and functions we make accessible, and specifically disclaim all implied warranties of merchantability, fitness for a particular purpose, title and non-infringement. We do not promise that the Consumer Services will be uninterrupted, error-free, free from cyber attacks, or secure.
+
+The Disclaiming Entities do not control or make any warranties regarding the products or services others or Business Users provide in connection with your Orders or the Consumer Services. In other words, we do not have control over the businesses from which you're purchasing when using the Consumer Services, and we do not promise or imply that the products or services you buy using the Consumer Services will work as promised or be safe to use.
 
 Some laws limit or prohibit disclaiming the warranties referred to in the previous paragraphs, or impose obligations on us that we can't eliminate with these Terms. In those cases, this section (Disclaimer of Warranties) does not restrict, exclude or modify any consumer rights under any applicable law.
 
 ### **11\. Limitation of Liability**
 
-The Disclaiming Entities will not be liable to you for any failure to perform our obligation under these Terms due to a **Force Majeure Even**t. A "Force Majeure Event" is any event beyond the control of the Disclaiming Entities that significantly impacts Stripe’s ability to perform its obligations under these Terms, including a strike or other labor dispute; labor shortage, stoppage or slowdown; supply chain disruption; embargo or blockade; telecommunication breakdown; cyber blackout; power outage or shortage; inadequate transportation service; inability or delay in obtaining adequate supplies; weather; earthquake; fire; flood; act of God; riot; civil disorder; civil or government calamity; epidemic; pandemic; state or national health crisis; war; invasion; hostility (whether war is declared or not); terrorism threat or act; Law; or act of a Governmental Authority.
+The Disclaiming Entities and Business Users will not be liable to you for any failure to perform our obligation under these Terms due to a Force Majeure Event. A "Force Majeure Event" is any event beyond the control of the Disclaiming Entities that significantly impacts Stripe's ability to perform its obligations under these Terms, including a strike or other labor dispute; labor shortage, stoppage or slowdown; supply chain disruption; embargo or blockade; telecommunication breakdown; cyber blackout; power outage or shortage; inadequate transportation service; inability or delay in obtaining adequate supplies; weather; earthquake; fire; flood; act of God; riot; civil disorder; civil or government calamity; epidemic; pandemic; state or national health crisis; war; invasion; hostility (whether war is declared or not); terrorism threat or act; Law; or act of a Governmental Authority.
 
 Subject to applicable consumer laws in your country, which will apply irrespective of this limitation of liability, the Disclaiming Entities will not be liable to you for any failure to perform our obligations under these Terms where performance of that obligation would have put us in violation of applicable law.
 
 The Disclaiming Entities will not be liable to you in any circumstances for:
 
-*   Loss of business, loss of goodwill, loss of opportunity, or loss of profit; or
-*   Any loss that we could not have reasonably anticipated
+(a) Loss of business, loss of goodwill, loss of opportunity, or loss of profit; or
 
-Subject to the specific product Terms below and applicable consumer laws in your country, in no event will a Disclaiming Entity's liability arising out of or in connection with these Terms exceed $200 USD.
+(b) Any loss that we could not have reasonably anticipated.
+
+Subject to the specific product Terms below and applicable consumer laws in your country, in no event will a Disclaiming Entity's liability arising out of or in connection with these Terms exceed the greater of $200 USD or, if applicable, the amount you paid for the Order on which your claim is based.
 
 You and we agree that the other has relied on the disclaimer of warranties and limitation of liability stated above in entering into these Terms, the limitation and disclaimer are essential to the agreement between you and us under these Terms, and they will apply to the fullest extent allowed by law.
 
@@ -104,7 +107,7 @@ Some laws restrict our ability to disclaim or limit our liability. In those case
 
 If you reside in the United States, California law will govern any claim or dispute between you and us that arises out of these Terms, regardless of conflict of law principles.
 
-If you reside outside of the United States, your governing law is specified [here.](https://stripe.com/legal/consumer/governing-law/preview)
+If you reside outside of the United States, your governing law is specified [here.](https://stripe.com/legal/consumer/governing-law)
 
 ### **13\. Assignment and Third-Party Beneficiaries**
 
@@ -114,28 +117,43 @@ You must not assign your rights or obligations under these Terms to anyone witho
 
 These Terms, together with the Arbitration Agreement (if applicable), E-Sign Agreement, the Acceptable Use Policy, and the product-specific Terms below are the only agreement between you and us regarding the Consumer Services. In the event of an irreconcilable conflict or inconsistency between a provision in these Terms and any product-specific Terms below, the provision in the product-specific Terms will govern. These Terms do not create any partnership, joint venture, or other agency relationship between you and us. If we do not immediately exercise a right we have under these Terms, we do not waive that right. We retain our ability and right to enforce any part of these Terms at a later time. If any part of these Terms is found unenforceable, that part will be ignored, and all of the remaining terms will remain in effect.
 
-### **15\. Contact**
+### **15\. Terms Applicable to Artificial Intelligence Commerce Platform Purchases**
+
+When you use Link to purchase goods or services from a Business User selling on an Artificial Intelligence (AI) commerce platform, you authorize your credit card, debit card, or other payment method on file with Link or the AI commerce platform to be charged for the purchase of those goods or services from the Business User.
+
+You agree that Stripe, the AI commerce platform, or the Business User will obtain an authorization to cover the cost of the goods or services you have purchased from the Business User and that you will be charged for the goods or services purchased by you and any applicable taxes and/or fees.
+
+The Business User, not Stripe or the AI commerce platform, is the seller of the goods or services to you. You agree that your purchase is being made from the Business User, that the Business User is the merchant of record, and that title to any goods passes to you when the goods are purchased from the applicable Business User. If you have an issue with your purchase or related delivery, you must contact the Business User from which your goods or services were purchased to resolve the issue. You agree that any returns or refunds for goods or services purchased using Link services are subject to the Business User's refund and return policies, which vary by Business User.
+
+### **16\. Contact**
 
 If you have a question about the Consumer Services or how these Terms apply to you, please [contact support.](https://support.link.com/contact)
 
 ## Link Account Terms
 
-### **1\. Description of Link**
+### **1\. Description of Link Accounts**
 
-Link is a service that allows you to save and manage your information for an accelerated experience ("Link"). Link powers an accelerated checkout by storing your information upon your authorization and retrieving it for faster checkouts. When you make a purchase at a business that uses Stripe and offers Link as an accelerated checkout option (a "Link Merchant"), you will be asked if you would like to save your information or use your information saved to your Link account for future payments across Link Merchants when you are logged in with us on the same browser, app or device.
+Link is a digital account that facilitates a variety of payment-related features, including saving your information for an accelerated checkout experience. Business Users that have enabled Link services (a "Link Merchant") may ask you if you would like to save your information, or use your information saved to your Link Account (defined below), for future payments across Link Merchants. When you authorize us to save your information, you are signing up for an account with Link (a "Link Account"). You may also create a Link Account by visiting [Link.com](https://link.com/) and signing up directly for a Link Account.
 
-When you authorize us to save your information, you are signing up for Link and creating a Link account ("Link Account"), and we will collect and store certain personal data from you, such as:
+**How we use your Link Account Information**
 
-1.  Your name, email address, and mobile phone number ("Account Information"); 
-2.  Your credit card, debit card, bank account information, and billing address ("Payment Information"); 
-3.  Your shipping address ("Shipping Information"); and 
-4.  Information related to your purchase from a Link Merchant, such as the order date, amount, and product details (such as name, price, photos) ("Order Information"). 
+When you sign up directly for a Link Account, we will collect and store certain personal data from you, such as:
 
-Together, your Account Information, Payment Information, Shipping Information and Order Information are your "Saved Information." We will use all personal data we collect about you in accordance with the [Link Privacy Policy](https://link.com/privacy), including to develop and analyze our services and to share with our Link Merchants and our Business Users. The data we share with Link Merchants and Business Users may include: (i) the fact that you have a Link Account, (ii) the fact that you completed a purchase using Link, and (iii) the payment method type used for a purchase you made using Link. Business Users are businesses that are using our products and services for business purposes, subject to the [Stripe Services Agreement](https://stripe.com/legal/ssa). We may also share your Account Information with our financial partners in order to assist you in obtaining services from our financial partners. 
+*   Your name, email address, and mobile phone number ("Account Information"); and
+*   If you elect to provide it, your credit card, debit card, bank account information, and billing address ("Payment Information").
 
-When you use Link on a Link Merchant's website, we or the Link Merchant will use cookies or similar technologies to associate your web browser, app, or device (or data regarding your web browser, app, or device) to your Link Account and to recognize you when you visit that Link Merchant or another Link Merchant on the same web browser, app, or device. You will be able to log in to your Link Account to access your Saved Information by inputting your email address and using a passkey or a verification code sent to you via SMS text message or by email. You can then make purchases using your Account Information, Payment Information, and Shipping Information across Link Merchants when you are logged in with us on the same browser, app or device. When you are logged into Link, we will provide the Link Merchant with your Account Information, Payment Information, and/or your Shipping Information to facilitate a faster checkout. If you are not logged in to Link, for example, because your session has expired, you've cleared your cookies, or you're using a device that is different from the one you used to last access Link, you may log in again via the same method outlined above.
+When you create a Link Account as part of Link accelerated checkout service we will collect and store certain personal data from you, such as:
 
-### 2\. **Use of Link: Your Rights and Obligations**
+*   Your Account Information;
+*   Your Payment Information;
+*   Your shipping address ("Shipping Information"); and
+*   Information related to your purchase from a Link Merchant, such as the order date, amount, and product details (such as name, price, photos) ("Order Information").
+
+Together, your Account Information, Payment Information, Shipping Information and Order Information, as applicable, are your "Saved Information." We will use all personal data we collect about you in accordance with the [Link Privacy Policy](https://link.com/privacy), including to develop and analyze our services and to share with our Link Merchants and our Business Users. The data we share with Link Merchants and Business Users may include: (i) the fact that you have a Link Account, (ii) whether you completed a purchase using Link accelerated checkout services, and (iii) the payment method type used for a purchase you made using Link. We may also share your Account Information with our financial partners in order to assist you in obtaining services from our financial partners.
+
+When you login to your Link Account, we or the Link Merchant will use cookies or similar technologies to associate your web browser, app, or device (or data regarding your web browser, app, or device) to your Link Account and to recognize you when you visit that Link Merchant or another Link Merchant on the same web browser, app, or device. You will be able to log in to your Link Account to access your Saved Information by inputting your email address and using a passkey or a verification code sent to you via SMS text message or by email. You can then make purchases using your Account Information, Payment Information, and Shipping Information across Link Merchants when you are logged in with us on the same browser, app or device. When you are logged in to your Link Account, we will provide the Link Merchant with your Account Information, Payment Information, and/or your Shipping Information to facilitate a faster checkout. If you are not logged in to your Link Account, for example, because your session has expired, you've cleared your cookies, or you're using a device that is different from the one you used to last access Link, you may log in again via the same method outlined above.
+
+### 2\. **Your Rights and Obligations**
 
 *   You may only save Payment Information with us that you are authorized to use.
 *   When you are logged into your [Link Account](https://app.link.com/login) and you input or use a new payment method (such as a different debit or credit card, or a different bank account), you authorize Stripe to save that new payment method information to your Link Account as part of your Payment Information. The last payment method you used to make a successful transaction may become your default payment method the next time you are completing a transaction on a Link Merchant's site. You may also change your default payment method by logging into your [Link Account](https://app.link.com/login) on app.link.com.
@@ -146,20 +164,20 @@ When you use Link on a Link Merchant's website, we or the Link Merchant will use
 ### **3\. Updating or terminating your Link Account**
 
 *   These Link Account Terms are effective unless and until they are terminated by either you or us. You may terminate these Link Account Terms at any time by [deleting your Link Account](https://support.link.com/how-to-delete-your-saved-payment-information).
-*   If you want to delete your Saved Information, your Link Account, or stop storing information using Link, please let us know by visiting [https://support.link.com/how-to-delete-your-saved-payment-information](https://support.link.com/how-to-delete-your-saved-payment-information) and submitting your email address.
+*   If you want to delete your Saved Information, your Link Account, or stop storing information using Link, please let us know by visiting [this page](https://support.link.com/how-to-delete-your-saved-payment-information) and submitting your email address.
 *   You can manage your Saved Information on your [Link Account](https://app.link.com/login), the next time you checkout on a Link Merchant site, or by visiting [https://support.link.com](https://support.link.com/) for more instructions. Should you update your Payment Information, you authorize Stripe to validate and store your Payment Information, including your credit card, on file.
 *   If your access to your Link Account is terminated by you or us, we will delete your Saved Information in accordance with our [Privacy Policy](https://link.com/privacy).
 
 ### **4\. Adding or Removing a Payment Method**
 
-*   You can add or remove certain payment methods to your [Link Account](https://app.link.com/login) such as a credit card, debit card, a buy-now-pay-later (BNPL) account, or a U.S. bank account. Before linking a payment method, you should review and understand the consumer protection rights and remedies available for different payment sources in your jurisdiction, such as under the Electronic Fund Transfer Act (EFTA) and Fair Credit Billing Act (FCBA) in the United States.
+*   You can add or remove certain payment methods to your [Link Account](https://app.link.com/login) such as a credit card, debit card, a buy-now-pay-later (BNPL) account, or a bank account. Before linking a payment method, you should review and understand the consumer protection rights and remedies available for different payment sources in your jurisdiction, such as under the Electronic Fund Transfer Act (EFTA) and Fair Credit Billing Act (FCBA) in the United States.
 *   If you add a BNPL account to your Link Account, your BNPL account will remain logged-in via your Link Account. This means that you will not need to separately log in to your BNPL account to access it via Link. It also means that access to your Link account will also provide access to your BNPL account. 
 *   Please keep your Payment Information current (e.g., credit card number and expiration date). If this information changes, you authorize us to, as permitted by and in accordance with the law, update it using information and third-party sources available to us without any action on your part. If you do not want us to update your card information, you may remove your Payment Information from your [Link Account](https://app.link.com/login).
 *   Removing a payment method from your [Link Account](https://app.link.com/login) does not cancel or change any amounts you still owe to a Link Merchant or to a BNPL provider. Specifically, if you remove a payment method from your Saved Information, this will not terminate or cancel any outstanding payment plans you may have entered into with a BNPL provider or any subscriptions you may have purchased with a Link Merchant using your Saved Information. You must cancel your subscriptions with the Link Merchant directly, and you must manage your BNPL payment plans with the BNPL provider directly.
 *   Where applicable, we may ask you to connect your bank account to your Link Account to make it easier to pay with your bank account subsequently through your Link Account. Any bank account you choose to save to your Link Account is referred to as a "Saved Bank Account." Through your Link Account and under the Financial Connections Terms, you may also choose to provide your Saved Bank Account details directly to a Business User regardless of whether Stripe is involved in a subsequent transaction. We will collect data from your Saved Bank Account (and other accounts under the same account credentials) pursuant to the [Financial Connections Terms](https://link.com/terms#financial-connections-terms) and the [Link Privacy Policy](https://link.com/privacy). We may use your Saved Bank Account data to, among other things, verify that your Saved Bank Account is valid, check your balance to confirm there are sufficient funds for your purchase, streamline your requested payments and assess your eligibility for and offer you Consumer Services that we or our affiliate provides. You authorize us to credit amounts or otherwise send payments to the bank account you would like to save to your Link Account and your existing Saved Bank Account(s), including to determine whether your bank account is valid and active, as well as for promotions and refunds.
 *   Each time you use your Link Account to pay a Link Merchant using your Saved Bank Account, you are authorizing the Link Merchant to debit your Saved Bank Account for up to the total amount you authorize the merchant to charge ("Total Authorized Amount") pursuant to the [Link Bank Payments Authorization](https://link.com/terms/ach-authorization). You authorize us to retry a debit on your Saved Bank Account if your bank rejects the original debit. If the Link Merchant chooses, they may debit your Saved Bank Account, pursuant to your [Link Bank Payments Authorization](https://link.com/terms/ach-authorization), for amounts less than the Total Authorized Amount, which in the aggregate will not exceed the Total Authorized Amount. Where your Saved Bank Account is a U.S. bank account, you agree that your grant of the authorization in this paragraph complies with the National Automated Clearinghouse Association (NACHA) operating rules and has the same legal effect as if you had signed a paper mandate containing the same terms.
 *   If you do not see an option to pay using a bank account through your Link Account, it may be because the Link Merchant has not allowed those payments or the Link Merchant or bank is not eligible for bank payments via our Consumer Services. If your bank account transaction fails without an actual attempt to debit your Saved Bank Account, it may be because we determined the transaction is at high risk of being returned unsuccessfully (e.g. if your historical account balance is below the transaction amount). This can help prevent you from incurring insufficient funds fees from your bank. We recommend that you use a different bank account or payment method or reach out to us if you have questions. Your use of your bank account as a payment method is also subject to the terms, benefits, and protections associated with your personal bank account. If you use your bank account as a payment method and do not have sufficient funds to make a purchase, you could incur overdraft fees, insufficient funds fees or other fees with your bank.
-*   If at any time you would like to revoke your [Link Bank Payments Authorization](https://link.com/terms/ach-authorization) or you no longer want your Saved Bank Account to be a payment method saved to your Link Account, you must delete your Saved Bank Account as a payment method from your [Link Account](https://app.link.com/). If a payment with your Saved Bank Account was not initiated from your Link Account but involved Link or Stripe connecting your financial account with that Business User, please see the Financial Connections Terms or [this page](https://support.stripe.com/user/how-do-i-disconnect-my-linked-financial-account) for information on how to disconnect your Saved Bank Account.
+*   If at any time you would like to revoke your [Link Bank Payments Authorization](https://link.com/terms/ach-authorization) or you no longer want your Saved Bank Account to be a payment method saved to your Link Account, you must delete your Saved Bank Account as a payment method from your [Link Account](https://app.link.com/). If a payment with your Saved Bank Account was not initiated from your [Link Account](https://app.link.com/) but involved Link or Stripe connecting your financial account with that Business User, please see the Financial Connections Terms or [this page](https://support.stripe.com/user/how-do-i-disconnect-my-linked-financial-account) for information on how to disconnect your Saved Bank Account.
 
 ### 5\. **Backup payment method**
 
@@ -169,7 +187,7 @@ When you use Link on a Link Merchant's website, we or the Link Merchant will use
 
 ### **6\. Beta Program**
 
-If you would like access to Link’s newest products and services, you can opt in to participating in the Link beta program via the settings in your [Link Account](https://app.link.com). When you join the Link beta program, you are authorizing us to process your Saved Information to determine if you are eligible for our newest products and services. We may also send you communications to market the availability of a new product or service.
+If you would like access to the newest Link products and services, you can opt in to participate in the Link beta program via the settings in your [Link Account](https://app.link.com/login). When you join the Link beta program, you are authorizing us to process your Saved Information to determine if you are eligible for our newest products and services. We may also send you communications to market the availability of a new product or service.
 
 ### **7\. Security**
 
@@ -219,7 +237,7 @@ If you would like access to Link’s newest products and services, you can opt i
     *   If you give someone access to your Link Account (by giving them your login information) and they use your Link Account without your knowledge or permission. You are responsible for transactions made in this situation.
     *   Requests for duplicate documentation or other information for tax or other recordkeeping purposes.
 *   In case of Errors or questions about your electronic transfers
-    *   Telephone us at 1-888-820-7551, contact us at [support.link.com/contact](https://support.link.com/contact), or write us at Link │Built by Stripe Stripe, Inc. 354 Oyster Point Blvd. South San Francisco, CA 94080
+    *   Telephone us at 1-888-820-7551, contact us at [support.link.com/contact](https://support.link.com/contact), or write us at Link │ Built by Stripe Stripe, LLC 354 Oyster Point Blvd. South San Francisco, CA 94080
     *   Notify us as soon as you can, if you think your statement or receipt is wrong or if you need more information about a transfer listed on the statement or receipt. We must hear from you no later than 60 days after the problem or error appeared on your Link Transaction History.
         1.  Tell us your name and account number.
         2.  Describe the error or the transfer you are unsure about, and explain as clearly as you can why you believe it is an error or why you need more information.
@@ -228,9 +246,67 @@ If you would like access to Link’s newest products and services, you can opt i
     *   We will determine whether an error occurred within 10 business days after we hear from you and will correct any error promptly. 
     *   We will tell you the results after completing our investigation. If we decide that there was no error, we will send you a written explanation. You may ask for copies of the documents that we used in our investigation.
 
+## Link Balance Terms
+
+### **1\. Registration, Access, and Use**
+
+You must sign up for a Link Account or have an existing Link Account to use Link Balance. You will need to complete certain verification procedures before you are permitted to use Link Balance. Your Link Account will be the sole means of accessing your Link Balance.
+
+By using Link Balance, you agree that you will use Link Balance only for yourself, and not on behalf of any third party. You are fully responsible for all activity that occurs on your Link Account, including Link Balance activity. You are solely responsible for maintaining the security of your device and your Link Account credentials. Link is not liable for any loss or liability resulting from unauthorized access to your Link Balance that occurs as a result of your failure to keep your credentials or device secure, or due to a compromise of your device, email, or phone number.
+
+### **2\. Custodial Services and Ownership**
+
+As part of your Link Balance, Link will provide qualifying users a custodial wallet to hold your Supported Digital Assets. [Bridge](https://www.bridge.xyz/) (a Stripe company) is the custodian of your Supported Digital Assets. By providing instructions relating to your Supported Digital Assets through your Link Account (e.g., the instruction of a withdrawal), you are providing instructions directly to Bridge. By using Link Balance, you agree to be bound by the Bridge User Terms found [**here**](https://www.bridge.xyz/legal/overview). You are ultimately legally responsible for all transactions and risk of loss. As long as you continue to hold Supported Digital Assets in your Link Balance, Bridge will retain control over electronic private keys associated with blockchain addresses operated by Bridge, including the blockchain addresses used to hold the Supported Digital Assets credited to your Link Balance.
+
+Bridge will not receive title to any Supported Digital Assets; you will retain title to Supported Digital Assets in compliance with applicable law. As owner of the Supported Digital Assets in your Link Balance, you will bear all risk of loss (including due to fluctuations in asset value or fraudulent or unauthorized transactions) of such Supported Digital Assets. 
+
+### **3\. Balance Information**
+
+You will be able to view and manage your Link Balance on the Link app. Information you will be able to view include: (i) the amount (and currency) of each Supported Digital Asset transaction; (ii) a reference and description of the Supported Digital Asset transaction; (iii) if applicable, any fees charged; (iv) if applicable, the rate of exchange, and the amount (in the new currency) after exchange; and (v) the date of each Supported Digital Asset Transaction.
+
+### **4\. Withdrawals from Link Balance**
+
+You may withdraw your Supported Digital Assets by instructing Bridge (via your Link Account) to debit the applicable Supported Digital Asset from your Link Balance and convert the Supported Digital Assets to fiat currency for deposit into your personal bank account. Withdrawal requests may be subject to outages, downtime, time to conduct blockchain operations to fulfill your request, and other applicable policies. You are responsible for risk of loss arising from incorrect instructions provided to Link and Bridge. Once you have initiated a withdrawal, you cannot cancel or reverse it.
+
+We make no guarantees regarding the amount of time it may take to complete a transfer or withdrawal of Supported Digital Assets. You acknowledge that the blockchain networks underlying the Supported Digital Assets are decentralized and outside of our control. Network congestion, high transaction volumes, or issues with the underlying protocol may cause transactions to be delayed, suspended, or fail. Link and Bridge are not responsible for any losses or damages caused by such delays or failures.
+
+### **5\. Fees**
+
+By using Link Balance, you agree that Link may charge fees, including service fees, pass-through fees from sub-processors, gas fees, foreign exchange fees, and any other fees associated with the storage and withdrawal of the applicable Supported Digital Asset in your Link Balance (collectively, “Fees”). You grant Link a standing authorization to automatically deduct all applicable Fees directly from your Link Balance or from the proceeds of a specific transaction at the time the liability is incurred, without further notice to you. Fees may be debited from your Link Balance for a specific transaction and will be reflected in your Link Balance information. 
+
+### **6\. Supported Digital Assets**
+
+Link Balance currently supports USD Coin (“USDC”) and may support other digital assets in the future (“Supported Digital Asset”). USDC is issued by [Circle](https://www.circle.com/) and pegged to USD at a 1:1 ratio. 
+
+### **7\. No Deposit Insurance**
+
+You acknowledge that your Link Balance is not a bank account or a deposit account. Supported Digital Assets held in your Link Balance are not legal tender, are not backed by any government, and are not insured by the Federal Deposit Insurance Corporation (FDIC) or any other governmental agency. 
+
+### **8\. Operation of Digital Asset Protocols**
+
+Link does not own or control the underlying software protocols which govern the operation of the Supported Digital Assets. Link assumes no responsibility for the operation of the underlying protocols and does not guarantee the functionality or security of network operations. In particular, the underlying protocols may be subject to sudden changes in operating rules (including “forks”). Any such operating changes may materially affect the availability, value, functionality, and/or the name of the Supported Digital Assets in your Link Balance. In the event of any such operational change, Link reserves the right to take such steps as may be necessary to protect the security and safety of Supported Digital Assets held in your Link Balance, including, without limitation, temporarily suspending operations for the involved Supported Digital Assets. Link will use commercially reasonable efforts to provide you with reasonable prior notice of its response to any material operating change. 
+
+### **9\. Payment Service Partners**
+
+Link may use a third-party payment processor to process withdrawal requests from your Link Balance to your local bank account. Link may add or change third party payment processors for the purposes of providing the Link Balance services at any time. 
+
+### **10\. Dormant Account Unclaimed Property**
+
+For the avoidance of doubt, Dormant Account terms of your Link Account apply to your Link Balance. Following Dormant Account notification, applicable law may require Bridge to deliver unclaimed Supported Digital Assets held in your Link Balance to the applicable governmental authority as unclaimed property. 
+
+### **11\. Suspension, Termination, and Cancellation**
+
+Link may suspend, restrict, or terminate your access to Link Balance, and may instruct Bridge to suspend any transfer of any Supported Digital Assets, with immediate effect for any reason at our sole discretion and is under no obligation to disclose the details of its decision to you. 
+
+In the event your access to Link Balance has been terminated, you will be permitted to transfer Supported Digital Assets associated with your Link Balance for thirty (30) days after notice of termination unless such transfer is otherwise prohibited under applicable law. If your Supported Digital Assets are not transferred following termination of your Link Balance, your Supported Digital Assets may be subject to applicable escheatment laws. Link is not responsible for any liability or loss you may incur resulting from suspension or termination of Link Balance under these terms.
+
+### **12\. Verification Procedures**
+
+Link is required to identify users registering for and using Link Balance. This ensures Link remains in compliance with applicable KYC/AML laws, which is necessary to continue offering Supported Digital Asset and Link Balance services to our customers. Link collects and verifies information about you in order to: (i) protect Link and the community from fraudulent users; and (ii) to keep appropriate records of Link's customers. Link may require you to provide or verify additional information, engage in enhanced due diligence, or to wait some amount of time after completion of a transaction, before permitting you to use any Link Balance service and/or before permitting you to engage in transactions.
+
 ## Financial Connections Terms
 
-We provide a Consumer Service that allows you to connect your U.S. financial accounts to easily share your financial account data with Stripe and our affiliates (and to the extent identified, our Business User with which you are interacting), so that you can receive better product experiences. These Financial Connections Terms, along with the [Consumer Terms of Service](https://stripe.com/legal/consumer), apply when you use this Consumer Service.
+We provide a Consumer Service that allows you to connect your financial accounts to easily share your financial account data with Stripe and our affiliates (and to the extent identified, our Business User with which you are interacting), so that you can receive better product experiences. These Financial Connections Terms, along with the [Consumer Terms of Service](https://stripe.com/legal/consumer), apply when you use this Consumer Service.
 
 When you interact with a Business User that has enabled this Consumer Service, we will ask you to connect one or more of your financial accounts. If you agree to connect your financial accounts with us, Stripe will collect data from those financial accounts (associated with the login information you provide) for account selection and as reasonably necessary to provide this Consumer Service. We will only provide the Business User with the data categories (and related insights) requested by the Business User for the specific accounts you choose to share with the Business User. 
 
@@ -240,7 +316,7 @@ When you agree to connect your financial account using this Consumer Service, yo
 
 *   Account owner information, including contact information (such as your name and address);
 *   Account balances, including current and pending balances;
-*   Account details, including your account type and bank, and account and routing numbers;
+*   Account details, including your account type and bank, and account numbers and related identifiers (e.g., routing numbers);
 *   Account transactions, including balance, transaction date, payee, location, transaction, description, and amount.
 
 Among other things, we may use your data to:
@@ -282,141 +358,117 @@ If you want to delete your identity information from your Link Account, there ar
 
 ## Sold Through Link Terms
 
-When you purchase digital goods or digital services from a Business User that is stated as “Sold through Link” (each purchase, an “**Order**”), then these Sold through Link Terms and the Purchase Terms below apply to you. When you use Link to manage and receive support for your Orders, then the Buyer Services Terms below apply to you. The Consumer Terms of Service are incorporated in these Sold through Link Terms by reference. Additional terms may apply to you based on your location as described in the Country or Region Specific Provisions. If you do not agree to these Sold through Link Terms or any of the additional terms incorporated by reference, please do not complete your Order.
+When you purchase digital goods or digital services from a Business User that is stated as "Sold through Link" (each purchase, an "**Order**"), then these Sold through Link Terms and the Purchase Terms (below) apply to you. When you use Link to manage and receive support for your Orders, then the Buyer Services Terms below apply to you. The Consumer Terms of Service apply to these Sold through Link Terms and you should review those terms as well. Additional terms may apply to you based on your location as described in the Country or Region Specific Provisions. If you do not agree to these Sold through Link Terms or any of the additional terms stated to apply to you, please do not complete your Order.
 
-**Relationship to Consumer Terms**
-
-Stripe and its affiliates facilitating your ability to place an Order is a Consumer Service under the Consumer Terms of Service. The Buyer Services are Consumer Services under the Consumer Terms of Service. These Sold through Link Terms replace those sections of the Consumer Terms of Service identified in the list below. When you place an Order or use the Buyer Services (as described in the Buyer Services Terms below), these Sold through Link Terms control if there is a conflict with any Consumer Terms of Service or Link Account Terms.
-
-**Sections of the Consumer Terms of Service replaced by these Sold through Link Terms**
-
-*   Disclaimer of Warranties
-*   Limitation of Liability
-*   Purchase Terms: Stripe’s Role
+When you place an Order or use the Buyer Services (as described in the Buyer Services Terms below), these Sold through Link Terms control if there is a conflict with any Consumer Terms of Service or Link Account Terms.
 
 **How we Use your Information**
 
 You authorize us ("we", "us", "our", or "Stripe") and our affiliates to use your personal data that you provide to us in accordance with our Privacy Policy. In addition you also authorize us and our affiliates to use your personal data in connection with providing the Buyer Services to you, in connection with providing the Stripe Managed Payments Services to Business Users, and in connection with facilitating your Order from Business Users. We and our affiliates may access, use, store and disclose information you provide in connection with your Order, to: (i) comply with law, (ii) enforce these Sold through Link Terms, (iii) detect, prevent and address fraud, (iv) charge and collect indirect tax where required to do so, (v) respond to your support requests and address technical or security issues, and (vi) to protect our and our affiliates’ rights, property and safety and those of Business Users and the general public. You authorize us and our affiliates to share all Order-related information, including your contact information (e.g., name, email address, phone number, etc.), billing and shipping address, payment information, tax identification number, and order details (e.g., order date, price, etc.) (collectively, “**Order Data**”), with the Business User and the Business User will have access to your Order Data. The Business User may make available your Order Data to you (e.g., in their own customer dashboard) and that Order Data will be used and stored in accordance with the Business User's privacy policy.
 
-**Disclaimer of Warranties**
-
-You release Stripe and its affiliates from any claims, demands, and damages arising out of disputes relating to (a) your placement of an Order, and (b) your use of the Buyer Services, including claims you have with Business Users or other parties.
-
-Stripe and its affiliates make no warranties with respect to the products, services or information provided by Business Users to you. You agree, with respect to any claim regarding the products, services or information provided by Business Users to you, that Stripe and its affiliates are not responsible or liable for and you release Stripe and its affiliates from all claims, demands and damages, including: (a) product liability claims related to Business User products; (b) claims that the offer or sale of Business User products or services fails to conform to any applicable legal or regulatory requirement; (c) claims about Business Users' products, services, or practices arising under consumer protection or similar legislation; (d) claims based on any inaccurate, incomplete or out of date information offered by a Business User; (e) claims of infringement of intellectual property rights by the Business User; or (f) claims about any third party platform from which you purchase products. Your recourse for claims related to the products or services that you purchase from a Business User is against the Business User and not us.
-
-Subject to statutory consumer guarantees, which will apply irrespective of this disclaimer, the Buyer Services are provided "as-is" and without any representation or warranty, whether express or implied. We, our affiliates, and our respective agents, and contractors (together, the "**Disclaiming Entities**") and Business Users make no representation or warranty of any kind whatsoever (other than those implied by statute) with respect to the Buyer Services or the content, materials, information and functions we make accessible, and specifically disclaim all implied warranties of merchantability, fitness for a particular purpose, title and non-infringement. We do not promise that the Buyer Services will be uninterrupted, error-free, free from cyber attacks, or secure.
-
-The Disclaiming Entities do not control or make any warranties regarding the products or services Business Users provide in connection with your Order or the Buyer Services. In other words, we do not promise or imply that the products or services you buy under an Order will work as promised or be safe to use.
-
-Some laws limit or prohibit disclaiming the warranties referred to in the previous paragraphs, or impose obligations on us that we can't eliminate with these Terms. In those cases, this section (Disclaimer of Warranties) does not restrict, exclude or modify any consumer rights under any applicable law.
-
-**Limitation of Liability**
-
-The Disclaiming Entities and Business Users will not be liable to you for any failure to perform our obligations under these Sold through Link Terms due to a Force Majeure Event. A "Force Majeure Event" is any event beyond the control of the Disclaiming Entities that significantly impacts Stripe’s ability to perform its obligations under these Terms, including a strike or other labor dispute; labor shortage, stoppage or slowdown; supply chain disruption; embargo or blockade; telecommunication breakdown; cyber blackout; power outage or shortage; inadequate transportation service; inability or delay in obtaining adequate supplies; weather; earthquake; fire; flood; act of God; riot; civil disorder; civil or government calamity; epidemic; pandemic; state or national health crisis; war; invasion; hostility (whether war is declared or not); terrorism threat or act; Law; or act of a governmental authority.
-
-Subject to applicable consumer laws in your country, which will apply irrespective of this limitation of liability, the Disclaiming Entities will not be liable to you for any failure to perform our obligations under these Terms where performance of that obligation would have put us in violation of applicable law.
-
-The Disclaiming Entities will not be liable to you in any circumstances for: (a) Loss of business, loss of goodwill, loss of opportunity, or loss of profit; or (b) Any loss that we could not have reasonably anticipated.
-
-Subject to applicable consumer laws in your country, in no event will a Disclaiming Entity's liability arising out of or in connection with the Buyer Services exceed the amount you paid for the Order on which your claim is based.
-
-You and we agree that the other has relied on the disclaimer of warranties and limitation of liability stated above in entering into these Sold through Link Terms, the limitation and disclaimer are essential to the agreement between you and us under these Sold through Link Terms, and they will apply to the fullest extent allowed by law.
-
-Some laws restrict our ability to disclaim or limit our liability. In those cases, this section does not restrict, exclude or modify any consumer rights under any applicable law.
-
 **Country or Regional Specific Provisions**
 
-If the terms in this section that apply to you conflict with these Sold through Link Terms, then the terms in this section control.
+If the terms in this section that apply to you conflict with other terms in these Sold through Link Terms or the Consumer Terms, then the terms in this section control.
 
-Country or Region where you are located
+**Country or Region where you are located**
 
-Additional or modified provisions that apply to you
+**Additional or modified provisions that apply to you**
 
-Australia, New Zealand
+**Australia, New Zealand**
 
-**To the extent that you purchase digital goods or digital services from a Business User that is stated as “Sold through Link”, or use Buyer Services provided by Stripe, as a consumer within the meaning of the Australian Consumer Law as set out in the Competition and Consumer Act 2010 (Cth) or the New Zealand Consumer Guarantees Act 1993, you have certain rights and remedies (including consumer guarantee rights) that cannot be excluded, restricted or modified by agreement. Nothing in these Sold through Link Terms operates to exclude, restrict or modify the application of any implied condition, warranty or guarantee, or the exercise of any right or remedy, or the imposition of any liability under law where to do so would: (a) contravene that law; or (b) cause any section of these Sold through Link Terms to be void.**
+To the extent that you purchase digital goods or digital services from a Business User that is stated as “Sold through Link,” or use Buyer Services provided by Stripe, as a consumer within the meaning of the Australian Consumer Law as set out in the Competition and Consumer Act 2010 (Cth) or the New Zealand Consumer Guarantees Act 1993, you have certain rights and remedies (including consumer guarantee rights) that cannot be excluded, restricted or modified by agreement. Nothing in these Sold through Link Terms operates to exclude, restrict or modify the application of any implied condition, warranty or guarantee, or the exercise of any right or remedy, or the imposition of any liability under law where to do so would: (a) contravene that law; or (b) cause any section of these Sold through Link Terms to be void. The Disclaimer and Limitation of Liability Sections of these Sold through Link Terms do not apply to the extent any loss, claims, demands, and damages arise out of Stripe's breach of this Agreement, negligence, fraud or willful misconduct.
 
-The Disclaimer and Limitation of Liability Sections of these Sold through Link Terms do not apply to the extent any loss, claims, demands, and damages arise out of Stripe’s breach of this Agreement, negligence, fraud or willful misconduct.
+**Canada**
 
-Canada
+Modifying “Purchase Terms” below: Lemon Squeezy LLC, ("Link SMP") is a registered Payments Services Provider and provides Stripe Managed Payments services to Stripe Payments Canada Limited, which in turn facilitates your Order from the Business User.
 
-Modifying “Purchase Terms” below:
+**European Union**
 
-Stripe’s registered agent, Lemon Squeezy LLC, (“Link SMP”) provides Stripe Managed Payments services to Stripe Payments Canada Limited, which in turn facilitates your Order from the Business User.
+If you are a financial entity subject to the EU Digital Operational Resilience Act (DORA), and your Order is for an “ICT service” within the meaning of DORA, you are responsible for ensuring that the Business User's terms of service contain the contractual provisions required under DORA, if relevant. If you are a consumer under EU law, you have a right to cancel your Order during the cooling off period. The cooling off period is for 14 days from the date you receive access to or delivery of the product you purchased in your Order. To exercise this right, contact Customer Support and follow the instructions for requesting a refund and include “cooling off period” as the basis for your refund request.
 
-European Union
+**Indonesia**
 
-If you are a financial entity subject to the EU Digital Operational Resilience Act (DORA), and your Order is for an “ICT service” within the meaning of DORA, you are responsible for ensuring that the Business User’s terms of service contain the contractual provisions required under DORA, if relevant.
+**Disclaimer of Warranties**
 
-If you are a consumer under EU law, you have a right to cancel your Order during the cooling off period. The cooling off period is for 14 days from the date you receive access to or delivery of the product you purchased in your Order. To exercise this right, contact Customer Support and follow the instructions for requesting a refund and include “cooling off period” as the basis for your refund request.
+Subject to statutory consumer guarantees, which will apply irrespective of this disclaimer, the Consumer Services are provided "as-is" and without any representation or warranty, whether express or implied. We, our affiliates, and our respective agents, and contractors (together, the "Disclaiming Entities") and Business Users make no representation or warranty of any kind whatsoever (other than those implied by statute) with respect to the Consumer Services or the content, materials, information and functions we make accessible, and specifically disclaim all implied warranties of merchantability, fitness for a particular purpose, title and non-infringement. We do not promise that the Buyer Services will be uninterrupted, error-free, free from cyber attacks, or secure. Nothing in these Sold through Link Terms is intended to exclude or restrict any rights or remedies available to you under applicable laws, including but not limited to Law No. 8 of 1999 on Consumer Protection. In particular, mandatory statutory guarantees that apply to the products sold through Link by the Business User under an Order to consumers and the Buyer Services offered by us to consumers shall continue to apply. Nothing in these Sold through Link Terms is intended to exclude or restrict any rights or remedies available to you under applicable laws, including but not limited to Law No. 8 of 1999 on Consumer Protection. In particular, mandatory statutory guarantees that apply to the products sold through Link by the Business User under an Order to consumers and the Buyer Services offered by us to consumers shall continue to apply.
 
-Indonesia
+**Limitation of Liabilities**
 
-Disclaimer of Warranties
+The Disclaiming Entities will not be liable to you in any circumstances for: (a) Loss of business, loss of goodwill, loss of opportunity, or loss of profit; or (b) Any loss that we could not have reasonably anticipated, except where such liability arises as a direct result of the Disclaiming Entities' gross negligence, fraud, or willful misconduct.
 
-Subject to statutory consumer guarantees, which will apply irrespective of this disclaimer, the Buyer Services are provided "as-is" and without any representation or warranty, whether express or implied. We, our affiliates, and our respective agents, and contractors (together, the "Disclaiming Entities") and Business Users make no representation or warranty of any kind whatsoever (other than those implied by statute) with respect to the Buyer Services or the content, materials, information and functions we make accessible, and specifically disclaim all implied warranties of merchantability, fitness for a particular purpose, title and non-infringement. We do not promise that the Buyer Services will be uninterrupted, error-free, free from cyber attacks, or secure.
+**Malaysia**
 
-Nothing in these Sold through Link Terms is intended to exclude or restrict any rights or remedies available to you under applicable laws, including but not limited to Law No. 8 of 1999 on Consumer Protection. In particular, mandatory statutory guarantees that apply to the products sold through Link by the Business User under an Order to consumers and the Buyer Services offered by us to consumers shall continue to apply.
+**Disclaimer of Warranties**
 
-Limitation of Liabilities
+Subject to statutory consumer guarantees, which will apply irrespective of this disclaimer, the Consumer Services are provided "as-is" and without any representation or warranty, whether express or implied. We, our affiliates, and our respective agents, and contractors (together, the "Disclaiming Entities") and Business Users make no representation or warranty of any kind whatsoever (other than those implied by statute) with respect to the Buyer Services or the content, materials, information and functions we make accessible, and specifically disclaim all implied warranties of merchantability, fitness for a particular purpose, title and non-infringement. We do not promise that the Consumer Services will be uninterrupted, error-free, free from cyber attacks, or secure. Nothing in these Sold through Link Terms is intended to exclude or restrict any rights or remedies available to you under applicable laws, including but not limited to the Consumer Protection Act 1999. In particular, mandatory statutory guarantees that apply to the products sold through Link by the Business User under an Order to consumers and the Buyer Services offered by us to consumers shall continue to apply. Nothing in these Sold through Link Terms is intended to exclude or restrict any rights or remedies available to you under applicable laws, including but not limited to the Consumer Protection Act 1999. In particular, mandatory statutory guarantees that apply to the products sold through Link by the Business User under an Order to consumers and the Buyer Services offered by us to consumers shall continue to apply.
 
-The Disclaiming Entities will not be liable to you in any circumstances for:  
-(a) Loss of business, loss of goodwill, loss of opportunity, or loss of profit; or  
-(b) Any loss that we could not have reasonably anticipated,  
-except where such liability arises as a direct result of the Disclaiming Entities’ gross negligence, fraud, or willful misconduct.
+**Limitation of Liabilities**
 
-Malaysia
+The Disclaiming Entities will not be liable to you in any circumstances for: (a) Loss of business, loss of goodwill, loss of opportunity, or loss of profit; or (b) Any loss that we could not have reasonably anticipated, except where such liability arises as a direct result of the Disclaiming Entities' gross negligence, breach of contract, fraud, or willful misconduct.
 
-Disclaimer of Warranties
+**United Kingdom**
 
-Subject to statutory consumer guarantees, which will apply irrespective of this disclaimer, the Buyer Services are provided "as-is" and without any representation or warranty, whether express or implied. We, our affiliates, and our respective agents, and contractors (together, the "Disclaiming Entities") and Business Users make no representation or warranty of any kind whatsoever (other than those implied by statute) with respect to the Buyer Services or the content, materials, information and functions we make accessible, and specifically disclaim all implied warranties of merchantability, fitness for a particular purpose, title and non-infringement. We do not promise that the Buyer Services will be uninterrupted, error-free, free from cyber attacks, or secure.
+If you are a consumer under UK law, you have a right to cancel your Order during the cooling off period. The cooling off period is for 14 days from the date you receive access to or delivery of the product you purchased in your Order. To exercise this right, contact Customer Support and follow the instructions for requesting a refund and include “cooling off period” as the basis for your refund request.
 
-Nothing in these Sold through Link Terms is intended to exclude or restrict any rights or remedies available to you under applicable laws, including but not limited to the Consumer Protection Act 1999. In particular, mandatory statutory guarantees that apply to the products sold through Link by the Business User under an Order to consumers and the Buyer Services offered by us to consumers shall continue to apply.
+**United States**
 
-Limitation of Liabilities
-
-The Disclaiming Entities will not be liable to you in any circumstances for:  
-(a) Loss of business, loss of goodwill, loss of opportunity, or loss of profit; or  
-(b) Any loss that we could not have reasonably anticipated,  
-except where such liability arises as a direct result of the Disclaiming Entities’ gross negligence, breach of contract, fraud, or willful misconduct.
-
-United States
-
-[Arbitration agreement](https://stripe.com/legal/consumer/arbitration#:~:text=IF%20YOU%20AGREE%20TO%20ARBITRATION,A%20NAMED%20OR%20UNNAMED%20CLAIMANT.). IF YOU ARE LOCATED IN THE UNITED STATES, YOU AGREE TO OUR ARBITRATION AGREEMENT, WHICH REQUIRES YOU TO RESOLVE DISPUTES BETWEEN YOU AND STRIPE ON AN INDIVIDUAL BASIS THROUGH ARBITRATION, PROHIBITS YOU FROM MAINTAINING OR PARTICIPATING IN A CLASS ACTION LAWSUIT, WAIVES YOUR RIGHT TO A JURY TRIAL, AND LIMITS THE TIME IN WHICH A CLAIM MAY BE BROUGHT.
-
-You also agree to the [Link E-Sign Disclosure](https://link.com/terms/e-sign-disclosure).
+[Arbitration agreement](https://stripe.com/legal/consumer/arbitration#:~:text=IF%20YOU%20AGREE%20TO%20ARBITRATION,A%20NAMED%20OR%20UNNAMED%20CLAIMANT.). IF YOU ARE LOCATED IN THE UNITED STATES, YOU AGREE TO OUR ARBITRATION AGREEMENT, WHICH REQUIRES YOU TO RESOLVE DISPUTES BETWEEN YOU AND STRIPE ON AN INDIVIDUAL BASIS THROUGH ARBITRATION, PROHIBITS YOU FROM MAINTAINING OR PARTICIPATING IN A CLASS ACTION LAWSUIT, WAIVES YOUR RIGHT TO A JURY TRIAL, AND LIMITS THE TIME IN WHICH A CLAIM MAY BE BROUGHT. You also agree to the [Link E-Sign Disclosure](https://link.com/terms/e-sign-disclosure).
 
 ### Purchase Terms
 
-Stripe’s affiliate, Lemon Squeezy LLC, (“**Link SMP**”) provides Stripe Managed Payments services to the Business User to facilitate your Order from the Business User. Stripe Managed Payments services are provided to the Business User and not to you. These Purchase Terms are part of the Sold Through Link Terms and apply when you place an Order. Link SMP is a third party beneficiary of the Sold Through Link Terms.
+These Purchase Terms are part of the Sold Through Link Terms and apply when you are placing an Order. Stripe and its affiliates facilitating your ability to place an Order is a Consumer Service under the Consumer Terms of Service.
+
+Stripe's affiliate, Lemon Squeezy LLC, (“Link SMP”), is a third party beneficiary of the Sold Through Link Terms.
 
 **Stripe’s Role.**
 
-When placing an Order, Link SMP will charge or debit your selected payment method for the Order on behalf of the Business User, which will be reflected in your card, bank or payment method statement as a payment for your Order from “Link.com \* \[Business User name\]” or similar. Link SMP or its affiliates may request and collect any of the following information to calculate appropriate indirect taxes (sales taxes, VAT, GST, etc.) for Orders: your billing information, shipping information, and tax identification number. Link SMP or its affiliates may use Order Data for fraud, security and product improvement reasons. Payment for your Order will be processed by affiliates of Link SMP using the payment method you select at checkout. Your payment to Link SMP or its affiliates satisfies your payment obligations to the Business User for your Order.
+Link SMP provides Stripe Managed Payments services to the Business User. For tax purposes, Link SMP's sole supply to you is the product of the Business User. What this means is that when you place an Order, and your payment is successful, Link SMP enables you to get access to the product.
 
-The Business User has appointed Link SMP to facilitate the sale of its product on its behalf. The Business User, and not Stripe or Link SMP, is responsible for the products that you purchase from them through Link SMP, including delivery (unless fulfilled by Link SMP), quality of goods, returns, accuracy, fraud, advertising, protection of intellectual property rights, liability relating to the Business User's products or services, and compliance with applicable law. You are responsible for reviewing and complying with the terms and conditions between you and the Business User that apply to the products you purchase through an Order.
+The Business User remains responsible for the products that you purchase through Link SMP, including delivery (unless fulfilled by Link SMP), quality of goods, returns, accuracy, fraud, advertising, protection of intellectual property rights, liability relating to the Business User's products or services, and compliance with applicable law. You are responsible for reviewing and complying with the terms and conditions that apply to the products you purchase through an Order.
 
 **Placing and Paying for Orders.**
 
-When placing an Order, you may only pay with the payment methods accepted in the checkout by the Business User, which may vary based on your location. Certain Orders may require the preauthorization of your payment method with the actual charge following the preauthorization, for example, Orders for subscriptions with an initial free trial period or preorders. If your payment method does not support preauthorizations, then your payment method will be charged when the Order is placed. The payment method you use to purchase your Order will be used for ongoing subscription payments.
+When placing an Order, Link SMP will charge or debit your selected payment method for the Order, which will be reflected in your card, bank or payment method statement as a payment for your Order from “Link.com \* \[Business User name\]” or similar. You may only pay with the payment methods accepted in the checkout, which may vary based on your location. Certain Orders may require the preauthorization of your payment method with the actual charge following the preauthorization, for example, Orders for subscriptions with an initial free trial period or preorders. If your payment method does not support preauthorizations, then your payment method will be charged when the Order is placed. The payment method you use to purchase your Order will be used for ongoing subscription payments.
 
-You, and not Link SMP or its affiliates, are responsible for any fees or surcharges applied by your bank or payment method used related to the transactions processed for Orders (such as foreign transaction fees or cross border fees). Buyer Services cannot assist you with disputes related to these fees or surcharges.
+Link SMP or its affiliates may request and collect any of the following information to calculate appropriate indirect taxes (sales taxes, VAT, GST, etc.) for Orders: your billing information, shipping information, and tax identification number. Link SMP or its affiliates may use Order Data for fraud, security and product improvement reasons. Payment for your Order will be processed by affiliates of Link SMP using the payment method you select at checkout. Your payment to Link SMP or its affiliates satisfies your payment obligations to the Business User for your Order. Where your Order is subject to indirect taxes, you are responsible for payment of such indirect taxes, which are collected by Link SMP or its affiliates as part of the payment for your Order where Link SMP or its affiliates are required to do so.
+
+You, and not Link SMP or its affiliates, are responsible for any fees or surcharges applied by your bank or payment method used related to the transactions processed for Orders (such as foreign transaction fees or cross border fees). Buyer Services, such as Link customer support services, cannot assist you with disputes related to these fees or surcharges.
 
 **Declined or Cancelled Orders.**
 
 Link SMP and its affiliates may decline or cancel any Order if it or they reasonably believe there is suspected fraud, security risk or violation of Stripe terms or policies. Link SMP and its affiliates also reserve the right to decline or cancel abnormal Orders, Orders based on actual or suspected errors, or any Orders which Link SMP or its affiliates suspects are made in bad faith. For Orders cancelled on the basis of actual or suspected error, Link SMP will refund the amount you actually paid. If your Order exceeds a quantity limitation for the product being purchased, Link SMP and its affiliates may decline or cancel your Order.
 
+**Customer Support** For issues relating to your Order please reach out to us at [https://support.link.com/topics/sold-through-link](https://support.link.com/topics/sold-through-link). We reserve the right to redirect you to the Business User. For any issues related to use of the product you purchased in your Order please contact the Business User directly. We do not provide product-related customer support services (e.g., how to use the product).
+
+**Returns and Refunds** You may reach out to Customer Support to initiate a refund request. Refunds for Orders will be determined on a case by case basis and may be refused by Link SMP if there is evidence of fraud, refund abuse, or other misbehavior as stated in our [refund policy](https://support.link.com/questions/requesting-a-refund-for-a-sold-through-link-payment). You should review the [Link SMP Refund Policy](https://support.link.com/questions/requesting-a-refund-for-a-sold-through-link-payment) and the refund policy of the Business User from whom you placed your Order. In the event the refund policy of the Business User you placed an Order with is more restrictive than our refund policy, our refund policy will control. Unless required by Law, we do not provide refunds for unused subscription periods or if you changed your mind about an Order.
+
+We will assess your refund requests based on the information you provide to us. We may at times request additional information from you in relation to the Order. If you do not provide the additional information within the time as reasonably requested, your refund may be denied.
+
+You may have additional rights as a Consumer against the Business User if products purchased through your Order are significantly not as described, faulty or not fit for purpose.
+
 **Subscription Migration**
 
-Link SMP reserves the right to transfer or assign your subscriptions that you purchased through an Order to an affiliate, and such affiliate will assume the responsibilities and obligations of Link SMP under these Purchase Terms. If requested by the Business User from whom you purchased one or more subscriptions through an Order, Link SMP may transfer or assign such subscriptions to that Business User upon providing you notice (“**Transfer Notice**”). The Transfer Notice will state the date of the transfer or assignment of the applicable subscriptions, and any other relevant information. Unless otherwise stated in the Transfer Notice, all of our and Link SMP obligations under these Sold through Link Terms will terminate immediately on the date of the Transfer Notice.
+Link SMP reserves the right to transfer or assign your subscriptions that you purchased through an Order to an affiliate, and such affiliate will assume the responsibilities and obligations of Link SMP under these Purchase Terms.
 
-If a Business User transfers or assigns your subscription to us and Link SMP (“**Subscription Transfer**”), then, from that Subscription Transfer date, you acknowledge and agree that: (a) your subscription with the Business User is now deemed a completed Order, (b) you authorize Link SMP to charge or debit your selected payment method for the Order on behalf of the Business User, and (c) you agree to be bound by these Sold through Link Terms.
+If requested by the Business User from whom you purchased one or more subscriptions through an Order, Link SMP may transfer or assign such subscriptions to that Business User upon providing you notice (“**Transfer Notice**”). The Transfer Notice will state the date of the transfer or assignment of the applicable subscriptions, and any other relevant information. You authorize and consent to the transfer of your subscription as described in the Transfer Notice. Unless otherwise stated in the Transfer Notice, all of our and Link SMP obligations under these Sold through Link Terms will terminate immediately on the date of the Transfer Notice.
+
+If a Business User transfers or assigns your subscription to us and Link SMP (“**Subscription Transfer**”), then, from that Subscription Transfer date, you acknowledge and agree that: (a) your subscription with the Business User is now deemed a completed Order, (b) you authorize Link SMP to charge or debit your selected payment method for the Order, and (c) you agree to be bound by these Sold through Link Terms.
+
+**Currency Selection**
+
+Link SMP may present you with the choice of making payment for an Order in either Link SMP's default currency (“**Default Currency**”), or your local currency as predicted by Link SMP (“**Local Currency**”) (the “**Adaptive Pricing Services**”). Payment in your Local Currency is optional, and you can choose to pay for your Order in the Default Currency. The exchange rate applied to convert Default Currency for a particular Order into Local Currency is received from Link SMP's third-party providers, and includes a markup to guarantee your exchange rate during checkout (“**Applicable Exchange Rate**”).
+
+For Orders that you have elected to pay in Local Currency, involving: **A.** one-time purchases, the Applicable Exchange Rate is determined at the time the payment total is displayed in Local Currency on the final checkout page. **B.** subscriptions, the Applicable Exchange Rate is determined on every payment date of your subscription billing cycle by using the Local Currency equivalent of the Default Currency price for that payment date. As a result, you may be charged different amounts in Local Currency on each subscription payment because the Applicable Exchange Rate can vary. To change your chosen payment currency for a subscription, you must cancel your existing subscription and resubscribe.
+
+Link SMP does not impose any other fees, taxes or charges, however, your card issuer may charge you additional fees. If you decide to refund an Order that you paid for in Local Currency, the same Applicable Exchange Rate will apply to the refund.
+
+The Adaptive Pricing Services do not exchange one currency for another, and can only be used to make payment for an Order. Link SMP can change the terms and conditions for the Adaptive Pricing Services at any time. The terms in effect at the time of your payment will apply to that transaction.
 
 ### Buyer Services Terms
 
 We provide services to you that enable you to manage and receive support in a single global portal for your Orders as part of your Link Account (the “**Buyer Services**”). Except as stated otherwise in these Buyer Services Terms, we provide you with post-Order services that include access to your transaction history, receipts, Order-related customer support, customer support in disputes between you and a Business User for any Order, and a process for requesting refunds.
 
-These Buyer Services Terms are part of the Sold through Link Terms, and, along with the Consumer Terms of Service and [Link Account Terms](https://stripe.com/legal/consumer?__previewId=&__debug=#link-account-terms), apply when you use the Buyer Services through a Link Account. The Link Account Terms are incorporated in these Buyer Terms of Service by reference.
+These Buyer Services Terms are part of the Sold through Link Terms, and, along with the Consumer Terms of Service and [Link Account Terms](https://stripe.com/legal/consumer#link-account-terms), apply when you use the Buyer Services through a Link Account. The Link Account Terms apply to the Buyer Services and you should review those terms as well.
 
 **Your Use of Buyer Services.**
 
@@ -424,26 +476,18 @@ You may access the Buyer Services for your Orders by signing up for Link and cre
 
 Your access to and use of the Buyer Services does not change your relationship with the Business User, third party services or platforms, or with your bank or credit or debit card company.
 
-**Managing your Link Account.**
+**Connecting Orders to your Link Account**
 
-Your Link Account is considered active if you have an ongoing subscription for a product that is managed through the Buyer Services. You are responsible for maintaining accurate and current information about yourself in your Link Account. You must provide to us valid and current information about yourself when requested by us or our affiliates within the time specified in the request.
+Orders can only be connected to your Link Account if the email address on the Order and the email address used for your Link Account are exactly the same. Buyer Services are only available for Orders successfully connected to your Link Account.
 
-**Disputes and Customer Support for Orders.**
+**Managing your Link Account**
 
-For any disputes related to your Order, refer to the Customer Support and Returns and Refunds sections below.
+Your Link Account is considered active if you have an ongoing subscription Order for a product that is managed through the Buyer Services. You must provide to us valid and current information about yourself when requested by us or our affiliates within the time specified in the request.
 
-**Customer Support**
+**Disputes, Returns, Refunds and Customer Support for Orders**
 
-For issues relating to your Order please reach out to us at [https://support.link.com/topics/sold-through-link](https://support.link.com/topics/sold-through-link). We reserve the right to redirect you to the Business User. For any issues related to use of the product you purchased in your Order please contact the Business User directly. We do not provide product-related customer support services (e.g., how to use the product).
-
-**Returns and Refunds**
-
-You may reach out to Customer Support to initiate a refund request. Refunds for Orders will be determined on a case by case basis and may be refused by Link SMP if there is evidence of fraud, refund abuse, or other misbehavior as stated in our [refund policy](https://support.link.com/questions/sold-through-link-refunds). You should review the [Link SMP Refund Policy](https://support.link.com/questions/sold-through-link-refunds) and the refund policy of the Business User from whom you placed your Order. In the event the refund policy of the Business User you placed an Order with is more restrictive than our refund policy, our refund policy will control. Unless required by Law, we do not provide refunds for unused subscription periods or if you changed your mind about an Order.
-
-We will assess your refund requests based on the information you provide to us. We may at times request additional information from you in relation to the Order. If you do not provide the additional information within the time as reasonably requested, your refund may be denied.
-
-You may have additional rights as a Consumer against the Business User if products purchased through your Order are significantly not as described, faulty or not fit for purpose.
+For any disputes, returns, and refund issues related to your Order, refer to the Customer Support and Returns and Refunds sections of the Purchase Terms above.
 
 **Subscription Management**
 
-To change, manage, or cancel a subscription that you purchased through an Order, please do so via your Link Account at link.com. You should review the Business User’s subscription policy. If you submit a request to delete your Link Account, any ongoing subscriptions that you purchased through an Order will be cancelled upon deletion of your Link Account. You are responsible for any cancellation fees or other penalties imposed by the Business User for cancellation of the subscription.
+To change, manage, or cancel a subscription that you purchased through an Order, please do so via your Link Account at Link.com. You should review the Business User’s subscription policy. If you submit a request to delete your Link Account, any ongoing subscriptions that you purchased through an Order will be cancelled upon deletion of your Link Account. You are responsible for any cancellation fees or other penalties imposed by the Business User for cancellation of the subscription.
