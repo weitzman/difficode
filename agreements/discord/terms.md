@@ -288,7 +288,7 @@ For technical support or other assistance with respect to our services, you can 
 
 Discord Inc. is located at 444 De Haro Street #200, San Francisco, CA 94107, USA. Discord Netherlands B.V. is located at Schiphol Boulevard 195, 1118 BG Schiphol, Netherlands.
 
-[![Home page](https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/66e278299a53f5bf88615e90_Symbol.svg)](/)
+[![Discord Home](https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/66e278299a53f5bf88615e90_Symbol.svg)](/)
 
 Language
 
@@ -302,17 +302,25 @@ Social
 
 Menu
 
+### Product
+
 Product
 
 ![](https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/66e15958db56b5a91218f5e9_Chevron%20Down.svg)
+
+### Company
 
 Company
 
 ![](https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/66e15958db56b5a91218f5e9_Chevron%20Down.svg)
 
+### Resources
+
 Resources
 
 ![](https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/66e15958db56b5a91218f5e9_Chevron%20Down.svg)
+
+### Policies
 
 Policies
 
