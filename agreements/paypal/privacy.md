@@ -9,7 +9,7 @@ selector: "#content-wrapper"
 
 PayPal Privacy Statement
 
-Last updated on January 22, 2026
+Last updated on April 2, 2026
 
 ## Overview
 
@@ -460,8 +460,8 @@ Singapore 038985
 Contact [Online](https://www.paypal.com/kr/smarthelp/contact-us/privacy) for Privacy queries  
 Pursuant to the Personal Information Protection Act and the Network Act, the contact details of the domestic agent and Data Protection Office are as follows:  
   
-Name and representative: General Agent Co., Ltd. (representative: Eun-Mi Kim)  
-Address, telephone and e-mail: General Agent Co., Ltd., 28, Saemunan-ro 5ga-gil, Jongno-gu, Seoul, 02-736-8228, [paypal@generalagent.co.kr](mailto: paypal@generalagent.co.kr)
+Name and representative: PayPal Korea Services LLC (representative: Mun Yat Wong)  
+Address, telephone and e-mail: Regus Samsungdong Limited (World Trade Center), 27th, 30th Floor, Trade Tower, 511 Young Dong Street, Gangnam-gu, Seoul, South Korea 06164, (+82) 02 737 5775,  [skrprivacy@paypal.com](mailto: skrprivacy@paypal.com)
 
 Malaysia
 
