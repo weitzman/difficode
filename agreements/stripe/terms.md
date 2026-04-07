@@ -380,7 +380,7 @@ To the extent that you purchase digital goods or digital services from a Busines
 
 **Canada**
 
-Modifying “Purchase Terms” below: Lemon Squeezy LLC, ("Link SMP") is a registered Payments Services Provider and provides Stripe Managed Payments services to Stripe Payments Canada Limited, which in turn facilitates your Order from the Business User.
+Modifying “Purchase Terms” below: Sold Through Link, LLC, ("Link SMP") is a registered Payments Services Provider and provides Stripe Managed Payments services to Stripe Payments Canada Limited, which in turn facilitates your Order from the Business User.
 
 **European Union**
 
@@ -418,7 +418,7 @@ If you are a consumer under UK law, you have a right to cancel your Order during
 
 These Purchase Terms are part of the Sold Through Link Terms and apply when you are placing an Order. Stripe and its affiliates facilitating your ability to place an Order is a Consumer Service under the Consumer Terms of Service.
 
-Stripe's affiliate, Lemon Squeezy LLC, (“Link SMP”), is a third party beneficiary of the Sold Through Link Terms.
+Stripe's affiliate, Sold Through Link, LLC, (“Link SMP”), is a third party beneficiary of the Sold Through Link Terms.
 
 **Stripe’s Role.**
 
