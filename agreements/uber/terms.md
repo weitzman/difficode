@@ -3,33 +3,33 @@ url: "https://www.uber.com/legal/terms/us/"
 selector: "[data-testid='content-group-dynamic']"
 ---
 
-Last modified: 3/9/2026
+Last modified: 4/6/2026
 
   
 
 # U.S. Terms of Use
 
-1\. [Contractual Relationship; Termination; and Modification](https://www.uber.com/legal/en/document/?name=general-terms-of-use&country=united-states&lang=en#_30j0zll)
+1\. [Contractual Relationship; Termination; and Modification](#kix.fg5o99vewf83)
 
-2\. [Arbitration Agreement](https://www.uber.com/legal/en/document/?name=general-terms-of-use&country=united-states&lang=en#_1fob9te)
+2\. [Arbitration Agreement](#kix.mbau90a97ibb)
 
-3\. [The Services](https://www.uber.com/legal/en/document/?name=general-terms-of-use&country=united-states&lang=en#_3znysh7)
+3\. [The Services](#kix.nd46k62190ls)
 
-4\. [Third-Party Services (including Autonomous Vehicles) and Content](https://www.uber.com/legal/en/document/?name=general-terms-of-use&country=united-states&lang=en#_ifma3h51ja0n)
+4\. [Third-Party Services (including Autonomous Vehicles) and Content](#kix.apqatu3y3jj)
 
-5\. [Accessing the Services](https://www.uber.com/legal/en/document/?name=general-terms-of-use&country=united-states&lang=en#_2et92p0)
+5\. [Accessing the Services](#kix.apqatu3y3jj)
 
-6\. [User Conduct and Requirements; Communications; Avoiding Conflicts of Interest; and User Content](https://www.uber.com/legal/en/document/?name=general-terms-of-use&country=united-states&lang=en#_tyjcwt)
+6\. [User Conduct and Requirements; Communications; Avoiding Conflicts of Interest; and User Content](#kix.teak9rffbk25)
 
-7. [Payment](https://www.uber.com/legal/en/document/?name=general-terms-of-use&country=united-states&lang=en#_3dy6vkm)
+7. [Payment](#kix.162drp58ikhz)
 
-8\. [Disclaimers; Limitation of Liability; and Indemnity](https://www.uber.com/legal/en/document/?name=general-terms-of-use&country=united-states&lang=en#_1t3h5sf)
+8\. [Disclaimers; Limitation of Liability; and Indemnity](#kix.3mrmep19aisu)
 
-9\. [Other Provisions](https://www.uber.com/legal/en/document/?name=general-terms-of-use&country=united-states&lang=en#_4d34og8)
+9\. [Other Provisions](#kix.2yjpzqbuu2nm)
 
 IMPORTANT: PLEASE BE ADVISED THAT BY AGREEING TO THESE TERMS YOU ARE WAIVING YOUR RIGHT TO SEEK RELIEF IN A COURT OF LAW AND WAIVING YOUR RIGHT TO HAVE A JURY TRIAL ON YOUR CLAIMS.
 
-PLEASE READ THESE TERMS OF SERVICE CAREFULLY AS THEY CONTAIN PROVISIONS THAT GOVERN HOW YOU CAN BRING CLAIMS AND/OR LAWSUITS BETWEEN YOU AND UBER, INCLUDING THE [ARBITRATION AGREEMENT](https://docs.google.com/document/d/1hxZyXIPZwsPfsi5DtCp6CyJMxA2zBOb6MiIblCh7IUefEJqb/edit?_gfid=docs_editor_frame&csrfToken=1c81c22f57fe22a3805438ad883806e1b840b9350082f5c5a2ee2126a892d1da&fileUrl=https%3A%2F%2Fapi.box.com%2Ffsip%2Ffiles%2F1410533992785&isInboundFsipRequest=true&jsh=m%3B%2F_%2Fscs%2Fabc-static%2F_%2Fjs%2Fk%3Dgapi.lb.en.y0xCMa4KeeI.O%2Fd%3D1%2Frs%3DAHpOoo8-3MGCaatZB3kdS5TpZdd-gOSBHg%2Fm%3D__features__&organizationType=BUSINESS&parent=https%3A%2F%2Fuber.app.box.com&previewUrl=https%3A%2F%2Fuber.app.box.com%2Ffile%2F1410533992785&rpctoken=33629916&tpat=1!JR03EG5gzAbdqoRizGzwvLP_gv832dOXoIb0sSAeGgdrmOWa9Ln1iNdPjQbPqaXP-04TiiegoPbsuqIzSEGMpsmNhUAQ_CNqQM06h5yGJGYaOWyN2hmW-RrWLjjpanRrRLuIOww8CxeYkwyKxRTa6CZpwU7ZDT2cGikCNNeS4zYCYVILAmfIcBVIRh0L7z8aT_B4AuS0rejuMR9Bdk7Uv4IUlQZACYISi0KYmIPooJQhL_Ub-caqPtUpM1q0pM7GqQ2LyGdqUygyGcDcKfInvMc6kQv3ml9UFq37ynmx104YjzwI3x8RUTEFg4QpeK3BgGtef_JiJoVcqu_6iGb1XUjdRDZbpOCD-ySp-WkBi1PKUvuRhdtas3Qumog5mMZ5xvmvNfM8zMUp5PWJhepS7V-EQ8MqSsLxclRHmlUW3pDIuxErJpMVsw..&tpatExpirationTime=1706646392000&usegapi=1#bookmark=kix.qntnmvfmp5ua) IN SECTION 2 BELOW. THE ARBITRATION AGREEMENT REQUIRES YOU TO RESOLVE ALL DISPUTES WITH UBER ON AN INDIVIDUAL BASIS AND, WITH LIMITED EXCEPTIONS, THROUGH FINAL AND BINDING ARBITRATION. THESE TERMS OF SERVICE OUTLINE HOW SUCH CLAIMS AND/OR LAWSUITS ARE RESOLVED, INCLUDING, WITHOUT LIMITATION, ANY CLAIMS AND/OR LAWSUITS THAT AROSE OR WERE ASSERTED BEFORE THE EFFECTIVE DATE OF THESE TERMS OF SERVICE. BY AGREEING TO THESE TERMS OF SERVICE, YOU EXPRESSLY ACKNOWLEDGE THAT YOU HAVE READ AND UNDERSTOOD ALL OF THEM AND HAVE TAKEN TIME TO CONSIDER THE CONSEQUENCES OF THIS IMPORTANT DECISION.
+PLEASE READ THESE TERMS OF SERVICE CAREFULLY AS THEY CONTAIN PROVISIONS THAT GOVERN HOW YOU CAN BRING CLAIMS AND/OR LAWSUITS BETWEEN YOU AND UBER, INCLUDING THE [ARBITRATION AGREEMENT](#kix.mbau90a97ibb) IN SECTION 2 BELOW. THE ARBITRATION AGREEMENT REQUIRES YOU TO RESOLVE ALL DISPUTES WITH UBER ON AN INDIVIDUAL BASIS AND, WITH LIMITED EXCEPTIONS, THROUGH FINAL AND BINDING ARBITRATION. THESE TERMS OF SERVICE OUTLINE HOW SUCH CLAIMS AND/OR LAWSUITS ARE RESOLVED, INCLUDING, WITHOUT LIMITATION, ANY CLAIMS AND/OR LAWSUITS THAT AROSE OR WERE ASSERTED BEFORE THE EFFECTIVE DATE OF THESE TERMS OF SERVICE. BY AGREEING TO THESE TERMS OF SERVICE, YOU EXPRESSLY ACKNOWLEDGE THAT YOU HAVE READ AND UNDERSTOOD ALL OF THEM AND HAVE TAKEN TIME TO CONSIDER THE CONSEQUENCES OF THIS IMPORTANT DECISION.
 
 These Terms of Service (“Terms of Service”) constitute a legally binding agreement between you and Uber Technologies, Inc. and its subsidiaries, representatives, affiliates, officers, and directors (collectively, “Uber”), governing your use of Uber’s digital marketplace platform (“Uber Marketplace Platform”) and any related content or services, including but not limited to, mobile and/or web-based applications (“Applications” or the “Uber App,” and together with the Uber Marketplace Platform, the “Services”).
 
