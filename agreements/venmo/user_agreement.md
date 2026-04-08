@@ -11,7 +11,7 @@ Agreement
 
 ### Last Updated
 
-This user agreement is effective as of March 17, 2026.
+This user agreement is effective as of April 6, 2026.
 
 **Welcome to Venmo!**
 
@@ -221,6 +221,8 @@ There is no fee to create a Scheduled Payments series, but funding a payment fro
 **Personal payments**  
   
 You can send money to other Venmo users without making an underlying donation or commercial transaction (that is, the payment is not for the purchase of goods or services or for making any other commercial transaction) using the Pay and Request feature in your Venmo account (known as “personal payments”). Teen Users may send or request personal payments, and the funds will be sent from or received into the Teen Account.
+
+When you send a personal payment funded by a linked bank account, Venmo may, at its discretion, choose to process the payment as an e-check. E-check is a payment method where you use your bank account as your payment method, and the payment is not received by the recipient until the transaction is processed from the bank. This process usually takes 3-5 Business Days.
 
 **Payments for goods and services**
 
@@ -435,7 +437,7 @@ We may add, change, suspend or eliminate any or all Venmo Debit Card related fea
 
 You may be offered the opportunity to open a Teen Account for a Teen User and apply for a Venmo Debit Card linked to the Teen Account (the “Teen Debit Card”).
 
-By applying for the Teen Debit Card, you authorize The Bancorp Bank, N.A. to issue the Teen Debit Card to the Teen User as an authorized user. The Teen Debit Card may be used to access the funds held in the Teen Account and not any other funds in your Venmo account. Use of the Teen Debit Card is subject to the [Venmo Mastercard Cardholder Agreement](https://venmo.com/legal/bancorp-cardholder-agreement/) as well as this user agreement. If you or a Teen User adds the Teen Debit Card to a digital wallet, usage of the Teen Debit Card will also be subject to the [Venmo Card Digital Wallet Terms and Conditions](https://venmo.com/legal/digital-wallet-terms).
+By applying for the Teen Debit Card, you authorize The Bancorp Bank, N.A. to issue the Teen Debit Card to the Teen User as an authorized user. The Teen Debit Card may be used to access the funds held in the Teen Account and not any other funds in your Venmo account. Use of the Teen Debit Card is subject to the [Venmo Mastercard Cardholder Agreement](https://venmo.com/legal/bancorp-cardholder-agreement/) as well as this user agreement. If you or a Teen User adds the Teen Debit Card to a digital wallet, usage of the Teen Debit Card will also be subject to the [Venmo Card Digital Wallet Terms and Conditions](https://venmo.com/legal/digital-wallet-terms). If you or a Teen User Refers a Friend to join Venmo, usage will also be subject to the [Refer a Friend Terms and Conditions.](https://help.venmo.com/cs/articles/p2p-referrals-faq-terms-vhel352)
 
 You are the owner of and responsible for all Teen Accounts and Teen Debit Cards that you open and authorize. All funds held in a Teen Account are owned by you, not the Teen User.
 
@@ -1497,7 +1499,7 @@ Always use common sense when sending money. If something sounds too good to be t
   
 Once a transaction is complete, there is a danger that your money may not be refunded. Double-check that you’re sending money to the right person and that the transaction is legitimate before proceeding.  
   
-You have the right to cancel a transaction for a full refund unless your designated recipient has already received the payment. However, since most Venmo payments are received within seconds, you may not be able to cancel your payment for a full refund once the payment is made. To determine whether your payment is eligible for cancellation, log in to the Venmo app, select the transaction in your transaction details, and select Cancel, or call Venmo Customer Service at 855-812-4430.  
+Except where the payment is processed as an e-check, you have the right to cancel a transaction for a full refund unless your designated recipient has already received the payment. However, since most Venmo payments are received within seconds, you may not be able to cancel your payment for a full refund once the payment is made. For pending payments processed as e-check, contact your financial institution to cancel the payment. To determine whether your payment is eligible for cancellation, log in to the Venmo app, select the transaction in your transaction details, and select Cancel, or call Venmo Customer Service at 855-812-4430.  
   
 **Dormant accounts**
 
