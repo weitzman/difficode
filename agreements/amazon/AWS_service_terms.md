@@ -5,11 +5,11 @@ selector: "#aws-service-terms"
 
 # AWS Service Terms
 
-Last Updated: March 31, 2026
+Last Updated: April 8, 2026
 
 ## 1\. Universal Service Terms (Applicable to All Services)
 
-The Service Terms below govern your use of the Services. Capitalized terms used in these Service Terms but not defined below are defined in the [AWS Customer Agreement](/agreement/) or other agreement with us governing your use of the Services (the “Agreement”). For purposes of these Service Terms, “Your Content” includes any “Company Content” and any “Customer Content,” and “AWS Content” includes “Amazon Properties.”
+The Service Terms below govern your use of the Services. Capitalized terms used in these Service Terms but not defined below are defined in the [AWS Customer Agreement](https://aws.amazon.com/agreement/) or other agreement with us governing your use of the Services (the “Agreement”). For purposes of these Service Terms, “Your Content” includes any “Company Content” and any “Customer Content,” and “AWS Content” includes “Amazon Properties.”
 
 **1.1.** You may not transfer outside the Services any software (including related documentation) you obtain from us or third party licensors in connection with the Services without specific authorization to do so.
 
@@ -53,7 +53,7 @@ If, as of the time of a change of the AWS Contracting Party responsible for your
 
 **1.15.** Following closure of your AWS account, we will delete Your Content in accordance with the technical documentation applicable to the Services.
 
-**1.16.** Your receipt and use of any Promotional Credits is subject to the [AWS Promotional Credit Terms & Conditions](/awscredits/).
+**1.16.** Your receipt and use of any Promotional Credits is subject to the [AWS Promotional Credit Terms & Conditions](https://aws.amazon.com/awscredits/).
 
 **1.17. Payment Currency**
 
@@ -67,7 +67,7 @@ If, as of the time of a change of the AWS Contracting Party responsible for your
 
 **1.17.5** You agree that by using the Currency Service, information related to your payment, including your name and address, may be used by our banking partners to process your payments in jurisdictions other than the United States.
 
-**1.18.** By accessing and using AWS Content or the Services, you agree to the terms of the [Intellectual Property License](/legal/aws-ip-license-terms/).
+**1.18.** By accessing and using AWS Content or the Services, you agree to the terms of the [Intellectual Property License](https://aws.amazon.com/legal/aws-ip-license-terms/).
 
 **1.19.** We will not use Individualized Usage Data or Your Content to compete with your products and services. “Individualized Usage Data” means data about your use of the Services that are specifically identified with your AWS account.
 
@@ -79,7 +79,7 @@ If, as of the time of a change of the AWS Contracting Party responsible for your
 
 **1.22.1** To request tax exempt status for your AWS account, you must provide us with a valid tax exemption certificate or other equivalent documentation for the relevant jurisdiction.  You are responsible for updating such documentation so it is accurate at all times.
 
-**1.22.2** In certain jurisdictions (as noted in the [AWS Tax Help](/tax-help/) pages), you may only use your tax-exempt account to purchase services that are eligible for tax exemption. If you do not use services for the purpose for which your tax exemption applies, you are responsible for reporting and paying sales and use taxes for that usage directly to the relevant tax authorities to the extent required by law. 
+**1.22.2** In certain jurisdictions (as noted in the [AWS Tax Help](https://aws.amazon.com/tax-help/) pages), you may only use your tax-exempt account to purchase services that are eligible for tax exemption. If you do not use services for the purpose for which your tax exemption applies, you are responsible for reporting and paying sales and use taxes for that usage directly to the relevant tax authorities to the extent required by law. 
 
 **1.22.3** If you are required by law to pay us using your organization’s funds to qualify for your tax exemption, you warrant that purchases on your account will be made with the tax-exempt organization’s funds. 
 
@@ -87,9 +87,9 @@ If, as of the time of a change of the AWS Contracting Party responsible for your
 
 **1.22.5** If you turn on [tax settings inheritance](https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/manage-account-payment.html#manage-account-tax-linked-accounts), you warrant that the application of any tax exemption on your Management Account to your Organization’s Member Accounts (both as defined in the AWS Organizations section below) complies with applicable tax laws. If a governmental authority determines that the correct amount of tax has not been collected on your purchases, you will assist AWS as necessary (including providing information and documentation as reasonably required) to substantiate your payment of those taxes and promptly reimburse AWS for any associated costs.
 
-**1.23.** If you use any artificial intelligence and machine learning Services, features, and functionality (including third-party models) that we provide, it’s your responsibility to ensure that your use complies with all applicable laws, rules, and regulations, and the [AWS Responsible AI Policy](/machine-learning/responsible-ai/policy/).
+**1.23.** If you use any artificial intelligence and machine learning Services, features, and functionality (including third-party models) that we provide, it’s your responsibility to ensure that your use complies with all applicable laws, rules, and regulations, and the [AWS Responsible AI Policy](https://aws.amazon.com/machine-learning/responsible-ai/policy).
 
-**1.24.** Certain Services may incorporate generative AI features, powered by Amazon Bedrock, that enable you to use prompts to generate output, including: Amazon CloudWatch, Amazon CodeCatalyst, Amazon Connect, Amazon Connect Health, AWS Database Migration Service, Amazon DataZone, Amazon Lex, Amazon OpenSearch Service, Amazon Personalize, Amazon Q, AWS Entity Resolution, AWS Transform, AWS AppFabric, AWS HealthScribe, AWS App Studio, Kiro, Amazon SageMaker Data Agent, the model customization agent in SageMaker AI, the Amazon Quick Suite (including Amazon QuickSight), AWS DevOps Agent, and AWS Security Agent.
+**1.24.** Certain Services may incorporate generative AI features, powered by Amazon Bedrock, that enable you to use prompts to generate output, including: Amazon CloudWatch, Amazon CodeCatalyst, Amazon Connect, Amazon Connect Health, AWS Database Migration Service, Amazon DataZone, Amazon Lex, Amazon OpenSearch Service, Amazon Personalize, Amazon Q, AWS Entity Resolution, AWS Transform, AWS AppFabric, AWS HealthScribe, AWS App Studio, Kiro, Amazon SageMaker Data Agent, the model customization agent in SageMaker AI, the Amazon Quick Suite (including Amazon QuickSight), AWS DevOps Agent, AWS Security Agent, and Amazon WorkSpaces.
 
 **1.24.1.** The Amazon Bedrock automated abuse detection mechanisms may apply to such services. See [here](https://docs.aws.amazon.com/bedrock/latest/userguide/abuse-detection.html) for more details.
 
@@ -97,7 +97,7 @@ If, as of the time of a change of the AWS Contracting Party responsible for your
 
 **1.25.** You will not use, and will not facilitate or allow End Users to use, the Services to mine cryptocurrency.
 
-**1.26.** AWS consents to the assignment of an AWS account from one entity to another, subject to the terms of the AWS Account Assignment Requirements, posted [here](/legal/aws-account-assignment-requirements/).
+**1.26.** AWS consents to the assignment of an AWS account from one entity to another, subject to the terms of the AWS Account Assignment Requirements, posted [here](https://aws.amazon.com/legal/aws-account-assignment-requirements/).
 
 **1.27**. To benefit from any contract with AWS enabling you to use AWS Services under the same terms as your affiliate's Agreement solely because your accounts are joined as Member Accounts of their Organization (as defined in the AWS Organizations section below), your AWS Contracting Party must be a signatory to your affiliate's Agreement.
 
@@ -139,7 +139,7 @@ If, as of the time of a change of the AWS Contracting Party responsible for your
 
 **4.5.** Access to Outposts Equipment. You will give personnel designated by AWS prompt and reasonable access to the Designated Facility as necessary to deliver, install, inspect, maintain, and remove the Outposts Equipment. You will not require AWS personnel to sign, accept, or otherwise agree to any documentation as a condition of accessing the Designated Facility, and you agree that the terms of any such documentation are void even if signed by AWS personnel. You will ensure that no one accesses, moves, or repairs the Outposts Equipment other than (i) personnel designated by AWS, (ii) as permitted in writing by AWS in connection with the maintenance of Outposts Equipment, or (iii) as necessary due to a situation involving imminent injury, damage to property, or an active fire alarm system. You will ensure that no one modifies, alters, reverse engineers, or tampers with the Outposts Equipment. You acknowledge that the Outposts Equipment may be equipped with tamper monitoring.
 
-**4.6.** AWS Support Options. You will remain enrolled in either [Enterprise On-Ramp Support](/premiumsupport/plans/enterprise-onramp/) or [Enterprise Support](/premiumsupport/plans/enterprise/) during the entire period of your use of AWS Outposts.
+**4.6.** AWS Support Options. You will remain enrolled in either [Enterprise On-Ramp Support](https://aws.amazon.com/premiumsupport/plans/enterprise-onramp/) or [Enterprise Support](https://aws.amazon.com/premiumsupport/plans/enterprise/) during the entire period of your use of AWS Outposts.
 
 **4.7.** Services/SLAs/Security. The Service Terms for any Services that run locally on AWS Outposts also apply to your use of those Services on AWS Outposts. There are inherent differences between Services running locally on AWS Outposts from those Services running at AWS operated facilities because the Outposts Equipment is physically located at the Designated Facility where you are responsible for physical security and access controls, as well as all power, networking, and environmental conditions. Due to these differences:
 
@@ -147,7 +147,7 @@ a. The Service Level Agreements for any Services that run locally on AWS Outpost
 
 b. Any AWS commitments in the Agreement that depend on AWS’s operation of such physical security and access controls, or power, networking, and environmental conditions, do not apply to AWS Outposts or any Services running locally on AWS Outposts.
 
-c. The specific compliance and assurance programs for which AWS Outposts are in scope are listed [here](/compliance/services-in-scope/). For other Services listed [here](/compliance/services-in-scope/), those Services are not in scope when running locally on AWS Outposts unless AWS Outposts is also separately listed for the specific compliance or assurance program.
+c. The specific compliance and assurance programs for which AWS Outposts are in scope are listed [here](https://aws.amazon.com/compliance/services-in-scope/). For other Services listed [here](https://aws.amazon.com/compliance/services-in-scope/), those Services are not in scope when running locally on AWS Outposts unless AWS Outposts is also separately listed for the specific compliance or assurance program.
 
 **4.8.** AWS Outposts servers
 
@@ -309,7 +309,7 @@ Your failure to maintain your database instance within the support perimeter (as
 *   You must comply with IBM’s current Eligible Public Cloud Bring-Your-Own-Software-License (BYOSL) Policy including the terms associated with the IBM Db2 Software on Amazon RDS found [here](https://www.ibm.com/software/passportadvantage/eligible_public_cloud_BYOSL_policy.html); and
 *   Your use of IBM Db2 Software with Amazon RDS is subject to suspension or termination if you do not comply with the terms and conditions above.
 
-**10.7.2.** Subject to the AWS Privacy Notice (available at [https://aws.amazon.com/privacy/](/privacy/)), AWS may send information to IBM related to your IBM Db2 Software licenses such as identification numbers issued to you by IBM and the version of the IBM Db2 Software that you are using.
+**10.7.2.** Subject to the AWS Privacy Notice (available at [https://aws.amazon.com/privacy/](https://aws.amazon.com/privacy/)), AWS may send information to IBM related to your IBM Db2 Software licenses such as identification numbers issued to you by IBM and the version of the IBM Db2 Software that you are using.
 
 **10.7.3.** When you purchase licenses for IBM Db2 Software through the AWS Marketplace integration in the RDS console, Section 20 (AWS Marketplace) of the Service Terms apply.
 
@@ -347,7 +347,7 @@ Your failure to maintain your database instance within the support perimeter (as
 
 **13.2.** All Domain Name System (DNS) records (other than Private DNS records) used in connection with Amazon Route 53 will be publicly available, and AWS will have no liability for disclosure of those DNS records.
 
-**13.3.** Domain name registration services are provided under the [Amazon Route 53 Domain Name Registration Agreement](/route53/domain-registration-agreement/).
+**13.3.** Domain name registration services are provided under the [Amazon Route 53 Domain Name Registration Agreement](https://aws.amazon.com/route53/domain-registration-agreement/).
 
 ## 14\. AWS Elastic Beanstalk
 
@@ -457,7 +457,7 @@ N/A
 
 L12, East tower, 231, Teheran-ro, Gangnam-gu, Seoul, 06142, Republic of Korea
 
-The countries within Europe, the Middle East, and Africa (except South Africa and Turkey) listed at1: [https://aws.amazon.com/legal/aws-emea-countries/](/legal/aws-emea-countries/)
+The countries within Europe, the Middle East, and Africa (except South Africa and Turkey) listed at1: [https://aws.amazon.com/legal/aws-emea-countries/](https://aws.amazon.com/legal/aws-emea-countries/)
 
 (w.e.f. 1 January 2022)
 
@@ -499,7 +499,7 @@ The purchase fees and charges payable by you will be exclusive of all applicable
 
 For clarity, you must not deduct or withhold taxes on payments to AWS if (a) your AWS Contracting Party is Amazon Web Services India Private Limited, and (b) you purchase Content from a third party provider incorporated in India.
 
-**20.2.** Seller Terms. If you promote, license, sell, provide or provide access to any Content or services through AWS Marketplace, or authorize another party to do so on your behalf, then the [Service Terms for AWS Marketplace Sellers](/legal/seller-terms/) apply to you. Your use of the Buy with AWS feature is subject to the [Buy with AWS Trademarks License](/legal/buy-with-aws-trademarks-license/).
+**20.2.** Seller Terms. If you promote, license, sell, provide or provide access to any Content or services through AWS Marketplace, or authorize another party to do so on your behalf, then the [Service Terms for AWS Marketplace Sellers](https://aws.amazon.com/legal/seller-terms) apply to you. Your use of the Buy with AWS feature is subject to the [Buy with AWS Trademarks License](https://aws.amazon.com/legal/buy-with-aws-trademarks-license/).
 
 ## 21\. AWS Ground Station
 
@@ -527,7 +527,7 @@ The encoding, transcoding or decoding of files with Amazon Elastic Transcoder, a
 
 ## 23\. AWS OpsWorks
 
-**23.1.** Your use of the AWS OpsWorks agent is governed by the [AWS OpsWorks Client License Agreement.](/opsworks-local-license/) Your use of AWS OpsWorks for Chef Automate is subject to [Chef Software Inc.’s end user license agreement](https://www.chef.io/aws_eula). Your use of AWS OpsWorks for Puppet Enterprise is subject to Puppet, Inc.’s  [Puppet Enterprise License Agreement](https://d1.awsstatic.com/legal/aws-opsworks/Puppet%20End%20User%20License%20Agreement.pdf).
+**23.1.** Your use of the AWS OpsWorks agent is governed by the [AWS OpsWorks Client License Agreement.](https://aws.amazon.com/opsworks-local-license/) Your use of AWS OpsWorks for Chef Automate is subject to [Chef Software Inc.’s end user license agreement](https://www.chef.io/aws_eula). Your use of AWS OpsWorks for Puppet Enterprise is subject to Puppet, Inc.’s  [Puppet Enterprise License Agreement](https://d1.awsstatic.com/legal/aws-opsworks/Puppet%20End%20User%20License%20Agreement.pdf).
 
 **23.2.** Your use of AWS OpsWorks for Chef Automate and AWS-ApplyChefRecipes, which leverage the Chef Infra Client software, are subject to Progress Software Corporation’s  [Online Master License and Services Agreement for Chef](https://www.chef.io/online-master-agreement?_ga=2.241041664.246854641.1660593593-370928230.1543940878) (the “Progress EULA”) except that sections 1.9.2. (Product Compliance with Documentation) and 1.10.1. (Our Indemnification Obligation) of the Progress EULA do not apply and the Product, Documentation, and Technology (all as defined in the Progress EULA) are provided “as is,” with all faults, and Progress Software Corporation disclaims all warranties, express or implied, including, but not limited to, warranties of merchantability, fitness for a particular purpose, title, noninfringement, availability, error-free or uninterrupted operation, and any warranties arising from course of dealing, course of performance, or usage of trade. To the extent that Progress Software Corporation may not as a matter of applicable law disclaim any implied warranty, the scope and duration of such warranty will be the minimum permitted under applicable law.  
 
@@ -576,6 +576,10 @@ The encoding, transcoding or decoding of files with Amazon Elastic Transcoder, a
 **26.9**. NVIDIA Software. If your application uses the NVIDIA graphics processing unit (GPU) on an Amazon WorkSpaces Applications instance, your use is subject to the terms and conditions of the [NVIDIA Cloud End User License Agreement](https://s3.amazonaws.com/EULA/NVidiaEULAforAWS.pdf).
 
 **26.10.** If you use the Amazon WorkSpaces Applications User Pool feature to enable End Users to access applications, you agree that we may store and process these End Users’ email addresses in AWS Regions outside the AWS Regions where you are using Amazon WorkSpaces Applications. We will only use these email addresses to send the End Users email notifications to enable them to Amazon WorkSpaces Applications.
+
+**26.11.** **Amazon WorkSpaces AI Features.** “Amazon WorkSpaces AI Features” means any Amazon WorkSpaces features powered by artificial intelligence or machine learning. “Amazon WorkSpaces AI Content” means your content that is processed by an Amazon WorkSpaces AI Feature. The following terms apply to your use of Amazon WorkSpaces AI Features:  
+
+**(a)** You agree and instruct that: (i) we may use and store Amazon WorkSpaces AI Content to develop and improve Amazon WorkSpaces and its underlying technologies; (ii) we may use and store Amazon WorkSpaces AI Content that is not personal data to develop and improve AWS and affiliate machine-learning and artificial intelligence technologies; and (iii) solely in connection with the development and improvement described in clauses (i) and (ii), we may store your Amazon WorkSpaces AI Content in AWS regions outside the AWS regions where you are using Amazon WorkSpaces AI Features. You may instruct AWS not to use and store Amazon WorkSpaces AI Content processed by Amazon WorkSpaces AI Features to develop and improve the Service or technologies of AWS or its affiliates by configuring an AI services opt-out policy using AWS Organizations.
 
 ## 27\. Amazon Cognito
 
@@ -636,7 +640,7 @@ d. Are not replacements for traditional telephone or mobile phone services, incl
 
 **29.11.** To enable WhatsApp messaging integration with AWS End User Messaging, you must create a WhatsApp Business Account (“WABA”) and are responsible for reviewing and accepting any applicable Meta and WhatsApp terms related to the WhatsApp Business Solution. You understand that any content, information, and data you upload to, and any messages you send or receive using, the WhatsApp Business Solution are processed by Meta in order to provide the Service. You agree that you are solely responsible for your or your End User’s use of the WhatsApp Business Solution, the content you or your End Users send through the WhatsApp Business Solution, and compliance with applicable Meta or WhatsApp terms.
 
-**29.12.** Your use of the AWS End User Messaging Service in certain countries is subject to additional [Country Specific Communications Service Terms](/service-terms/country-specific-communications-service-terms/). 
+**29.12.** Your use of the AWS End User Messaging Service in certain countries is subject to additional [Country Specific Communications Service Terms](https://aws.amazon.com/service-terms/country-specific-communications-service-terms/). 
 
 **29.13.** AWS End User Messaging's SMS Protect feature uses statistical models that generate SMS Artificially Inflated Traffic (AIT) risk predictions based on patterns in data. SMS Protect does not guarantee the accuracy of such predictions or complete protection from AIT.
 
@@ -714,7 +718,7 @@ Amazon OpenSearch Service creates daily automated snapshots of your Amazon OpenS
 
 ## 37\. AWS Database Migration Service
 
-The AWS Database Migration Service (DMS), including DMS Fleet Advisor and the AWS Schema Conversion Tool, is AWS Content under the [Intellectual Property License](/legal/aws-ip-license-terms/), and you and all End Users may install and/or use it solely for the purpose of migrating or moving data, provided that: (i) at least one of the source data store and target data store resides in AWS; and (ii) the source and target data stores are both listed in the DMS documentation of supported [sources](https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Source.html) and [targets](https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Target.html). DMS Fleet Advisor collects information about resources on your network that you designate for discovery.
+The AWS Database Migration Service (DMS), including DMS Fleet Advisor and the AWS Schema Conversion Tool, is AWS Content under the [Intellectual Property License](https://aws.amazon.com/legal/aws-ip-license-terms/), and you and all End Users may install and/or use it solely for the purpose of migrating or moving data, provided that: (i) at least one of the source data store and target data store resides in AWS; and (ii) the source and target data stores are both listed in the DMS documentation of supported [sources](https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Source.html) and [targets](https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Target.html). DMS Fleet Advisor collects information about resources on your network that you designate for discovery.
 
 ## 38\. AWS Amplify
 
@@ -736,7 +740,7 @@ You must have all necessary rights to use any domain name that you use in conjun
 
 **39.7.** AWS IoT ExpressLink is AWS cloud connectivity software and specifications that select AWS Partner Network (APN) Partners may incorporate into hardware modules they develop, manufacture, and offer to AWS customers. If you purchase a hardware module (including any evaluation kit) from an APN Partner that includes AWS IoT ExpressLink, you agree that AWS is not a party to any agreement between you and the APN Partner governing your purchase and use of the module, AWS is not responsible or liable to you for the module, and AWS does not make any representations or warranties with respect to the module. 
 
-**39.8.** The FreeRTOS Extended Maintenance Plan (“FreeRTOS EMP”) provides subscribing customers with security patches and critical bug fixes on a chosen FreeRTOS Long Term Support (LTS) version beyond the expiry of that version’s initial LTS period. FreeRTOS EMP is a “Service” for purposes of the Agreement. Any code, fixes or patches (collectively, “EMP Patches”) that you receive, obtain or access in connection with FreeRTOS EMP that have not been incorporated into the publicly available FreeRTOS libraries are AWS Content provided to you under the [Intellectual Property License](/legal/aws-ip-license-terms/), except that AWS also grants you a limited, non-exclusive, non-sublicensable, non-transferrable, perpetual license to (a) modify and create derivative works of the EMP Patches and (b) to distribute the EMP Patches in object code form only.
+**39.8.** The FreeRTOS Extended Maintenance Plan (“FreeRTOS EMP”) provides subscribing customers with security patches and critical bug fixes on a chosen FreeRTOS Long Term Support (LTS) version beyond the expiry of that version’s initial LTS period. FreeRTOS EMP is a “Service” for purposes of the Agreement. Any code, fixes or patches (collectively, “EMP Patches”) that you receive, obtain or access in connection with FreeRTOS EMP that have not been incorporated into the publicly available FreeRTOS libraries are AWS Content provided to you under the [Intellectual Property License](https://aws.amazon.com/legal/aws-ip-license-terms/), except that AWS also grants you a limited, non-exclusive, non-sublicensable, non-transferrable, perpetual license to (a) modify and create derivative works of the EMP Patches and (b) to distribute the EMP Patches in object code form only.
 
 **39.9.** If you use Semtech as your geolocation provider in the AWS IoT Core Device Location feature, you authorize AWS to transmit your geolocation request parameters (e.g., location data used to run the location solvers) and/or resulting output data generated by the feature (e.g., geographic coordinates) to Semtech for troubleshooting and diagnostic purposes, and other technical support. Semtech may be outside of the AWS region in which you were using the feature. If you use HERE as your geolocation provider in the AWS IoT Device Core Location feature, the terms in Sections 82.1-82.5, 82.7-82.8, and 82.10 apply. AWS may deprecate or discontinue any geolocation provider within the feature at any time upon notice to you.
 
@@ -756,7 +760,7 @@ If you use this feature, you authorize AWS to transmit to the LoRaWAN Network Pr
   
 **39.12.4.** Gateways are owned by customers who are contributing bandwidth from their Gateway’s existing internet service to Amazon Sidewalk, and are separate from and located outside of AWS data center facilities, servers, networking equipment, storage media, and host software systems. Consequently, (i) you are responsible for ensuring the security of your products and services in connection with their usage of or connectivity to Amazon Sidewalk, (ii) any commitments made in the Agreement related to security do not apply to Amazon Sidewalk, and (iii) Amazon Sidewalk coverage, density, bandwidth, up-time, and availability is not guaranteed and may change without notice.  
    
-**39.12.5.** Subject to your compliance at all times with the Agreement and the [Works with Amazon Sidewalk Badge Guidelines](https://docs.sidewalk.amazon/sidewalk-terms-and-agreements/wwas-badge-guidelines.html), we hereby grant you a non-exclusive, royalty-free, and revocable license to use AWS Marks provided to you in connection with the WWAS qualification program (collectively, the “WWAS Marks”), to identify your WWAS-qualified AS Devices as using or being compatible with Amazon Sidewalk. Your use of WWAS Marks is also subject to Sections 4-7, 9, 11, and 14-18, of the [AWS Trademark Guidelines](/trademark-guidelines/). You must include the following statement in any materials that display the WWAS Marks: “Amazon, Amazon Sidewalk, and all related marks are trademarks of Amazon.com, Inc. or its affiliates.” We may include information about you and your AS Devices in our marketing materials to identify you as a participant in the WWAS program, including your name, logo, images, and videos of your AS Devices.
+**39.12.5.** Subject to your compliance at all times with the Agreement and the [Works with Amazon Sidewalk Badge Guidelines](https://docs.sidewalk.amazon/sidewalk-terms-and-agreements/wwas-badge-guidelines.html), we hereby grant you a non-exclusive, royalty-free, and revocable license to use AWS Marks provided to you in connection with the WWAS qualification program (collectively, the “WWAS Marks”), to identify your WWAS-qualified AS Devices as using or being compatible with Amazon Sidewalk. Your use of WWAS Marks is also subject to Sections 4-7, 9, 11, and 14-18, of the [AWS Trademark Guidelines](https://aws.amazon.com/trademark-guidelines/). You must include the following statement in any materials that display the WWAS Marks: “Amazon, Amazon Sidewalk, and all related marks are trademarks of Amazon.com, Inc. or its affiliates.” We may include information about you and your AS Devices in our marketing materials to identify you as a participant in the WWAS program, including your name, logo, images, and videos of your AS Devices.
 
 **39.13. Managed integrations.** Managed integrations is a feature of AWS IoT Device Management that allows you to create or access cloud-to-cloud connectors which link your AWS resources with one or more of your devices (“C2C Connectors”). Any C2C Connector you create is Your Content, and any C2C Connector created by another customer that you access is Third-Party Content. AWS does not create or manage any C2C Connectors.
 
@@ -818,7 +822,7 @@ If AWS makes available to you any contact information of any provider of a C2C C
 
 **43.1.2.** We or our affiliates may delete, upon 30 days' notice to you, any of Your Content uploaded to Amazon GameLift Servers if it has not been run in more than 3 months.
 
-**43.1.3.** Your use of Amazon GameLift Servers Local is governed by the [Amazon GameLift Servers Local License Agreement](/gamelift-local-license/).
+**43.1.3.** Your use of Amazon GameLift Servers Local is governed by the [Amazon GameLift Servers Local License Agreement](https://aws.amazon.com/gamelift-local-license/).
 
 **43.1.4.** The Amazon GameLift Servers Spot Instance program allows you request that certain Amazon GameLift Servers instances run pursuant to the Amazon GameLift Servers Spot instance pricing and payment terms set forth on the Amazon GameLift Servers product detail page on the Site (each requested instance, a “GL Spot Instance”). We may terminate the Amazon GameLift Servers Spot Instance program at any time. We may terminate, stop, or hibernate GL Spot Instances at any time and without any notice to you for AWS capacity requirements. You should configure your game to ensure it is fault tolerant and will correctly handle interruptions. GL Spot Instances may not be used with certain Services, features and third-party software we specify, including those listed in Section 5.3, above.
 
@@ -836,7 +840,7 @@ When you use AWS Application Discovery Service, data that is scanned by AWS Appl
 
 **45.1.** AWS Professional Services are advisory and consulting services that AWS provides under an order, statement of work, or pursuant to a Generative AI Innovation Center engagement (collectively, a “Professional Services Order”) to help you use other Services. AWS Professional Services are “Services” for purposes of the Agreement.
 
-AWS Professional Services may be provided remotely, on-site at the “Project Location” specified in the Professional  Services Order, or at such other locations as may be mutually agreed. Additional terms applicable to the performance of AWS Professional Services in certain countries are provided in the [Special Provisions for Certain Jurisdictions](/training/jurisdictional-terms/).
+AWS Professional Services may be provided remotely, on-site at the “Project Location” specified in the Professional  Services Order, or at such other locations as may be mutually agreed. Additional terms applicable to the performance of AWS Professional Services in certain countries are provided in the [Special Provisions for Certain Jurisdictions](https://aws.amazon.com/training/jurisdictional-terms/).
 
 **45.2.** In the event of a conflict between this Section 45 and an AWS Professional Services Addendum or Implementation Services Addendum (each, an “Addendum”), the terms of the Addendum will control. In the event of a conflict between this Section 45 and a Professional  Services Order, the terms of the Professional  Services Order will control.
 
@@ -887,7 +891,7 @@ AWS Professional Services may be provided remotely, on-site at the “Project Lo
 
 **45.16.** Except as directed by you and expressly stated in a Professional Services Order, you will not disclose to AWS personnel any Content that includes or is defined under applicable law as “personal data,” “personal information,” “protected health information,” “controlled unclassified information,” or other sensitive or restricted data types which are defined or governed by applicable law (including data privacy law), regulation, regulatory framework, or industry standard (collectively, “Customer Regulated Data”)
 
-**45.17.** Incidental personal data related to your personnel that AWS obtains as part of AWS Professional Services is not Customer Regulated Data. This type of data is treated as “Account Information,” and AWS and its affiliates will handle it in accordance with the AWS Privacy Notice (available at [https://aws.amazon.com/privacy/](/privacy/)), which you will make available to your personnel.
+**45.17.** Incidental personal data related to your personnel that AWS obtains as part of AWS Professional Services is not Customer Regulated Data. This type of data is treated as “Account Information,” and AWS and its affiliates will handle it in accordance with the AWS Privacy Notice (available at [https://aws.amazon.com/privacy/](https://aws.amazon.com/privacy/)), which you will make available to your personnel.
 
 **Migrations**
 
@@ -919,7 +923,7 @@ The Reserved Node program allows you to designate Amazon Redshift nodes as subje
 
 **48.5.1.** Except as authorized by AWS, only AWS accounts and Organizations used by you, your affiliates, your employees, or your subcontractors currently doing work on your behalf may enable Billing Transfer. By designating a Bill-Transfer Account, you agree to disclose billing, account activity, and account information of the Bill-Source Account and its Organization to the Bill-Transfer Account.
 
-**48.5.2.** If you enable Billing Transfer, the Bill-Transfer Account and the Bill-Source Account will be jointly and severally liable for all charges accrued by the Bill-Source Account’s Organization while Billing Transfer is in effect, but the Bill-Transfer Account will be billed for all such charges in accordance with the Bill-Transfer Account’s Agreement. Notwithstanding the foregoing, Billing Transfer does not apply to Transaction Proceeds as defined in the [Service Terms for AWS Marketplace Sellers](/legal/seller-terms/). If the Bill-Transfer Account is suspended for non-payment, then all Bill-Source Accounts and the member accounts in their Organizations will be suspended.
+**48.5.2.** If you enable Billing Transfer, the Bill-Transfer Account and the Bill-Source Account will be jointly and severally liable for all charges accrued by the Bill-Source Account’s Organization while Billing Transfer is in effect, but the Bill-Transfer Account will be billed for all such charges in accordance with the Bill-Transfer Account’s Agreement. Notwithstanding the foregoing, Billing Transfer does not apply to Transaction Proceeds as defined in the [Service Terms for AWS Marketplace Sellers](https://aws.amazon.com/legal/seller-terms/). If the Bill-Transfer Account is suspended for non-payment, then all Bill-Source Accounts and the member accounts in their Organizations will be suspended.
 
 **48.5.3.** If you enable Billing Transfer, AWS will calculate invoices based on the tax settings of the Bill-Transfer Account. You warrant that the application of any tax exemption on your Bill-Transfer Account to the usage accrued by the Bill-Source Account and the Member Accounts in its Organization complies with applicable tax laws, and agree to assist AWS as provided in Section 1.22.5. The Bill-Transfer Account’s tax settings may be disclosed to the Bill-Source Account and its Organization.
 
@@ -959,7 +963,7 @@ Notwithstanding any other provision of the Agreement, you may incorporate into y
 
 **50.9.2.** You agree that if you use Amazon Rekognition’s face APIs to analyze, detect, or process faces in images or videos, then you instruct AWS, as your processor, to: (1) generate face vectors and extract other facial attributes on your behalf; (2) store your face vectors in a secure AWS environment; (3) store, delete, and search your face vectors only at your direction or as necessary to maintain or provide Amazon Rekognition or comply with the law or a binding order of a governmental body; and (4) not use your face vectors for any other purpose (unless you instruct otherwise in writing) or transfer them to any third party. As the owner and controller of your face vectors, you instruct us to store them solely within AWS’s secure environment.
 
-**50.9.3.** Your use of Amazon Rekognition is subject to additional [Biometric Notice and Consent Service Terms](/legal/biometric-notice-and-consent-terms/)[](#_msocom_1).
+**50.9.3.** Your use of Amazon Rekognition is subject to additional [Biometric Notice and Consent Service Terms](https://aws.amazon.com/legal/biometric-notice-and-consent-terms)[](#_msocom_1).
 
 **50.10. Defense of Claims and Indemnity for Indemnified Generative AI Services.** AWS Services may incorporate generative AI features and provide Generative AI Output to you. “Generative AI Output” means output generated by a generative artificial intelligence model in response to inputs or other data provided by you. “Indemnified Generative AI Services” means, collectively, generally available features of Amazon Nova Micro, Amazon Nova Lite, Amazon Nova Pro, Amazon Nova Premier, Amazon Nova Canvas, Amazon Nova Reel**,** Amazon Nova Forge Models (as defined below)**,** Amazon Nova Sonic, Amazon Nova 2 Omni, Amazon Nova Act, Amazon Titan Text Express, Amazon Titan Text Lite, Amazon Nova Multimodal Embeddings, Amazon Titan Text Premier, Amazon Titan Text Embeddings, Amazon Titan Multimodal Embeddings, Amazon Titan Image Generator, AWS HealthScribe, Amazon Personalize, Amazon Q (excluding Amazon Q Developer Free Tier), AWS Transform, Amazon Connect, Amazon Connect Health, Amazon Lex, Kiro (excluding Kiro Free Tier), and the Amazon Quick Suite (including Amazon QuickSight). The following terms apply to the Indemnified Generative AI Services:
 
@@ -1031,7 +1035,7 @@ Notwithstanding any other provision of the Agreement, you may incorporate into y
 
 **53.3.3.** In using the Chime PSTN Service, you will not: (a) call or text PSTN telephone numbers (whether singly, sequentially, or automatically) to generate income from access or termination charges for you or others as a result of placing the call or texting, (b) engage in unusual calling patterns inconsistent with normal, individual use, (c) resell the Chime PSTN Service to any third party without our prior written consent, or (d) attempt to use a number that is invalid, unallocated or included on a do not originate list of a regulator or industry-recognized equivalent. 
 
-**53.3.4.** Your use of the Chime PSTN Service in certain countries are subject to additional [Country Specific Communications Service Terms](/service-terms/country-specific-communications-service-terms/).
+**53.3.4.** Your use of the Chime PSTN Service in certain countries are subject to additional [Country Specific Communications Service Terms](https://aws.amazon.com/service-terms/country-specific-communications-service-terms/).
 
 **53.4.** If, as a part of Amazon Chime, AMCS provides you or your End Users with any telephone number (whether toll or toll-free), you understand and agree that you do not own the number and you do not have the right to keep that number indefinitely subject to any number portability rights under applicable law. AMCS reserves the right to change, cancel, or move telephone numbers.
 
@@ -1060,7 +1064,7 @@ Notwithstanding any other provision of the Agreement, you may incorporate into y
 **53.9. Amazon Chime SDK speaker search  
 **
 
-**53.9.1.** Your use of Amazon Chime SDK speaker search is subject to additional [Biometric Notice and Consent Service Terms](/legal/biometric-notice-and-consent-terms/).
+**53.9.1.** Your use of Amazon Chime SDK speaker search is subject to additional [Biometric Notice and Consent Service Terms](https://aws.amazon.com/legal/biometric-notice-and-consent-terms).
 
 **53.10.** Amazon Chime SDK ML Services use machine learning models that generate predictions based on patterns in data. Output generated by Amazon Chime SDK ML Services is probabilistic and should be evaluated for accuracy as appropriate for your use case, including by employing human review of the output or combining it with other verification factors. You and your End Users are responsible for all decisions made, advice given, actions taken, and failures to take action based on your use of Amazon Chime SDK ML Services.
 
@@ -1086,7 +1090,7 @@ Notwithstanding any other provision of the Agreement, you may incorporate into y
 
 **54.1.5.** We reserve the right to change or reclaim telephone numbers assigned by the applicable AMCS entity (not including numbers that the customer has ported to Amazon Connect) in the event of a breach of these terms, where necessary for compliance with applicable law or regulation, or if the number has not been used for 90 days.
 
-**54.1.6.** Your use of the Connect PSTN Service in certain countries are subject to additional [Country Specific Communications Service Terms.](/service-terms/country-specific-communications-service-terms/)
+**54.1.6.** Your use of the Connect PSTN Service in certain countries are subject to additional [Country Specific Communications Service Terms.](https://aws.amazon.com/service-terms/country-specific-communications-service-terms/)
 
 **54.1.7.** Calling to premium rate numbers is supported subject to certain limits. Additional charges may apply to calls to premium rate number above those limits. For more information, please contact Amazon Connect support.
 
@@ -1120,7 +1124,7 @@ Notwithstanding any other provision of the Agreement, you may incorporate into y
 
 **54.8. Amazon Connect Voice ID**
 
-**54.8.1.** Your use of Amazon Connect Voice ID is subject to additional [Biometric Notice and Consent Service Terms](/legal/biometric-notice-and-consent-terms/).  
+**54.8.1.** Your use of Amazon Connect Voice ID is subject to additional [Biometric Notice and Consent Service Terms](https://aws.amazon.com/legal/biometric-notice-and-consent-terms).  
 
 **54.8.2.** You will not, and will not allow any third-party to, use Amazon Connect Voice ID to, directly or indirectly, develop or improve a similar or competing product or service.
 
@@ -1220,7 +1224,7 @@ You agree not to and will not attempt to perform any network discovery or load t
 
 ## 62\. AWS Telco Network Builder
 
-**AWS Support.** You will remain enrolled in [Business Support](/premiumsupport/plans/business/) or better during the entire period of your use of AWS Telco Network Builder.
+**AWS Support.** You will remain enrolled in [Business Support](https://aws.amazon.com/premiumsupport/plans/business/) or better during the entire period of your use of AWS Telco Network Builder.
 
 ## 63\. Database Savings Plans
 
@@ -1268,7 +1272,7 @@ SAS licenses any Software to you under the Apache License, Version 2.0. 
 
 ## 67\. AWS Training
 
-**67.1.** “AWS Training” equips individual learners and enterprises with the skills to use, build, and innovate using the cloud, and includes instructor-led training, self-paced digital training, hands-on labs, enterprise training deployment, and other learning content and sessions provided by AWS. Specific categories of AWS Training such as instructor-led classes (“Classroom Training”), self-paced digital training (“Digital Training”), and training deployment support (“Enterprise Skills Transformation” or “EST”), are detailed in sections below. References to “AWS” in any order for AWS Training (an “Order”) mean: (a) the applicable AWS Contracting Party as defined in the Agreement, or (b) for Classroom Training provided in certain jurisdictions, the local AWS Contracting Party listed in the  [Special Provisions for Certain Jurisdictions](/training/jurisdictional-terms/).
+**67.1.** “AWS Training” equips individual learners and enterprises with the skills to use, build, and innovate using the cloud, and includes instructor-led training, self-paced digital training, hands-on labs, enterprise training deployment, and other learning content and sessions provided by AWS. Specific categories of AWS Training such as instructor-led classes (“Classroom Training”), self-paced digital training (“Digital Training”), and training deployment support (“Enterprise Skills Transformation” or “EST”), are detailed in sections below. References to “AWS” in any order for AWS Training (an “Order”) mean: (a) the applicable AWS Contracting Party as defined in the Agreement, or (b) for Classroom Training provided in certain jurisdictions, the local AWS Contracting Party listed in the  [Special Provisions for Certain Jurisdictions](https://aws.amazon.com/training/jurisdictional-terms/).
 
 **67.2.** Payment
 
@@ -1305,7 +1309,7 @@ If all payment methods we have on file for you are declined for payment of your 
 
 ## 68\. AWS Certification
 
-“AWS Certification Program” means the program through which AWS makes available professional certifications and other credentials in connection with the Services. The AWS Certification Program is a “Service” for purposes of the Agreement. To participate in the AWS Certification Program, you must agree to the [Certification Program Agreement](/certification/certification-agreement/) (“CPA”). To the extent there is a conflict between the Agreement and the CPA, the CPA controls.
+“AWS Certification Program” means the program through which AWS makes available professional certifications and other credentials in connection with the Services. The AWS Certification Program is a “Service” for purposes of the Agreement. To participate in the AWS Certification Program, you must agree to the [Certification Program Agreement](https://aws.amazon.com/certification/certification-agreement/) (“CPA”). To the extent there is a conflict between the Agreement and the CPA, the CPA controls.
 
 ## 69\. Migration Evaluator
 
@@ -1319,7 +1323,7 @@ Migration Evaluator collects performance and usage metrics and data about your 
 
 **70.3.** You acknowledge and agree that we may use information from AWS IQ listings, proposals, chat communications, and additional terms proposed or agreed to between you and Providers on AWS IQ to develop and improve the quality and feature set of AWS IQ.   
 
-**70.4.** If you choose to grant Providers access to your AWS account, you are solely responsible and liable for (a) any actions taken by the Provider in your account; (b) the Provider’s use of Your Content or use of the Services or AWS Content; (c) ensuring the Provider complies with your obligations under the Agreement, the Acceptable Use Policy, any other Policies, the [Intellectual Property License](/legal/aws-ip-license-terms/) and applicable laws; (d) ensuring the Provider does not use the Services or AWS Content in any manner or for any purpose other than as expressly permitted by the Agreement and the [Intellectual Property License](/legal/aws-ip-license-terms/); and (e) ensuring Provider does not attempt to (i) modify, distribute, alter, tamper with, repair, or otherwise create derivative works of any AWS Content or other Content included in the Services (except to the extent Content included in the Services is provided to you under a separate license that expressly permits the creation of derivative works), (ii) reverse engineer, disassemble, or decompile the Services or AWS Content or apply any other process or procedure to derive the source code of any software included in the Services or AWS Content (except to the extent applicable law doesn’t allow this restriction), (iii) access or use the Services in a way intended to avoid incurring fees or exceeding usage limits or quotas, or (iv) resell or sublicense the Services or AWS Content. You will immediately revoke Provider’s access to your AWS account if you become aware of any violation of your obligations under the Agreement or the [Intellectual Property License](/legal/aws-ip-license-terms/) caused by a Provider with access to your AWS account. If you use AWS IQ’s feature that allows you to grant a Provider access to your account, AWS may, but is not obligated to, review activities in your account for security purposes, and may revoke the Provider’s access at any time.
+**70.4.** If you choose to grant Providers access to your AWS account, you are solely responsible and liable for (a) any actions taken by the Provider in your account; (b) the Provider’s use of Your Content or use of the Services or AWS Content; (c) ensuring the Provider complies with your obligations under the Agreement, the Acceptable Use Policy, any other Policies, the [Intellectual Property License](https://aws.amazon.com/legal/aws-ip-license-terms/) and applicable laws; (d) ensuring the Provider does not use the Services or AWS Content in any manner or for any purpose other than as expressly permitted by the Agreement and the [Intellectual Property License](https://aws.amazon.com/legal/aws-ip-license-terms/); and (e) ensuring Provider does not attempt to (i) modify, distribute, alter, tamper with, repair, or otherwise create derivative works of any AWS Content or other Content included in the Services (except to the extent Content included in the Services is provided to you under a separate license that expressly permits the creation of derivative works), (ii) reverse engineer, disassemble, or decompile the Services or AWS Content or apply any other process or procedure to derive the source code of any software included in the Services or AWS Content (except to the extent applicable law doesn’t allow this restriction), (iii) access or use the Services in a way intended to avoid incurring fees or exceeding usage limits or quotas, or (iv) resell or sublicense the Services or AWS Content. You will immediately revoke Provider’s access to your AWS account if you become aware of any violation of your obligations under the Agreement or the [Intellectual Property License](https://aws.amazon.com/legal/aws-ip-license-terms/) caused by a Provider with access to your AWS account. If you use AWS IQ’s feature that allows you to grant a Provider access to your account, AWS may, but is not obligated to, review activities in your account for security purposes, and may revoke the Provider’s access at any time.
 
 **70.5.** You release us (and our agents and employees) from claims, demands, and damages (actual or consequential) of any and every kind and nature, known or unknown, suspected or unsuspected, disclosed and undisclosed, arising out of or in any way connected with your use of the AWS IQ marketplace.  
 
@@ -1329,7 +1333,7 @@ Migration Evaluator collects performance and usage metrics and data about your 
 
 **71.2.** AWS Cloud WAN in Singapore is sold and provided by AMCS SG PRIVATE LIMITED, an affiliate of AWS, and not AWS, but is otherwise subject to the terms of the Agreement.
 
-**71.3.** Your use of AWS Cloud WAN in South Korea is subject to the applicable [Country Specific Communications Service Terms](/service-terms/country-specific-communications-service-terms/).  
+**71.3.** Your use of AWS Cloud WAN in South Korea is subject to the applicable [Country Specific Communications Service Terms](https://aws.amazon.com/service-terms/country-specific-communications-service-terms/).  
 
 ## 72\. AWS CodeStar Notifications
 
@@ -1337,17 +1341,17 @@ AWS CodeStar Notifications utilizes one or more of the following: Amazon Simple 
 
 ## 73\. AWS Data Exchange
 
-**73.1.** The [Service Terms for AWS Marketplace Sellers](/legal/seller-terms/) apply to your use of AWS Data Exchange. Your use of Content obtained through AWS Data Exchange remains subject to the AWS Acceptable Use Policy, even if used outside of our Services.
+**73.1.** The [Service Terms for AWS Marketplace Sellers](https://aws.amazon.com/legal/seller-terms) apply to your use of AWS Data Exchange. Your use of Content obtained through AWS Data Exchange remains subject to the AWS Acceptable Use Policy, even if used outside of our Services.
 
 **73.2.** You may not use any Content obtained through AWS Data Exchange that was anonymized, de-identified, or otherwise disassociated from an identifiable person in any manner that would attempt to re-identify, de-anonymize, or otherwise associate such Content with an identifiable person.
 
-**73.3.** If we remove your Data Offering (as defined in the [Service Terms for AWS Marketplace Sellers](/legal/seller-terms/)), then we may also cancel any current associated subscriptions if we determine, in our sole discretion, that your Data Offering: (a) poses a security risk to us or a Subscriber (as defined in the [Service Terms for AWS Marketplace Sellers](/legal/seller-terms/)); (b) could subject us, our affiliates, or any third party to liability; (c) could be fraudulent; or (d) violates the AWS Marketplace Service Terms.  
+**73.3.** If we remove your Data Offering (as defined in the [Service Terms for AWS Marketplace Sellers](https://aws.amazon.com/legal/seller-terms)), then we may also cancel any current associated subscriptions if we determine, in our sole discretion, that your Data Offering: (a) poses a security risk to us or a Subscriber (as defined in the [Service Terms for AWS Marketplace Sellers](https://aws.amazon.com/legal/seller-terms)); (b) could subject us, our affiliates, or any third party to liability; (c) could be fraudulent; or (d) violates the AWS Marketplace Service Terms.  
 
-**73.4.** Except as agreed to in writing between you and the respective Subscriber, otherwise permitted by law, in addition to any other restrictions on your use of Subscriber Information (as defined in the [Service Terms for AWS Marketplace Sellers](/legal/seller-terms/)) in the Service Terms for AWS Marketplace Sellers, you may only use Subscriber Information for compliance verification in connection with Subscribers acquiring rights to the underlying content of your Data Offerings. 
+**73.4.** Except as agreed to in writing between you and the respective Subscriber, otherwise permitted by law, in addition to any other restrictions on your use of Subscriber Information (as defined in the [Service Terms for AWS Marketplace Sellers](https://aws.amazon.com/legal/seller-terms)) in the Service Terms for AWS Marketplace Sellers, you may only use Subscriber Information for compliance verification in connection with Subscribers acquiring rights to the underlying content of your Data Offerings. 
 
 **73.5.** You represent and warrant to us that to the extent your Data Offerings contains any data that (i) identifies or can be used by a Subscriber or other third party to identify a natural person; or (ii) otherwise may be deemed to be personal data or personal information under applicable laws or regulations with respect to the Subscriber, then such data (a) has already lawfully been made available to the general public, such as via governmental records, widely distributed media, or legally required public disclosures; and (b) does not include sensitive data or sensitive information about an individual or shall not otherwise be deemed to be sensitive data or sensitive information under applicable laws and regulations, including without limitation, information relating to biometric or genetic data, health, racial or ethnic origin, political opinions, religious or philosophical beliefs, sex or sexual orientation, trade union membership, or personal payment or sensitive personal data.
 
-**73.6.** If you do not specify license rights for your Data Offerings, you agree to license your Data Offerings under the terms of the template Data Subscription Agreement available at [https://aws.amazon.com/marketplace/features/standardized-contracts](/marketplace/features/standardized-contracts/).
+**73.6.** If you do not specify license rights for your Data Offerings, you agree to license your Data Offerings under the terms of the template Data Subscription Agreement available at [https://aws.amazon.com/marketplace/features/standardized-contracts](https://aws.amazon.com/marketplace/features/standardized-contracts).
 
 **73.7.** Your use of AWS Data Exchange is subject to the fees described in the [AWS Data Exchange User Guide](https://docs.aws.amazon.com/data-exchange/latest/userguide/what-is.html).
 
@@ -1385,7 +1389,7 @@ For the Service Level Agreements applicable to any Services or Service workloads
 
 ## 79\. Amazon Braket
 
-**79.1.** If you use Amazon Braket to access quantum computing hardware operated by one of the third-party hardware providers listed [here](/braket/hardware-providers/) (each a “Hardware Provider”), you: (1) acknowledge that the Content you provide in connection with your use of Amazon Braket may be processed by the Hardware Provider outside of facilities operated by AWS; and (2) authorize AWS to transfer such Content to the Hardware Provider for processing.
+**79.1.** If you use Amazon Braket to access quantum computing hardware operated by one of the third-party hardware providers listed [here](https://aws.amazon.com/braket/hardware-providers) (each a “Hardware Provider”), you: (1) acknowledge that the Content you provide in connection with your use of Amazon Braket may be processed by the Hardware Provider outside of facilities operated by AWS; and (2) authorize AWS to transfer such Content to the Hardware Provider for processing.
 
 **79.2.** We may change, deprecate or discontinue any Service offering that relates to services offered by any Hardware Provider at any time. We will provide you with prior notice of any deprecation or discontinuation of such a service offering where practicable under the circumstances.
 
@@ -1415,7 +1419,7 @@ For the Service Level Agreements applicable to any Services or Service workloads
 
 ## 82\. Amazon Location Service
 
-**82.1.** When you use a feature of Amazon Location Service that is identified to you as being provided by a third-party geolocation service provider listed [here](/location/data-providers/) (each such feature, including Maps, Places, and Routing, a “**Geolocation Provider Feature**,” and each such provider, a "**Geolocation Provider**”), you authorize AWS to transmit your request parameters (e.g., location searches) to the Geolocation Provider for processing which may be outside of the AWS region in which your request was made. However, any Open Data requests will be processed by AWS in the AWS region in which your request was made.
+**82.1.** When you use a feature of Amazon Location Service that is identified to you as being provided by a third-party geolocation service provider listed [here](https://aws.amazon.com/location/data-providers/) (each such feature, including Maps, Places, and Routing, a “**Geolocation Provider Feature**,” and each such provider, a "**Geolocation Provider**”), you authorize AWS to transmit your request parameters (e.g., location searches) to the Geolocation Provider for processing which may be outside of the AWS region in which your request was made. However, any Open Data requests will be processed by AWS in the AWS region in which your request was made.
 
 **82.2.** Location Data provided through Amazon Location Service should be evaluated for accuracy as appropriate for your use case. You are responsible for making your own assessment of whether your use of Amazon Location Service meets applicable legal and regulatory requirements. You and your End Users are solely responsible for all decisions made, advice given, actions taken, and failures to take action based on your use of Amazon Location Service.
 
@@ -1565,9 +1569,9 @@ Amazon FinSpace is a tool to help you analyze data for investment and business d
 
 ## 94\. Integrated Private Wireless on AWS
 
-**94.1.** AWS may stop providing the Integrated Private Wireless on AWS portal (or remove any offerings on the [Integrated Private Wireless on AWS site](/telecom/integrated-private-wireless/) (or any successor site)) at any time. We will provide you with prior notice where practicable under the circumstances.
+**94.1.** AWS may stop providing the Integrated Private Wireless on AWS portal (or remove any offerings on the [Integrated Private Wireless on AWS site](https://aws.amazon.com/telecom/integrated-private-wireless/) (or any successor site)) at any time. We will provide you with prior notice where practicable under the circumstances.
 
-**94.2.** The offerings on the [Integrated Private Wireless on AWS site](/telecom/integrated-private-wireless/) (or any successor site) are offered by third parties and subject to separate terms and conditions specified by the respective third party. AWS has no control and makes no guarantees about such offerings. 
+**94.2.** The offerings on the [Integrated Private Wireless on AWS site](https://aws.amazon.com/telecom/integrated-private-wireless/) (or any successor site) are offered by third parties and subject to separate terms and conditions specified by the respective third party. AWS has no control and makes no guarantees about such offerings. 
 
 ## 95\. AWS Diode
 
@@ -1615,7 +1619,7 @@ b. You are responsible for providing legally adequate privacy notices to End Use
 
 **101.4. Palm Data.** You agree and instruct that to provide the Amazon One Enterprise Services, AWS will generate, analyze, process, store, and use data related to your End Users’ palms, including palm images, palm signatures, embeddings, and representations (“Palm Data”) on your behalf when you make the Amazon One Enterprise Device available for use to your End Users. AWS will generate, analyze, process, store, and use Palm Data only as necessary to maintain and provide the Amazon One Enterprise Service or as necessary to comply with applicable laws or a binding order of a governmental body, and to develop and improve the Amazon One and Amazon One Enterprise Services. AWS will not sell Palm Data or use Palm Data in cross-context behavioral advertising. Palm Data include, but are not limited to, unique images, templates, and/or mathematical representations of End Users’ palms that are created using proprietary software and algorithms. Palm Data are integral to the functioning of the Amazon One Enterprise Services and AWS generates, analyzes, processes, stores, uses, and makes available Palm Data on your behalf solely for use in the Amazon One Enterprise Services. You understand and agree that Palm Data, and all related information, technology, processing and outputs required to generate, analyze, process, store, and use Palm Data, are not Your Content (as defined by the Agreement). You understand that all forms of Palm Data: (i) have economic value for AWS; (ii) are not readily known or knowable to others and; (iii) are subject to AWS’s reasonable efforts to keep them secret and confidential, and are, therefore, a trade secret of AWS and owned by AWS. You understand and agree that you and your End Users will not have any access to Palm Data, and you agree to notify your End Users of this before they use any Amazon One Enterprise Device.
 
-**101**.**5.** Your use of Amazon One Enterprise Services is subject to additional [Biometric Notice and Consent Service Terms](/legal/biometric-notice-and-consent-terms/).
+**101**.**5.** Your use of Amazon One Enterprise Services is subject to additional [Biometric Notice and Consent Service Terms](https://aws.amazon.com/legal/biometric-notice-and-consent-terms).
 
 **101.6. Privacy Rights Requests.** You are solely responsible for receiving submissions for and responding to any requests from your End Users or individuals you authorize or permit to use the Amazon One Enterprise Services relating to their personal information (collectively, “Privacy Rights Request”) in compliance with applicable laws. To the extent AWS receives any Privacy Rights Requests, AWS will forward such Privacy Rights Requests to you and reasonably cooperate in providing you the necessary information for you to comply with Privacy Rights Requests. Further, you understand and agree that to the extent any Privacy Rights Requests relate to Palm Data, after you have verified the identity of the requestor: (a) if the request is a deletion request, you will notify AWS of the request, and AWS will permanently destroy the Palm Data in accordance with applicable law; or (b) if the request is an access or portability request, you will inform the requestor with sufficient particularity that you have collected Palm Data, but you understand and agree that you will not be able to disclose or provide access to Palm Data because it is sensitive personal information and applicable privacy laws prohibit you from disclosing or providing access to such sensitive personal information in response to a Privacy Rights Request. Moreover, you understand and agree that you do not and will not have access to Palm Data because it constitutes both sensitive personal information and AWS’s trade secret.
 
@@ -1625,7 +1629,7 @@ b. You are responsible for providing legally adequate privacy notices to End Use
 
 ## 102\. Amazon WorkSpaces Thin Client
 
-In addition to the Agreement and these Service Terms, use of Amazon WorkSpaces Thin Client devices is subject to [device terms](/workspaces/thin-client/terms/)[](#_msocom_1). Please review the device terms before using an Amazon WorkSpaces Thin Client device.
+In addition to the Agreement and these Service Terms, use of Amazon WorkSpaces Thin Client devices is subject to [device terms](https://aws.amazon.com/workspaces/thin-client/terms/)[](#_msocom_1). Please review the device terms before using an Amazon WorkSpaces Thin Client device.
 
 ## 103\. AWS Deadline Cloud
 
@@ -1691,4 +1695,4 @@ j. Your use of Epic’s Unreal Engine is subject to the terms and conditions of 
 
 **106.9.** Amazon Connect Health is not intended to be used by itself for any clinical decision-making and is not a medical device. Healthcare providers remain responsible for finalizing all clinical documentation and for patient care coordination. 
 
-[Previous Version(s)](/service-terms/previous/)
+[Previous Version(s)](https://aws.amazon.com/service-terms/previous/)
