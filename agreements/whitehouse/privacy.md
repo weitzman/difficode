@@ -7,7 +7,7 @@ selector: "main"
 
 The White House is committed to protecting individual privacy and securing the personal information made available to us when you visit WhiteHouse.gov, or visit White House pages hosted by other sites (such as our official profiles on social networking sites). This Privacy Policy describes what information is made available to the White House and how that information is used and retained, and provides information on:
 
-*   Information we receive (when you provide it, visit WhiteHouse.gov, receive email updates, or interact with official White House presences on third-party sites)
+*   Information we receive (when you provide it, visit WhiteHouse.gov, download or use the White House mobile app, receive email updates, or interact with official White House presences on third-party sites)
 *   How this information is used
 *   Sharing of this information
 *   Data retention
