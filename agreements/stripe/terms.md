@@ -5,7 +5,7 @@ selector: "main"
 
 ## Welcome!
 
-Last updated: March 30, 2026
+Last updated: April 16, 2026
 
 ### **1\. Introduction and Scope**
 
@@ -303,6 +303,82 @@ In the event your access to Link Balance has been terminated, you will be permit
 ### **12\. Verification Procedures**
 
 Link is required to identify users registering for and using Link Balance. This ensures Link remains in compliance with applicable KYC/AML laws, which is necessary to continue offering Supported Digital Asset and Link Balance services to our customers. Link collects and verifies information about you in order to: (i) protect Link and the community from fraudulent users; and (ii) to keep appropriate records of Link's customers. Link may require you to provide or verify additional information, engage in enhanced due diligence, or to wait some amount of time after completion of a transaction, before permitting you to use any Link Balance service and/or before permitting you to engage in transactions.
+
+## **Link Agentic Terms**
+
+### **Scope and Applicability**
+
+These terms (“**Link Agentic Terms**”)  apply if you authorize an Agent to access your Link Account. By authorizing an Agent to connect to your Link Account, you agree to be bound by these Link Agentic Terms and any new features or tools that are added will also be subject to these Link Agentic Terms. 
+
+### **Definition of Agent**
+
+For the purposes of these Link Agentic Terms, “**Agent**” means any software, computer or other automated technology, including any such technology that operates through, in conjunction with, or by invoking other automated systems, platforms, APIs, or agents, whether or not you have direct control over or visibility into each intermediate system in the chain, that is capable of, designed for, or employed for the purpose of independently or semi-independently acting as your delegate, proxy, intermediary, or agent in any transactional activity, whether in a single transaction or across multiple ongoing transactions. Your Agent constitutes an "electronic agent" or equivalent concept as defined or recognized under the laws of your jurisdiction, including the Uniform Electronic Transactions Act (UETA) and similar statutes, and that transactions initiated or completed by your Agent are legally binding upon you.
+
+### **How Agents Will Use Your Link Account Information**
+
+To allow Agents to facilitate transactions on your behalf, you will need to authorize an Agent to connect to your Link Account. When you connect an Agent to your Link Account, you are authorizing Link to share your personal data with the Agent or artificial intelligence commerce platform it operates on to facilitate the Agent’s services on your behalf, which may include: 
+
+1.  Account Information, such as your name, email address, and mobile phone number;
+2.  payment information, such as the name of your credit or debit cards and the last four digits of the card numbers, bank account names and last four digits of the account number, and billing address;
+3.  Shipping Information; and
+4.  information related to your order, such as information related to your purchase, order date, amount, and product details.
+
+You acknowledge that: 
+
+*   you are authorizing an Agent to connect to your Link Account to (i) receive and transmit information necessary to complete a transaction; and (ii) initiate, complete, and manage transactions with merchants on your behalf;
+*   the Agent may use personal data within your Link Account to complete the transaction, including providing your personal data to the merchant in connection with the transaction; 
+*   once your personal data is shared with the Agent, the Agent’s use of your data will be governed by the instructions, parameters, and settings you set for your Agent, and the Agent’s privacy policy, if applicable; 
+*   we are not responsible for the Agent’s handling, use, storage, or disclosure of your personal data after it has been shared; 
+*   you are encouraged to review the Agent’s privacy policy and security practices, as applicable, before authorizing the Agent to access your Link Account. You may withdraw your consent to the future sharing of personal data with an Agent at any time by disconnecting the Agent from your Link Account; 
+*   we will use all personal data we collect about you in accordance with the [Link Privacy Policy.](https://link.com/privacy) You acknowledge that the “prompts” or instructions you provide to the Agent, as well as your Agent’s API calls and related metadata, Agent management information, and product information may be processed by Link to improve Link services, including but not limited to the interoperability between Link and the Agent; and
+*   when you use an Agent, you are choosing to interact with generative artificial intelligence rather than a human representative to facilitate financial tasks.
+
+### **Approval of the Transaction Amount**
+
+You are solely responsible for reviewing and approving the Spend Request for each transaction initiated by or through the Agent before it is completed, to the extent required. “**Spend Request**” means the amount of the goods or services the Agent surfaces for your approval in response to your purchasing instruction. You may be required to approve Spend Requests using secure methods, such as biometric passkeys. You are responsible for all transactions completed through your Agent using your Link Account credentials.
+
+Agents may occasionally misinterpret instructions or provide inaccurate information about products or pricing, engage in a transaction that you did not intend, or populate inaccurate information within your Link Transaction History. You should review your Agent activity, Link Transaction History, and other financial statements regularly. If an Agent has engaged in a transaction that you did not intend, you may consider disconnecting the Agent from your Link Account at any time.
+
+### **Disconnecting an Agent From Your Link Account**
+
+You may disconnect an Agent from your Link Account at any time by:
+
+1.  Managing your connected applications or authorized Agents through your Link Account settings at [app.link.com](https://app.link.com); or
+2.  Revoking the Agent’s access through the Agent’s own platform, to the extent such functionality is available.
+
+Upon disconnection, Link will no longer pass your personal data to the Agent, and the Agent will not have the ability to initiate transactions on your behalf through your Link Account. Disconnection will not affect transactions that have already been approved or completed prior to disconnection. Disconnecting your account or deleting your personal data may not cancel or stop payments (or recurring payments) that you have already approved. An Agent will still have access to your previously-shared personal data following disconnection. 
+
+### **You are Responsible for Your Agent**
+
+Agent connectivity is provided on an “AS IS” basis. You are responsible for ensuring that you trust any Agent you authorize to access your Link Account. By connecting your Agent, you acknowledge that we do not control the logic and/or outcomes of your Agent, and you agree that your use of an Agent is subject to that Agent’s terms of service, privacy policy, and security practices, if applicable. We assume no responsibility for and make no representations as to the terms of use and privacy and security practices employed by any Agent. As between you and Stripe, you are responsible for all Agent-initiated transactions as if you had taken the action yourself.  Your connection of an Agent to your Link Account constitutes your authorization for the Agent to engage in transactions on your behalf, whether those transactions were intended by you or not; those transactions were caused by bugs, hallucinations and/or misinterpretations; or those transactions differ from your provided instructions; except in the case the transaction is the result of our technical failure or error. For the avoidance of doubt, transactions carried out by an Agent that you have authorized to connect to your Link Account will not be considered Unauthorized Transactions for the purposes of Section 9 of the Link Account Terms (Protection from Unauthorized Transactions (only for U.S. consumers)).
+
+We facilitate the connection between the Agent and your Link Account but do not control and are not responsible for the Agent’s actions or recommendations, including but not limited to the accuracy or security of information the Agent presents to you and/or the Agent’s use of your data. You are solely responsible for defining, monitoring, and if necessary, terminating your Agent’s connectivity.
+
+You acknowledge that the Agent may send you communications independently and, if applicable, such communications are governed by the Agent’s own terms and policies, if any.
+
+### **Our Role**
+
+We may charge or debit your selected payment method for the purchase with an Agent, which will be reflected in your card, bank, or payment method statement as “Link.com\*\[merchant name\]” or similar. When we charge or debit your selected payment method, we are providing a separate service to you that enables your Agent to procure and purchase goods or services from a merchant on your behalf. You will reimburse us for the purchase of goods and services we make on your behalf. Your payment to us satisfies your payment obligations to the merchant for your purchase of the goods or services.
+
+We do not have or receive possession or title to the goods or services. The merchant sells the goods or services to you. The merchant remains responsible for the goods and services you purchase using an Agent connected to your Link Account, and the merchant is responsible for: fulfilling your order, providing you with an itemized receipt, liability relating to the merchant’s products or services, compliance with applicable law, and any indirect taxes charged to you. You are responsible for reviewing and complying with the terms and conditions that apply to the merchant’s products you purchase using an Agent connected to your Link Account. 
+
+### **Refunds, Returns, Chargebacks**
+
+To initiate a refund, you should start by contacting the merchant directly. To the extent necessary, we will provide as much information as possible to you and the merchant to facilitate resolution of your concern. You may also reach out to Link Support to initiate a refund request. Refunds for orders will be determined on a case-by-case basis and may be refused by us if there is evidence of fraud, refund abuse, or other misbehavior as stated in our [Link agent wallet Refund Policy](https://support.link.com/questions/getting-help-with-a-link-agent-wallet-purchase). You should review the [Link agent wallet Refund Policy](https://support.link.com/questions/getting-help-with-a-link-agent-wallet-purchase) and the refund policy of the merchant from whom you purchased your goods or services. We reserve the right to redirect you to the merchant, in which case the merchant’s refund policy applies. Unless required by law, we do not provide refunds for unused subscriptions or if you changed your mind about an order. 
+
+We will assess your refund requests based on the information you provide to us. We may at times request additional information from you regarding the purchase. If you do not provide the additional information within the time as reasonably requested, your refund may be denied. You may have additional rights as a consumer against the merchant if the goods or services purchased are significantly not as described, faulty, or not fit for purpose. 
+
+To initiate a return, you must contact the merchant directly. Returns will be subject to the merchant’s return policy, which varies by merchant.
+
+For product and delivery issues relating to your order, or any issues related to use of the product you purchased in your order please contact the merchant directly. We do not provide product-related customer support services (e.g., how to use the product). 
+
+If you do not recognize a charge from us on your payment method statement, before filing a dispute with your bank or financial institution you can reach out to us [here](https://support.link.com/contact).
+
+### **Security**
+
+You must not share your Link Account credentials (including your passkeys or one-time codes) directly with an Agent or its developer. Connections must be made only through the official Link authorization interface. We, our Affiliates, and respective agents may, at our discretion, decline, cancel, or refuse to facilitate any transaction where we reasonably believe you did not approve the Spend Request, is fraudulent or unauthorized, illegal, or exposes us to unacceptable risk. 
+
+To the extent you download or enable any functionality to connect your Agent to your Link Account, the functionality is provided “AS IS” and “AS AVAILABLE.” To the maximum extent permitted by law, we do not make any, and expressly disclaim all, express and implied warranties and statutory guarantees with respect to downloaded or enabled functionality, and are not liable for any losses, damages, or costs you or others may suffer arising out of its use. This applies any time you connect a third party agent, platform, or app to your Link Account. 
 
 ## Financial Connections Terms
 
