@@ -11,7 +11,7 @@ Agreement
 
 ### Last Updated
 
-This user agreement is effective as of April 6, 2026.
+This user agreement is effective as of April 16, 2026.
 
 **Welcome to Venmo!**
 
@@ -593,7 +593,7 @@ Everyday Cashback on Merchant Bundles allows you to select a group of participat
 
 **Program Enrollment and Offer Activation:** During Everyday Cashback enrollment, you may select one Merchant Group. A Merchant Group consists of a group of individual merchants that we designate as eligible from time to time. You may change your selected Merchant Group, but we may place limitations at our sole discretion on how frequently you may do so.
 
-**Qualification Criteria:** Offers are only valid for completed transactions with your Venmo Debit Card where the merchant listed in the offer is the merchant of record. If you perform an in-store cash withdrawal or cashback transaction with the merchant, that portion of the transaction will be excluded from the amount eligible for rewards. You will not receive cashback rewards for any items that you return or for which you receive a full refund. If you return all or part of your purchase or receive a refund on it, the cashback rewards will be reduced accordingly based on the new transaction amount. If you return or otherwise receive a refund for which you have already received a cashback reward, we reserve the right to debit any related cashback rewards you have already received or withhold future cashback rewards to offset that amount.
+**Qualification Criteria:** Offers are only valid for transactions with a merchant in your selected Merchant Group completed with your Venmo Debit Card or completed using your Venmo account at an authorized merchant. Merchant listed in the offer must be the merchant of record to qualify for cashback rewards. If you perform an in-store cash withdrawal or cashback transaction with the merchant, that portion of the transaction will be excluded from the amount eligible for rewards. You will not receive cashback rewards for any items that you return or for which you receive a full refund. If you return all or part of your purchase or receive a refund on it, the cashback rewards will be reduced accordingly based on the new transaction amount. If you return or otherwise receive a refund for which you have already received a cashback reward, we reserve the right to debit any related cashback rewards you have already received or withhold future cashback rewards to offset that amount.
 
 **Cashback Tiers:** Cashback is calculated at the rate applicable on the date the qualifying purchase is authorized, as set forth below and subject to the monthly cap:
 
