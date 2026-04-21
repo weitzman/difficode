@@ -230,7 +230,7 @@ To provide you with our services, we sometimes send you service announcements an
 
 If you choose to give us feedback, such as suggestions to improve our services, we may act on your feedback without obligation to you.
 
-![](https://www.gstatic.com/identity/boq/policies/privacy/tos_2024/09-content-in-google-services-lightmode.svg)
+![](https://www.gstatic.com/identity/boq/policies/privacy/tos_2024/08-using-google-services-lightmode.svg)
 
 # Content in Google services
 
