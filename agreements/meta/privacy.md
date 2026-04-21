@@ -55,17 +55,13 @@ selector: "#root"
 
 ![](https://static.xx.fbcdn.net/rsrc.php/yG/r/O0My_p0z_D0.webp)](#11)[
 
-## Privacy notice for United States residents
+## How to contact Meta with questions
 
 ![](https://static.xx.fbcdn.net/rsrc.php/yG/r/O0My_p0z_D0.webp)](#12)[
 
-## How to contact Meta with questions
-
-![](https://static.xx.fbcdn.net/rsrc.php/yG/r/O0My_p0z_D0.webp)](#13)[
-
 ## Why and how we process your information
 
-![](https://static.xx.fbcdn.net/rsrc.php/yG/r/O0My_p0z_D0.webp)](#14)
+![](https://static.xx.fbcdn.net/rsrc.php/yG/r/O0My_p0z_D0.webp)](#13)
 
 ## Other policies[
 
@@ -80,8 +76,6 @@ selector: "#root"
 # What is the Privacy Policy and what does it cover?
 
 Effective December 16, 2025
-
-Read the [United States Regional Privacy Notice](https://www.facebook.com/privacy/policies/uso/) for more details about how we handle Personal Information and how to exercise your rights.
 
 ## Highlights
 
@@ -1755,7 +1749,7 @@ Delete your information or account \[65\]
 
 ](?entry_point=POLICY_SECTION%3A6-HowCanYouManage#annotation-65)
 
-You can learn more about how privacy works on [Facebook](https://www.facebook.com/privacy/center/) and on *Dynamic link removed*, and in the [Facebook Help Center](https://www.facebook.com/help/?entry_point=POLICY_SECTION%3A6-HowCanYouManage). If you have questions about this policy, you can *Dynamic link removed* as described below. In some countries, you may also be able to contact the Data Protection Officer for Meta Platforms, Inc., and depending on your jurisdiction, you may also contact your local Data Protection Authority (“DPA”) directly.
+You can learn more about how privacy works on [Facebook](https://www.facebook.com/privacy/center/) and on *Dynamic link removed*, and in the [Facebook Help Center](https://www.facebook.com/help/?entry_point=POLICY_SECTION%3A6-HowCanYouManage). If you have questions about this policy, you can [contact us](https://www.facebook.com/help/contact/507739850846588?entry_point=POLICY_SECTION%3A6-HowCanYouManage) as described below. In some countries, you may also be able to contact the Data Protection Officer for Meta Platforms, Inc., and depending on your jurisdiction, you may also contact your local Data Protection Authority (“DPA”) directly.
 
 63
 
@@ -2090,12 +2084,6 @@ We'll notify you before we make material changes to this Policy. You’ll have t
 
 [Return to top![](https://static.xx.fbcdn.net/rsrc.php/yB/r/vDK-9_qzobV.webp)](#)
 
-# Privacy notice for United States residents
-
-You can learn more about the consumer privacy rights that may be available to you by reviewing the [United States Regional Privacy Notice](https://www.facebook.com/privacy/policies/uso?entry_point=POLICY_SECTION%3A12-PrivacyNoticeForUnitedStates).
-
-[Return to top![](https://static.xx.fbcdn.net/rsrc.php/yB/r/vDK-9_qzobV.webp)](#)
-
 # How to contact Meta with questions
 
 You can learn more about how privacy works on [Facebook](https://www.facebook.com/help/238318146535333?entry_point=POLICY_SECTION%3A13-HowToContactMeta) and on *Dynamic link removed* and in the [Facebook Help Center](https://www.facebook.com/help/?entry_point=POLICY_SECTION%3A13-HowToContactMeta). If you have questions about this Policy or have questions, complaints or requests regarding your information, you can contact us as described below.
@@ -2109,6 +2097,8 @@ ATTN: Privacy Operations
 1 Meta Way
 
 Menlo Park, CA 94025
+
+Contact the *Dynamic link removed* for Meta Platforms, Inc.
 
 [Return to top![](https://static.xx.fbcdn.net/rsrc.php/yB/r/vDK-9_qzobV.webp)](#)
 
