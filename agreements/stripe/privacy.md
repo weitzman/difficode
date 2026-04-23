@@ -3,7 +3,7 @@ url: "https://stripe.com/privacy"
 selector: "main"
 ---
 
-#### Last updated: February 23, 2026
+#### Last updated: January 16, 2026
 
 This Privacy Policy includes important information about your personal data and we encourage you to read it carefully.
 
@@ -346,7 +346,7 @@ We may provide you with disclosures and alerts regarding the Policy or Personal 
 *   **Australia**. “Personal Data” includes “personal information” as defined under applicable privacy laws in Australia, including the Privacy Act 1988 (Cth) as amended from time to time.
     *   If we use personal information to make automated decisions that could reasonably be expected to significantly affect your rights or interests, we will provide the legally required information and transparency via our [Privacy Center](https://stripe.com/au/legal/privacy-center), and/or on a case by case basis. 
     *   If you are an Australian resident and dissatisfied with our handling of any complaint you raise under this Policy, you may consider contacting the Office of the Australian Information Commissioner.
-*   **Brazil**. You may exercise your rights by contacting our DPO Adi Gilad at dpo@stripe.com. Brazilian residents, for whom the Lei Geral de Proteção de Dados Pessoais (“LGPD”) applies, have rights set forth in Article 18 of the LGPD.  If the LGPD is applicable to the processing of your Personal Data, you may have the right to:
+*   **Brazil**. You may exercise your rights by contacting our DPO Adi Gilad at [dpo@stripe.com](mailto:dpo@stripe.com). Brazilian residents, for whom the Lei Geral de Proteção de Dados Pessoais (“LGPD”) applies, have rights set forth in Article 18 of the LGPD.  If the LGPD is applicable to the processing of your Personal Data, you may have the right to:
     *   Confirm the existence of the data processing;
     *   Access your Personal Data;
     *   Correct incomplete, inaccurate or outdated data;
@@ -358,8 +358,8 @@ We may provide you with disclosures and alerts regarding the Policy or Personal 
     *   Withdraw consent.Where required, we have put in place appropriate safeguards for the cross-border transfer of Personal Data from Brazil, including the Brazilian Standard Contractual Clauses.
 *   **Canada**. As used in this Policy, “applicable law” includes the Federal Personal Information Protection and Electronic Documents Act (“PIPEDA”), the Personal Information Protection Act, SBC 2003 c 63, in British Columbia, the Personal Information Protection Act, SA 2003 c P-6.5, in Alberta, and the Act Respecting the Protection of Personal Information in the Private Sector, CQLR c P-39-1 (“Quebec Private Sector Act”), in Quebec. [Learn more.](https://stripe.com/en-gb-us/legal/privacy-center#quebec-act-respecting-the-protection-of-personal-information)  “Personal Data” includes “personal information” as defined under those laws.
     *   Stripe’s Global Head of Privacy is the person in charge of personal information, including under the Quebec Private Sector Act.  You may contact them via email at [privacy@stripe.com](mailto:privacy@stripe.com).  When Stripe collects Personal Data belonging to Canadian (including Quebec) residents, it transfers that data to data centers in the United States.  When Stripe relies on service providers to process Personal Data as described herein, those service providers may also be located outside of Canada or Quebec.
-    *   You have the right to request access or rectification of the Personal Data Stripe holds related to you or to withdraw any consent given to the processing of such personal data.  You may exercise those rights by contacting Stripe’s Global Head of Privacy at privacy@stripe.com. If you are an End Customer, you should contact the Business User with which you transacted to exercise your rights.
-*   **EEA and UK**. You may exercise your rights by contacting our DPO at dpo@stripe.com. If you are a resident of the EEA or the Stripe entity accountable for your Personal Data is otherwise subject to the GDPR, and you believe our processing of your information contradicts the GDPR, you may direct your questions or complaints to the Irish Data Protection Commission. If you are a resident of the UK, direct your questions or concerns to the UK Information Commissioner’s Office. You also have additional rights under the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF. [Learn More](https://stripe.com/en-ie/legal/data-privacy-framework).
+    *   You have the right to request access or rectification of the Personal Data Stripe holds related to you or to withdraw any consent given to the processing of such personal data.  You may exercise those rights by contacting Stripe’s Global Head of Privacy at [privacy@stripe.com](mailto:privacy@stripe.com). If you are an End Customer, you should contact the Business User with which you transacted to exercise your rights.
+*   **EEA and UK**. You may exercise your rights by contacting our DPO at [dpo@stripe.com](mailto:dpo@stripe.com). If you are a resident of the EEA or the Stripe entity accountable for your Personal Data is otherwise subject to the GDPR, and you believe our processing of your information contradicts the GDPR, you may direct your questions or complaints to the Irish Data Protection Commission. If you are a resident of the UK, direct your questions or concerns to the UK Information Commissioner’s Office. You also have additional rights under the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF. [Learn More](https://stripe.com/en-ie/legal/data-privacy-framework).
 *   **India**. In this Policy, “applicable law” includes the Digital Personal Data Protection Act (“DPDPA”) once the DPDPA enters into effect, and rules issued thereunder. Further, the term “data controller” includes “data fiduciaries,” and the term “data subject” includes “data principal,” both as defined in the DPDPA.
     *   Your acceptance of this Policy constitutes a clear affirmative action and signifies your agreement to Stripe’s processing of your Personal Data for the purposes outlined in this Privacy Policy. If you do not agree with any part of this Policy, you should refrain from accessing or using our services.
     *   In some cases, and as permitted under the DPDPA, we may rely on “legitimate use” as a legal basis as permitted under Section 7 of the DPDPA. For example, we might do so for the following:
@@ -493,7 +493,7 @@ However, you can contact us at any time to limit our sharing.
 
 Questions?
 
-Contact us at [privacy@stripe.com](mailto:dpo@stripe.com) or visit us at https://support.link.com
+Contact us at [privacy@stripe.com](mailto:dpo@stripe.com) or visit us at [https://support.link.com](https://support.link.com/)
 
 Who we are
 
