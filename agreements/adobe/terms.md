@@ -384,7 +384,7 @@ style
     (for example, to enable the playback of a video on public properties or third-party platforms at your direction but not to use the video to market or promote Adobe); and
 6.  **sublicense** the foregoing rights to third parties acting on our behalf (for example, we utilize trusted cloud infrastructure providers and content delivery networks subject to confidentiality and privacy restrictions to provide you with faster access to your Cloud Content).
 
-**What Adobe Does Not Do**
+#### **What Adobe Does Not Do**
 
 We will **not** (and cannot) grant a sublicense to a third party that is greater than the rights you give us.  
 Under this clause 4.3(A), we do not have the right to, and will not, use your Content to market or promote Adobe.  
@@ -741,34 +741,19 @@ Adobe\_General\_Terms\_of\_Use-en\_US\_20251003
 
 General Terms of Use Hyperlinked Document List (listed in order of mention above):
 
-1\. Subscription and Cancellation Terms: [https://www.adobe.com/legal/subscription-terms.html](/legal/subscription-terms.html)
-
-2\. K-12 (Primary and Secondary) and Higher Education Additional Terms for Student Data:  https://www.adobe.com/cc-shared/assets/pdf/legal/servicetou/adobe-edu-terms-en-us-20251103.pdf
-
-3\. Personal content stored in Creative Cloud and Document Cloud for teams or enterprise cloud storage HelpX: [https://helpx.adobe.com/enterprise/kb/business-storage.html](https://helpx.adobe.com/enterprise/kb/business-storage.html)
-
-4\. Privacy Policy: [https://www.adobe.com/privacy/policy.html](/privacy/policy.html)
-
-5\. Adobe Privacy Choices: [https://www.adobe.com/privacy/opt-out.html](/privacy/opt-out.html)
-
-6\. Content Analysis FAQ: [https://helpx.adobe.com/manage-account/using/machine-learning-faq.html](https://helpx.adobe.com/manage-account/using/machine-learning-faq.html)
-
-7\. Individuals from countries in the EEA and UK Data Processing Agreement for Adobe Cloud Services: [https://dpa.adobe.com/dpaTermsOfUse?type=55](https://dpa.adobe.com/dpaTermsOfUse?type=55)
-
-8\. Individuals outside of EEA and UK Data Protection Terms for Cloud Services: [https://www.adobe.com/content/dam/cc/en/legal/terms/enterprise/pdfs/DPT-WW.pdf](https://www.adobe.com/cc-shared/assets/pdf/legal/servicetou/dpt-ww.pdf)
-
-9\. Adobe software support guidelines: [https://helpx.adobe.com/support/programs/support-periods.html](https://helpx.adobe.com/support/programs/support-periods.html)
-
-10\. Transparency Center: [https://www.adobe.com/trust/transparency.html](/trust/transparency.html)
-
-11\. Upload your fonts to Creative Cloud: [https://helpx.adobe.com/creative-cloud/help/upload-your-fonts-to-creative-cloud.html#licensing](https://helpx.adobe.com/creative-cloud/help/upload-your-fonts-to-creative-cloud.html#licensing)
-
-12\. Primary and Secondary Institution Eligibility Guidelines: [https://helpx.adobe.com/enterprise/using/primary-and-secondary-institution-eligibility-guidelines.html](https://helpx.adobe.com/enterprise/using/primary-and-secondary-institution-eligibility-guidelines.html)
-
-13\. Third Party Software Notices and/or Additional Terms and Conditions: [https://www.adobe.com/products/eula/third\_party.html](/products/eula/third_party.html)
-
-14\. Image Use Rights: [https://www.adobe.com/legal/permissions/image-notice.html](/legal/permissions/image-notice.html)
-
-15\. Adobe Customer Care: [https://helpx.adobe.com/contact.html?step=CCSN\_membership-account-payment\_cancel-your-membership](https://helpx.adobe.com/contact.html?step=CCSN_membership-account-payment_cancel-your-membership)
-
-16\. Intellectual Property Removal Policy: [https://www.adobe.com/legal/dmca.html](/legal/dmca.html)
+1.  Subscription and Cancellation Terms: [https://www.adobe.com/legal/subscription-terms.html](/legal/subscription-terms.html)
+2.  K-12 (Primary and Secondary) and Higher Education Additional Terms for Student Data:  https://www.adobe.com/cc-shared/assets/pdf/legal/servicetou/adobe-edu-terms-en-us-20251103.pdf
+3.  Personal content stored in Creative Cloud and Document Cloud for teams or enterprise cloud storage HelpX: [https://helpx.adobe.com/enterprise/kb/business-storage.html](https://helpx.adobe.com/enterprise/kb/business-storage.html)
+4.  Privacy Policy: [https://www.adobe.com/privacy/policy.html](/privacy/policy.html)
+5.  Adobe Privacy Choices: [https://www.adobe.com/privacy/opt-out.html](/privacy/opt-out.html)
+6.  Content Analysis FAQ: [https://helpx.adobe.com/manage-account/using/machine-learning-faq.html](https://helpx.adobe.com/manage-account/using/machine-learning-faq.html)
+7.  Individuals from countries in the EEA and UK Data Processing Agreement for Adobe Cloud Services: [https://dpa.adobe.com/dpaTermsOfUse?type=55](https://dpa.adobe.com/dpaTermsOfUse?type=55)
+8.  Individuals outside of EEA and UK Data Protection Terms for Cloud Services: [https://www.adobe.com/content/dam/cc/en/legal/terms/enterprise/pdfs/DPT-WW.pdf](https://www.adobe.com/cc-shared/assets/pdf/legal/servicetou/dpt-ww.pdf)
+9.  Adobe software support guidelines: [https://helpx.adobe.com/support/programs/support-periods.html](https://helpx.adobe.com/support/programs/support-periods.html)
+10.  Transparency Center: [https://www.adobe.com/trust/transparency.html](/trust/transparency.html)
+11.  Upload your fonts to Creative Cloud: [https://helpx.adobe.com/creative-cloud/help/upload-your-fonts-to-creative-cloud.html#licensing](https://helpx.adobe.com/creative-cloud/help/upload-your-fonts-to-creative-cloud.html#licensing)
+12.  Primary and Secondary Institution Eligibility Guidelines: [https://helpx.adobe.com/enterprise/using/primary-and-secondary-institution-eligibility-guidelines.html](https://helpx.adobe.com/enterprise/using/primary-and-secondary-institution-eligibility-guidelines.html)
+13.  Third Party Software Notices and/or Additional Terms and Conditions: [https://www.adobe.com/products/eula/third\_party.html](/products/eula/third_party.html)
+14.  Image Use Rights: [https://www.adobe.com/legal/permissions/image-notice.html](/legal/permissions/image-notice.html)
+15.  Adobe Customer Care: [https://helpx.adobe.com/contact.html?step=CCSN\_membership-account-payment\_cancel-your-membership](https://helpx.adobe.com/contact.html?step=CCSN_membership-account-payment_cancel-your-membership)
+16.  Intellectual Property Removal Policy: [https://www.adobe.com/legal/dmca.html](/legal/dmca.html)
