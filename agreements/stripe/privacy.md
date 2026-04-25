@@ -3,7 +3,7 @@ url: "https://stripe.com/privacy"
 selector: "main"
 ---
 
-#### Last updated: January 16, 2026
+#### Last updated: February 23, 2026
 
 This Privacy Policy includes important information about your personal data and we encourage you to read it carefully.
 
@@ -399,7 +399,7 @@ If you have any questions or complaints about this Policy, please [contact us](h
 
 The following Consumer Privacy Notice applies to you if you are an individual who resides in the United States and obtains financial services from Stripe primarily for your own personal, family, or household purposes.
 
-Last updated: January 16, 2026
+Last updated: February 23, 2026
 
 FACTS
 
