@@ -3,7 +3,7 @@ url: "https://stripe.com/privacy"
 selector: "main"
 ---
 
-#### Last updated: February 23, 2026
+#### Last updated: April 28, 2026
 
 This Privacy Policy includes important information about your personal data and we encourage you to read it carefully.
 
@@ -331,7 +331,7 @@ If you are located in the European Economic Area (“EEA”), the United Kingdom
 *   EU Standard Contractual Clauses approved by the European Commission and the UK International Data Transfer Addendum issued by the Information Commissioner’s Office. You can obtain a copy of the relevant Standard Contractual Clauses. [Learn More](https://stripe.com/legal/privacy-center#how-to-get-a-copy-of-the-sccs-or-uk-addendum).
 *   Other lawful methods available to us under applicable law. 
 
-Stripe Inc., now known as Stripe, LLC complies with the EU-U.S. Data Privacy Framework (“EU-U.S. DPF”), the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework as set forth by the U.S. Department of Commerce and as applicable. [Learn More](https://stripe.com/en-ie/legal/data-privacy-framework).
+Stripe, LLC complies with the EU-U.S. Data Privacy Framework (“EU-U.S. DPF”), the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework as set forth by the U.S. Department of Commerce and as applicable.  You can learn and read Stripe’s Data Privacy Framework Policy [here](https://stripe.com/legal/data-privacy-framework).
 
 Stripe’s privacy practices, as described in this Privacy Policy, comply with the Cross Border Privacy Rules System (“CBPR”) and Privacy Rules for Processor (“PRP”) systems. These systems provide a framework for organizations to ensure protection of personal data transferred among participating economies. Where CBPR and/or PRP are recognized as a valid transfer mechanism under applicable law, Stripe will transfer Personal Data in accordance with the CBPR and PRP certifications Stripe has obtained. More information about the framework can be found [here](https://cbprs.org/) and [here](https://stripe.com/legal/privacy-center#:~:text=What%20is%20CBPR%20and%20PRP%20and%20is%20Stripe%20certified%3F). If you have unresolved privacy or data use concerns that we have not addressed satisfactorily, please contact our U.S. based third-party dispute resolution provider (free of charge) at [https://feedback-form.truste.com/watchdog/request](https://feedback-form.truste.com/watchdog/request). To view the status of our certifications, please click [here](https://privacy.trustarc.com/privacy-seal/validation?rid=31b93f92-8732-402c-9768-f15aabc763f4) (CBPR) and [here](https://privacy.trustarc.com/privacy-seal/validation?rid=712f8b7a-6d3c-4484-9522-3bf21d56818a) (PRP).
 
@@ -399,7 +399,7 @@ If you have any questions or complaints about this Policy, please [contact us](h
 
 The following Consumer Privacy Notice applies to you if you are an individual who resides in the United States and obtains financial services from Stripe primarily for your own personal, family, or household purposes.
 
-Last updated: February 23, 2026
+Last updated: April 28, 2026
 
 FACTS
 
