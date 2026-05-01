@@ -21,11 +21,15 @@ Table of contents
 *   [12\. How to contact us](#how-to-contact-us)
 *   [13\. Useful resources](#useful-resources)
 
-Updated: April 1, 2026
+Select language
+
+English (United States)العربيةአማርኛArmenianবাংলাbosanskiбългарскиBurmesecatalàhrvatskičeštinadanskNederlandseestisuomifrançais (Canada)français (France)GeorgianDeutschΕλληνικάગુજરાતીहिन्दीmagyarIcelandicIndonesiaIrishitaliano日本語ಕನ್ನಡKazakh한국어latviešulietuviųMacedonianMelayuമലയാളംMalteseमराठीMongoliannorsk bokmålpolskiportuguês (Brasil)português (Portugal)românăрусскийslovenčinaslovenščinaсрпски (Srbija)Somaliespañol (Latinoamérica)español (España)KiswahilisvenskaFilipinoதமிழ்తెలుగుไทยTürkçeукраїнськаاردوTiếng Việt中文 (中国)中文 (台灣)中文 (香港)
+
+Updated: April 30, 2026
 
 # US privacy policy
 
-([Previous version⁠](/policies/row-privacy-policy/revisions/2025-06-27/))  
+([Previous version⁠](/policies/us-privacy-policy/revisions/2026-04-01/))  
   
 For individuals in the European Economic Area, United Kingdom, and Switzerland, you can read [this version](/policies/eu-privacy-policy/) of our Privacy Policy.
 
@@ -68,28 +72,28 @@ We use Personal Data for the following purposes:
 *   To provide, analyse, and maintain our Services, for example to respond to your questions for ChatGPT;
 *   To improve and develop our Services and conduct research, for example to develop new features;
 *   To personalize and customize your experience across our Services, for example to provide you with more relevant Content;
-*   For Free and Go users, to personalize the ads you see on our Services (subject to your settings), and to measure the effectiveness of ads shown on our Services. [Learn more⁠(opens in a new window)](https://help.openai.com/en/articles/20001047-ads-in-chatgpt) about ads on our services;
+*   For Free and Go users, to personalize the ads you see on our Services (subject to your settings), and to measure the effectiveness of ads shown on our Services. [Learn more⁠(opens in a new window)](https://help.openai.com/articles/20001047-ads-in-chatgpt) about ads on our services;
 *   To communicate with you, including to respond to your questions, and send you information about our Services and events, for example about changes or improvements to the Services;
+*   To promote our products and services to you through direct marketing and on third-party properties, and to assess the effectiveness of those efforts, subject to your choices and controls ([learn more⁠(opens in a new window)](https://help.openai.com/articles/20001156)); 
 *   Identify your contacts who use our Services when you choose to connect your contacts and update you if they join our Services later;
 *   To prevent fraud, illegal activity, or misuses of our Services, and to protect the security of our systems and Services, including by monitoring any Content submitted or exchanged on our platforms (learn more [here⁠](/transparency-and-content-moderation/)); and
 *   To comply with legal obligations and to protect the rights, privacy, safety, or property of our users, OpenAI, or third parties, for instance to prevent harm to you or others, or to estimate your age to give you an age-appropriate experience.
 
 We also aggregate or de-identify Personal Data so that it no longer identifies you and use this information for the purposes described above, such as to analyze the way our Services are being used, to improve and add features to them, and to conduct research. We will maintain and use de-identified information in de-identified form and not attempt to reidentify the information, unless required by law.
 
-As noted above, we may use Content you provide us to improve our Services, for example to train the models that power ChatGPT. Read [our instructions⁠(opens in a new window)](https://help.openai.com/en/articles/5722486-how-your-data-is-used-to-improve-model-performance) on how you can opt out of our use of your Content to train our models.
+As noted above, we may use Content you provide us to improve our Services, for example to train the models that power ChatGPT. Read [our instructions⁠(opens in a new window)](https://help.openai.com/articles/5722486-how-your-data-is-used-to-improve-model-performance) on how you can opt out of our use of your Content to train our models.
 
 ## 3\. Disclosure of Personal Data
 
 We disclose your Personal Data in the following circumstances:
 
-*   *Vendors and Service Providers*: To assist us in meeting business operations needs and to perform certain services and functions, we disclose Personal Data to vendors and service providers, including providers of hosting services, customer service vendors, cloud services, content delivery services, support and safety services, email communication software, web analytics services, payment and transaction processors, search and shopping providers, marketing service providers, and information technology providers. We also work with service providers who help us with age and identity verification, and you can [learn more here⁠(opens in a new window)](https://help.openai.com/en/articles/12652064-age-prediction-in-chatgpt). Based on our instructions, these parties will access, process, or store Personal Data only in the course of performing their duties to us.
-
+*   *Vendors, Service Providers, and Marketing Partners*: To assist us in meeting business operations needs and to perform certain services and functions, we disclose Personal Data to vendors, service providers, and marketing partners, including providers of hosting services, customer service vendors, cloud services, content delivery services, support and safety services, email communication software, web analytics services, payment and transaction processors, search and shopping providers, and information technology providers. We also work with service providers who help us with age and identity verification, and you can learn more [here⁠⁠(opens in a new window)](https://help.openai.com/articles/12652064-age-prediction-in-chatgpt). When we work with Service Providers, these parties will access, process, or store Personal Data based on our instructions and only in the course of performing their duties to us. We also share limited information with select marketing partners who are not service providers in order to promote our products and services on third-party properties and help us assess the effectiveness of those efforts. Some of these partners may receive information through cookies and similar technologies. Learn more about these practices and the choices available to you [here⁠(opens in a new window)](https://help.openai.com/articles/20001156-how-we-promote-openai-on-third-party-properties).
 *   *Business Transfers*: If we are involved in strategic transactions, reorganization, bankruptcy, receivership, or transition of service to another provider (collectively, a “Transaction”), your Personal Data may be disclosed in the diligence process with counterparties and others assisting with the Transaction and transferred to a successor or affiliate as part of that Transaction along with other assets.
 *   *Government Authorities or Other Third Parties*: We may share your Personal Data, including information about your interaction with our Services, with government authorities, industry peers, or other third parties in compliance with the law (i) if required to do so to comply with a legal obligation, or in the good faith belief that such action is necessary to comply with a legal obligation, (ii) to protect and defend our rights or property, (iii) if we determine, in our sole discretion, that there is a violation of our terms, policies, or the law; (iv) to detect or prevent fraud or other illegal activity; (v) to protect the safety, security, and integrity of our products, employees, users, or the public, or (vi) to protect against legal liability.
 *   *Affiliates*: We disclose Personal Data to our affiliates, meaning an entity that controls, is controlled by, or is under common control with OpenAI. Our affiliates may use this Personal Data in a manner consistent with this policy.
 *   *Business Account Administrators*: When you join a ChatGPT Enterprise or business account, the administrators of that account may access and control your OpenAI account, including being able to access your Content. In addition, if you create an account using an email address belonging to your employer or another organization, we may share the fact that you have an account and certain account information, such as your email address, with your employer or organization to, for example, enable you to be added to their business account.
-*   *Parent or Guardian of a Teen*: Teen users and their parents or guardians can choose to link their accounts, allowing the parent or guardian to manage certain settings, and receive alerts if we detect a serious safety concern. These accounts can be unlinked at any time. [Learn more⁠(opens in a new window)](https://help.openai.com/en/articles/12315553-parental-controls-on-chatgpt-faq) about account linking.
-*   *Other Users and Third Parties You Interact or Share Information With*: Certain Services allow you to interact or share information with other users or third parties. For example, you can share content like [ChatGPT conversations⁠(opens in a new window)](https://help.openai.com/en/articles/7925741-chatgpt-shared-links-faq) or Sora [videos⁠(opens in a new window)](https://help.openai.com/en/articles/12456897-getting-started-with-the-sora-app) and [characters⁠(opens in a new window)](https://help.openai.com/en/articles/12435986-generating-content-with-cameos), or share information with third-party [search⁠(opens in a new window)](https://help.openai.com/en/articles/9237897-chatgpt-search) and [shopping⁠(opens in a new window)](https://help.openai.com/en/articles/12440090-instant-checkout-buy-directly-from-merchants-through-chatgpt) partners. Information you share with third-party partners is governed by their own terms and privacy policies, and you should make sure you understand those terms and policies before sharing information with them.
+*   *Parent or Guardian of a Teen*: Teen users and their parents or guardians can choose to link their accounts, allowing the parent or guardian to manage certain settings, and receive alerts if we detect a serious safety concern. These accounts can be unlinked at any time. [Learn more⁠(opens in a new window)](https://help.openai.com/articles/12315553-parental-controls-on-chatgpt-faq) about account linking.
+*   *Other Users and Third Parties You Interact or Share Information With*: Certain Services allow you to interact or share information with other users or third parties. For example, you can share content like [ChatGPT conversations⁠(opens in a new window)](https://help.openai.com/articles/7925741-chatgpt-shared-links-faq) or Sora [videos⁠(opens in a new window)](https://help.openai.com/articles/12456897-getting-started-with-the-sora-app) and [characters⁠(opens in a new window)](https://help.openai.com/articles/12435986-generating-content-with-cameos), or share information with third-party [search⁠(opens in a new window)](https://help.openai.com/articles/9237897-chatgpt-search) and [shopping⁠(opens in a new window)](https://help.openai.com/articles/12440090-instant-checkout-buy-directly-from-merchants-through-chatgpt) partners. Information you share with third-party partners is governed by their own terms and privacy policies, and you should make sure you understand those terms and policies before sharing information with them.
 
 We also aggregate or de-identify Personal Data so that it no longer identifies you and share it with third parties for the purposes described above, such as to help improve our Services.
 
@@ -116,17 +120,17 @@ In determining these retention periods, we consider a number of factors, such as
 
 Our Services provide you with a number of controls over your Personal Data and how it is used and retained. You can always change these settings in your account. These include the following controls:
 
-*   You can easily [choose whether your Content can be used to improve and train our models⁠(opens in a new window)](https://help.openai.com/en/articles/5722486-how-your-data-is-used-to-improve-model-performance).
+*   You can easily [choose whether your Content can be used to improve and train our models⁠(opens in a new window)](https://help.openai.com/articles/5722486-how-your-data-is-used-to-improve-model-performance).
 *   You can decide whether we will remember details between chats to make Content more personalized and relevant.
 *   You can export your ChatGPT history and data in your account’s data controls.
 *   You can delete or archive chats in ChatGPT, or delete your account entirely.
-*   If you enable [Temporary Chat⁠(opens in a new window)](https://help.openai.com/en/articles/8914046-temporary-chat-faq) in ChatGPT, those conversations with ChatGPT will not appear in your history or be used to improve OpenAI’s models.
-*   Depending on applicable law, you may be able to choose which cookies are used when you use our Services.
+*   If you enable [Temporary Chat⁠(opens in a new window)](https://help.openai.com/articles/8914046-temporary-chat-faq) in ChatGPT, those conversations with ChatGPT will not appear in your history or be used to improve OpenAI’s models.
+*   Depending on applicable law, you may be able to choose which cookies are used when you use our Services, and you can make choices about the use of your information for purposes of promoting our products and services to you on third-party properties (l[earn more⁠(opens in a new window)](https://help.openai.com/articles/20001156)).
 *   For Free and Go users, you can use the advertising controls in your account settings to control what data we use to personalize the ads we show you on our Services. 
 *   If you use the Atlas browser, you can delete your browsing history or choose to browse the web in incognito mode, which helps keep your browsing private from other people who use your device.
 *   You can unsubscribe from marketing communications you receive from us by using the choices provided in those communications.
 
-You can find more information on data controls [here⁠(opens in a new window)](https://help.openai.com/en/articles/7730893-data-controls-faq) and by visiting [privacy.openai.com⁠(opens in a new window)](http://privacy.openai.com).
+You can find more information on data controls [here⁠(opens in a new window)](https://help.openai.com/articles/7730893-data-controls-faq) and by visiting [privacy.openai.com⁠(opens in a new window)](http://privacy.openai.com).
 
 ## 6\. Your rights
 
@@ -198,22 +202,17 @@ We may disclose this information in the following circumstances, as described ab
 *   Parents or guardians of teen users for account linking purposes described above
 *   Other users and third parties you interact or share information with
 
-Depending on where you live and subject to applicable exceptions, you may have the following privacy rights in relation to your Personal Data:
+**Your Opt-Out Rights.** We don’t “sell” Personal Data. Depending upon your choices, we may share limited data with select marketing partners for purposes of promoting our products and services to you on third-party properties. 
 
-*   The right to know information about our processing of your Personal Data, including the right to access your Personal Data, often in a portable format;
-*   The right to request deletion of your Personal Data;
-*   The right to correct your Personal Data; and
-*   The right to be free from retaliation relating to the exercise of any of your privacy rights.
+This is known as “targeted advertising” or sharing for “cross-context behavioral advertising” under certain state privacy laws. You can opt out using the marketing privacy control in your account settings. If you’re not logged in, you can opt out using the Manage Cookies link on our website. You can also opt out using a legally recognized opt-out mechanism, like Global Privacy Control. You can learn more about the types of data we use and share for these purposes and controls we offer you [here⁠(opens in a new window)](https://help.openai.com/articles/20001156). We don’t engage in these activities for users we know to be under 18 years of age.
 
-We don’t “sell” Personal Data or “share” Personal Data for cross-contextual behavioral advertising, and we do not process Personal Data for “targeted advertising” purposes (as those terms are defined under state privacy laws). We also don’t process sensitive Personal Data for the purposes of inferring characteristics about a consumer.
-
-**Exercising Your Rights.** You can exercise privacy rights described in this section by submitting a request through [privacy.openai.com⁠(opens in a new window)](https://privacy.openai.com/) or to [dsar@openai.com⁠](mailto:dsar@openai.com). Review our California privacy rights reporting [here⁠](/policies/privacy-policy/california-privacy-rights-reporting/).
+**Your Other Rights.** You can exercise these privacy rights described in this section by submitting a request through [privacy.openai.com⁠(opens in a new window)](https://privacy.openai.com/) or to dsar@openai.com. Review our California privacy rights reporting [here⁠](/policies/privacy-policy/california-privacy-rights-reporting/).
 
 **Verification.** In order to protect your Personal Data from unauthorized access, change, or deletion, we may require you to verify your credentials before you can submit a request to know, correct, or delete Personal Data. If you do not have an account with us, or if we suspect fraudulent or malicious activity, we may ask you to provide additional Personal Data for verification. If we cannot verify your identity, we will not be able to honor your request.
 
 **Authorized Agents.** Depending upon where you reside, you may also submit a rights request through an authorized agent. If you do so, the agent must present authority to act on your behalf, such as signed written permission, and you may also be required to independently verify your identity with us. Authorized agent requests can be submitted to dsar@openai.com.
 
-**Appeals.** Depending on where you live, you may have the right to appeal a decision we make relating to requests to exercise your rights. To appeal a decision, please send your request to [dsar@openai.com⁠](mailto:dsar@openai.com).
+**Appeals.** Depending on where you live, you may have the right to appeal a decision we make relating to requests to exercise your rights. To appeal a decision, please send your request to dsar@openai.com.
 
 ## 10\. Changes to the privacy policy
 
