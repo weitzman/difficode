@@ -1336,7 +1336,7 @@ We also have a legitimate interest in ensuring that PayPal remains a secure fina
 *   [Enterprise](/us/enterprise)
 *   [Partners](/us/enterprise/industry-solutions/platforms-and-marketplaces)
 
-[United States](#)
+*   [United States](#)
 
 * * *
 
