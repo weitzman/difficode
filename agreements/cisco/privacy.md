@@ -234,7 +234,7 @@ Cisco has a comprehensive Privacy Statement and provides you with details on how
 
 We may update this Privacy Statement from time to time. If we modify our Privacy Statement, we will post the revised version here with an updated revision date. If we make material changes to our Privacy Statement, we may also notify you by other means, such as by posting a notice on our websites or sending you a notification. By continuing to use our website after such revisions are in effect, you accept and agree to the revisions and to abide by them.
 
-### The Cisco Privacy Statement was revised and effective as of April 20, 2026
+### The Cisco Privacy Statement was revised and effective as of April 29, 2026
 
 Click [here](/c/en/us/about/legal/privacy-full/previous-2025-26.html) for the previous version of the Privacy Statement.  
 
