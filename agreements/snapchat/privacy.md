@@ -3,8 +3,6 @@ url: "https://www.snapchat.com/privacy"
 selector: "main"
 ---
 
-* * *
-
 Privacy
 
 *   Privacy
