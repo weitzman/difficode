@@ -9,7 +9,7 @@ selector: "#content-wrapper"
 
 PAYPAL USER AGREEMENT
 
-Last updated on January 26, 2026
+Last updated on May 7, 2026
 
 ## About Your Account
 
@@ -112,7 +112,7 @@ Each time you send money using the Send Money feature in your PayPal account, yo
 
 Each time you use PayPal to purchase something from a seller or make a donation, you authorize PayPal to charge your selected or backup payment method for the amount specified during the checkout process and any applicable fees. If the amount of your transaction changes after checkout, you authorize PayPal to charge the selected or backup payment method for the revised amount (for example, if the amount increases because you add another product or service (e.g., expedited delivery), the amount decreases, or the amount is split because a portion of your order is canceled or delayed).
 
-If you have entered into an automatic payment agreement with a seller, you authorize PayPal to charge your preferred or selected payment method each time you make a purchase from the seller, including via recurring payments or any other future transactions scheduled in advance. If your preferred or selected payment method cannot be charged, you authorize PayPal to charge the relevant backup payment method linked to your PayPal account.
+If you have entered into an automatic payment agreement with a seller, you authorize PayPal to first charge your preferred or selected payment method for the available amount each time you make a purchase from the seller, including via recurring payments or any other future transactions scheduled in advance. If that payment method cannot be charged for the full amount of your automatic payment transaction, for example due to insufficient funds, you then authorize PayPal to charge the remaining amount due to complete that transaction to your relevant backup payment method linked to your PayPal account.
 
 ### Revoking your authorization
 
@@ -207,13 +207,13 @@ To receive money in a currency your account is not currently configured to accep
 
 You are responsible for all risks associated with maintaining multiple currencies in a Balance Account or business account. You may not manage or convert multiple currencies for speculative trading purposes, conversion arbitrage, conversion options, or any other activity that PayPal determines is primarily for the purpose of gaining or making money based on currency conversion rates. PayPal may hold, cancel, or reverse any transaction we determine to violate this policy.
 
-### How we convert currency
+### **How we convert currency**
 
 If PayPal converts currency, it will be completed at the transaction exchange rate we set for the relevant currency exchange. The transaction exchange rate is adjusted regularly and includes a [currency conversion spread](/webapps/mpp/merchant-fees#statement-13) applied and retained by us on a base exchange rate to form the rate applicable to your conversion.
 
 If we cannot communicate with you at the time you authorize an in-person payment (for example, because you or the seller do not have connectivity at the time you authorized the transaction), and we perform a currency conversion for that payment, we will use the transaction exchange rate in effect at the time the payment transaction is processed by the seller.
 
-For some uses of your PayPal accounts, PayPal may determine currency conversion is necessary. The applicable currency conversion spread can be found on our Fees page under the heading [Currency conversion](/webapps/mpp/merchant-fees#statement-13).
+For some uses of your PayPal accounts, PayPal may determine currency conversion is necessary. If your PayPal balance is not enough to cover the amount of a payment you instruct us to make in a particular currency, we may perform a currency conversion from any PayPal balance in another currency to cover the shortfall. There may be some restrictions on where you can send payments in certain currencies. The applicable currency conversion spread can be found on our Fees page under the heading [Currency conversion](/webapps/mpp/merchant-fees#statement-13).
 
 [Holds or limitations](#restricted-activities) may delay currency conversion of amounts until such holds or limitations are released. This may result in the application of a currency conversion that is different from the transaction exchange rate that would have been applied had no account hold(s) or limitation(s) been in place. Currency conversions in these circumstances may be more favorable or less favorable to you.
 
@@ -374,11 +374,11 @@ When you send money using the Send Money feature in your PayPal account to eligi
 
 Some sellers allow you to store PayPal as the way you pay when making purchases on their site, so you can check out faster. Often, this entails creating an agreement with the seller that permits them to request that we charge your PayPal account each time you make a purchase.
 
-When you first set up an automatic payment agreement or store PayPal as a payment method with a seller, you may have the option to set up a preferred payment method for such agreement. You can review, set, or change a preferred payment method for an automatic payment agreement in your account settings on paypal.com or in the PayPal app.
+When you first set up an automatic payment agreement or store PayPal as a payment method with a seller, you may have the option to set up a preferred payment method for such agreement. You can review, set, or change a preferred payment method for an automatic payment agreement in your PayPal account settings.
 
 Your preferred payment method for an automatic payment agreement will be used for transactions with that seller. If you have available balance with PayPal, that balance may be used before your preferred payment method, depending on your applicable automatic payment agreement with the seller.
 
-If you have not set a preferred payment method for an automatic payment agreement, or if your preferred payment method for an automatic payment agreement is unavailable (for example, due to fraud risk or because it is expired) you authorize PayPal to charge the backup payment method in the following order, if applicable: 1. Balance Account or PayPal Debit Card (which allows you to access your Balance Account), or balance in your business account (if we’ve been able to verify the [required identifying information](#required-info) you provide to us); 2. Bank account (when PayPal pays the recipient before we receive the funds from your bank); 3. PayPal co-branded credit card; 4. Debit card; 5. Credit card; and 6. E-check (when PayPal waits to receive the funds from your bank before we pay the recipient). However, if a bank account is used as the payment method for a transaction and funding fails (for example, as a result of insufficient funds), PayPal may attempt another payment method as a backup notwithstanding the order specified above (typically a credit card, if applicable). To help minimize disruptions in your automatic payments, we may update your payment method information associated with such automatic payments; see [Link or Unlink a Payment Method](#linking-funding).
+If you have not set a preferred payment method for an automatic payment agreement, or if your preferred or selected payment method cannot be charged for the full amount of your automatic payment transaction (for example, due to fraud risk, insufficient funds, or because it is expired) you authorize PayPal to first charge your preferred or selected payment method for the available amount, and then charge the remaining amount due to complete that transaction to your backup payment method in the following order, if applicable: 1. Balance Account or PayPal Debit Card (which allows you to access your Balance Account), or balance in your business account (if we’ve been able to verify the [required identifying information](#required-info) you provide to us); 2. Bank account (when PayPal pays the recipient before we receive the funds from your bank); 3. PayPal co-branded credit card; 4. Debit card; 5. Credit card; and 6. E-check (when PayPal waits to receive the funds from your bank before we pay the recipient). However, if a bank account is used as the payment method for a transaction and funding fails (for example, as a result of insufficient funds), PayPal may attempt another payment method as a backup notwithstanding the order specified above (typically a credit card, if applicable). To help minimize disruptions in your automatic payments, we may update your payment method information associated with such automatic payments; see [Link or Unlink a Payment Method](#linking-funding).
 
 ### Bank account transfers
 
@@ -545,7 +545,7 @@ Once you have access to any account statement(s) or other account activity infor
 
 ### General information
 
-If you receive a payment for selling goods or services that is later refunded or invalidated for any reason, you are responsible for the full amount of the payment sent to you plus any fees (including any applicable [chargeback fee](#chargeback-fees-description) or [Dispute fee](#dispute-fees-description)). Whenever a transaction is refunded or otherwise reversed, PayPal will refund or reverse the transaction from your PayPal account. If a currency conversion is necessary (for example if the balance in your Balance Account or your business account for a particular currency is insufficient to cover the amount of a refund or reversal, or if the buyer paid in a different currency), PayPal will perform a currency conversion in order to refund or reverse the transaction. PayPal’s transaction exchange rate (including our [currency conversion spread](https://www.paypal.com/us/webapps/mpp/merchant-fees?locale.x=en_US#statement-13)) at the time the refund or reversal is processed will be used.
+If you receive a payment for selling goods or services that is later refunded or invalidated for any reason, you are responsible for the full amount of the payment sent to you plus any fees (including any applicable [chargeback fee](#chargeback-fees-description) or [Dispute fee](#dispute-fees-description)). Whenever a transaction is refunded or otherwise reversed, PayPal will refund or reverse the transaction from your PayPal account. If a currency conversion is necessary (for example if the balance in your Balance Account or your business account for a particular currency is insufficient to cover the amount of a refund or reversal, or if the buyer paid in a different currency), PayPal will perform a currency conversion as described in the section [**How we convert currency**](#how-to-convert).
 
 If you refund a transaction, we’ll retain the fees you paid as set out on our [Fees page](https://www.paypal.com/us/webapps/mpp/merchant-fees?locale.x=en_US#statement-2).
 
@@ -1190,34 +1190,3 @@ In complying with the applicable data protection laws, we will each:
 *   not knowingly or intentionally do anything, or knowingly or intentionally permit anything to be done, which might lead to a breach by the other party of the applicable data protection laws.
 
 Any personal data provided to you by PayPal in connection with the PayPal services, excluding personal data collected or obtained by your directly from the customer, will be used by you only to the limited extent that is necessary and relevant to the PayPal services and for no other purpose, including marketing purposes, unless you have obtained the prior consent of the customer. You represent, warrant, and covenant that you will provide and/or obtain all necessary disclosures and consents, as applicable, in connection with your data collection and sharing practices with PayPal. You may not disclose or distribute any customer personal data provided to you by PayPal to a third party, unless such third party is your service provider and acting on your behalf (as defined by applicable law).
-
-*   [Help](/us/cshelp/personal)
-*   [Contact](/us/smarthelp/contact-us)
-*   [Fees](/us/digital-wallet/paypal-consumer-fees)
-*   [Security Center](/us/security)
-*   [Privacy Center](/us/privacy-center/home)
-*   [Shop](/us/webapps/mpp/shopping-selection)
-*   [Apps](/us/digital-wallet/mobile-apps)
-*   [Enterprise](/us/enterprise)
-*   [Partners](/us/enterprise/industry-solutions/platforms-and-marketplaces)
-
-*   [United States](#)
-
-* * *
-
-*   [About](https://about.pypl.com/about-us/default.aspx)
-*   [Newsroom](https://newsroom.paypal-corp.com/)
-*   [Jobs](https://careers.pypl.com/home/)
-*   [Investor Relations](https://investor.pypl.com/home/default.aspx)
-*   [Government Relations](https://about.pypl.com/how-we-work/issues-and-advocacy/default.aspx)
-
-* * *
-
-*   © 1999–2026
-*   [Accessibility](/us/webapps/mpp/accessibility)
-*   [Privacy Statement](https://www.paypal.com/us/legalhub/privacy-full)
-*   [Cookies](/myaccount/privacy/cookiePrefs)
-*   [Legal](/us/legalhub/home)
-*   [Licenses](/us/webapps/mpp/licenses)
-
-PayPal is located at 2211 N 1st St. San Jose, CA 95131
