@@ -1190,3 +1190,34 @@ In complying with the applicable data protection laws, we will each:
 *   not knowingly or intentionally do anything, or knowingly or intentionally permit anything to be done, which might lead to a breach by the other party of the applicable data protection laws.
 
 Any personal data provided to you by PayPal in connection with the PayPal services, excluding personal data collected or obtained by your directly from the customer, will be used by you only to the limited extent that is necessary and relevant to the PayPal services and for no other purpose, including marketing purposes, unless you have obtained the prior consent of the customer. You represent, warrant, and covenant that you will provide and/or obtain all necessary disclosures and consents, as applicable, in connection with your data collection and sharing practices with PayPal. You may not disclose or distribute any customer personal data provided to you by PayPal to a third party, unless such third party is your service provider and acting on your behalf (as defined by applicable law).
+
+*   [Help](/us/cshelp/personal)
+*   [Contact](/us/smarthelp/contact-us)
+*   [Fees](/us/digital-wallet/paypal-consumer-fees)
+*   [Security Center](/us/security)
+*   [Privacy Center](/us/privacy-center/home)
+*   [Shop](/us/webapps/mpp/shopping-selection)
+*   [Apps](/us/digital-wallet/mobile-apps)
+*   [Enterprise](/us/enterprise)
+*   [Partners](/us/enterprise/industry-solutions/platforms-and-marketplaces)
+
+*   [United States](#)
+
+* * *
+
+*   [About](https://about.pypl.com/about-us/default.aspx)
+*   [Newsroom](https://newsroom.paypal-corp.com/)
+*   [Jobs](https://careers.pypl.com/home/)
+*   [Investor Relations](https://investor.pypl.com/home/default.aspx)
+*   [Government Relations](https://about.pypl.com/how-we-work/issues-and-advocacy/default.aspx)
+
+* * *
+
+*   © 1999–2026
+*   [Accessibility](/us/webapps/mpp/accessibility)
+*   [Privacy Statement](https://www.paypal.com/us/legalhub/privacy-full)
+*   [Cookies](/myaccount/privacy/cookiePrefs)
+*   [Legal](/us/legalhub/home)
+*   [Licenses](/us/webapps/mpp/licenses)
+
+PayPal is located at 2211 N 1st St. San Jose, CA 95131
