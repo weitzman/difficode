@@ -26,7 +26,7 @@ selector: "#main"
 
 * * *
 
-Last updated on: October 21, 2025
+Last updated on: May 11, 2026
 
 Welcome to Shopify! By signing up for a Shopify Account (as defined in Section 1) or by using any Shopify Services (as defined below), you are agreeing to be bound by the following terms and conditions (the "**Terms of Service**").
 
@@ -47,7 +47,7 @@ You are responsible for your Account, the Materials you upload to the Shopify Se
 1.  To access and use the Services, you must register for a Shopify account ("**Account**"). To complete your Account registration, you must provide us with your full legal name, business address, phone number, a valid email address, and any other information indicated as required. Shopify may reject your application for an Account, or cancel an existing Account, for any reason, at our sole discretion.
 2.  You must be the older of: (i) 18 years, or (ii) at least the age of majority in the jurisdiction where you reside and from which you use the Services to open an Account.
 3.  You confirm that you are receiving any Services provided by Shopify for the purposes of carrying on a business activity and not for any personal, household or family purpose.
-4.  You acknowledge that Shopify will use the email address you provide on opening an Account or as updated by you from time to time as the primary method for communication with you ("**Primary Email Address**"). You must monitor the Primary Email Address you provide to Shopify and your Primary Email Address must be capable of both sending and receiving messages. Your email communications with Shopify can only be authenticated if they come from your Primary Email Address.
+4.  You acknowledge that Shopify will use the email address you provide on opening an Account or as updated by you from time to time as the primary method for communication with you ("**Primary Email Address**"). You must monitor the Primary Email Address you provide to Shopify and your Primary Email Address must be capable of both sending and receiving messages. Your email communications with Shopify can only be authenticated if they come from your Primary Email Address. Where you have opted in to additional communications channels, such as WhatsApp messaging, Shopify may also use those channels to send you communications related to your Account, use of the Services, and other communications you have consented to receive.
 5.  You are responsible for keeping your password secure. Shopify cannot and will not be liable for any loss or damage from your failure to maintain the security of your Account and password. We may request additional security measures at any time and reserve the right to adjust these requirements at our discretion.
 6.  Technical support in respect of the Services is only provided to Shopify Users. Questions about the Terms of Service should be sent to Shopify Support.
 7.  You agree not to reproduce, duplicate, copy, sell, resell or exploit any portion of the Service, use of the Services, or access to the Services without the express written permission by Shopify.
@@ -391,6 +391,14 @@ If you use Checkout Extensions, you're responsible for your own compliance, whic
     
 2.  Shopify may collect information associated with Shopify Checkout Extensibility in accordance with the [Privacy Policy](/legal/privacy/merchants).
     
+
+**9.15 Agentic Storefronts**
+
+### Which means
+
+Additional rules apply if you use Agentic Storefronts services.
+
+If you use Shopify Agentic Storefronts, your use is subject to the [Agentic Storefronts Supplemental Terms of Service](/legal/terms-agentic-storefronts).
 
 ## 10\. Feedback and Reviews
 
