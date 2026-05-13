@@ -65,9 +65,9 @@ These Terms of Service (“Terms”) apply when you access and use Meta AIs and 
         
         When information is shared with AIs, the AIs will sometimes retain and use that information. Do not share information that you don’t want the AIs to use and retain, such as information about sensitive topics.
         
-        Meta may share certain information with select partners, like search engines, to provide you with the most relevant information in connection with our AIs. [Learn more about how we share information with these partners.](https://www.facebook.com/privacy/dialog/ai-partners) By using AIs, you instruct us to share information for this purpose.
+        In some cases, Meta will review your interactions with AIs, including the content of your conversations with or messages to AIs, and this review may be automated or manual (human). When you interact with AI chats that use Private Processing technology, Meta cannot read or access the messages you have shared, including AI chats with friends and family. Meta provides Private Processing as a service on your behalf.
         
-        In some cases, Meta will review your interactions with AIs, including the content of your conversations with or messages to AIs, and this review may be automated or manual (human). When you share your private messages with friends and family with AIs that use Private Processing technology, Meta cannot read or access the messages you have shared. Meta provides Private Processing as a service on your behalf.
+        Meta may share certain information with select partners, like search engines, to provide you with the most relevant information in connection with our AIs. [Learn more about how we share information with these partners.](https://www.facebook.com/privacy/dialog/ai-partners) By using AIs, you instruct us to share information for this purpose. To provide you with the most relevant information when using AIs in Private Processing, search terms based on your chat may be sent to these search partners to provide a response. These queries are not connected to your account.
         
         Depending on where you reside, you or an authorized agent may have the right to request access to your personal information from Meta in a portable format, deletion of your personal information, or correction of your personal information, subject to certain exceptions. To learn more about how you can access and delete your personal information we process in the context of AIs, and exercise any applicable rights, visit our [Privacy Center](https://www.facebook.com/privacy/guide/genai?entry_point=whatsapp_genai). It is important that you review the Privacy Center before you try to delete any personal information or delete or deactivate your account. Depending on how you use AIs, deleting individual messages, entire threads, or even your account may not delete our copy of your personal information, and the Privacy Center describes the correct way to delete your personal information.
         
@@ -134,7 +134,7 @@ These Terms of Service (“Terms”) apply when you access and use Meta AIs and 
     
 *   **Effective Date**
     
-    Effective December 18, 2025
+    Effective May 13, 2026
     
 
 English (US)
