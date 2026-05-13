@@ -206,7 +206,13 @@ We may disclose this information in the following circumstances, as described ab
 
 This is known as “targeted advertising” or sharing for “cross-context behavioral advertising” under certain state privacy laws. You can opt out using the marketing privacy control in your account settings. If you’re not logged in, you can opt out using the Your Privacy Choices [link⁠](/policies/us-privacy-policy/#manage-cookies) on our website. You can also opt out using a legally recognized opt-out mechanism, like Global Privacy Control. You can learn more about the types of data we use and share for these purposes and controls we offer you [here⁠(opens in a new window)](https://help.openai.com/articles/20001156). We don’t engage in these activities for users we know to be under 18 years of age.
 
-**Your Other Rights.** You can exercise these privacy rights described in this section by submitting a request through [privacy.openai.com⁠(opens in a new window)](https://privacy.openai.com/) or to dsar@openai.com. Review our California privacy rights reporting [here⁠](/policies/privacy-policy/california-privacy-rights-reporting/).
+**Your Other Rights.** Depending on where you live and subject to applicable exceptions, you may have the following privacy rights in relation to your Personal Data:
+
+*   The right to know information about our processing of your Personal Data, including the right to access your Personal Data, often in a portable format;
+*   The right to request deletion of your Personal Data;
+*   The right to correct your Personal Data; and
+
+The right to be free from retaliation relating to the exercise of any of your privacy rights. Review our California privacy rights reporting [here⁠](/policies/privacy-policy/california-privacy-rights-reporting/).
 
 **Verification.** In order to protect your Personal Data from unauthorized access, change, or deletion, we may require you to verify your credentials before you can submit a request to know, correct, or delete Personal Data. If you do not have an account with us, or if we suspect fraudulent or malicious activity, we may ask you to provide additional Personal Data for verification. If we cannot verify your identity, we will not be able to honor your request.
 
