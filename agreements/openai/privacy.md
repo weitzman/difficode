@@ -25,7 +25,7 @@ Select language
 
 English (United States)العربيةአማርኛArmenianবাংলাbosanskiбългарскиBurmesecatalàhrvatskičeštinadanskNederlandseestiفارسیsuomifrançais (Canada)français (France)GeorgianDeutschΕλληνικάગુજરાતીहिन्दीmagyarIcelandicIndonesiaIrishitaliano日本語ಕನ್ನಡKazakh한국어latviešulietuviųMacedonianMelayuമലയാളംMalteseमराठीMongoliannorsk bokmålpolskiportuguês (Brasil)português (Portugal)românăрусскийslovenčinaslovenščinaсрпски (Србија)Somaliespañol (Latinoamérica)español (España)KiswahilisvenskaFilipinoதமிழ்తెలుగుไทยTürkçeукраїнськаاردوTiếng Việt中文 (中国)中文 (台灣)中文 (香港)
 
-Updated: April 30, 2026
+Updated: May 18, 2026
 
 # US privacy policy
 
@@ -204,7 +204,7 @@ We may disclose this information in the following circumstances, as described ab
 
 **Your Opt-Out Rights.** We don’t “sell” Personal Data. Depending upon your choices, we may share limited data with select marketing partners for purposes of promoting our products and services to you on third-party properties. 
 
-This is known as “targeted advertising” or sharing for “cross-context behavioral advertising” under certain state privacy laws. You can opt out using the marketing privacy control in your account settings. If you’re not logged in, you can opt out using the Your Privacy Choices [link⁠](/policies/us-privacy-policy/#manage-cookies) on our website. You can also opt out using a legally recognized opt-out mechanism, like Global Privacy Control. You can learn more about the types of data we use and share for these purposes and controls we offer you [here⁠(opens in a new window)](https://help.openai.com/articles/20001156). We don’t engage in these activities for users we know to be under 18 years of age.
+This is known as “targeted advertising” or sharing for “cross-context behavioral advertising” under certain state privacy laws. You can opt out using the marketing privacy control in your account settings. If you’re not logged in, you can opt out within Settings > Data Controls on ChatGPT or using the Your Privacy Choices [link⁠](/policies/us-privacy-policy/#manage-cookies) on our website. You can also opt out using a legally recognized opt-out mechanism, like Global Privacy Control. You can learn more about the types of data we use and share for these purposes and controls we offer you [here⁠(opens in a new window)](https://help.openai.com/articles/20001156). We don’t engage in these activities for users we know to be under 18 years of age.
 
 **Your Other Rights.** Depending on where you live and subject to applicable exceptions, you may have the following privacy rights in relation to your Personal Data:
 
