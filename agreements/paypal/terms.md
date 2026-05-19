@@ -9,7 +9,7 @@ selector: "#content-wrapper"
 
 PAYPAL USER AGREEMENT
 
-Last updated on May 7, 2026
+Last updated on May 19, 2026
 
 ## About Your Account
 
@@ -112,7 +112,7 @@ Each time you send money using the Send Money feature in your PayPal account, yo
 
 Each time you use PayPal to purchase something from a seller or make a donation, you authorize PayPal to charge your selected or backup payment method for the amount specified during the checkout process and any applicable fees. If the amount of your transaction changes after checkout, you authorize PayPal to charge the selected or backup payment method for the revised amount (for example, if the amount increases because you add another product or service (e.g., expedited delivery), the amount decreases, or the amount is split because a portion of your order is canceled or delayed).
 
-If you have entered into an automatic payment agreement with a seller, you authorize PayPal to first charge your preferred or selected payment method for the available amount each time you make a purchase from the seller, including via recurring payments or any other future transactions scheduled in advance. If that payment method cannot be charged for the full amount of your automatic payment transaction, for example due to insufficient funds, you then authorize PayPal to charge the remaining amount due to complete that transaction to your relevant backup payment method linked to your PayPal account.
+If you have entered into an automatic payment agreement with a seller, you authorize PayPal to charge your preferred or selected payment method for the available amount each time you make a purchase from the seller, including via recurring payments or any other future transactions scheduled in advance. If that payment method cannot be charged for the full amount of your automatic payment transaction, for example due to insufficient funds, you then authorize PayPal to charge the remaining amount due to complete that transaction to your relevant backup payment method linked to your PayPal account.
 
 ### Revoking your authorization
 
@@ -138,7 +138,9 @@ Except when PayPal acts as your agent and custodian to place funds in one or mor
 
 If your Balance Account is not eligible for FDIC pass-through insurance, PayPal combines your PayPal funds with the PayPal funds not eligible for pass-through FDIC insurance of other PayPal users and invests those funds in liquid investments in accordance with state money transmitter laws. PayPal owns the interest or other earnings on these investments. However, the claim against PayPal represented by funds held in your Balance Account is not secured by these investments and you do not have any ownership interest (either legal or beneficial) in these investments. These pooled amounts are held apart from PayPal’s corporate funds, and PayPal will neither use these funds for its operating expenses or any other corporate purposes nor will it voluntarily make these funds available to its creditors in the event of bankruptcy. You will not receive any interest or other return on the funds held with PayPal.
 
-If you have opened a PayPal Debit Card Mastercard® account, enrolled in Direct Deposit, or bought or received cryptocurrency with your personal PayPal Balance account, we will place your U.S. dollar PayPal Balance funds in one or more [**Program Banks**](https://www.paypal.com/us/legalhub/program-banks-tnc?locale.x=en_US), where they will, subject to certain conditions, be eligible for pass-through FDIC insurance, up to applicable limits. Additionally, if you have bought or received cryptocurrency with your PayPal business account, we will place your US dollar business account funds at one or more Program Banks. FDIC insurance protects against the failure of the [**Program Banks**](https://www.paypal.com/us/legalhub/program-banks-tnc?locale.x=en_US), not the failure of PayPal. PayPal is not a bank, does not take deposits and is not FDIC insured. Any other balance funds and all cryptocurrencies are not held in FDIC-insured bank deposits. Cryptocurrencies may lose value. See [**PayPal Balance Terms and Conditions**](https://www.paypal.com/us/legalhub/pp-balance-tnc#holding).
+If you have opened a PayPal Debit Card Mastercard® account, enrolled in Direct Deposit, or bought or received cryptocurrency with your personal PayPal branded cryptocurrency account (“CryptoAccount”), we will place your U.S. dollar PayPal Balance funds in one or more [**Program Banks**](https://www.paypal.com/us/legalhub/program-banks-tnc?locale.x=en_US), where they will, subject to certain conditions, be eligible for pass-through FDIC insurance, up to applicable limits. Additionally, if you have bought or received cryptocurrency with a Crypto Account linked to your PayPal business account, we will place your U.S. dollar business account funds at one or more Program Banks. FDIC insurance protects against the failure of the [**Program Banks**](https://www.paypal.com/us/legalhub/program-banks-tnc?locale.x=en_US), not the failure of PayPal. PayPal is not a bank, does not take deposits and is not FDIC insured. Any other balance funds and all cryptocurrencies are not held in FDIC-insured bank deposits. Cryptocurrencies may lose value. See [**PayPal Balance Terms and Conditions**](https://www.paypal.com/us/legalhub/pp-balance-tnc#holding).
+
+Cryptocurrency services and accounts are provided by PayPal Digital, Inc. More information can be found in the [Cryptocurrency Terms and Conditions](https://www.paypal.com/us/legalhub/paypal/cryptocurrencies-tnc?locale.x=en_US).
 
 ### PayPal Savings
 
@@ -150,7 +152,7 @@ All deposits to and withdrawals from PayPal Savings are made via transfer to you
 
 ### Business accounts
 
-Money sent to a business account can be held directly as balance in the business account. The balance functionality in your business account will differ depending on wether we have been able to verify the [required identifying information](#required-info) that you provide to us.
+Money sent to a business account can be held directly as balance in the business account. The balance functionality in your business account will differ depending on whether we have been able to verify the [required identifying information](#required-info) that you provide to us.
 
 The required identifying information is:
 
@@ -180,7 +182,7 @@ You can withdraw balance from your business account by:
 
 If you use your assigned account number and routing number for your business account as a payment method for goods and services, your business account may be debited on a one-time or recurring basis as you instruct. There are daily limits on the amount and number of transactions that you can initiate, and limits on the amount you can transfer per transaction. For more information, see the [**Help Center**](https://www.paypal.com/us/cshelp/article/help1309). These transactions may require you to provide various consents and agree to the terms and conditions presented by the merchant. Management of any scheduled payments, including cancellation, can be done through the merchant’s website or mobile application. For transactions using your assigned account number and routing number, unauthorized transfers or debits in excess of the amount you authorized are subject to notification timeframes set forth in the [**Returning Unauthorized or Excess Business Account Debits**](#return-unauth-biz-acc-debits) section of [**Liability for Unauthorized Transactions and Other Errors**](#unauthorized-transactions).
 
-Any funds you hold in your business account represent unsecured claims against PayPal. PayPal is not a bank, does not take deposits and is not FDIC insured. If you have bought or received cryptocurrency with your PayPal business account, we will place your US dollar business account funds at one or more Program Banks. You will not receive any interest or other return on the funds held with PayPal. PayPal combines your PayPal funds with the PayPal funds of other PayPal users and invests those funds in liquid investments in accordance with state money transmitter laws. PayPal owns the interest or other earnings on these investments. However, the claim against PayPal represented by your PayPal funds is not secured by these investments and you do not have any ownership interest (either legal or beneficial) in these investments. These pooled amounts are held apart from PayPal’s corporate funds, and PayPal will neither use these funds for its operating expenses or any other corporate purposes nor will it voluntarily make these funds available to its creditors in the event of bankruptcy.
+Any funds you hold in your business account represent unsecured claims against PayPal. PayPal is not a bank, does not take deposits and is not FDIC insured. If you have bought or received cryptocurrency with a Crypto Account linked to your PayPal business account, we will place your U.S. dollar business account funds at one or more Program Banks. You will not receive any interest or other return on the funds held with PayPal. PayPal combines your PayPal funds with the PayPal funds of other PayPal users and invests those funds in liquid investments in accordance with state money transmitter laws. PayPal owns the interest or other earnings on these investments. However, the claim against PayPal represented by your PayPal funds is not secured by these investments and you do not have any ownership interest (either legal or beneficial) in these investments. These pooled amounts are held apart from PayPal’s corporate funds, and PayPal will neither use these funds for its operating expenses or any other corporate purposes nor will it voluntarily make these funds available to its creditors in the event of bankruptcy.
 
 ### Restrictions on transfers or withdrawals from PayPal accounts
 
@@ -755,7 +757,7 @@ If a payment sent to you as a seller is challenged as a payment that should be i
 
 ### Account Limitations
 
-Limitations are implemented to help protect PayPal, buyers and sellers when we notice [restricted activities](#s4-restricted-activities), an increased financial risk, or activity that appears to us as unusual or suspicious. Limitations also help us collect information necessary for keeping your PayPal account open.
+Limitations are implemented to help protect PayPal, its affiliates, buyers and sellers when we notice [restricted activities](#s4-restricted-activities), an increased financial risk, or activity that appears to us as unusual or suspicious. Limitations also help us collect information necessary for keeping your PayPal account open.
 
 There are several reasons why your PayPal account could be limited, including:
 
