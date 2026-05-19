@@ -21,13 +21,13 @@ In this Policy, “Stripe”, “we”, “our,” or “us” refers to the Str
 
 “Personal Data” refers to any information associated with an identified or identifiable individual, which can include data that you provide to us, and that we collect about you during your interaction with our Services (such as device information, IP address, etc.).
 
-“Services” refers to the products, services, devices, and applications that we provide under the Stripe Services Agreement or the Stripe Credit Card Terms of Service (collectively, “Business Services”), or the Stripe Consumer Terms of Service (“End User Services”); websites (“Sites”) like Stripe.com and Link.com; and other Stripe applications and online services. We provide Business Services to entities (“Business Users”). We provide End User Services directly to individuals for their personal use. 
+“Services” refers to the products, services, devices, and applications that we provide under the Stripe Services Agreement or the Stripe Credit Card Terms of Service (collectively, “Business Services”), or the Stripe Consumer Terms of Service (“End User Services”); websites (“Sites”) like [Stripe.com](https://stripe.com/) and [Onelink.com](https://onelink.com/); and other Stripe applications and online services. We provide Business Services to entities (“Business Users”). We provide End User Services directly to individuals for their personal use. 
 
 “Financial Partners” are financial institutions, banks, and other partners such as payment method acquirers, payment intermediaries, payment aggregators, payout providers, payment method providers, payment processors, and card networks that we partner with, directly or indirectly, to provide the Services.
 
 Depending on the context, “you” might be an End Customer, End User, Representative, or Visitor:
 
-*   **End Users.** When you use an End User Service, such as saving a payment method with Link, for personal use we refer to you as an “End User.”
+*   **End Users.** When you use an End User Service, such as saving a payment method with Onelink, for personal use we refer to you as an “End User.”
 *   **End Customers.** When you are not directly transacting with Stripe, but we receive your Personal Data to provide Services to a Business User, including when you make a purchase from a Business User on a Stripe Checkout page or receive payments or other services from a Business User, we refer to you as an “End Customer.”
 *   **Representatives.** When you are acting on behalf of an existing or potential Business User—perhaps as a company founder, account administrator for a Business User, or a recipient of an employee credit card from a Business User via Stripe Issuing—we refer to you as a “Representative.”
 *   **Visitors.** When you interact with Stripe by visiting a Site without being logged into a Stripe account, or when your interaction with Stripe does not involve you being an End User, End Customer, or Representative, or when you visit a Stripe office or other Stripe premises, we refer to you as a “Visitor.” For example, you are a Visitor when you send a message to Stripe asking for more information about our Services.
@@ -56,21 +56,21 @@ In this Policy, “Transaction Data” refers to data collected or used by Strip
 
 ## 1\. Personal Data we collect and how we use and share it
 
-Our collection and use of Personal Data differs based on whether you are an End User, End Customer, Representative, or Visitor, and the specific Service that you are using. For example, if you're a sole proprietor who wants to use our Business Services, we may collect your Personal Data to onboard your business; at the same time, you might also be an End Customer if you've bought goods from another Business User that is using our Services for payment processing. You could also be an End User if you used our End User Services, such as Link, for those transactions.
+Our collection and use of Personal Data differs based on whether you are an End User, End Customer, Representative, or Visitor, and the specific Service that you are using. For example, if you're a sole proprietor who wants to use our Business Services, we may collect your Personal Data to onboard your business; at the same time, you might also be an End Customer if you've bought goods from another Business User that is using our Services for payment processing. You could also be an End User if you used our End User Services, such as Onelink, for those transactions.
 
 ### 1.1 End Users
 
-We provide End User Services when we provide the Services directly to you for your personal use (e.g., Link). Additional details regarding our collection, use, and sharing of End User Personal Data, including the [legal bases](https://stripe.com/legal/privacy-center#end-users) we rely on for processing such data, can be found in our [Privacy Center](https://stripe.com/legal/privacy-center).
+We provide End User Services when we provide the Services directly to you for your personal use (e.g., Onelink). Additional details regarding our collection, use, and sharing of End User Personal Data, including the [legal bases](https://stripe.com/legal/privacy-center#end-users) we rely on for processing such data, can be found in our [Privacy Center](https://stripe.com/legal/privacy-center).
 
 #### a. Personal Data we collect about End Users
 
-**Using Link or Connecting your bank account**. Stripe offers a service called ”Link,” which allows you to create an account and store information for future interactions with Stripe’s Services and Business Users. You may save a number of different kinds of Personal Data using Link. For instance, you may save your name, payment method details, contact information, and address to conveniently use saved information to pay for transactions across our Business Users. When you choose to pay with Link, we will also collect Transaction Data associated with your transactions. [Learn More](https://stripe.com/legal/privacy-center#link).
+**Using Onelink or Connecting your bank account**. Stripe offers a service called “Onelink,” which allows you to create an account and store information for future interactions with Stripe’s Services and Business Users. You may save a number of different kinds of Personal Data using Onelink. For instance, you may save your name, payment method details, contact information, and address to conveniently use saved information to pay for transactions across our Business Users. When you choose to pay with Onelink, we will also collect Transaction Data associated with your transactions. [Learn More](https://stripe.com/legal/privacy-center#link).
 
-You can also share and save bank account details to your Link account using Stripe’s [Financial Connections](https://stripe.com/financial-connections) product. When you use Financial Connections, Stripe will periodically collect and process your account information (such as bank account owner information, account balances, account number and details, account transactions, and, in some cases, log-in credentials). You can withdraw your consent by disconnecting your bank account and ask us to cease the collection of such data at any time. [Learn More](https://support.stripe.com/questions/how-to-disconnect-a-linked-financial-account).
+You can also share and save bank account details to your Onelink account using Stripe’s [Financial Connections](https://stripe.com/financial-connections) product. When you use Financial Connections, Stripe will periodically collect and process your account information (such as bank account owner information, account balances, account number and details, account transactions, and, in some cases, log-in credentials). You can withdraw your consent by disconnecting your bank account and ask us to cease the collection of such data at any time. [Learn More](https://support.stripe.com/questions/how-to-disconnect-a-linked-financial-account).
 
-You can also use your Link account to access services provided by Stripe’s partner businesses, such as Buy Now, Pay Later (BNPL) services or crypto wallet services. In these situations, we will collect and share additional Personal Data with partner businesses to facilitate your use of such services. You can save this information to your Link account to access similar services in the future. We may also receive certain information about you from partner businesses in connection with the services they provide. [Learn More](https://stripe.com/legal/privacy-center#what-information-is-shared-with-bnpl-or-crypto-wallet-services).
+You can also use your Onelink account to access services provided by Stripe’s partner businesses, such as Buy Now, Pay Later (BNPL) services or crypto wallet services. In these situations, we will collect and share additional Personal Data with partner businesses to facilitate your use of such services. You can save this information to your Onelink account to access similar services in the future. We may also receive certain information about you from partner businesses in connection with the services they provide. [Learn More](https://stripe.com/legal/privacy-center#what-information-is-shared-with-bnpl-or-crypto-wallet-services).
 
-Finally, you can use Link to store your identity documents (such as your driver’s license) and other identification information (such as tax ID) so that you can share them in future interactions with Stripe or its Business Users.
+Finally, you can use Onelink to store your identity documents (such as your driver’s license) and other identification information (such as tax ID) so that you can share them in future interactions with Stripe or its Business Users.
 
 **Paying Stripe**. When you purchase goods or services directly from Stripe, we receive your Transaction Data. For instance, when you make a payment to Stripe Climate, we collect information about the transaction, as well as your contact and payment method details.
 
@@ -80,11 +80,11 @@ Finally, you can use Link to store your identity documents (such as your driver�
 
 #### b. How we use and share Personal Data of End Users
 
-**Services**. We use and share your Personal Data to provide the End User Services to you, which includes support, personalization (such as language preferences and setting choices), and communication about our End User Services (such as communicating Policy updates and information about our Services). For example, Stripe may use cookies and similar technologies or the data you provide to our Business Users (such as when you input your email address on a Business User’s website) to recognize you and help you use Link when visiting our Business User’s website. Learn more about how we use cookies and similar technologies in Stripe’s [Cookie Policy](https://stripe.com/legal/cookies-policy).
+**Services**. We use and share your Personal Data to provide the End User Services to you, which includes support, personalization (such as language preferences and setting choices), and communication about our End User Services (such as communicating Policy updates and information about our Services). For example, Stripe may use cookies and similar technologies or the data you provide to our Business Users (such as when you input your email address on a Business User’s website) to recognize you and help you use Onelink when visiting our Business User’s website. Learn more about how we use cookies and similar technologies in Stripe’s [Cookie Policy](https://stripe.com/legal/cookies-policy).
 
-When you buy eligible digital goods or services using Stripe Managed Payments, Stripe acts as Merchant of Record and collects Transaction Data and certain order-level details to provide the services, such as subscription status, fulfillment status, tax amounts, refund or chargeback information, and support interactions. For any subscription purchase, a Link account is required to manage your subscription. [Learn more](https://link.com/privacy-center#:~:text=What%20is%20%E2%80%9CSold%20through%20Link%E2%80%9D%3F).
+When you buy eligible digital goods or services using Stripe Managed Payments, Stripe acts as Merchant of Record and collects Transaction Data and certain order-level details to provide the services, such as subscription status, fulfillment status, tax amounts, refund or chargeback information, and support interactions. For any subscription purchase, a Onelink account is required to manage your subscription. [Learn more](https://link.com/privacy-center#:~:text=What%20is%20%E2%80%9CSold%20through%20Link%E2%80%9D%3F).
 
-**Our Business Users.** When you use an End User Service, such as using Link to make payments with our Business Users, we share your Personal Data, including name, contact information, payment method details, and Transaction Data with those Business Users. [Learn More](https://stripe.com/legal/privacy-center#link). You can also direct Stripe to share your saved bank account information and identity documents with Business Users you do business with. Once we share your Personal Data with Business Users, we may process that Personal Data as a Data Processor for those Business Users, as detailed in Section 1.2 of this Policy.  You should consult the privacy policies of the Business Users with whom you do business for information on how they use the information shared with them.
+**Our Business Users.** When you use an End User Service, such as using Onelink to make payments with our Business Users, we share your Personal Data, including name, contact information, payment method details, and Transaction Data with those Business Users. [Learn More](https://stripe.com/legal/privacy-center#link). You can also direct Stripe to share your saved bank account information and identity documents with Business Users you do business with. Once we share your Personal Data with Business Users, we may process that Personal Data as a Data Processor for those Business Users, as detailed in Section 1.2 of this Policy.  You should consult the privacy policies of the Business Users with whom you do business for information on how they use the information shared with them.
 
 **Fraud Detection and Loss Prevention**. We use your Personal Data collected across our Services to detect fraud and prevent financial losses for you, us, and our Business Users and Financial Partners, including detecting unauthorized purchases. We may provide Business Users and Financial Partners, including those that use our fraud prevention-related Business Services (such as Stripe Radar), with Personal Data about you (including your attempted transactions) so that they can assess the fraud or loss risk associated with the transaction. Learn more about how we may use technology to assess the fraud risk associated with an attempted transaction and what information we share with Business Users and Financial Partners [here](https://stripe.com/docs/radar/reviews/risk-insights) and [here](https://stripe.com/legal/privacy-center#from-where-does-stripe-collect-information-used-for-fraud-prevention-and-security-purposes).
 
@@ -272,7 +272,7 @@ For purposes of the General Data Protection Regulation (GDPR) and other applicab
 *   Enabling network and information security throughout Stripe and our Services; and
 *   Sharing of Personal Data among our affiliates.
 
-**d. Consent**. We may rely on consent or explicit consent to collect and process Personal Data regarding our interactions with you and the provision of our Services such as Link, Financial Connections, Atlas, and Identity. When we process your Personal Data based on your consent, you have the right to withdraw your consent at any time, and such a withdrawal will not impact the legality of processing performed based on the consent prior to its withdrawal.
+**d. Consent**. We may rely on consent or explicit consent to collect and process Personal Data regarding our interactions with you and the provision of our Services such as Onelink, Financial Connections, Atlas, and Identity. When we process your Personal Data based on your consent, you have the right to withdraw your consent at any time, and such a withdrawal will not impact the legality of processing performed based on the consent prior to its withdrawal.
 
 **e. Substantial Public Interest**. We may process special categories of Personal Data, as defined by the GDPR, when such processing is necessary for reasons of substantial public interest and consistent with applicable law, such as when we conduct politically-exposed person checks. We may also process Personal Data related to criminal convictions and offenses when such processing is authorized by applicable law, such as when we conduct sanctions screening to comply with AML and KYC obligations.
 
@@ -485,7 +485,7 @@ We don’t share
 
 To limit our sharing
 
-Login to your Link account at [app.link.com/settings](https://app.link.com/settings) and toggle off data sharing from the Messaging menu.
+Login to your Onelink account at [app.onelink.com/settings](https://app.onelink.com/settings) and toggle off data sharing from the Messaging menu.
 
 Please note: If you are a new customer, we can begin sharing your information 30 days from the date we sent this notice. When you are no longer our customer, we continue to share your information as described in this notice.
 
@@ -493,7 +493,7 @@ However, you can contact us at any time to limit our sharing.
 
 Questions?
 
-Contact us at [privacy@stripe.com](mailto:dpo@stripe.com) or visit us at [https://support.link.com](https://support.link.com/)
+Contact us at [privacy@stripe.com](mailto:dpo@stripe.com) or visit us at [https://support.onelink.com](https://support.link.com/?locale=en-GB)
 
 Who we are
 
@@ -511,7 +511,7 @@ How does Stripe collect my personal information?
 
 We collect your personal information, for example, when you
 
-• open a Link account;
+• open a Onelink account;
 
 • ask Stripe to process a payment for goods or services;
 
