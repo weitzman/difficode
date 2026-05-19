@@ -10,8 +10,6 @@ selector: "main"
 *   [User Guidelines](/us/legal/user-guidelines/)
 *   [Paid Subscription Terms](/us/legal/paid-subscription-terms/)
 
-Your privacy is important. As of 13 April 2026 we’ve updated our Privacy Policy to include additional detail about our data processing.
-
 # **Spotify Privacy Policy**
 
 Effective as of 13 April 2026
