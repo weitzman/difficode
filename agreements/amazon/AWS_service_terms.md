@@ -5,7 +5,7 @@ selector: "#aws-service-terms"
 
 # AWS Service Terms
 
-Last Updated: May 11, 2026
+Last Updated: May 18, 2026
 
 ## 1\. Universal Service Terms (Applicable to All Services)
 
@@ -445,7 +445,7 @@ Amazon Web Services Japan G.K.
 
 N/A
 
-1-1, Kamiosaki 3-chome, Shinagawa-ku, Tokyo, 141-0021, Japan
+1-3-1 Azabudai, Minato-ku, Tokyo 106-0041, Japan
 
 South Korea
 
