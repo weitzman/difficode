@@ -138,7 +138,7 @@ Except when PayPal acts as your agent and custodian to place funds in one or mor
 
 If your Balance Account is not eligible for FDIC pass-through insurance, PayPal combines your PayPal funds with the PayPal funds not eligible for pass-through FDIC insurance of other PayPal users and invests those funds in liquid investments in accordance with state money transmitter laws. PayPal owns the interest or other earnings on these investments. However, the claim against PayPal represented by funds held in your Balance Account is not secured by these investments and you do not have any ownership interest (either legal or beneficial) in these investments. These pooled amounts are held apart from PayPal’s corporate funds, and PayPal will neither use these funds for its operating expenses or any other corporate purposes nor will it voluntarily make these funds available to its creditors in the event of bankruptcy. You will not receive any interest or other return on the funds held with PayPal.
 
-If you have opened a PayPal Debit Card Mastercard® account, enrolled in Direct Deposit, or bought or received cryptocurrency with your personal PayPal branded cryptocurrency account (“CryptoAccount”), we will place your U.S. dollar PayPal Balance funds in one or more [**Program Banks**](https://www.paypal.com/us/legalhub/program-banks-tnc?locale.x=en_US), where they will, subject to certain conditions, be eligible for pass-through FDIC insurance, up to applicable limits. Additionally, if you have bought or received cryptocurrency with a Crypto Account linked to your PayPal business account, we will place your U.S. dollar business account funds at one or more Program Banks. FDIC insurance protects against the failure of the [**Program Banks**](https://www.paypal.com/us/legalhub/program-banks-tnc?locale.x=en_US), not the failure of PayPal. PayPal is not a bank, does not take deposits and is not FDIC insured. Any other balance funds and all cryptocurrencies are not held in FDIC-insured bank deposits. Cryptocurrencies may lose value. See [**PayPal Balance Terms and Conditions**](https://www.paypal.com/us/legalhub/pp-balance-tnc#holding).
+If you have opened a PayPal Debit Card Mastercard® account, enrolled in Direct Deposit, or bought or received cryptocurrency with your personal PayPal branded cryptocurrency account (“Crypto Account”), we will place your U.S. dollar PayPal Balance funds in one or more [**Program Banks**](https://www.paypal.com/us/legalhub/program-banks-tnc?locale.x=en_US), where they will, subject to certain conditions, be eligible for pass-through FDIC insurance, up to applicable limits. Additionally, if you have bought or received cryptocurrency with a Crypto Account linked to your PayPal business account, we will place your U.S. dollar business account funds at one or more Program Banks. FDIC insurance protects against the failure of the [**Program Banks**](https://www.paypal.com/us/legalhub/program-banks-tnc?locale.x=en_US), not the failure of PayPal. PayPal is not a bank, does not take deposits and is not FDIC insured. Any other balance funds and all cryptocurrencies are not held in FDIC-insured bank deposits. Cryptocurrencies may lose value. See [**PayPal Balance Terms and Conditions**](https://www.paypal.com/us/legalhub/pp-balance-tnc#holding).
 
 Cryptocurrency services and accounts are provided by PayPal Digital, Inc. More information can be found in the [Cryptocurrency Terms and Conditions](https://www.paypal.com/us/legalhub/paypal/cryptocurrencies-tnc?locale.x=en_US).
 
@@ -1192,34 +1192,3 @@ In complying with the applicable data protection laws, we will each:
 *   not knowingly or intentionally do anything, or knowingly or intentionally permit anything to be done, which might lead to a breach by the other party of the applicable data protection laws.
 
 Any personal data provided to you by PayPal in connection with the PayPal services, excluding personal data collected or obtained by your directly from the customer, will be used by you only to the limited extent that is necessary and relevant to the PayPal services and for no other purpose, including marketing purposes, unless you have obtained the prior consent of the customer. You represent, warrant, and covenant that you will provide and/or obtain all necessary disclosures and consents, as applicable, in connection with your data collection and sharing practices with PayPal. You may not disclose or distribute any customer personal data provided to you by PayPal to a third party, unless such third party is your service provider and acting on your behalf (as defined by applicable law).
-
-*   [Help](/us/cshelp/personal)
-*   [Contact](/us/smarthelp/contact-us)
-*   [Fees](/us/digital-wallet/paypal-consumer-fees)
-*   [Security Center](/us/security)
-*   [Privacy Center](/us/privacy-center/home)
-*   [Shop](/us/webapps/mpp/shopping-selection)
-*   [Apps](/us/digital-wallet/mobile-apps)
-*   [Enterprise](/us/enterprise)
-*   [Partners](/us/enterprise/industry-solutions/platforms-and-marketplaces)
-
-*   [United States](#)
-
-* * *
-
-*   [About](https://about.pypl.com/about-us/default.aspx)
-*   [Newsroom](https://newsroom.paypal-corp.com/)
-*   [Jobs](https://careers.pypl.com/home/)
-*   [Investor Relations](https://investor.pypl.com/home/default.aspx)
-*   [Government Relations](https://about.pypl.com/how-we-work/issues-and-advocacy/default.aspx)
-
-* * *
-
-*   © 1999–2026
-*   [Accessibility](/us/webapps/mpp/accessibility)
-*   [Privacy Statement](https://www.paypal.com/us/legalhub/privacy-full)
-*   [Cookies](/myaccount/privacy/cookiePrefs)
-*   [Legal](/us/legalhub/home)
-*   [Licenses](/us/webapps/mpp/licenses)
-
-PayPal is located at 2211 N 1st St. San Jose, CA 95131
