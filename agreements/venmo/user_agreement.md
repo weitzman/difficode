@@ -11,7 +11,7 @@ Agreement
 
 ### Last Updated
 
-This user agreement is effective as of April 16, 2026.
+This user agreement is effective as of May 19, 2026.
 
 **Welcome to Venmo!**
 
@@ -40,12 +40,12 @@ Personal accounts let you do things like:
     
 *   Buy things through an authorized merchant’s mobile website, app, or Venmo business profile.
     
-*   Buy, sell, hold, receive and send certain cryptocurrencies if eligible.
-    
 *   Send donations to charity profiles.
     
 
 **We may also offer you the ability to set up a business profile within your personal account, which you can use to receive payments for the sale of goods and services. This feature is offered in our sole discretion and may not be available to all users.**
+
+You may also be offered the ability to set up a Venmo branded cryptocurrency account (“Crypto Account”) through our affiliate, PayPal Digital, Inc. (doing business as PayPal Digital and Venmo Digital) (“PayPal Digital”). You can learn more in the [Cryptocurrency Terms and Conditions](https://www.paypal.com/us/legalhub/paypal/cryptocurrencies-tnc).
 
 **Except for commercial transactions expressly authorized by Venmo, for example, transactions with authorized merchants or business profiles, purchases made using your Venmo Mastercard®,** **or transactions that are identified as payments for goods and services, personal accounts and Teen Accounts may not be used to conduct business, commercial or merchant transactions with other personal accounts or Teen Accounts, which includes paying or accepting payment from other personal accounts or Teen Accounts held by users you do not personally know for goods or services (for example, concert tickets, electronic equipment, sneakers, a watch, or other merchandise, deposits for apartments, or dog walking).** If you plan to use your Venmo account to receive payments for goods or services, you must ask your buyer to identify that their payment is for goods and services or have a business profile. You may also find out more information about offering Venmo as a payment option on your website or mobile app by [visiting this webpage](/business/start).
 
@@ -154,7 +154,7 @@ If you are eligible for remote check capture and we have verified your required
 
 Unless otherwise expressly stated, all references to “funds” in these terms and conditions mean money denominated in sovereign currency and not cryptocurrency or any other form of asset.
 
-Any funds in your Venmo account represent unsecured claims against us unless you have added money to your Venmo account using the cash a check feature, have bought or have received cryptocurrency through Venmo, you or a Teen User have been issued a Venmo Mastercard® debit card that has not been closed or canceled, or have used Direct Deposit to add money to your Venmo account (including to a balance associated with a Teen Account) . In that case, we will place your U.S. dollar Venmo funds in one or more [**Program Banks**](https://www.paypal.com/us/legalhub/program-banks-tnc), where they will, subject to certain conditions, be eligible for pass-through FDIC insurance up to applicable limits.
+Any funds in your Venmo account represent unsecured claims against us unless you have added money to your Venmo account using the cash a check feature, have bought or have received cryptocurrency through a Crypto Account, you or a Teen User have been issued a Venmo Mastercard® debit card that has not been closed or canceled, or have used Direct Deposit to add money to your Venmo account (including to a balance associated with a Teen Account) . In that case, we will place your U.S. dollar Venmo funds in one or more [**Program Banks**](https://www.paypal.com/us/legalhub/program-banks-tnc), where they will, subject to certain conditions, be eligible for pass-through FDIC insurance up to applicable limits.
 
 *PayPal, the provider of the Venmo service, is not a bank, does not take deposits and is not FDIC insured.*
 
@@ -164,7 +164,7 @@ If your Venmo account is eligible for FDIC pass-through insurance, we will hol
 
 When we provide immediate or early credit of funds sent to your Venmo account, there might be a delay between the time that funds are credited and when we actually transfer those funds to one of the custodial accounts. That amount might not be eligible for FDIC pass-through insurance in your name during this period, but we will still hold the funds as your agent and custodian in investments authorized by our state regulators. FDIC pass-through insurance coverage is contingent upon our maintaining accurate records and on both us and the Program Bank in which the funds are deposited otherwise complying with requirements in FDIC regulations. The determinations of whether these requirements have been satisfied and whether you are eligible for FDIC pass-through insurance coverage will be made by the FDIC at the time that a Program Bank holding a custodial account fails. You will not receive any interest or other return on funds held in these custodial accounts and you agree that any earnings on funds in a custodial account belong to us, and we may be compensated for placing your funds in a custodial account. 
 
-You can also use your Venmo account to hold certain cryptocurrencies if eligible. Cryptocurrency eligibility and other specific terms and conditions can be found in the Venmo Cryptocurrencies Terms and Conditions. Teen Accounts are not eligible for cryptocurrency features. Cryptocurrencies are not FDIC-insured and may lose value.
+Cryptocurrency services are provided by PayPal Digital. Cryptocurrencies are not FDIC-insured and may lose value.
 
 ### Withdrawals from Your Venmo Account
 
@@ -898,14 +898,6 @@ You must choose whether to pursue a dispute with us under the Venmo Purchase Pro
 If you choose to dispute a transaction with us under the Venmo Purchase Protection Program and we decide against you, you can seek to pursue the dispute with the card issuer later. If we do not make a final decision on your claim until after the card issuer's deadline for filing a dispute, and because of our delay you recover less than the full amount you would have been entitled to recover from the card issuer, we will reimburse you for the remainder of the loss (minus any amount you have already recovered from the seller or your card issuer).
 
 Before contacting the card issuer or filing a dispute with us under the Venmo Purchase Protection Program, you should contact the seller to attempt to resolve your issue in accordance with the seller’s return policy.
-
-### Crypto Price Alerts
-
-You may choose to receive price alerts on select cryptocurrencies. When you turn on crypto price alerts, we’ll send you push notifications when the price of your selected crypto goes up or down by your chosen percentage in a day. You’ll receive a maximum of two notifications when the price of your chosen crypto changes in a single direction within a 24-hour period, and crypto price alerts may be delayed or disrupted, so you may not receive a price alert each time the prices of the selected crypto asset increases or decreases by your chosen percentage.   
-  
-Price alerts are based on the information on the market price of cryptocurrencies that is shared with us by an external source that we believe to be reliable. However, we do not control the external sources or the data they provide, and we do not always independently verify that the information provided is complete and accurate. For purposes of price alerts, we do not receive real-time pricing information, but instead compare the crypto price at regular intervals. Therefore, we do not guarantee or warrant that the information provided in price alerts is accurate, complete, timely, or suitable for use, and it may be inaccurate, incomplete or out of date. We also do not guarantee that you will receive a price alert every time the price of the crypto asset you select moves up or down by your chosen percentage.  
-
-These alerts are designed to provide information about movements in the crypto market but should not be your sole way of monitoring and making decisions involving crypto. Market conditions and data outages may also result in delays or disruptions to crypto price alerts. You should verify any price alert information you receive before you act on it and we have no liability to you if you make decisions based on the price alerts that you receive from or through us or based on your failure to receive a price alert. Price alerts are provided for informational purposes only, and do not constitute a recommendation by Venmo to buy, sell or hold any asset. Teen Accounts will not have access to any cryptocurrency features.
 
 ### Refunds, Reversals and Chargebacks
 
