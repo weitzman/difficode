@@ -523,9 +523,10 @@ Contact [Online](https://www.paypal.com/lk/smarthelp/contact-us/privacy) for Pr
 
 Switzerland
 
-PayPal (Europe) S.a.r.l. et Cie, S.C.A.  
-22-24 Boulevard Royal L-2449, Luxembourg  
-Contact [Online](https://www.paypal.com/ch/smarthelp/contact-us/privacy) for Privacy queries
+PayPal Pte. Ltd.  
+5 Temasek Boulevard 09-01, Suntec Tower 5  
+Singapore 038985  
+Contact [Online](https://www.paypal.com/ch/cshelp/contact-us/privacy) for Privacy queries
 
 Taiwan
 
