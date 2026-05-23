@@ -23,7 +23,7 @@ Table of contents
 
 Select language
 
-English (United States)العربيةአማርኛArmenianবাংলাbosanskiбългарскиBurmesecatalàhrvatskičeštinadanskNederlandseestiفارسیsuomifrançais (Canada)français (France)GeorgianDeutschΕλληνικάગુજરાતીहिन्दीmagyarIcelandicIndonesiaIrishitaliano日本語ಕನ್ನಡKazakh한국어latviešulietuviųMacedonianMelayuമലയാളംMalteseमराठीMongoliannorsk bokmålpolskiportuguês (Brasil)português (Portugal)românăрусскийslovenčinaslovenščinaсрпски (Србија)Somaliespañol (Latinoamérica)español (España)KiswahilisvenskaFilipinoதமிழ்తెలుగుไทยTürkçeукраїнськаاردوTiếng Việt中文 (中国)中文 (台灣)中文 (香港)
+English (United States)العربيةአማርኛհայերենবাংলাbosanskiбългарскиမြန်မာcatalàhrvatskičeštinadanskNederlandseestiفارسیsuomifrançais (Canada)français (France)ქართულიDeutschΕλληνικάગુજરાતીहिन्दीmagyaríslenskaIndonesiaGaeilgeitaliano日本語ಕನ್ನಡKazakh한국어latviešulietuviųMacedonianMelayuമലയാളംMaltiमराठीMongoliannorsk bokmålpolskiportuguês (Brasil)português (Portugal)românăрусскийslovenčinaslovenščinaсрпски (Србија)Soomaaliespañol (Latinoamérica)español (España)KiswahilisvenskaFilipinoதமிழ்తెలుగుไทยTürkçeукраїнськаاردوTiếng Việt中文 (中国)中文 (台灣)中文 (香港)
 
 Updated: May 18, 2026
 
