@@ -17,8 +17,6 @@ Terms of Service
 *   8\. Resolving disputes
 *   9\. Other
 
-  
-
 ***Last updated: January 22, 2026***
 
   
@@ -61,8 +59,7 @@ Your use of the Platform is also governed by our [Privacy Policy](https://www.ti
 
 *   [Rewards Policy](https://www.tiktok.com/legal/rewards-policy-us): This policy governs the virtual and physical rewards you may be eligible to receive when you participate in an incentive program, promotion, and/or campaign offered by TikTok USDS Joint Venture.
 
-*   [Subscription Terms](https://www.tiktok.com/legal/tiktok-subscription-terms): These terms govern certain subscription services available through the Platform.
-
+*   [Subscription Terms](https://www.tiktok.com/legal/tiktok-subscription-terms-of-sale-us/): These terms govern certain subscription services available through the Platform.
 *   [Campaign Terms & Conditions](https://www.tiktok.com/legal/campaign-terms-conditions-us): These terms apply to your participation in campaigns and promotions hosted by TikTok USDS Joint Venture on the Platform.
 
 ***In short: These Terms cover your use of the Platform. There may be some additional terms and policies that apply, depending on how you use the Platform.***
@@ -319,7 +316,7 @@ The party raising a dispute will initiate this process by notifying the other. W
 
 These Terms and any claims, causes of action, of any kind or character, or demand arising out of or relating to the Terms will be governed by the laws of the State of California, without regard to conflict of law principles. Any claim, cause of action or dispute, arising out of or relating to these Terms or the Platform shall also be resolved exclusively in the U.S. District Court for the Central District of California or the Superior Court of the State of California, County of Los Angeles, regardless of whether the claim, cause of action, or dispute arose prior to your agreement to these Terms. You also agree to submit to the personal jurisdiction of either of these courts for the purpose of litigating any such claim.
 
-### **8.3 One year limitation period / limitation on legal** **action**
+### **8.3 One year limitation period / limitation on legal action**
 
 YOU AND TIKTOK USDS JOINT VENTURE AGREE THAT YOU MUST INITIATE ANY PROCEEDING OR ACTION WITHIN ONE (1) YEAR OF THE DATE OF THE OCCURRENCE OF THE EVENT OR FACTS GIVING RISE TO A DISPUTE THAT IS ARISING OUT OF OR RELATED TO THESE TERMS OR THE PLATFORM.  OTHERWISE, YOU FOREVER WAIVE THE RIGHT TO PURSUE ANY CLAIM OR CAUSE OF ACTION, OF ANY KIND OR CHARACTER, BASED ON SUCH EVENTS OR FACTS, AND SUCH CLAIM(S) OR CAUSE(S) OF ACTION ARE PERMANENTLY BARRED.
 
