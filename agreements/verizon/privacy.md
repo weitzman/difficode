@@ -838,7 +838,7 @@ Open all
     
 *   [
     
-    ## How does Verizon protect my information, and how do I update my account details?
+    ## How does Verizon protect my information, how long does Verizon retain my information and how do I update my account details?
     
     Learn about our information security and retention practices and how to update your account information.
     
