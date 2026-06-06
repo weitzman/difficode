@@ -5,7 +5,7 @@ selector: "#main"
 
 US privacy policy | OpenAI
 
-Table of contents
+1\. Personal Data we collect
 
 *   [1\. Personal Data we collect](#personal-data-we-collect)
 *   [2\. How we use Personal Data](#how-we-use-personal-data)
