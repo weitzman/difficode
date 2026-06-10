@@ -3,7 +3,7 @@ url: "https://www.uber.com/legal/terms/us/"
 selector: "[data-testid='content-group-dynamic']"
 ---
 
-Last modified: 4/6/2026
+Last modified: 6/9/2026
 
   
 
@@ -37,7 +37,7 @@ Notwithstanding the foregoing, if you choose, now or in the future, to provide t
 
 ### 1\. Contractual Relationship; Termination; and Modification
 
-In addition to these Terms of Service, your access to, and use of the Services is also governed by the applicable terms found on our website. These include but are not limited to: the [Privacy Notice](https://www.uber.com/privacy/notice); [User Generated Content Terms;](https://www.uber.com/legal/en/document/?country=united-states&lang=en&name=user-generated-content-policy) [Community Guidelines](https://www.uber.com/legal/community-guidelines/us-can-en/); [Referral Policies](https://www.uber.com/legal/referral-program-rules/referral-terms-us-can-en/); [AV Global Rider and Eater Guideline](https://docs.google.com/document/d/11eYH8WLw5Z_QH90tOJb7TEHK6WDG7OXiTm2UNmsrZUo/edit?tab=t.0)s; [ADT Mobile Security Monitoring Terms](https://www.adt.com/about-adt/legal/mobile-monitoring-terms); and Uber’s other applicable Uber standards and policies (including, without limitation, Uber’s safety standards, the [accessibility policies,](https://accessibility.uber.com/) [Teen Account Terms of Use](https://www.uber.com/legal/document/?name=uber-teens-terms-of-use---teens) and the [U.S. Service Animal Policy](https://accessibility.uber.com/service-animal-policy/), collectively, the “Supplemental Terms.”)
+In addition to these Terms of Service, your access to, and use of the Services is also governed by the applicable terms found on our website. These include but are not limited to: the [Privacy Notice](https://www.uber.com/privacy/notice); [User Generated Content Terms;](https://www.uber.com/legal/en/document/?country=united-states&lang=en&name=user-generated-content-policy) [Community Guidelines](https://www.uber.com/legal/community-guidelines/us-can-en/); [Referral Policies](https://www.uber.com/legal/referral-program-rules/referral-terms-us-can-en/); [AV Global Rider and Eater Guidelines;](https://www.uber.com/legal/en/document/?name=autonomous-vehicle-global-rider-and-eater-guidelines&country=united-states&lang=en) [ADT Mobile Security Monitoring Terms](https://www.adt.com/about-adt/legal/mobile-monitoring-terms); and Uber’s other applicable Uber standards and policies (including, without limitation, Uber’s safety standards, the [accessibility policies,](https://accessibility.uber.com/) [Teen Account Terms of Use](https://www.uber.com/legal/document/?name=uber-teens-terms-of-use---teens) and the [U.S. Service Animal Policy](https://accessibility.uber.com/service-animal-policy/), collectively, the “Supplemental Terms.”)
 
 Collectively, we refer to these Terms of Service and the Supplemental Terms as the “Terms.” These Terms govern your access or use, from within the United States and its territories and possessions, of the Services made available in the United States and its territories and possessions (the “Territory”). If you use the Services in another country, you agree to be subject to Uber’s terms of service for that country. In these Terms, the words “including” and “include” mean “including, but not limited to.”
 
