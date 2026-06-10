@@ -5,7 +5,7 @@ selector: ".o-base__content"
 
 # Plan Terms & Conditions
 
-Last Updated: March 27, 2026.
+Last Updated: June 9, 2026.
 
 Your Mint Mobile service is provided by Mint Mobile, LLC, including its affiliates, assigns and agents (“Mint Mobile,” “Mint,” “we,” “us” or “our”). These Terms and Conditions (“T&Cs”) are part of your service agreement with Mint Mobile and constitute a contract under which we provide you Service under terms and conditions that you accept. Your service agreement (“Agreement”) with us includes (i) these T&Cs, (ii) our Privacy Notice, (iii) our Acceptable Use Policy, (iv) our Mobile Application End User License Agreement, (v) any subscriber agreement or transaction materials that you sign or accept, (vi) any supplemental terms and conditions that may apply to any Service plan(s) and/or Device(s) that you select, (vii) any confirmation materials that we may provide to you, (viii) the terms set forth in any applicable coverage map brochures, (ix) any other supplemental terms and conditions that we provide or otherwise make available to you, and (x) any additional provisions linked to in any of the above materials. In the event of a conflict between these T&Cs and any other materials that makeup the Agreement, these T&Cs shall govern to the extent necessary to resolve the conflict.
 
@@ -107,23 +107,23 @@ You and any authorized users on your account will have access to account informa
 
 **Flat Per-Plan Fee**
 
-1 Month 5GB
+1 Month 6GB
 
 $1.50
 
-1 Month 15GB
+1 Month 17GB
 
 $2.00
 
-3 Month 5GB
+3 Month 6GB
 
 $4.50
 
-3 Month 15GB
+3 Month 17GB
 
 $4.75
 
-3 Month 20GB
+3 Month 23GB
 
 $5.00
 
@@ -135,15 +135,15 @@ $5.50
 
 $6.00
 
-6 Month 5GB
+6 Month 6GB
 
 $7.50
 
-6 Month 15GB
+6 Month 17GB
 
 $7.75
 
-6 Month 20GB
+6 Month 23GB
 
 $8.00
 
@@ -155,15 +155,15 @@ $8.75
 
 $9.75
 
-12 Month 5GB
+12 Month 6GB
 
 $14.00
 
-12 Month 15GB
+12 Month 17GB
 
 $14.50
 
-12 Month 20GB
+12 Month 23GB
 
 $14.75
 
