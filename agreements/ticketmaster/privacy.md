@@ -60,7 +60,7 @@ Among other rights, you can choose whether to receive marketing from us. You als
 
 #### Looking after your information
 
-We’re always taking steps to make sure your information is protected and deleted securely when we no longer need it. [Learn More](#looking-after-your-information "Looking after your information")
+We’re always taking steps to make sure your information is protected and deleted securely when we no longer need it. [Learn More](#looking-specific-to-your-country "Looking after your information")
 
 #### Contact us
 
@@ -89,6 +89,7 @@ Given the global nature of our business, some of the products and services we of
 *   **When you book accessible tickets.** If you have accessibility requirements, we want to make sure you have the best experience when attending events. To do this, we need to collect details of your requirements. When you purchase accessible tickets, or request a companion voucher, we record this request. Depending on your market, we may be required to validate your accessibility needs. We will inform you about this if we do.
 *   **When you sell a ticket on Ticketmaster** As our payment services provider is transferring the funds from the ticket sale price to you, they need to collect information such as a valid ID as part of their Know Your Customer (KYC) requirements. Once your identity has been verified, this information is stored and securely deleted in line with regulatory requirements. Where local law requires, we also collect information from you when you use our services as a seller, including additional identification information such as tax identification numbers.
 *   **Geodemographic information.** Subject to your choices, we collect or use suppliers such as advertising and marketing partners who collate geodemographic information including age range, gender, or information about events you like or products you buy which assists us in better personalizing our services to you. If you’d prefer that we do not do this, see the [‘Your Rights & Choices’](#your-choices-&-rights "Your Rights & Choices") section below.
+*   **Sensitive personal and biometric information.** In limited circumstances, we may collect and use sensitive personal information, including biometric information, where it is necessary to provide you with the services you request or where we are required or permitted to do so by law. For example, this may include information you provide when requesting specific services or support, or where identity verification or security measures are required in certain markets. We will always inform you if this applies, only use this information for those purposes, and apply additional safeguards. For more details, please see our [Biometric Privacy Notice](https://privacy.ticketmaster.com/en/biometric-privacy-notice "Biometric Privacy Notice") .
 *   **Information used for health & safety purposes.** Where required, we will collect information from ticket purchasers and attendees for compliance purposes related to infectious disease to the extent required under applicable law. This includes information such as names, contact details, seat locations, along with entry and exit times.
 
 In situations where a third party for an event organizer requires the collection of health information (such as test results), please refer to their privacy policy and terms to understand how your information was collected and used.
@@ -120,9 +121,10 @@ This section explains how we use your information and the legal grounds (or purp
     
     Subject to your choices
     
-    *   **Marketing.** To contact you with information or offers regarding upcoming events, products or services via email, push and web notifications, SMS, or social media platforms. You can change your marketing preferences at any time; see [“Your choices and rights”](#your-choices-&-rights "Your choices and rights") section below.
+    *   **Marketing.** To contact you with information or offers regarding upcoming events, products or services via email, push and web notifications, SMS, messaging services or social media platforms. You can change your marketing preferences at any time; see [“Your choices and rights”](#your-choices-&-rights "Your choices and rights") section below.
     *   **Advertising & cookies.** To deliver tailored advertising and marketing communications on our websites and apps; see our [Cookie Policy](https://privacy.ticketmaster.com/en/cookie-policy "Cookie Policy") for more information.
     *   **Market research & fan feedback.** To conduct market research and analysis which helps improve and customize our products and services and to contact you with satisfaction surveys, or to participate in user research (such as focus groups). We include an unsubscribe option for this kind of contact should you no longer wish to receive them.
+    *   **Fan images and recordings.** When you attend an event, we may capture your image, likeness or voice through photography or video recordings. This content may be used in marketing materials, including on websites, social media, and other promotional channels. Where we are responsible for such filming or photography, you have the right to object to the use of your image. If you would prefer not to be included, please contact us and we will take reasonable steps to respect your request.
     *   **Personalization.** To make sure our messages and website are relevant to you (depending on your market). For example, when you ‘favorite’ certain artists and genres, purchase tickets, attend shows with friends and sign up for presales, we will inform you about similar events we think you might be interested in. We create a user profile with the information we have and how you use our services. By turning personalization off you won’t get any personal recommendations and any newsletters you’ve subscribed to will be generic (although if you’ve asked to receive alerts about specific artists or venues, you’ll still receive these).
         
         We will still perform profiling activities where we need to so we can deliver our services to you, for example for fraud screening purposes.
@@ -503,7 +505,7 @@ When transferring information, there are strict rules in place to ensure your in
 
 For more information, or to get a copy of the relevant documentation please [contact us](#contact-us "contact us").
 
-Information Relevant
+Information Specific
 
 To Your Country
 
