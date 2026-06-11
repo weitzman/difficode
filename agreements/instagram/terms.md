@@ -15,6 +15,8 @@ How is Instagram funded?
 
 What is the Privacy Policy?
 
+My account was disabled
+
 I have a different question
 
 Welcome to Instagram!  
@@ -190,25 +192,19 @@ No
 
 ## Related Articles
 
-[Information for law enforcement](/494561080557017/?helpref=related_articles)
-
 [Intellectual Property](/535503073130320/?helpref=related_articles)
 
 [Why we added more information to our Terms](/2281921558660165/?helpref=related_articles)
 
 [Why your account has been restricted for data scraping and what can you do](/740480200552298/?helpref=related_articles)
 
-[How long does copyright protection last?](/1896184403962569/?helpref=related_articles)
+[Exposed Private Information](/122717417885747/?helpref=related_articles)
+
+[Information for law enforcement](/494561080557017/?helpref=related_articles)
 
 [More information about Standard Contractual Clauses](/272603474673152/?helpref=related_articles)
 
 Related Articles
-
-[
-
-Information for law enforcement
-
-](/494561080557017/?helpref=related_articles)
 
 [
 
@@ -230,18 +226,18 @@ Why your account has been restricted for data scraping and what can you do
 
 [
 
-How long does copyright protection last?
+Exposed Private Information
 
-](/1896184403962569/?helpref=related_articles)
+](/122717417885747/?helpref=related_articles)
+
+[
+
+Information for law enforcement
+
+](/494561080557017/?helpref=related_articles)
 
 [
 
 More information about Standard Contractual Clauses
 
 ](/272603474673152/?helpref=related_articles)
-
-## Other ways to get help
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
