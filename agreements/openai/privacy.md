@@ -5,6 +5,14 @@ selector: "#main"
 
 US privacy policy | OpenAI
 
+Select language
+
+English (United States)العربيةአማርኛհայերենবাংলাbosanskiбългарскиမြန်မာcatalàhrvatskičeštinadanskNederlandseestiفارسیsuomifrançais (Canada)français (France)ქართულიDeutschΕλληνικάગુજરાતીहिन्दीmagyaríslenskaIndonesiaGaeilgeitaliano日本語ಕನ್ನಡKazakh한국어latviešulietuviųMacedonianMelayuമലയാളംMaltiमराठीMongoliannorsk bokmålpolskiportuguês (Brasil)português (Portugal)românăрусскийslovenčinaslovenščinaсрпски (Србија)Soomaaliespañol (Latinoamérica)español (España)KiswahilisvenskaFilipinoதமிழ்తెలుగుไทยTürkçeукраїнськаاردوTiếng Việt中文 (中国)中文 (台灣)中文 (香港)
+
+Updated: May 18, 2026
+
+# US privacy policy
+
 1\. Personal Data we collect
 
 *   [1\. Personal Data we collect](#personal-data-we-collect)
@@ -21,13 +29,21 @@ US privacy policy | OpenAI
 *   [12\. How to contact us](#how-to-contact-us)
 *   [13\. Useful resources](#useful-resources)
 
-Select language
+Table of contents
 
-English (United States)العربيةአማርኛհայերենবাংলাbosanskiбългарскиမြန်မာcatalàhrvatskičeštinadanskNederlandseestiفارسیsuomifrançais (Canada)français (France)ქართულიDeutschΕλληνικάગુજરાતીहिन्दीmagyaríslenskaIndonesiaGaeilgeitaliano日本語ಕನ್ನಡKazakh한국어latviešulietuviųMacedonianMelayuമലയാളംMaltiमराठीMongoliannorsk bokmålpolskiportuguês (Brasil)português (Portugal)românăрусскийslovenčinaslovenščinaсрпски (Србија)Soomaaliespañol (Latinoamérica)español (España)KiswahilisvenskaFilipinoதமிழ்తెలుగుไทยTürkçeукраїнськаاردوTiếng Việt中文 (中国)中文 (台灣)中文 (香港)
-
-Updated: May 18, 2026
-
-# US privacy policy
+*   [1\. Personal Data we collect](#personal-data-we-collect)
+*   [2\. How we use Personal Data](#how-we-use-personal-data)
+*   [3\. Disclosure of Personal Data](#disclosure-of-personal-data)
+*   [4\. Retention](#retention)
+*   [5\. Data controls](#data-controls)
+*   [6\. Your rights](#your-rights)
+*   [7\. Children](#children)
+*   [8\. Security](#security)
+*   [9\. Additional U.S. state disclosures](#additional-us-state-disclosures)
+*   [10\. Changes to the privacy policy](#changes-to-the-privacy-policy)
+*   [11\. Data controller](#data-controller)
+*   [12\. How to contact us](#how-to-contact-us)
+*   [13\. Useful resources](#useful-resources)
 
 ([Previous version⁠](/policies/us-privacy-policy/revisions/2026-04-01/))  
   
