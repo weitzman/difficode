@@ -239,9 +239,3 @@ Information for law enforcement
 More information about Standard Contractual Clauses
 
 ](/272603474673152/?helpref=related_articles)
-
-## Other ways to get help
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
