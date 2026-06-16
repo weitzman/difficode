@@ -11,6 +11,10 @@ Effective May 22, 2024 | [Archived versions](terms/archive) | [Download PDF](htt
 
 [Country version:](terms#footnote-country-version) United States
 
+We’re updating our Terms of Service on July 30, 2026 to make it easier for you to understand what to expect from Google — and what we expect from you — as you use our services. Until then, the Terms below continue to apply.
+
+See a [preview of the new Terms](terms/update)
+
 ## What’s covered in these terms
 
 ### We know it’s tempting to skip these Terms of Service, but it’s important to establish what you can expect from us as you use Google [services](terms#footnote-services), and what we expect from you.
