@@ -131,13 +131,11 @@ We use Workspace and account information, Usage information, Cookie information,
     *   It is in our and your interests to provide, update, maintain and protect our Services, Websites, and business.
 *   *To develop and provide search, learning and productivity tools and additional features.*  
     Slack tries to make the Services as useful as possible for specific Workspaces and Authorized Users. For example, we may:
-    
     *   improve search functionality by using Other Information to help determine and rank the relevance of content, channels or expertise to an Authorized User;
     *   make Services or Third-Party Service suggestions based on historical use and predictive models;
     *   identify organizational trends and insights;
     *   customize a Services experience; or
     *   create new productivity features and products.
-    
     *   It is in our interest and in the interest of Customers and Authorized Users to continuously improve and develop the customer support we provide.
 *   *To investigate and help prevent security issues and abuse.*  
     We may use a variety of tools such as device fingerprinting to prevent issues and abuse. We may process, including in an automated fashion, Other Information to better understand how Slack is used or to prevent spam or abuse.
