@@ -15,6 +15,8 @@ How is Instagram funded?
 
 What is the Privacy Policy?
 
+My account was disabled
+
 I have a different question
 
 Welcome to Instagram!  
@@ -239,3 +241,9 @@ Information for law enforcement
 More information about Standard Contractual Clauses
 
 ](/272603474673152/?helpref=related_articles)
+
+## Other ways to get help
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
