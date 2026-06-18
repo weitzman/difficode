@@ -16,34 +16,60 @@ Updated: May 18, 2026
 1\. Personal Data we collect
 
 *   [1\. Personal Data we collect](#personal-data-we-collect)
+    
 *   [2\. How we use Personal Data](#how-we-use-personal-data)
+    
 *   [3\. Disclosure of Personal Data](#disclosure-of-personal-data)
+    
 *   [4\. Retention](#retention)
+    
 *   [5\. Data controls](#data-controls)
+    
 *   [6\. Your rights](#your-rights)
+    
 *   [7\. Children](#children)
+    
 *   [8\. Security](#security)
+    
 *   [9\. Additional U.S. state disclosures](#additional-us-state-disclosures)
+    
 *   [10\. Changes to the privacy policy](#changes-to-the-privacy-policy)
+    
 *   [11\. Data controller](#data-controller)
+    
 *   [12\. How to contact us](#how-to-contact-us)
+    
 *   [13\. Useful resources](#useful-resources)
+    
 
 Table of contents
 
 *   [1\. Personal Data we collect](#personal-data-we-collect)
+    
 *   [2\. How we use Personal Data](#how-we-use-personal-data)
+    
 *   [3\. Disclosure of Personal Data](#disclosure-of-personal-data)
+    
 *   [4\. Retention](#retention)
+    
 *   [5\. Data controls](#data-controls)
+    
 *   [6\. Your rights](#your-rights)
+    
 *   [7\. Children](#children)
+    
 *   [8\. Security](#security)
+    
 *   [9\. Additional U.S. state disclosures](#additional-us-state-disclosures)
+    
 *   [10\. Changes to the privacy policy](#changes-to-the-privacy-policy)
+    
 *   [11\. Data controller](#data-controller)
+    
 *   [12\. How to contact us](#how-to-contact-us)
+    
 *   [13\. Useful resources](#useful-resources)
+    
 
 ([Previous version⁠](/policies/us-privacy-policy/revisions/2026-04-01/))  
   
