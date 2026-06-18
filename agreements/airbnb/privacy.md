@@ -109,7 +109,7 @@ Such as a payment instrument or contact information belonging to another person 
 
 #### 3.2.3 Biometric Information. 
 
-Such as facial recognition data derived from photos and identification documents you submit for verification, where offered and with your consent where required by applicable law. See our Help Center article on [Facial recognition for identity verification](/help/article/3564). 
+Such as facial recognition data derived from photos and identification documents you submit for verification, where offered and with your consent where required by applicable law. See our Help Center article on [Facial recognition for identity verification and preventing identity misuse](/help/article/3564). 
 
 #### 3.2.4 Communications Information. 
 
