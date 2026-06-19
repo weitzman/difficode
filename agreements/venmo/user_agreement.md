@@ -5,19 +5,36 @@ selector: ".organisms-termstemplate-content"
 
 Venmo Legal Agreements
 
-*   [Privacy Statement](/legal/us-privacy-policy)
-*   [User Agreement](/legal/us-user-agreement)
-*   [Venmo Long Form Disclosure](/resources/our-fees#longform)
-*   [Licenses](/legal/us-licenses)
+View all agreements
 
-*   [Consent](/legal/us-consent)
-*   [Cookies](/resources/cookies)
-*   [Helpful Information](/legal/us-helpful-information)
-*   [Approved Business Account Addendum](/legal/us-business-addendum)
+*   [Privacy Statement](https://venmo.com/legal/us-privacy-policy)
+*   [User Agreement](https://venmo.com/legal/us-user-agreement)
+*   [Venmo Long Form Disclosure](https://venmo.com/resources/our-fees/#longform)
+*   [Licenses](https://venmo.com/legal/us-licenses)
+*   [Consent](https://venmo.com/legal/us-consent)
+*   [Cookies](https://venmo.com/resources/cookies)
+*   [Helpful Information](https://venmo.com/legal/us-helpful-information)
+*   [Approved Business Account Addendum](https://venmo.com/legal/us-business-addendum)
+*   [Venmo Mastercard Cardholder Agreement](https://venmo.com/legal/bancorp-cardholder-agreement)
+*   [Venmo Mastercard Privacy Policy](https://venmo.com/legal/bancorp-privacy-policy)
+*   [Venmo Cryptocurrency Terms and Conditions](https://www.paypalobjects.com/marketing/ua/OA/cryptocurrencies-tnc/en-US-042026.pdf)
+*   [Open Source Attribution](https://help.venmo.com/cs/articles/open-source-attribution-page-for-venmo-vhel275)
 
-*   [Mastercard Cardholder Agreement](/legal/bancorp-cardholder-agreement)
-*   [Venmo Mastercard Privacy Policy](/legal/bancorp-privacy-policy)
-*   [Cryptocurrency Terms & Conditions](https://www.paypalobjects.com/marketing/ua/OA/cryptocurrencies-tnc/en-US-042026.pdf)
+View all agreements
+
+* * *
+
+*   [Privacy Statement](https://venmo.com/legal/us-privacy-policy)
+*   [User Agreement](https://venmo.com/legal/us-user-agreement)
+*   [Venmo Long Form Disclosure](https://venmo.com/resources/our-fees/#longform)
+*   [Licenses](https://venmo.com/legal/us-licenses)
+*   [Consent](https://venmo.com/legal/us-consent)
+*   [Cookies](https://venmo.com/resources/cookies)
+*   [Helpful Information](https://venmo.com/legal/us-helpful-information)
+*   [Approved Business Account Addendum](https://venmo.com/legal/us-business-addendum)
+*   [Venmo Mastercard Cardholder Agreement](https://venmo.com/legal/bancorp-cardholder-agreement)
+*   [Venmo Mastercard Privacy Policy](https://venmo.com/legal/bancorp-privacy-policy)
+*   [Venmo Cryptocurrency Terms and Conditions](https://www.paypalobjects.com/marketing/ua/OA/cryptocurrencies-tnc/en-US-042026.pdf)
 *   [Open Source Attribution](https://help.venmo.com/cs/articles/open-source-attribution-page-for-venmo-vhel275)
 
 DATE EFFECTIVE: May 19, 2026
@@ -54,7 +71,7 @@ We may also offer you the ability to set up a business profile within your perso
 
 You may also be offered the ability to set up a Venmo branded cryptocurrency account (“Crypto Account”) through our affiliate, PayPal Digital, Inc. (doing business as PayPal Digital and Venmo Digital) (“PayPal Digital”). You can learn more in the [Cryptocurrency Terms and Conditions](https://www.paypal.com/us/legalhub/paypal/cryptocurrencies-tnc).
 
-Except for commercial transactions expressly authorized by Venmo, for example, transactions with authorized merchants or business profiles, purchases made using your Venmo Mastercard®, or transactions that are identified as payments for goods and services, personal accounts and Teen Accounts may not be used to conduct business, commercial or merchant transactions with other personal accounts or Teen Accounts, which includes paying or accepting payment from other personal accounts or Teen Accounts held by users you do not personally know for goods or services (for example, concert tickets, electronic equipment, sneakers, a watch, or other merchandise, deposits for apartments, or dog walking). If you plan to use your Venmo account to receive payments for goods or services, you must ask your buyer to identify that their payment is for goods and services or have a business profile. You may also find out more information about offering Venmo as a payment option on your website or mobile app by [visiting this webpage](https://venmo.com/us/business/start).
+Except for commercial transactions expressly authorized by Venmo, for example, transactions with authorized merchants or business profiles, purchases made using your Venmo Mastercard®, or transactions that are identified as payments for goods and services, personal accounts and Teen Accounts may not be used to conduct business, commercial or merchant transactions with other personal accounts or Teen Accounts, which includes paying or accepting payment from other personal accounts or Teen Accounts held by users you do not personally know for goods or services (for example, concert tickets, electronic equipment, sneakers, a watch, or other merchandise, deposits for apartments, or dog walking). If you plan to use your Venmo account to receive payments for goods or services, you must ask your buyer to identify that their payment is for goods and services or have a business profile. You may also find out more information about offering Venmo as a payment option on your website or mobile app by [visiting this webpage](https://venmo.com/business/start).
 
 We may also offer you the ability to link a PayPal confirmed charity account to your Venmo account to create a Venmo charity profile, which you can use to receive donations through Venmo. This feature is offered in our sole discretion and may not be available to all users. If you have a business profile, you will not be able to link a PayPal confirmed charity account to your Venmo account. Charity profiles agree to comply with the [PayPal Confirmed Charity Terms and Conditions](https://www.paypal.com/us/webapps/mpp/ua/pp-confirmed-charity-tnc) in addition to this user agreement.
 
@@ -412,7 +429,7 @@ As part of the Venmo services, you may be offered the opportunity to apply for a
 
 For users with an approved Venmo business or charity profile, please note that you may not link a Venmo Debit Card to a business or charity profile, and funds in your business or charity profile cannot be used as a payment method for Venmo Debit Card transactions. For users with a linked Teen Account, please note that funds in a Teen Account may only be accessed with a Teen Debit Card.
 
-The Venmo Debit Card is issued by The Bancorp Bank, N.A., and your use of the card will be subject to The Bancorp Bank, N.A.’s [Venmo Mastercard Cardholder Agreement](https://venmo.com/legal/bancorp-cardholder-agreement) as well this agreement. If you add the Venmo Debit Card to a digital wallet, your use of the card will also be subject to the [Venmo Card Digital Wallet Terms and Conditions](https://venmo.com/us/legal/digital-wallet-terms). Please see the Venmo Mastercard Cardholder Agreement for full terms and conditions applicable to the Venmo Debit Card. In the event of any inconsistency between this Agreement and the Venmo Mastercard Cardholder Agreement, the Venmo Mastercard Cardholder Agreement shall govern your use (and any use by a Teen User) of the Venmo Debit Card and your relationship with The Bancorp Bank, N.A. to the extent of such conflict.
+The Venmo Debit Card is issued by The Bancorp Bank, N.A., and your use of the card will be subject to The Bancorp Bank, N.A.’s [Venmo Mastercard Cardholder Agreement](https://venmo.com/legal/bancorp-cardholder-agreement) as well this agreement. If you add the Venmo Debit Card to a digital wallet, your use of the card will also be subject to the [Venmo Card Digital Wallet Terms and Conditions](https://venmo.com/legal/digital-wallet-terms). Please see the Venmo Mastercard Cardholder Agreement for full terms and conditions applicable to the Venmo Debit Card. In the event of any inconsistency between this Agreement and the Venmo Mastercard Cardholder Agreement, the Venmo Mastercard Cardholder Agreement shall govern your use (and any use by a Teen User) of the Venmo Debit Card and your relationship with The Bancorp Bank, N.A. to the extent of such conflict.
 
 By applying for and using, or authorizing the use of the Venmo Debit Card, you authorize us and The Bancorp Bank, N.A. to share your Venmo account and personal information with one another as necessary to provide Venmo Debit Card related services. You further authorize us to use Venmo Debit Card program related information provided by The Bancorp Bank, N.A. to provide customer service, service your Venmo account and/or Venmo Debit Card, investigate and act on Venmo account and/or Venmo Debit Card related claims, as necessary to comply with applicable law, and as otherwise permitted by our Privacy Policy. By applying for and using or authorizing the use of the Venmo Debit Card, you will also be subject to additional data sharing terms and conditions as provided for in the Venmo Mastercard Cardholder Agreement.
 
@@ -422,7 +439,7 @@ We may add, change, suspend or eliminate any or all Venmo Debit Card related fea
 
 You may be offered the opportunity to open a Teen Account for a Teen User and apply for a Venmo Debit Card linked to the Teen Account (the “Teen Debit Card”).
 
-By applying for the Teen Debit Card, you authorize The Bancorp Bank, N.A. to issue the Teen Debit Card to the Teen User as an authorized user. The Teen Debit Card may be used to access the funds held in the Teen Account and not any other funds in your Venmo account. Use of the Teen Debit Card is subject to the [Venmo Mastercard Cardholder Agreement](https://venmo.com/legal/bancorp-cardholder-agreement/) as well as this user agreement. If you or a Teen User adds the Teen Debit Card to a digital wallet, usage of the Teen Debit Card will also be subject to the [Venmo Card Digital Wallet Terms and Conditions](https://venmo.com/us/legal/digital-wallet-terms). If you or a Teen User Refers a Friend to join Venmo, usage will also be subject to the [Refer a Friend Terms and Conditions](https://help.venmo.com/cs/articles/p2p-referrals-faq-terms-vhel352).
+By applying for the Teen Debit Card, you authorize The Bancorp Bank, N.A. to issue the Teen Debit Card to the Teen User as an authorized user. The Teen Debit Card may be used to access the funds held in the Teen Account and not any other funds in your Venmo account. Use of the Teen Debit Card is subject to the [Venmo Mastercard Cardholder Agreement](https://venmo.com/legal/bancorp-cardholder-agreement/) as well as this user agreement. If you or a Teen User adds the Teen Debit Card to a digital wallet, usage of the Teen Debit Card will also be subject to the [Venmo Card Digital Wallet Terms and Conditions](https://venmo.com/legal/digital-wallet-terms). If you or a Teen User Refers a Friend to join Venmo, usage will also be subject to the [Refer a Friend Terms and Conditions](https://help.venmo.com/cs/articles/p2p-referrals-faq-terms-vhel352).
 
 You are the owner of and responsible for all Teen Accounts and Teen Debit Cards that you open and authorize. All funds held in a Teen Account are owned by you, not the Teen User.
 
@@ -456,7 +473,7 @@ You can view and monitor the Teen Account balance and transaction activity from 
 
 Through the Venmo app, you can lock or unlock a Teen Debit Card. You can also contact us to close a Teen Account. If you close a Teen Account, we will transfer any funds in the Teen Account balance to your personal account, subject to any holds or limitations.
 
-As the owner of any Teen Account, you are responsible and liable for any and all activity of the Teen Account, Teen Users, and the Teen Debit Card, including use of the Teen Debit Card within a digital wallet in accordance with the [Venmo Card Digital Wallet Terms and Conditions](https://venmo.com/us/legal/digital-wallet-terms). By creating a Teen Account, you authorize the Teen User to complete transactions using the Teen Account (including any associated Teen Debit Card) on your behalf, subject to the fees, limitations, and conditions set forth in this user agreement.
+As the owner of any Teen Account, you are responsible and liable for any and all activity of the Teen Account, Teen Users, and the Teen Debit Card, including use of the Teen Debit Card within a digital wallet in accordance with the [Venmo Card Digital Wallet Terms and Conditions](https://venmo.com/legal/digital-wallet-terms). By creating a Teen Account, you authorize the Teen User to complete transactions using the Teen Account (including any associated Teen Debit Card) on your behalf, subject to the fees, limitations, and conditions set forth in this user agreement.
 
 By opening a Teen Account, you agree that the Teen User is authorized to use any payment method linked to the Teen Account, and that you are responsible for any fees incurred in connection with a linked payment method (including overdraft or cash advance fees charged by the applicable bank or card issuer).Further, you authorize all transactions, approvals, purchases and other activity conducted by a Teen User as if such transactions were made directly by you. This does not affect your ability, or right, to dispute fraudulent transactions.
 
