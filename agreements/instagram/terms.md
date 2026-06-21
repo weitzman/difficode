@@ -13,9 +13,9 @@ What is the Instagram Service?
 
 How is Instagram funded?
 
-What is the Privacy Policy?
-
 What are my commitments?
+
+How do you use my data?
 
 I have a different question
 
