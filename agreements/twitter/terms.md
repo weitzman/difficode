@@ -57,8 +57,6 @@ These Terms are an agreement between you and X Corp., which provides X and the S
 *   [5\. Disclaimers and Limitations of Liability](#chapter5)
 *   [6\. General](#chapter6)
 
-1\. Who May Use the Services
-
 *   [1\. Who May Use the Services](#chapter1)
 *   [2\. Privacy](#chapter2)
 *   [3\. Content on the Services](#chapter3)
@@ -191,8 +189,6 @@ These Terms are an agreement between you and X Internet Unlimited Company (Co. n
 *   [4\. Using the Services](#int-chapter4)
 *   [5\. Limitations of Liability](#int-chapter5)
 *   [6\. General](#int-chapter6)
-
-1\. Who May Use the Services
 
 *   [1\. Who May Use the Services](#int-chapter1)
 *   [2\. Privacy](#int-chapter2)
