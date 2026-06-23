@@ -53,7 +53,7 @@ Privacy Policy
 *   [9\. General](#chapter9)
 *   [10\. How To Contact X](#chapter10)
 
-1\. Information We Collect
+Privacy Policy 
 
 *   [1\. Information We Collect](#chapter1)
 *   [2\. How We Use Information](#chapter2)
@@ -273,6 +273,10 @@ We also use data centers and cloud providers, and engage [our affiliates](https:
 X is a [participant](https://www.dataprivacyframework.gov/list) in the EU-US Data Privacy Framework (DPF), the Swiss-US DPF and the UK Extension to the EU-US DPF. X complies with the DPF Principles for all its processing of personal data received from the European Union, Switzerland and the UK, in reliance on the EU-US DPF, Swiss-US DPF and UK Extension to the EU-US DPF, respectively. If you have an inquiry or complaint related to our participation in the DPF, please contact us [here](https://help.x.com/forms/privacy). As part of our participation in the DPF, if you have a dispute with us about our adherence to the DPF Principles, we will seek to resolve it through our internal complaint resolution process, alternatively through the US-based independent dispute resolution body [JAMS](https://www.jamsadr.com/DPF-Dispute-Resolution), and under certain conditions, through the DPF Arbitration Process following the procedures and subject to the conditions described in [Annex 1](https://www.dataprivacyframework.gov/framework-article/ANNEX-I-introduction) to the DPF Principles. DPF participants are subject to the investigatory and enforcement powers of the US Federal Trade Commission and other authorized statutory bodies. Under certain circumstances, participants may be liable for the transfer of personal data from the EU, Switzerland and the UK to third parties outside the EU, Switzerland and the UK. Learn more about the EU-US DPF, the Swiss-US DPF and the UK Extension to the EU-US DPF [here](https://www.dataprivacyframework.gov/s/).
 
 ## 7\. X's Audience
+
+Our services are not directed to children, and you may not use our services if you are under the age of 13. You must also be old enough to consent to the processing of your personal data in your country (in some countries we may allow your [parent or guardian to do so on your behalf](https://help.x.com/using-x/parental-consent)). We do not knowingly collect personal information from children under 13. If you become aware that your child has provided us with personal information without your consent, please contact us [here](https://help.x.com/forms/privacy). If we become aware that a child under 13 has provided us with personal information, we take steps to remove such information and terminate the child’s account. You can find additional resources for parents and teens [here](https://help.x.com/rules-and-policies/uk-information-for-parents-and-minor-users).  
+
+Our services are not directed to children, and you may not use our services if you are under the age of 13. You must also be old enough to consent to the processing of your personal data in your country (in some countries we may allow your [parent or guardian to do so on your behalf](https://help.x.com/using-x/parental-consent)). We do not knowingly collect personal information from children under 13. If you become aware that your child has provided us with personal information without your consent, please contact us [here](https://help.x.com/forms/privacy). If we become aware that a child under 13 has provided us with personal information, we take steps to remove such information and terminate the child’s account. You can find additional resources for parents and teens [here](https://help.x.com/rules-and-policies/information-for-parents-and-minor-users).  
 
 ## 8\. Changes To This Privacy Policy
 
