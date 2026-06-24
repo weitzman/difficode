@@ -190,58 +190,6 @@ Yes
 
 No
 
-## Related Articles
-
-[Intellectual Property](/535503073130320/?helpref=related_articles)
-
-[Why we added more information to our Terms](/2281921558660165/?helpref=related_articles)
-
-[Why your account has been restricted for data scraping and what can you do](/740480200552298/?helpref=related_articles)
-
-[Exposed Private Information](/122717417885747/?helpref=related_articles)
-
-[Information for law enforcement](/494561080557017/?helpref=related_articles)
-
-[More information about Standard Contractual Clauses](/272603474673152/?helpref=related_articles)
-
-Related Articles
-
-[
-
-Intellectual Property
-
-](/535503073130320/?helpref=related_articles)
-
-[
-
-Why we added more information to our Terms
-
-](/2281921558660165/?helpref=related_articles)
-
-[
-
-Why your account has been restricted for data scraping and what can you do
-
-](/740480200552298/?helpref=related_articles)
-
-[
-
-Exposed Private Information
-
-](/122717417885747/?helpref=related_articles)
-
-[
-
-Information for law enforcement
-
-](/494561080557017/?helpref=related_articles)
-
-[
-
-More information about Standard Contractual Clauses
-
-](/272603474673152/?helpref=related_articles)
-
 ## Other ways to get help
 
 Chat with Meta AI support assistant
