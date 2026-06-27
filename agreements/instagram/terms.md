@@ -15,7 +15,7 @@ How is Instagram funded?
 
 What are my commitments?
 
-How do you use my data?
+How do I report content?
 
 I have a different question
 
