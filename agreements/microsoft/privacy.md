@@ -93,7 +93,7 @@ Expand All Collapse All
 
 *   [Xbox](#mainxboxmodule)
 *   [Microsoft Store](#mainwindowsstoremodule)
-*   [Microsoft Start](#mainmainmodule)
+*   [MSN](#mainmainmodule)
 
 *   [Windows Mixed Reality](#mainwindowsmixedrealitymodule)
 
