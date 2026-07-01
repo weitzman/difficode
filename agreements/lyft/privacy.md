@@ -5,7 +5,7 @@ selector: "#privacy"
 
 # Lyft Privacy Policy
 
-*Last Updated: February 9, 2026*
+*Last Updated: July 1, 2026*
 
 To power Lyft and your experience, we need to collect, use, and share some of your personal information. This Privacy Policy is meant to help you understand how Lyft does that and how to exercise the choices and rights you have in your information.
 
@@ -29,6 +29,8 @@ Lyft's [privacy homepage](https://www.lyft.com/privacy/home) provides additional
 This policy applies to all Lyft users, including Riders and Drivers (including Driver applicants), and to all Lyft platforms and services, including our applications, websites, technology, facilities, and other services (collectively, the "Lyft Platform"). This policy applies only to personal information, not to aggregate information or information that does not identify you. Please remember that your use of the Lyft Platform is also subject to our [Terms of Service](https://www.lyft.com/terms). Certain elements of the Lyft Platform may operate under separate or additional terms or practices different from or in addition to those described in this policy; in those cases, you will be provided separate notice and information relevant to your use of those parts of the Lyft Platform.
 
 **For users in California, Canada, Colorado, Connecticut, Delaware, Indiana, Iowa, Kentucky, Maryland, Minnesota, Montana, Nebraska, New Hampshire, New Jersey, Oregon, Rhode Island, Tennessee, Texas, Utah, and Virginia:** Additional information regarding Lyft's privacy practices under jurisdiction-specific privacy laws is available [here](https://www.lyft.com/privacy/addendum).
+
+To learn more about the “Freenow by Lyft” autonomous vehicle program and the personal data processed in connection with the operation of that program in the United Kingdom, visit [here](https://www.free-now.com/uk/autonomous).
 
 ## The Information We Collect
 
