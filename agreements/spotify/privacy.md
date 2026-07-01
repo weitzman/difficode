@@ -12,7 +12,7 @@ selector: "main"
 
 # **Spotify Privacy Policy**
 
-Effective as of June 12, 2026
+Effective as of July 1, 2026
 
 [1\. About this Policy](#_kfosu7ttf89l)
 
@@ -942,7 +942,7 @@ The Spotify Service may include links to third-party websites, plug-ins and appl
 
 ## 11\. Privacy Request Metrics
 
-The following chart contains statistics about global requests we received from users between 1 January and 31 December 2024:
+The following chart contains statistics about global requests we received from users between 1 January and 31 December 2025:
 
 **Type of request**
 
@@ -956,39 +956,39 @@ The following chart contains statistics about global requests we received from u
 
 Right to Know / Access
 
-2,284,441
+1,498,726
 
-2,284,441
+1,498,724
 
-0
+2
 
-8.83 days
+3.89 days
 
 Request to Delete
 
-7,542,315
+8,260,593
 
-7,542,315
+8,260,593
 
 0
 
-15.5 days
+15.47 days
 
 Request to Correct\*
 
-34
+512
 
-4
+428
 
-30
+84
 
-12.32 days
+23.4 days
 
 Request to Opt-Out of Data Sharing for Tailored Ads
 
-29,213,601
+3,379,178
 
-29,213,601
+3,379,178
 
 0
 
