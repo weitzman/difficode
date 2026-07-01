@@ -77,10 +77,6 @@ Reddit Privacy Policy*   [All](https://redditinc.com/policies/all)
 
 Effective: July 1, 2026. Last Revised: May 26, 2026.
 
-We’ve updated our Privacy Policy. Please take a look before the changes take effect on July 1, 2026.
-
-This page is the updated Privacy Policy; for the version effective until July 1, 2026, click [here](privacy-policy-revision-2026-01-06).
-
 ## Introduction
 
 At Reddit, we believe that privacy is a right. We want to empower our users to be the masters of their identity. In this privacy policy, we want to help you understand how and why Reddit (“Reddit,” “we” or “us”) collects, uses, and shares information about you when you use our websites, mobile apps, widgets, APIs, emails, and other online products and services (collectively, the "Services") or when you otherwise interact with us or receive a communication from us.
