@@ -5,7 +5,7 @@ selector: "main"
 
 **DoorDash Consumer Privacy Policy**
 
-**Last updated July 1, 2025**
+**Last updated July 1, 2026**
 
 **I. Introduction**
 
@@ -224,7 +224,7 @@ a. California Reporting Metrics and Notice at Collection:
 
 **Reporting Metrics**:
 
-*   Applicable Period: January 1, 2024 - December 31, 2024
+*   Applicable Period: January 1, 2025 - December 31, 2025
     
 *   Scope: The below metrics apply to all requests received from all California residents during the Applicable Period.
     
@@ -243,7 +243,7 @@ Median Number of Days for Response
 
 Request to Know
 
-11,421
+11,576
 
 All
 
@@ -251,23 +251,23 @@ All
 
 0
 
-0
+Less than 1
 
 Request to Delete \*
 
-108,827
+158,098
 
-106,682
+156,188
 
-328
+376
 
-1,817
+1,534
 
 21
 
 Request to opt-out of the sale or share of personal information
 
-15,597
+32,664
 
 All
 
@@ -275,7 +275,7 @@ All
 
 0
 
-0
+Less than 1
 
 \* The number of deletion requests is inclusive of (i) requests to delete Personal Information as a privacy right and (ii) requests to delete information and/or DoorDash accounts as an account management function (e.g., this reporting is not solely limited to the privacy right to delete Personal Information).
 
