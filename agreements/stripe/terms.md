@@ -3,17 +3,17 @@ url: "https://stripe.com/legal/consumer"
 selector: "main"
 ---
 
-## Welcome!
+Welcome!
 
-Last updated: April 16, 2026
+Last updated: July 2, 2026
 
-### **1\. Introduction and Scope**
+### 1\. Introduction and Scope
 
 These Consumer Terms of Service ("*Terms of Service*" or "*Terms*") are a legal agreement between us ( "us", "our", "we", or "Stripe") and you (referred to as "you" or "your"), the individual who uses one or more of the products and services we offer for your personal use under these Terms (each service offered to you, a "Consumer Service"). The following Terms are a legally binding agreement between you and us, and it describes the terms and conditions applicable to your use of our Consumer Services. By using our Consumer Services, you agree to be bound by these Terms, and any new features or tools that are added will also be subject to these Terms. The Stripe entity with which you are entering into these Terms depends on your location and the specific Consumer Service used and can be found [here](https://stripe.com/legal/consumer/contracting-entity).
 
 These general Terms apply to all of our Consumer Services that reference these Terms. Businesses that use the Consumer Services described in these Terms are subject to these Terms even if used for business purposes and the business using the Consumer Service is referred to as "you" or "your." Businesses that use Stripe products and services offered under the [Stripe Services Agreement](https://stripe.com/legal/ssa) are referred to as "Business Users."
 
-### **2\. Additional Terms That Apply to You**
+### 2\. Additional Terms That Apply to You
 
 The following additional policies and terms also apply when you access or use the Consumer Services, all of which are incorporated by reference into these Terms:
 
@@ -25,7 +25,7 @@ The following additional policies and terms also apply when you access or use th
 
 We may revise these Terms from time to time. We will use reasonable efforts to notify you of material changes to these Terms in advance of their effectiveness, including by posting notice on the applicable Consumer Services or providing notice via an email address associated with you. The revised Terms will be effective on the date stated in the revised Terms. By using a Consumer Service after any revisions become effective, you agree to those changes. If you do not agree with any changes to these Terms, you must stop using the Consumer Services.
 
-### **3\. Eligibility**
+### 3\. Eligibility
 
 You may only enter into these Terms if you are over the age of majority and able to enter into a legally binding contract in the country in which you reside.
 
@@ -33,7 +33,7 @@ You must not use the Consumer Services if you have previously been terminated or
 
 You must be eligible for the particular Consumer Services to the extent they are available in your country. If we present an incorrect country for you or you move countries, then you must correct the country in your account or [contact support](https://support.stripe.com/contact) before using the Consumer Services again.
 
-### **4\. Stripe’s Role**
+### 4\. Stripe's Role
 
 Stripe offers and provides you with the Consumer Services described in these Terms. You, and not Stripe, are responsible for the purchases you make using the Consumer Services. The Business User, and not Stripe, is responsible for the goods or services that you may purchase from them using the Consumer Services, including but not limited to quality of goods, returns, accuracy, refunds (except as stated in the Sold Through Link Terms), fraud, advertising, protection of intellectual property rights, liability relating to the Business User's products or services, or non-compliance with applicable law. If you purchased digital goods or digital services from a Business user that is stated as "Sold through Link" (each purchase, an "Order"), then Stripe may have additional responsibilities to you as described in the "[Sold Through Link Terms](https://link.com/terms/preview#sold-through-link-terms)".
 
@@ -41,31 +41,31 @@ Your access to and use of the Consumer Services does not change your relationshi
 
 Except as provided otherwise in these Terms, Stripe will not intervene in any dispute between you and a Business User for any transactions using the Consumer Services. If you find yourself in a dispute with a Business User or a third party, we encourage you to contact the other party and try to resolve the dispute. If you choose to [contact Stripe's support](https://support.stripe.com/) team regarding a Business User, you acknowledge that we may, but are not required to, forward information about your issue, such as your email address and a summary of your issue to the Business User with a request that they contact you directly to resolve your concern. Except as provided otherwise in these Terms, Stripe will not make judgments regarding factual disputes or legal issues or claims between you and the Business User, and Stripe has no obligation to resolve any disputes.
 
-### **5\. Identification and Prevention of Fraud**
+### 5\. Identification and Prevention of Fraud
 
 You agree that:
 
 *   Information you provide about yourself and your use of the Consumer Services must be complete and accurate as of the time provided, and you must keep this information up-to-date;
-*   To the extent law allows, we and our service providers may verify your identity, except as otherwise provided in product-specific terms. 
+*   To the extent law allows, we and our service providers may verify your identity, except as otherwise provided in product-specific terms.
 *   You must notify us immediately if you become aware of any unauthorized use or access to your account. You are responsible for any actions taken through the use of your credentials, except for actions taken after you have told us that your account or credentials have been compromised.
 
-### **6\. Communications via Text, Push Notification, Email, and Phone**
+### 6\. Communications via Text, Push Notification, Email, and Phone
 
 To the extent allowable under law, by providing us with a phone number, you consent to receiving text (SMS) messages, push notifications, and phone calls from us. Such communications may include, but are not limited to, requests for authentication, receipts, reminders, notifications regarding updates to your account or account support, requests for product feedback, and marketing or promotional communications. You acknowledge that you are not required to consent to receive promotional texts or calls as a condition of using any Consumer Service. Call and text message communications may be generated by automatic telephone dialing systems. Standard message and data rates your cell phone carrier applies may apply to the text messages we send you.
 
 You may opt-out of receiving promotional email communications we send to you by following the unsubscribe options on such emails or by managing your communications preferences in the app. You may opt-out of text messages from Stripe by replying STOP or by following instructions that you receive in the text message. You may opt-out of phone calls by notifying the caller or by [contacting support](https://support.stripe.com/contact). You acknowledge that opting out of receiving communications may impact your use of Consumer Services.
 
-### **7\. Our Intellectual Property Rights**
+### 7\. Our Intellectual Property Rights
 
 We reserve all rights not expressly granted to you in these Terms. The Consumer Services are protected by trademark, copyright, patent and other laws of the United States and other countries. We own all rights, title, interest in and to the Consumer Services and all copies of the Consumer Services, and all Intellectual Property Rights in them. Your use of the Consumer Services is subject to these Terms, and these Terms do not grant you any rights to our Intellectual Property Rights or the Intellectual Property Rights of our licensors, licensees, or partners.
 
 For the purposes of these Terms, "Intellectual Property Rights" means all patent rights, copyright rights, mask work rights, moral rights, rights of publicity, trademark, trade dress and service mark rights, goodwill, trade secret rights, and other intellectual property rights that may exist now or come into existence in the future, and all of their applications, registrations, renewals and extensions, under the laws of any state, country, territory or other jurisdiction.
 
-### **8\. Feedback**
+### 8\. Feedback
 
-You may choose to submit feedback, ideas and suggestions about the Consumer Services, but it is never required. You may provide us with feedback on the Consumer Services by [contacting support](https://support.stripe.com/contact). You agree that we may use, integrate, and share all feedback, ideas, and suggestions you submit for any purpose and without compensation or obligation to you. You assign to us all rights, title and interest to any feedback, ideas and suggestions, including the right to use, modify and integrate them in any manner. 
+You may choose to submit feedback, ideas and suggestions about the Consumer Services, but it is never required. You may provide us with feedback on the Consumer Services by [contacting support](https://support.stripe.com/contact). You agree that we may use, integrate, and share all feedback, ideas, and suggestions you submit for any purpose and without compensation or obligation to you. You assign to us all rights, title and interest to any feedback, ideas and suggestions, including the right to use, modify and integrate them in any manner.
 
-### **9\. Termination**
+### 9\. Termination
 
 **Termination by Us**: We may terminate these Terms (or any part), and we may limit, suspend, change, or remove your access to any or all Consumer Services, including any feature or aspect of the Consumer Services, at any time for any reason. If commercially reasonable, we will take reasonable steps to notify you before taking any action that restricts your access to the Consumer Services. If in our sole judgment you fail, or we suspect that you have failed, to comply with any term or provision of these Terms, we may terminate these Terms at any time without notice to you and accordingly we may terminate your access to the Consumer Services.
 
@@ -73,7 +73,7 @@ You may choose to submit feedback, ideas and suggestions about the Consumer Serv
 
 **Effect of Termination**. Upon termination, you will not have any further use of or access to the Consumer Services. Subject to applicable law, you will also not have any use of or access to any information you submitted through the Consumer Services, and all rights granted under these Terms will end. Termination does not relieve you of your obligations to pay amounts owed to Stripe, Business Users, or any other obligation contracted prior to termination. Termination does not revoke any third-party payment authorizations. The following provisions will survive even after these Terms terminate: Arbitration Agreement, Our Intellectual Property, Feedback, Disclaimer of Warranties, Limitation of Liability, Governing Law, Assignment and Third Party Beneficiaries, and Miscellaneous Terms.
 
-### **10\. Disclaimer of Warranties**
+### 10\. Disclaimer of Warranties
 
 You release Stripe from any claims, demands, and damages arising out of disputes relating to your use of the Consumer Services or your placement of an Order, including those disputes with other Business Users or parties.
 
@@ -83,9 +83,9 @@ Subject to statutory consumer guarantees, which will apply irrespective of this 
 
 The Disclaiming Entities do not control or make any warranties regarding the products or services others or Business Users provide in connection with your Orders or the Consumer Services. In other words, we do not have control over the businesses from which you're purchasing when using the Consumer Services, and we do not promise or imply that the products or services you buy using the Consumer Services will work as promised or be safe to use.
 
-Some laws limit or prohibit disclaiming the warranties referred to in the previous paragraphs, or impose obligations on us that we can't eliminate with these Terms. In those cases, this section (Disclaimer of Warranties) does not restrict, exclude or modify any consumer rights under any applicable law.
+Some laws limit or prohibit disclaiming the warranties referred to in the previous paragraphs, or impose obligations on us that we can't eliminate with these Terms. In those case, this section (Disclaimer of Warranties) does not restrict, exclude or modify any consumer rights under any applicable law.
 
-### **11\. Limitation of Liability**
+### 11\. Limitation of Liability
 
 The Disclaiming Entities and Business Users will not be liable to you for any failure to perform our obligation under these Terms due to a Force Majeure Event. A "Force Majeure Event" is any event beyond the control of the Disclaiming Entities that significantly impacts Stripe's ability to perform its obligations under these Terms, including a strike or other labor dispute; labor shortage, stoppage or slowdown; supply chain disruption; embargo or blockade; telecommunication breakdown; cyber blackout; power outage or shortage; inadequate transportation service; inability or delay in obtaining adequate supplies; weather; earthquake; fire; flood; act of God; riot; civil disorder; civil or government calamity; epidemic; pandemic; state or national health crisis; war; invasion; hostility (whether war is declared or not); terrorism threat or act; Law; or act of a Governmental Authority.
 
@@ -103,21 +103,21 @@ You and we agree that the other has relied on the disclaimer of warranties and l
 
 Some laws restrict our ability to disclaim or limit our liability. In those cases, this section does not restrict, exclude or modify any consumer rights under any applicable law.
 
-### **12\. Governing Law**
+### 12\. Governing Law
 
 If you reside in the United States, California law will govern any claim or dispute between you and us that arises out of these Terms, regardless of conflict of law principles.
 
 If you reside outside of the United States, your governing law is specified [here.](https://stripe.com/legal/consumer/governing-law)
 
-### **13\. Assignment and Third-Party Beneficiaries**
+### 13\. Assignment and Third-Party Beneficiaries
 
-You must not assign your rights or obligations under these Terms to anyone without our prior written consent. We may delegate performing our obligations, and we may assign our rights and novate our obligations under these Terms to Stripe affiliates, at any time for any reason by providing notice to you. 
+You must not assign your rights or obligations under these Terms to anyone without our prior written consent. We may delegate performing our obligations, and we may assign our rights and novate our obligations under these Terms to Stripe affiliates, at any time for any reason by providing notice to you.
 
-### **14\. Miscellaneous Terms**
+### 14\. Miscellaneous Terms
 
 These Terms, together with the Arbitration Agreement (if applicable), E-Sign Agreement, the Acceptable Use Policy, and the product-specific Terms below are the only agreement between you and us regarding the Consumer Services. In the event of an irreconcilable conflict or inconsistency between a provision in these Terms and any product-specific Terms below, the provision in the product-specific Terms will govern. These Terms do not create any partnership, joint venture, or other agency relationship between you and us. If we do not immediately exercise a right we have under these Terms, we do not waive that right. We retain our ability and right to enforce any part of these Terms at a later time. If any part of these Terms is found unenforceable, that part will be ignored, and all of the remaining terms will remain in effect.
 
-### **15\. Terms Applicable to Artificial Intelligence Commerce Platform Purchases**
+### 15\. Terms Applicable to Artificial Intelligence Commerce Platform Purchases
 
 When you use Link to purchase goods or services from a Business User selling on an Artificial Intelligence (AI) commerce platform, you authorize your credit card, debit card, or other payment method on file with Link or the AI commerce platform to be charged for the purchase of those goods or services from the Business User.
 
@@ -125,7 +125,7 @@ You agree that Stripe, the AI commerce platform, or the Business User will obtai
 
 The Business User, not Stripe or the AI commerce platform, is the seller of the goods or services to you. You agree that your purchase is being made from the Business User, that the Business User is the merchant of record, and that title to any goods passes to you when the goods are purchased from the applicable Business User. If you have an issue with your purchase or related delivery, you must contact the Business User from which your goods or services were purchased to resolve the issue. You agree that any returns or refunds for goods or services purchased using Link services are subject to the Business User's refund and return policies, which vary by Business User.
 
-### **16\. Contact**
+### 16\. Contact
 
 If you have a question about the Consumer Services or how these Terms apply to you, please [contact support.](https://support.link.com/contact)
 
@@ -308,34 +308,39 @@ Link is required to identify users registering for and using Link Balance. This 
 
 ### **Scope and Applicability**
 
-These terms (“**Link Agentic Terms**”)  apply if you authorize an Agent to access your Link Account. By authorizing an Agent to connect to your Link Account, you agree to be bound by these Link Agentic Terms and any new features or tools that are added will also be subject to these Link Agentic Terms. 
+These terms (“**Link Agentic Terms**”) apply if you authorize an Agent to access your Link Account. Link’s agentic features allow you to enable your agent to make purchases on your behalf, to access your financial account data through financial insights, and provide authorization of Agent transactions to third-party merchants and services. By authorizing an Agent to connect to your Link Account, you agree to be bound by these Link Agentic Terms and any new features or tools that are added will also be subject to these Link Agentic Terms. 
 
 ### **Definition of Agent**
 
-For the purposes of these Link Agentic Terms, “**Agent**” means any software, computer or other automated technology, including any such technology that operates through, in conjunction with, or by invoking other automated systems, platforms, APIs, or agents, whether or not you have direct control over or visibility into each intermediate system in the chain, that is capable of, designed for, or employed for the purpose of independently or semi-independently acting as your delegate, proxy, intermediary, or agent in any transactional activity, whether in a single transaction or across multiple ongoing transactions. Your Agent constitutes an "electronic agent" or equivalent concept as defined or recognized under the laws of your jurisdiction, including the Uniform Electronic Transactions Act (UETA) and similar statutes, and that transactions initiated or completed by your Agent are legally binding upon you.
+For the purposes of these Link Agentic Terms, “**Agent**” means any software, computer or other automated technology, including any such technology that operates through, in conjunction with, or by invoking other automated systems, platforms, APIs, or agents, whether or not you have direct control over or visibility into each intermediate system in the chain, that is capable of, designed for, or employed for the purpose of independently or semi-independently acting as your delegate, proxy, intermediary, or agent in any transactional or authorization activity or in accessing your financial account data, whether in a single transaction or across multiple ongoing transactions. Your Agent constitutes an "electronic agent" or equivalent concept as defined or recognized under the laws of your jurisdiction, including the Uniform Electronic Transactions Act (UETA) and similar statutes, and that transactions initiated or completed by your Agent are legally binding upon you. 
 
 ### **How Agents Will Use Your Link Account Information**
 
-To allow Agents to facilitate transactions on your behalf, you will need to authorize an Agent to connect to your Link Account. When you connect an Agent to your Link Account, you are authorizing Link to share your personal data with the Agent or artificial intelligence commerce platform it operates on to facilitate the Agent’s services on your behalf, which may include: 
+To allow Agents to initiate transactions on your behalf, you will need to authorize an Agent to connect to your Link Account. When you connect an Agent to your Link Account, you are authorizing Link to share your personal data with the Agent or artificial intelligence commerce platform it operates on to use the Agent’s services and authorization activity on your behalf, which may include: 
 
-1.  Account Information, such as your name, email address, and mobile phone number;
-2.  payment information, such as the name of your credit or debit cards and the last four digits of the card numbers, bank account names and last four digits of the account number, and billing address;
-3.  Shipping Information; and
-4.  information related to your order, such as information related to your purchase, order date, amount, and product details.
+(a) Account Information, such as your name, email address, and mobile phone number;
+
+(b) payment information, such as the name of your credit or debit cards and the last four digits of the card numbers, bank account names and last four digits of the account number, and billing address;
+
+(c) Shipping Information;  and
+
+(d) information related to your order, such as information related to your purchase, order date, amount, and product details.
+
+You may also connect an agent to your Link Account to access your financial account data. The way your financial account data is accessed depends on how you connect your Agent. If you use a self-hosted Agent — meaning software or technology that you operate on your own device or through infrastructure you control — Stripe issues a credential to your device that authorizes access to your financial account data. Your Agent accesses your financial account data through your device using that credential, and Stripe's responsibility for that data ends when the credential is delivered to your device. If you connect a third-party Agent — meaning software or technology operated by a third party on your behalf — Stripe will share your financial account data directly with that Agent. When Stripe shares your financial account data with third-party Agents, they must be registered as Financial Connections data recipients and have accepted applicable terms with Stripe. We reserve the right to deny or revoke access to any third-party Agent that is not registered or does not comply with applicable terms.
 
 You acknowledge that: 
 
-*   you are authorizing an Agent to connect to your Link Account to (i) receive and transmit information necessary to complete a transaction; and (ii) initiate, complete, and manage transactions with merchants on your behalf;
-*   the Agent may use personal data within your Link Account to complete the transaction, including providing your personal data to the merchant in connection with the transaction; 
-*   once your personal data is shared with the Agent, the Agent’s use of your data will be governed by the instructions, parameters, and settings you set for your Agent, and the Agent’s privacy policy, if applicable; 
-*   we are not responsible for the Agent’s handling, use, storage, or disclosure of your personal data after it has been shared; 
+*   you are authorizing an Agent to connect to your Link Account to (i) receive and transmit information necessary to complete a transaction; (ii) initiate, complete, and manage transactions with merchants on your behalf; (iii) access financial account data on your behalf; and/or (iv) authorize and verify Agent transactions to third party merchants and services;
+*   the Agent may use personal data within your Link Account to complete transactions, including providing your personal data to the merchant in connection with the transaction; 
+*   once your personal data is shared with the Agent, the Agent’s use of your data will be governed by the instructions, parameters, and settings you set for your Agent, and the Agent’s privacy policy, if applicable. We are not responsible for the Agent’s handling, use, storage, or disclosure of your personal data after it has been shared; 
 *   you are encouraged to review the Agent’s privacy policy and security practices, as applicable, before authorizing the Agent to access your Link Account. You may withdraw your consent to the future sharing of personal data with an Agent at any time by disconnecting the Agent from your Link Account; 
-*   we will use all personal data we collect about you in accordance with the [Link Privacy Policy.](https://link.com/privacy) You acknowledge that the “prompts” or instructions you provide to the Agent, as well as your Agent’s API calls and related metadata, Agent management information, and product information may be processed by Link to improve Link services, including but not limited to the interoperability between Link and the Agent; and
+*   we will use all personal data we collect about you in accordance with the [Link Privacy Policy.](https://link.com/privacy) You acknowledge that the “prompts” or instructions you provide to the Agent, as well as your Agent’s API calls and related metadata, Agent management information, and product information may be processed by Link to improve Link services, including but not limited to the interoperability between Link and the Agent; 
+*   you will use any credentials shared with you only for personal purposes, and will not use those credentials to build, operate, or distribute a commercial product or services that accesses financial account data other than your own; and
 *   when you use an Agent, you are choosing to interact with generative artificial intelligence rather than a human representative to facilitate financial tasks.
 
 ### **Approval of the Transaction Amount**
 
-You are solely responsible for reviewing and approving the Spend Request for each transaction initiated by or through the Agent before it is completed, to the extent required. “**Spend Request**” means the amount of the goods or services the Agent surfaces for your approval in response to your purchasing instruction. You may be required to approve Spend Requests using secure methods, such as biometric passkeys. You are responsible for all transactions completed through your Agent using your Link Account credentials.
+You are solely responsible for reviewing and approving the Spend Request for each transaction initiated by or through the Agent before it is completed, to the extent required. “**Spend Request**” means the dollar (or other currency) amount the Agent surfaces for your approval in response to your purchasing instruction. You may be required to approve Spend Requests using secure methods, such as biometric passkeys. You are responsible for all transactions completed through your Agent using your Link Account credentials.
 
 Agents may occasionally misinterpret instructions or provide inaccurate information about products or pricing, engage in a transaction that you did not intend, or populate inaccurate information within your Link Transaction History. You should review your Agent activity, Link Transaction History, and other financial statements regularly. If an Agent has engaged in a transaction that you did not intend, you may consider disconnecting the Agent from your Link Account at any time.
 
@@ -343,10 +348,11 @@ Agents may occasionally misinterpret instructions or provide inaccurate informat
 
 You may disconnect an Agent from your Link Account at any time by:
 
-1.  Managing your connected applications or authorized Agents through your Link Account settings at [app.link.com](https://app.link.com); or
-2.  Revoking the Agent’s access through the Agent’s own platform, to the extent such functionality is available.
+(a) Managing your connected applications or authorized Agents through your Link Account settings at [app.link.com](https://app.link.com); or
 
-Upon disconnection, Link will no longer pass your personal data to the Agent, and the Agent will not have the ability to initiate transactions on your behalf through your Link Account. Disconnection will not affect transactions that have already been approved or completed prior to disconnection. Disconnecting your account or deleting your personal data may not cancel or stop payments (or recurring payments) that you have already approved. An Agent will still have access to your previously-shared personal data following disconnection. 
+(b) Revoking the Agent’s access through the Agent’s own platform, to the extent such functionality is available.
+
+Upon disconnection, Link will no longer pass your personal data to the Agent, and the Agent will not have the ability to access your financial account data or initiate transactions on your behalf through your Link Account. Disconnection will not affect transactions that have already been approved or completed prior to disconnection. Disconnecting your account or deleting your personal data may not cancel or stop payments (or recurring payments) that you have already approved. A disconnected Agent will still have access to your previously-shared personal data and any financial account data that you have already given the Agent access to. Disconnecting an Agent from your Link Account does not disconnect your financial accounts from your Link Account. To manage access to your financial accounts, see the [Financial Connections terms](https://link.com/terms#financial-connections-terms). You should reach out to the Agent or Agent platform for any requests to delete your personal data.
 
 ### **You are Responsible for Your Agent**
 
@@ -358,27 +364,33 @@ You acknowledge that the Agent may send you communications independently and, if
 
 ### **Our Role**
 
-We may charge or debit your selected payment method for the purchase with an Agent, which will be reflected in your card, bank, or payment method statement as “Link.com\*\[merchant name\]” or similar. When we charge or debit your selected payment method, we are providing a separate service to you that enables your Agent to procure and purchase goods or services from a merchant on your behalf. You will reimburse us for the purchase of goods and services we make on your behalf. Your payment to us satisfies your payment obligations to the merchant for your purchase of the goods or services.
+When you use an Agent to initiate a transaction on your behalf, we may charge or debit your selected payment method for the purchase with an Agent, which will be reflected in your card, bank, or payment method statement as “LNKAGNT\*\[merchant name\]” or similar. When we charge or debit your selected payment method, we are providing a separate service to you that enables your Agent to procure and purchase goods or services from a merchant on your behalf. In some cases, this includes the creation of a separate payment method, and you will not receive your underlying card offers, benefits, or rewards. In such cases, we will use this separate payment method to initiate your purchase, and you will reimburse us for the purchase of goods and services we make on your behalf. Your payment to us satisfies your payment obligations to the merchant for your purchase of the goods or services.
 
-We do not have or receive possession or title to the goods or services. The merchant sells the goods or services to you. The merchant remains responsible for the goods and services you purchase using an Agent connected to your Link Account, and the merchant is responsible for: fulfilling your order, providing you with an itemized receipt, liability relating to the merchant’s products or services, compliance with applicable law, and any indirect taxes charged to you. You are responsible for reviewing and complying with the terms and conditions that apply to the merchant’s products you purchase using an Agent connected to your Link Account. 
+We do not have or receive possession or title to the goods or services. The merchant sells the goods or services to you. The merchant remains responsible for the goods and services you purchase using an Agent connected to your Link Account, and the merchant is responsible for fulfilling your order, providing you with an itemized receipt, liability relating to the merchant’s products or services, compliance with applicable law, and any indirect taxes charged to you. You are responsible for reviewing and complying with the terms and conditions that apply to the merchant’s products you purchase using an Agent connected to your Link Account. 
 
 ### **Refunds, Returns, Chargebacks**
 
-To initiate a refund, you should start by contacting the merchant directly. To the extent necessary, we will provide as much information as possible to you and the merchant to facilitate resolution of your concern. You may also reach out to Link Support to initiate a refund request. Refunds for orders will be determined on a case-by-case basis and may be refused by us if there is evidence of fraud, refund abuse, or other misbehavior as stated in our [Link agent wallet Refund Policy](https://support.link.com/questions/getting-help-with-a-link-agent-wallet-purchase). You should review the [Link agent wallet Refund Policy](https://support.link.com/questions/getting-help-with-a-link-agent-wallet-purchase) and the refund policy of the merchant from whom you purchased your goods or services. We reserve the right to redirect you to the merchant, in which case the merchant’s refund policy applies. Unless required by law, we do not provide refunds for unused subscriptions or if you changed your mind about an order. 
+To initiate a refund for a transaction made with an Agent on your behalf, you should start by contacting the merchant directly. To the extent necessary, we will provide as much information as possible to you and the merchant to facilitate resolution of your concern. You may also reach out to Link Support to initiate a refund request. Refunds for orders will be determined on a case-by-case basis and may be refused by us if there is evidence of fraud, refund abuse, or other misconduct as stated in our [Link agent wallet Refund Policy](https://support.link.com/questions/getting-help-with-a-link-agent-wallet-purchase). You should review the [Link agent wallet Refund Policy](https://support.link.com/questions/getting-help-with-a-link-agent-wallet-purchase) and the refund policy of the merchant from whom you purchased your goods or services. We reserve the right to redirect you to the merchant, in which case the merchant’s refund policy applies. Unless required by law, we do not provide refunds for unused subscriptions or if you changed your mind about an order. 
 
 We will assess your refund requests based on the information you provide to us. We may at times request additional information from you regarding the purchase. If you do not provide the additional information within the time as reasonably requested, your refund may be denied. You may have additional rights as a consumer against the merchant if the goods or services purchased are significantly not as described, faulty, or not fit for purpose. 
 
 To initiate a return, you must contact the merchant directly. Returns will be subject to the merchant’s return policy, which varies by merchant.
 
-For product and delivery issues relating to your order, or any issues related to use of the product you purchased in your order please contact the merchant directly. We do not provide product-related customer support services (e.g., how to use the product). 
+For product and delivery issues relating to your order, or any issues related to use of the product you purchased in your order, please contact the merchant directly. We do not provide product-related customer support services (e.g., how to use the product). 
 
-If you do not recognize a charge from us on your payment method statement, before filing a dispute with your bank or financial institution you can reach out to us [here](https://support.link.com/contact).
+If you do not recognize a charge from us on your payment method statement you can reach out to us [here](https://support.link.com/contact).
 
 ### **Security**
 
-You must not share your Link Account credentials (including your passkeys or one-time codes) directly with an Agent or its developer. Connections must be made only through the official Link authorization interface. We, our Affiliates, and respective agents may, at our discretion, decline, cancel, or refuse to facilitate any transaction where we reasonably believe you did not approve the Spend Request, is fraudulent or unauthorized, illegal, or exposes us to unacceptable risk. 
+You must not share your Link Account credentials (including your passkeys or one-time codes) directly with an Agent or its developer. Connections must be made only through the official Link authorization interface. We, our Affiliates, and respective agents may, at our discretion, decline, cancel, or refuse to initiate any transaction where we reasonably believe you did not approve the Spend Request, is fraudulent or unauthorized, illegal, or exposes us to unacceptable risk. 
 
 To the extent you download or enable any functionality to connect your Agent to your Link Account, the functionality is provided “AS IS” and “AS AVAILABLE.” To the maximum extent permitted by law, we do not make any, and expressly disclaim all, express and implied warranties and statutory guarantees with respect to downloaded or enabled functionality, and are not liable for any losses, damages, or costs you or others may suffer arising out of its use. This applies any time you connect a third party agent, platform, or app to your Link Account. 
+
+### **Informational Purposes Only; Not Financial Advice**
+
+When you authorize your Agent to access your financial account data to help you understand your spending and financial activity, any outputs or analyses your Agent generates based on your financial account data are informational only and do not constitute financial advice, investment advice, tax advice, or any other form of professional financial guidance. We do not review, verify, endorse, or take responsibility for your Agent's outputs or recommendations. You should consult a qualified financial professional before making financial decisions based on information provided by your Agent.
+
+We do not warrant the accuracy, completeness, or timeliness of any Agent outputs based on your financial account data.
 
 ## Financial Connections Terms
 
