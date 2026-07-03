@@ -1071,13 +1071,10 @@ In addition to information about your device and how you use it, including Windo
 
 *   Web activity, if you give Microsoft Edge permission to collect your web activity for personalized search, ads, and news.
     
-
 *   Info about your use of other Microsoft products and services, including Microsoft Bing, Microsoft 365, Xbox, and Microsoft websites, such as MSN.com.
     
-
 *   Subscription and purchase history.
     
-
 *   Data from third-party websites which may be shared with Microsoft.
     
 
