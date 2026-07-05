@@ -274,6 +274,8 @@ X is a [participant](https://www.dataprivacyframework.gov/list) in the EU-US Dat
 
 ## 7\. X's Audience
 
+Our services are not directed to children, and you may not use our services if you are under the age of 13. You must also be old enough to consent to the processing of your personal data in your country (in some countries we may allow your [parent or guardian to do so on your behalf](https://help.x.com/using-x/parental-consent)). We do not knowingly collect personal information from children under 13. If you become aware that your child has provided us with personal information without your consent, please contact us [here](https://help.x.com/forms/privacy). If we become aware that a child under 13 has provided us with personal information, we take steps to remove such information and terminate the child’s account. You can find additional resources for parents and teens [here](https://help.x.com/rules-and-policies/information-for-parents-and-minor-users).  
+
 ## 8\. Changes To This Privacy Policy
 
 The most current version of this Privacy Policy governs our processing of your personal data and we may revise this Privacy Policy from time to time as needed.  
