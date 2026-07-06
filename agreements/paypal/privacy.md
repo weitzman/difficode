@@ -9,7 +9,7 @@ selector: "#content-wrapper"
 
 PayPal Privacy Statement
 
-Last updated on May 6, 2026
+Last updated on July 6, 2026
 
 ## Overview
 
@@ -437,10 +437,9 @@ Contact [**Online**](https://www.paypal.com/in/smarthelp/contact-us/privacy) fo
 
 Israel
 
-PayPal Pte. Ltd.  
-5 Temasek Boulevard 09-01  
-Suntec Tower 5  
-Singapore 038985  
+PayPal Israel Payment Services LTD  
+98 Yigal Alon St.,  
+Tel-Aviv, Israel 6789141  
 Contact [**Online**](https://www.paypal.com/il/smarthelp/contact-us/privacy) for Privacy queries
 
 Japan
