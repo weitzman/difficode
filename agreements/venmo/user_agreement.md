@@ -37,6 +37,8 @@ View all agreements
 *   [Venmo Cryptocurrency Terms and Conditions](https://www.paypalobjects.com/marketing/ua/OA/cryptocurrencies-tnc/en-US-042026.pdf)
 *   [Open Source Attribution](https://help.venmo.com/cs/articles/open-source-attribution-page-for-venmo-vhel275)
 
+A new version of the User Agreement goes into effect on August 18, 2026. That version of the User Agreement contains an updated arbitration provision and revised Venmo Stash terms. Click [here](https://venmo.com/legal/us-user-agreement/08182026) to view the agreement that goes into effect on August 18.
+
 DATE EFFECTIVE: May 19, 2026
 
 # User Agreement
@@ -692,7 +694,7 @@ When you’re a seller, the Venmo Purchase Protection Program may apply when a b
 
 They did not authorize, or benefit from, funds sent from their Venmo account (referred to as an “[Unauthorized Transaction](#protection-from-unauthorized-transactions)” claim), and the Unauthorized Transaction occurs in an environment hosted by Venmo; or
 
-They did not receive the item from you (referred to as an “[Item Not Received](#item-not-received)” claim).
+They did not receive the item from you (referred to as an “Item Not Received” claim).
 
 The Venmo Purchase Protection Program may also apply when a transaction is reversed because of a successful credit card chargeback by a buyer or when a bank funded payment is reversed by the buyer’s bank.
 
