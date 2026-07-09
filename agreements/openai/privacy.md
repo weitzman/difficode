@@ -42,8 +42,6 @@ Updated: May 18, 2026
 *   [13\. Useful resources](#useful-resources)
     
 
-Table of contents
-
 *   [1\. Personal Data we collect](#personal-data-we-collect)
     
 *   [2\. How we use Personal Data](#how-we-use-personal-data)
