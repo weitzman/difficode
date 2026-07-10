@@ -5,7 +5,7 @@ selector: "main"
 
 Welcome!
 
-Last updated: July 2, 2026
+Last updated: July 9, 2026
 
 ### 1\. Introduction and Scope
 
@@ -398,7 +398,7 @@ We provide a Consumer Service that allows you to connect your financial accounts
 
 When you interact with a Business User that has enabled this Consumer Service, we will ask you to connect one or more of your financial accounts. If you agree to connect your financial accounts with us, Stripe will collect data from those financial accounts (associated with the login information you provide) for account selection and as reasonably necessary to provide this Consumer Service. We will only provide the Business User with the data categories (and related insights) requested by the Business User for the specific accounts you choose to share with the Business User. 
 
-Your financial account data is either provided directly by your financial institution, or collected by us or our third party partners by collecting, storing and using your login information (such as your username and password). We refer to these financial institutions and partners as “Data Sources.” Finicity Corporation is one of our Data Sources, and their terms are available [here](https://connect.finicity.com/assets/html/connect-eula.html) and incorporated into these Financial Connections Terms by this reference. Where our Data Sources enable us to control the specific accounts to which Stripe accesses data, Stripe will not collect data except from the specific accounts you select. 
+Your financial account data is either provided directly by your financial institution, or collected by us or our third party partners by collecting, storing and using your login information (such as your username and password). We refer to these financial institutions and partners as “Data Sources.” Finicity Corporation is one of our Data Sources, and their terms are available [here](https://connect.finicity.com/assets/html/connect-eula.html) and incorporated into these Financial Connections Terms by this reference. At your request, we may also make your financial account data available to you directly through Stripe products, tools, or channels you authorize.
 
 When you agree to connect your financial account using this Consumer Service, you consent to the collection, use, and retention of your financial account data (including personal data) for that financial account. Once connected to your financial account(s), we and our Data Sources will regularly collect, use, and store the following types of data from your financial accounts:
 
