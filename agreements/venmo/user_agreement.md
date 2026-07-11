@@ -5,19 +5,36 @@ selector: ".organisms-termstemplate-content"
 
 Venmo Legal Agreements
 
-*   [Privacy Statement](/legal/us-privacy-policy)
-*   [User Agreement](/legal/us-user-agreement)
-*   [Venmo Long Form Disclosure](/resources/our-fees#longform)
-*   [Licenses](/legal/us-licenses)
+View all agreements
 
-*   [Consent](/legal/us-consent)
-*   [Cookies](/resources/cookies)
-*   [Helpful Information](/legal/us-helpful-information)
-*   [Approved Business Account Addendum](/legal/us-business-addendum)
+*   [Privacy Statement](https://venmo.com/legal/us-privacy-policy)
+*   [User Agreement](https://venmo.com/legal/us-user-agreement)
+*   [Venmo Long Form Disclosure](https://venmo.com/resources/our-fees/#longform)
+*   [Licenses](https://venmo.com/legal/us-licenses)
+*   [Consent](https://venmo.com/legal/us-consent)
+*   [Cookies](https://venmo.com/resources/cookies)
+*   [Helpful Information](https://venmo.com/legal/us-helpful-information)
+*   [Approved Business Account Addendum](https://venmo.com/legal/us-business-addendum)
+*   [Venmo Mastercard Cardholder Agreement](https://venmo.com/legal/bancorp-cardholder-agreement)
+*   [Venmo Mastercard Privacy Policy](https://venmo.com/legal/bancorp-privacy-policy)
+*   [Venmo Cryptocurrency Terms and Conditions](https://www.paypalobjects.com/marketing/ua/OA/cryptocurrencies-tnc/en-US-042026.pdf)
+*   [Open Source Attribution](https://help.venmo.com/cs/articles/open-source-attribution-page-for-venmo-vhel275)
 
-*   [Mastercard Cardholder Agreement](/legal/bancorp-cardholder-agreement)
-*   [Venmo Mastercard Privacy Policy](/legal/bancorp-privacy-policy)
-*   [Cryptocurrency Terms & Conditions](https://www.paypalobjects.com/marketing/ua/OA/cryptocurrencies-tnc/en-US-042026.pdf)
+View all agreements
+
+* * *
+
+*   [Privacy Statement](https://venmo.com/legal/us-privacy-policy)
+*   [User Agreement](https://venmo.com/legal/us-user-agreement)
+*   [Venmo Long Form Disclosure](https://venmo.com/resources/our-fees/#longform)
+*   [Licenses](https://venmo.com/legal/us-licenses)
+*   [Consent](https://venmo.com/legal/us-consent)
+*   [Cookies](https://venmo.com/resources/cookies)
+*   [Helpful Information](https://venmo.com/legal/us-helpful-information)
+*   [Approved Business Account Addendum](https://venmo.com/legal/us-business-addendum)
+*   [Venmo Mastercard Cardholder Agreement](https://venmo.com/legal/bancorp-cardholder-agreement)
+*   [Venmo Mastercard Privacy Policy](https://venmo.com/legal/bancorp-privacy-policy)
+*   [Venmo Cryptocurrency Terms and Conditions](https://www.paypalobjects.com/marketing/ua/OA/cryptocurrencies-tnc/en-US-042026.pdf)
 *   [Open Source Attribution](https://help.venmo.com/cs/articles/open-source-attribution-page-for-venmo-vhel275)
 
 A new version of the User Agreement goes into effect on August 18, 2026. That version of the User Agreement contains an updated arbitration provision and revised Venmo Stash terms. Click [here](https://venmo.com/legal/us-user-agreement/08182026) to view the agreement that goes into effect on August 18.
