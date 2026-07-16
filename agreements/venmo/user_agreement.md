@@ -37,7 +37,7 @@ View all agreements
 *   [Venmo Cryptocurrency Terms and Conditions](https://www.paypalobjects.com/marketing/ua/OA/cryptocurrencies-tnc/en-US-042026.pdf)
 *   [Open Source Attribution](https://help.venmo.com/cs/articles/open-source-attribution-page-for-venmo-vhel275)
 
-A new version of the User Agreement goes into effect on August 18, 2026. That version of the User Agreement contains an updated arbitration provision and revised Venmo Stash terms. Click [here](https://venmo.com/legal/us-user-agreement/08182026) to view the agreement that goes into effect on August 18.
+A new version of the User Agreement goes into effect on August 24, 2026. That version of the User Agreement contains an updated arbitration provision and revised Venmo Stash terms. Click [here](https://venmo.com/legal/us-user-agreement/08182026) to view the agreement that goes into effect on August 24.
 
 DATE EFFECTIVE: May 19, 2026
 
@@ -1404,7 +1404,7 @@ In complying with such laws, you and any Teen User will:
 *   implement and maintain all appropriate security measures for the processing of personal data; and
 *   not knowingly do anything or permit anything to be done which might lead to a breach of any privacy data protection laws by us.
 
-        
+       
 
 If you accept cookies, we’ll use them to improve and customize your experience and enable our partners to show you personalized ads when you visit other sites. [Manage cookies and learn more](#)
 
