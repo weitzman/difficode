@@ -304,6 +304,79 @@ In the event your access to Link Balance has been terminated, you will be permit
 
 Link is required to identify users registering for and using Link Balance. This ensures Link remains in compliance with applicable KYC/AML laws, which is necessary to continue offering Supported Digital Asset and Link Balance services to our customers. Link collects and verifies information about you in order to: (i) protect Link and the community from fraudulent users; and (ii) to keep appropriate records of Link's customers. Link may require you to provide or verify additional information, engage in enhanced due diligence, or to wait some amount of time after completion of a transaction, before permitting you to use any Link Balance service and/or before permitting you to engage in transactions.
 
+## Link Virtual Card Terms
+
+### 1\. Scope and Applicability
+
+These Link Consumer Prepaid Debit Card Terms of Service (“Virtual Card Terms”) govern your use of the Link consumer prepaid debit card (“Link Virtual Card,” “Link Prepaid Debit Card,” or “Card”) related services Stripe offers for your personal use as further described in Section 3 below (the “Consumer Prepaid Cardholder Services”). 
+
+Stripe works with one or more banks (each, an “Issuing Bank”) to provide the Consumer Prepaid Cardholder Services. In connection with your use of the Consumer Prepaid Cardholder Services, the Issuing Bank directly issues your Card. You may access the Consumer Prepaid Cardholder Services through your Link Account. These Virtual Card Terms govern your relationship with Stripe only. 
+
+Your Card is a consumer prepaid debit card. It is not a credit card or a gift card, and it does not provide any overdraft, line of credit, or other credit feature. Your ability to use the Card is limited to the available balance in your Link Balance. The terms for participating in Link Balance are governed by the Link Balance Terms found [here](https://link.com/terms#link-balance-terms). Your Card is governed by the Issuing Bank Terms (defined below), which contain important information about your rights and obligations, including applicable fees, transaction limits, error resolution procedures, and liability protections for unauthorized transactions.
+
+To receive a Card, you must first agree to the Issuing Bank’s cardholder terms found [here](https://link.com/terms/prepaid-debit-cardholder-agreement) (“Issuing Bank Terms”). Your continued use of that Card is subject to (a) those Issuing Bank Terms, (b) these Virtual Card Terms, (c) the Link Balance Terms, and (d) any other Link Consumer Services used in connection or combination with the Consumer Prepaid Cardholder Services. In the event of a conflict between these Virtual Card Terms and the Issuing Bank Terms regarding your Card, your rights under applicable federal or state law, or your rights to error resolution or protections for unauthorized transactions, the Issuing Bank Terms will control. 
+
+Your Card is linked to your Link Balance. The terms governing your Link Balance, including how funds are held and custodial arrangements, are set forth [here](https://link.com/terms#link-balance-terms). Your Card allows you to access your Link Balance to make purchases and conduct other transactions as described in the Issuing Bank Terms.
+
+If your agreement with the Issuing Bank terminates or if your Link Balance is closed, Stripe may restrict or terminate your access to the Consumer Prepaid Cardholder Services.
+
+### 2\. Eligibility
+
+To use the Consumer Prepaid Cardholder Services, you must:
+
+*   Sign up for a Link Account or have an existing Link Account; 
+*   Sign up for Link Balance or be an existing user of Link Balance; and
+*   Not use the Consumer Prepaid Cardholder Services for any purpose other than personal use.
+
+You may not use the Consumer Prepaid Cardholder Services if Stripe has previously suspended or terminated your Link Account, your access to any Link Consumer Service, or any agreement between you and Stripe.
+
+In connection with your request for a Card and use of the Consumer Prepaid Cardholder Services, Stripe, on behalf of the Issuing Bank, may collect your name, address, date of birth, Social Security number or tax identification number, and other information necessary to verify your identity as required by applicable law, including applicable requirements under the USA PATRIOT Act. You agree to provide accurate and complete information and to promptly update such information as necessary.
+
+### 3\. Stripe's Role and Relationship to Your Card Account
+
+Stripe provides the Consumer Prepaid Cardholder Services as the program manager. In that capacity, Stripe provides services on behalf of the Issuing Bank, including processing transactions, facilitating customer support, and providing technology and related services that enable you to access and use your Card.
+
+Stripe is not the issuer of your Card. Your Card is issued by the Issuing Bank. Stripe is not a bank and does not hold your funds. In performing services on behalf of the Issuing Bank, Stripe may, among other things:
+
+*   Process and facilitate Card transactions, including authorization of transactions against the available balance in your Link Balance, clearing, and settlement;
+*   Facilitate the error resolution and unauthorized transaction investigation processes described in the Issuing Bank Terms, including receiving your notices of error, conducting investigations, and applying provisional credits as required by applicable law;
+*   Provide or facilitate customer support for the Consumer Prepaid Cardholder Services;
+*   Collect identity verification information on behalf of the Issuing Bank;
+*   Deliver required disclosures, notices, and other communications on behalf of the Issuing Bank; 
+*   Facilitate the delivery of periodic statements as required by the Issuing Bank Terms and applicable law;
+*   Enable digital wallet functionality in connection with your Card, as described in the Issuing Bank Terms; and
+*   Perform other services as described in these Consumer Prepaid Card Terms, the Issuing Bank Terms, or as otherwise required by applicable law.
+
+When Stripe performs services described in the Issuing Bank Terms, including error resolution and unauthorized transaction protections under the Electronic Fund Transfer Act and Regulation E, Stripe does so on behalf of and as an authorized agent of the Issuing Bank. Your rights under the Issuing Bank Terms and applicable law, including your rights to error resolution and protections for unauthorized transactions, are not limited, waived, or modified by these Virtual Card Terms.
+
+### 4\. Card Information and Transaction limits
+
+You will be able to view and manage information related to your Card on the Link app. Information that you will be able to view may include viewing or changing your PIN, viewing Card details, locking your Card, replacing your Card, and canceling your Card. Additional information can be found [here](https://support.link.com/topics/link-card). 
+
+Your Card supports a maximum transaction limit which can be found [here](https://support.link.com/topics/link-card). 
+
+### 5\. Suspension and Termination
+
+Termination by Us. Stripe may terminate these Virtual Card Terms, and Stripe may limit, suspend, change, or remove your access to the Consumer Prepaid Cardholder Services, including any feature or aspect of the Consumer Prepaid Cardholder Services, at any time for any reason. Stripe will take reasonable steps to notify you before taking any action that restricts your access to the Consumer Prepaid Cardholder Services. If in our sole judgment you fail, or Stripe suspects that you have failed, to comply with any term or provision of these Virtual Card Terms, Stripe may terminate these Virtual Card Terms at any time without prior notice to you and accordingly Stripe may terminate your access to the Consumer Prepaid Cardholder Services.
+
+Termination by You. You may terminate these Virtual Card Terms at any time and for any reason by terminating your access to the Consumer Prepaid Cardholder Services. Termination will be effective on the date that your access to the Consumer Prepaid Cardholder Services is terminated.
+
+Effect of Termination. Upon termination of these Virtual Card Terms, your right to access or use the Consumer Prepaid Cardholder Services immediately ceases, and all licenses and rights granted to you under these Virtual Card Terms automatically terminate. The disposition of any remaining available balance in your Link Balance following termination is governed by the Issuing Bank Terms and the Link Balance Terms, as applicable. 
+
+Termination does not revoke any third-party payment authorizations or your obligation to satisfy any pending transactions. You acknowledge that, subject to applicable law, Stripe has no obligation to provide you with access to any data or information submitted through the Consumer Prepaid Cardholder Services after termination, except to the extent required by the Issuing Bank Terms or applicable law, including your right to obtain your transaction history as described in the Issuing Bank Terms.
+
+The following provisions will survive even after these Consumer Prepaid Card Terms terminate: Stripe's Role and Disclaimer of Warranties.
+
+### 6\. Disclaimer of Warranties
+
+You release Stripe from any claims, demands, and damages arising out of disputes relating to your use of the Consumer Prepaid Cardholder Services, including those disputes with other parties.
+
+We, our affiliates, and our respective agents and contractors make no warranties with respect to the products, services, or information provided by the Issuing Bank to you. You agree, with respect to any claim regarding the products, services, or information provided by the Issuing Bank to you, that Stripe is not responsible or liable for, and you release Stripe from all claims, demands, and damages, including but not limited to: (a) claims based on any inaccurate, incomplete, or out-of-date information offered by the Issuing Bank; or (b) claims about any third-party platform where you may interact with or purchase from.
+
+Notwithstanding the foregoing, nothing in this section limits, waives, or modifies: (a) any rights you have under the Issuing Bank Terms; (b) any rights or protections afforded to you under the Electronic Fund Transfer Act, Regulation E, or any other applicable federal or state consumer protection law; or (c) any obligation Stripe has to you when acting on behalf of the Issuing Bank, including with respect to error resolution, unauthorized transaction protections, and the delivery of required disclosures and periodic statements.
+
+Applicable law may limit or prohibit disclaiming the warranties referred to in the previous paragraphs, or impose obligations on Stripe that it cannot eliminate with these Virtual Card Terms. In those cases, this section does not restrict, exclude or modify any consumer rights.
+
 ## **Link Agentic Terms**
 
 ### **Scope and Applicability**
