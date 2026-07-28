@@ -145,7 +145,7 @@ We want people to use Meta Products to express themselves and to share content t
     *   That you do not own or have the necessary rights to share.
     *   That infringes or violates someone else's rights, including their intellectual property rights (such as by infringing another’s copyright or trademark, or distributing or selling counterfeit or pirated goods), unless an exception or limitation applies under applicable law.
 2.  You may not upload viruses or malicious code, use the services to send spam, or do anything else that could disable, overburden, interfere with, or impair the proper working, integrity, operation, or appearance of our services, systems, or Products.
-3.  You may not access or collect data from our Products using automated means (without our prior permission) or attempt to access data you do not have permission to access, regardless of whether such automated access or collection is undertaken while logged-in to a Facebook account.
+3.  You may not access or collect data from our Products using automated means (including by engaging in Automated Data Collection as defined in the [Automated Data Collection Terms](https://www.facebook.com/legal/automated_data_collection_terms)) without our prior permission, or attempt to access data you do not have permission to access, regardless of whether such automated access or collection is undertaken while logged-in to a Facebook account. If you engage in any Automated Data Collection, you must also comply with the [Automated Data Collection Terms](https://www.facebook.com/legal/automated_data_collection_terms). We may restrict or revoke our permission at any time.
 4.  You may not proxy, request, or collect Product usernames or passwords, or misappropriate access tokens.
 5.  Except as provided in the [Platform Terms](https://developers.facebook.com/terms), you may not sell, license, or purchase any data obtained from us or our services, regardless of whether such data was obtained while logged-in to a Facebook account.
 6.  You may not misuse any reporting, flagging, dispute, or appeals channel, such as by making fraudulent, duplicative, or groundless reports or appeals.
@@ -157,7 +157,8 @@ If we remove content that you have shared in violation of the *Dynamic link remo
 
 We work with independent fact-checkers in many jurisdictions to combat misinformation. When content has been rated by fact-checkers, we may add a notice to provide additional context. You can find more information about fact-checking *Dynamic link removed*.
 
-To help support our community, we encourage you to [report](https://www.facebook.com/help/181495968648557?ref=tos) content or conduct that you believe violates your rights (including [intellectual property rights](https://www.facebook.com/help/intellectual_property?ref=tos)) or our terms and policies, if this feature exists in your jurisdiction. We also can remove or restrict access to content, features, services, or information if we determine that doing so is reasonably necessary to avoid or mitigate misuse of our services or adverse legal or regulatory impacts to Meta.
+To help support our community, we encourage you to [report](https://www.facebook.com/help/181495968648557?ref=tos) content or conduct that you believe violates your rights (including [intellectual property rights](https://www.facebook.com/help/intellectual_property?ref=tos)) or our terms and policies, if this feature exists in your jurisdiction.  
+We also can remove or restrict access to content, features, services, or information if we determine that doing so is reasonably necessary to avoid or mitigate misuse of our services or adverse legal or regulatory impacts to Meta.
 
 ## 3.3 The permissions you give us
 
