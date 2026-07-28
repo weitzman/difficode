@@ -6,13 +6,13 @@ selector: "main"
 Privacy
 
 *   Privacy
-    *   [Privacy Center](/privacy/privacy-center)
-    *   [Privacy Principles](/privacy/privacy-principles)
-    *   [Privacy by Product](/privacy/privacy-by-product)
-    *   [Privacy Policy](/privacy/privacy-policy)
-    *   [Teens on Snapchat](/privacy/teens)
-    *   [Snap and Ads](/privacy/ads-privacy)
-    *   [Privacy Through Security](/privacy/privacy-through-security)
+    *   [Privacy Center](/privacy/privacy-center?lang=en-US)
+    *   [Privacy Principles](/privacy/privacy-principles?lang=en-US)
+    *   [Privacy by Product](/privacy/privacy-by-product?lang=en-US)
+    *   [Privacy Policy](/privacy/privacy-policy?lang=en-US)
+    *   [Teens on Snapchat](/privacy/teens?lang=en-US)
+    *   [Snap and Ads](/privacy/ads-privacy?lang=en-US)
+    *   [Privacy Through Security](/privacy/privacy-through-security?lang=en-US)
 
 ### 
 
@@ -20,7 +20,7 @@ Privacy Policy
 
 Effective: April 7, 2025
 
-Welcome to Snap Inc.’s Privacy Policy. This Policy explains how we collect and use your data and how you can control your information. Looking for a quick summary on our privacy practices? Check out this [page](/privacy/privacy-center) or this [video](https://help.snapchat.com/hc/articles/7012325772308?lang=en-US). If you’re looking for specific product privacy information, for example, how we process your Chats and Snaps, take a look at our [Privacy by Product](/privacy/privacy-by-product) page. In addition to these documents, we also show in-app notices that provide you more information about our products and services. And if you’re a Spectacles user you can learn more on how we collect and use your data in the [Spectacles Supplemental Privacy Policy](/privacy/privacy-policy/spectacles-supplemental-privacy-policy).
+Welcome to Snap Inc.’s Privacy Policy. This Policy explains how we collect and use your data and how you can control your information. Looking for a quick summary on our privacy practices? Check out this [page](/privacy/privacy-center?lang=en-US) or this [video](https://help.snapchat.com/hc/articles/7012325772308?lang=en-US). If you’re looking for specific product privacy information, for example, how we process your Chats and Snaps, take a look at our [Privacy by Product](/privacy/privacy-by-product?lang=en-US) page. In addition to these documents, we also show in-app notices that provide you more information about our products and services. And if you’re a Spectacles user you can learn more on how we collect and use your data in the [Spectacles Supplemental Privacy Policy](/privacy/privacy-policy/spectacles-supplemental-privacy-policy?lang=en-US).
 
 Transparency is one of our core values at Snap. We believe there shouldn’t be any surprises about the data we collect and how we use it — that’s why we’re upfront with how we process it. For example, we process your information to provide you a more personalized experience, including to show you content and information that is most relevant to your experience, as well as more relevant advertisements. Understanding your interests and preferences help us provide a better product experience.
 
@@ -56,7 +56,7 @@ We want you to be in control of your information, so we provide you with a range
     
 *   **Set advertising preferences.** We try to show you ads that we think will be relevant to your interests, but if you’d like to have a less personalized experience, you can change your advertising settings in the Snapchat app. Learn more [here](https://help.snapchat.com/hc/articles/7012345515796?lang=en-US).
     
-*   **Tracking.** If you use an iPhone with iOS 14.5 or above, some specific requirements apply, which we’ve specified [here](/privacy/ads-privacy#controlling-ads).
+*   **Tracking.** If you use an iPhone with iOS 14.5 or above, some specific requirements apply, which we’ve specified [here](/privacy/ads-privacy?lang=en-US#controlling-ads).
     
 
 ### 
@@ -119,7 +119,7 @@ We believe it is critical to also balance the benefits of personalization with o
 
 Another way we provide a personalized Service is through the ads we show. We use your interests and preferences from the information we’ve collected to personalize, target, and measure ads. We think ads are best when they’re relevant. That’s why we try to select the right ads and show them to you at the right time. For example, if you’ve interacted with ads for video games, we will infer that you like video games, and show you similar ads, but those won’t be the only ads you see. Similar to our content strategy, we try to ensure you receive a variety of ads. We also use your information to avoid showing you ads you probably won’t be interested in. For example, if a ticketing site tells us you’ve previously bought tickets for a movie — we can stop showing you ads for it. You can learn about the different types of advertising and your choices about which ads you receive [here](https://help.snapchat.com/hc/articles/7012345515796?lang=en-US).
 
-You can learn more about how we collect, use, and share your information for advertising purposes [here](/privacy/ads-privacy).
+You can learn more about how we collect, use, and share your information for advertising purposes [here](/privacy/ads-privacy?lang=en-US).
 
 A note about information collected by cookies and other technologies: we may use these technologies to collect information when you interact with Services we offer through one of our partners. For example, we may use information collected on an advertiser’s website to show you more relevant ads. Most web browsers are set to accept cookies by default. If you prefer, you can usually remove or reject browser cookies through the settings on your browser or device. Keep in mind, though, that removing or rejecting cookies could affect the availability and functionality of our Services. To learn more about how we and our partners use cookies on our Services and your choices, please check out our [Cookie Policy](https://www.snap.com/cookie-policy/?lang=en-US).
 
@@ -153,7 +153,7 @@ When you ask for help, we want to get you support as quickly as possible. In ord
 
 **Enforce Our Terms & Policies**
 
-We use the data we collect to enforce our Terms and the law. This includes enforcing, investigating, and reporting conduct that violates our Terms, policies, or the law, responding to requests from law enforcement, and complying with legal requirements. For example, when unlawful content is posted on our Services, we may need to enforce our Terms and other policies. In some cases, we may also use or share your information to cooperate with law enforcement requests, escalate safety issues to law enforcement, industry partners, or others, or comply with our legal obligations. Check out our [Transparency Report](/privacy/transparency) to learn more.
+We use the data we collect to enforce our Terms and the law. This includes enforcing, investigating, and reporting conduct that violates our Terms, policies, or the law, responding to requests from law enforcement, and complying with legal requirements. For example, when unlawful content is posted on our Services, we may need to enforce our Terms and other policies. In some cases, we may also use or share your information to cooperate with law enforcement requests, escalate safety issues to law enforcement, industry partners, or others, or comply with our legal obligations. Check out our [Transparency Report](/privacy/transparency?lang=en-US) to learn more.
 
 **Other Purposes, With Your Permission**
 
@@ -167,11 +167,11 @@ How We Share Information
 
 **Recipients & Reasons for Sharing**
 
-*   **Snapchat.** To provide our Services to you and our community, we may share your information with your friends on Snapchat or other Snapchatters. For example, the content you post to Stories, or your status as a premium subscriber, can be viewed by your Friends if you allow them. See the [Control Over Your Information](/privacy/privacy-policy#control-over-your-information) section and your Settings for the controls you have over who sees what and when.
+*   **Snapchat.** To provide our Services to you and our community, we may share your information with your friends on Snapchat or other Snapchatters. For example, the content you post to Stories, or your status as a premium subscriber, can be viewed by your Friends if you allow them. See the [Control Over Your Information](/privacy/privacy-policy?lang=en-US#control-over-your-information) section and your Settings for the controls you have over who sees what and when.
     
 *   **Family Center Participants.** When you have enabled Family Center, we share information about the connected teen account to the parent or guardian to provide insight about how the account is used, for example, who your Friends are on Snapchat or which friends you may be sharing your location with. We do not share message content. [Learn more](https://parents.snapchat.com/parental-controls?utm_source=GoogleSEM&utm_medium=PAIDSNAPCHATBRAND&utm_campaign=TandS_MaxClicks_2023&utm_term=ParentalControl&utm_content=ToolsandResources&gclid=Cj0KCQiAgqGrBhDtARIsAM5s0_maJyV4qT3Uma9lKM5k9KmbXxmRjSnfOMzXHVZ8NChkIzrkf_VnFGMaAvwUEALw_wcB&lang=en-US).
     
-*   **Public.** Most of the features on Snapchat are private and for Friends only, but we also offer public features that allow you to opt in to showcase your best Snaps to the world, such as Spotlight, Snap Map, or your Public Profile. When you do this, those Snaps may also be discoverable outside of Snapchat, for example on the web. Some information, like your username and Bitmoji, are visible to the public. [Learn more](/privacy/privacy-by-product).
+*   **Public.** Most of the features on Snapchat are private and for Friends only, but we also offer public features that allow you to opt in to showcase your best Snaps to the world, such as Spotlight, Snap Map, or your Public Profile. When you do this, those Snaps may also be discoverable outside of Snapchat, for example on the web. Some information, like your username and Bitmoji, are visible to the public. [Learn more](/privacy/privacy-by-product?lang=en-US).
     
 *   **Third-Party Apps.** Sometimes we provide features that allow you to connect with third-party apps. If you decide to connect your Snapchat account with a third-party app, we will share any additional information you direct us to.
     
@@ -205,7 +205,7 @@ On iOS we use Apple’s TrueDepth camera to improve the quality of Lenses. Note,
 
 **International Data Transfers**
 
-Our Services connect you with your friends around the world. To make that possible, we may collect your personal information from, transfer it to, and store and process it in the United States or other countries outside of where you live. Whenever we share information outside of where you live, we ensure safeguards are in place to protect the data as required by law where you live. If you want to learn more about this, see the [Region Specific Information](/privacy/privacy-policy#region-specific-information) section for more details.
+Our Services connect you with your friends around the world. To make that possible, we may collect your personal information from, transfer it to, and store and process it in the United States or other countries outside of where you live. Whenever we share information outside of where you live, we ensure safeguards are in place to protect the data as required by law where you live. If you want to learn more about this, see the [Region Specific Information](/privacy/privacy-policy?lang=en-US#region-specific-information) section for more details.
 
 ### 
 
@@ -225,7 +225,7 @@ As a general rule, we keep information as long as you tell us to, and otherwise 
     
 *   If we need it for other legitimate purposes, such as to prevent harm, investigate possible violations of our Terms of Service or other policies, investigate reports of abuse, or protect ourselves or others.
     
-*   Take a look at our [Privacy by Product](/privacy/privacy-by-product) page and [support page](https://help.snapchat.com/hc/articles/7012334940948?lang=en-US&utm_campaign=priv_pol&utm_medium=snap&utm_source=web) for details on the specific retention periods for products.
+*   Take a look at our [Privacy by Product](/privacy/privacy-by-product?lang=en-US) page and [support page](https://help.snapchat.com/hc/articles/7012334940948?lang=en-US&utm_campaign=priv_pol&utm_medium=snap&utm_source=web) for details on the specific retention periods for products.
     
 
 Although our systems are designed to delete some of your information automatically, we cannot promise that deletion will take place by a specific time.
@@ -242,21 +242,21 @@ Region Specific Information
 
 We do our best to keep our policies as simple as possible, but depending on where you live, you have some additional rights or there may be specific information that you should be aware of. Please take a look at the list below to see if any apply to you!
 
-*   [Australia](/privacy/privacy-policy/australia-privacy-notice)
+*   [Australia](/privacy/privacy-policy/australia-privacy-notice?lang=en-US)
     
-*   [Brazil](/privacy/privacy-policy/brazil-privacy-notice)
+*   [Brazil](/privacy/privacy-policy/brazil-privacy-notice?lang=en-US)
     
-*   [Canada](/privacy/privacy-policy/canada-privacy-notice)
+*   [Canada](/privacy/privacy-policy/canada-privacy-notice?lang=en-US)
     
-*   [Europe](/privacy/privacy-policy/eea-uk-privacy-notice)
+*   [Europe](/privacy/privacy-policy/eea-uk-privacy-notice?lang=en-US)
     
-*   [Mexico](/privacy/privacy-policy/mexico-privacy-notice)
+*   [Mexico](/privacy/privacy-policy/mexico-privacy-notice?lang=en-US)
     
-*   [South Korea](/privacy/privacy-policy/south-korea-privacy-notice)
+*   [South Korea](/privacy/privacy-policy/south-korea-privacy-notice?lang=en-US)
     
-*   [Turkey](/privacy/privacy-policy/turkey-privacy-notice)
+*   [Turkey](/privacy/privacy-policy/turkey-privacy-notice?lang=en-US)
     
-*   [United States](/privacy/privacy-policy/us-state-privacy-notice)
+*   [United States](/privacy/privacy-policy/us-state-privacy-notice?lang=en-US)
     
     *   **Note:** The U.S. State Privacy Notice applies only if you are a resident of certain U.S. states that have implemented state-level privacy laws.
         
