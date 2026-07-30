@@ -7,13 +7,9 @@ selector: "div[role="article"]"
 
 # Google Terms of Service
 
-Effective May 22, 2024 | [Archived versions](terms/archive) | [Download PDF](https://www.gstatic.com/policies/terms/pdf/20240522/ks8shls0/google_terms_of_service_en_us.pdf)
+Effective July 30, 2026 | [Archived versions](terms/archive) | [Download PDF](https://www.gstatic.com/policies/terms/pdf/20260730/4te5pybt/google_terms_of_service_en_us.pdf)
 
 [Country version:](terms#footnote-country-version) United States
-
-We’re updating our Terms of Service on July 30, 2026 to make it easier for you to understand what to expect from Google — and what we expect from you — as you use our services. Until then, the Terms below continue to apply.
-
-See a [preview of the new Terms](terms/update)
 
 ## What’s covered in these terms
 
@@ -109,7 +105,7 @@ The permission we give you to access and use our [services](terms#footnote-servi
 *   **these terms**
 *   **[service-specific additional terms](terms/service-specific)**, which could, for example, include things like additional age requirements
 
-You also agree that our [Privacy Policy](privacy) applies to your use of our services. We also provide resources like the [Copyright Help Center](https://support.google.com/legal/topic/4558877), [Safety Center](https://safety.google), [Transparency Center](https://transparency.google), and descriptions of our technologies from our [policies site](technologies) to answer common questions and to set expectations about using our services. Finally, we may provide specific instructions and warnings within our services – such as dialog boxes that alert you to important information.
+You also agree that our [Privacy Policy](privacy) applies to your use of our services. We provide resources like the [Copyright Help Center](https://support.google.com/legal/topic/4558877), [Safety Center](https://safety.google), [Transparency Center](https://transparency.google), and descriptions of our technologies from our [policies site](technologies) to answer common questions and to set expectations about using our services. Finally, we may provide specific instructions and warnings within our services – such as dialog boxes that alert you to important information.
 
 Although we give you permission to use our services, we retain any [intellectual property rights](terms#footnote-intellectual-property-rights) we have in the services.
 
@@ -234,13 +230,17 @@ To provide you with our services, we sometimes send you service announcements an
 
 If you choose to give us feedback, such as suggestions to improve our services, we may act on your feedback without obligation to you.
 
+## Cellular, Wi-Fi, and other Network Connection Costs
+
+Google services may frequently use the Internet when you're not actively engaged with the services or your device. Google uses the Internet in this way for a wide variety of purposes — for example, to provide software updates and to improve Google's services, security, user experience, and/or Google’s operations, including advertising. These uses rely on your cellular, Wi-Fi, and/or other network connections and may count against your data allowance with your cellular or internet service providers. You're responsible for all of these network usages and associated costs. You may wish to check your cellular or internet service plan, and your device and network settings.
+
 ![](https://www.gstatic.com/identity/boq/policies/privacy/tos_2024/08-using-google-services-lightmode.svg)
 
 # Content in Google services
 
 ## Your content
 
-Some of our [services](terms#footnote-services) allow you to generate original content. Google won’t claim ownership over that content.
+Some of our [services](terms#footnote-services) allow you to generate original content. Google won’t claim ownership over that content. Some content may not be suitable for everyone.
 
 Some of our [services](terms#footnote-services) give you the opportunity to make your content publicly available — for example, you might post a product or restaurant review that you wrote, or you might upload a blog post that you created.
 
@@ -285,7 +285,7 @@ We built our reputation on providing useful, reliable services like Google Searc
 
 TO THE EXTENT ALLOWED BY APPLICABLE LAW, WE PROVIDE OUR SERVICES “AS IS” WITHOUT ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. FOR EXAMPLE, WE DON’T MAKE ANY WARRANTIES ABOUT THE CONTENT OR FEATURES OF THE SERVICES, INCLUDING THEIR ACCURACY, RELIABILITY, AVAILABILITY, OR ABILITY TO MEET YOUR NEEDS.
 
-DON’T RELY ON THE SERVICES FOR MEDICAL, LEGAL, FINANCIAL, OR OTHER PROFESSIONAL ADVICE. ANY CONTENT REGARDING THOSE TOPICS IS PROVIDED FOR INFORMATIONAL PURPOSES ONLY AND IS NOT A SUBSTITUTE FOR ADVICE FROM A QUALIFIED PROFESSIONAL.
+UNLESS EXPLICITLY PERMITTED BY [SERVICE-SPECIFIC ADDITIONAL TERMS](terms/service-specific), DON’T RELY ON THE SERVICES FOR MEDICAL, LEGAL, FINANCIAL, OR OTHER PROFESSIONAL ADVICE. ANY CONTENT REGARDING THOSE TOPICS IS PROVIDED FOR INFORMATIONAL PURPOSES ONLY, DOES NOT CONSTITUTE MEDICAL DIAGNOSIS OR TREATMENT, AND IS NOT A SUBSTITUTE FOR ADVICE FROM A QUALIFIED PROFESSIONAL.
 
 ## Liabilities
 
@@ -322,13 +322,13 @@ Before taking action as described below, we’ll provide you with advance notice
 
 ### Removing your content
 
-If any of [your content](terms#footnote-your-content) (1) breaches these terms, [service-specific additional terms or policies](terms/service-specific), (2) violates applicable law, or (3) could harm our users, third parties, or Google, then we reserve the right to take down some or all of that content in accordance with applicable law. Examples include child pornography, content that facilitates human trafficking or harassment, terrorist content, and content that infringes someone else’s [intellectual property rights](terms#footnote-intellectual-property-rights).
+If any of [your content](terms#footnote-your-content) (1) breaches these terms, [service-specific additional terms, or policies](terms/service-specific), (2) violates applicable law, or (3) could harm our users, third parties, or Google, then we reserve the right to take down some or all of that content in accordance with applicable law. Examples include child pornography, content that facilitates human trafficking or harassment, terrorist content, and content that infringes someone else’s [intellectual property rights](terms#footnote-intellectual-property-rights).
 
 ### Suspending or terminating your access to Google services
 
 Without limiting any of our other rights, Google may suspend or terminate your access to the services or delete your Google Account if any of these things happen:
 
-*   you materially or repeatedly breach these terms, [service-specific additional terms or policies](terms/service-specific)
+*   you materially or repeatedly breach these terms, [service-specific additional terms, or policies](terms/service-specific)
 *   we’re required to do so to comply with a legal requirement or a court order
 *   your conduct causes harm or [liability](terms#footnote-liability) to a user, third party, or Google — for example, by hacking, phishing, harassing, spamming, misleading others, or scraping content that doesn’t belong to you
 
@@ -340,7 +340,7 @@ Of course, you’re always free to stop using our services at any time. If you d
 
 For information about how to contact Google, please visit our [contact page](https://www.google.com/contact).
 
-California law will govern all disputes arising out of or relating to these terms, [service-specific additional terms](terms/service-specific), or any related [services](terms#footnote-services), regardless of conflict of laws rules. These disputes will be resolved exclusively in the federal or state courts of Santa Clara County, California, USA, and you and Google consent to personal jurisdiction in those courts.
+California law will govern these terms and all disputes arising out of or relating to these terms, [service-specific additional terms](terms/service-specific), or any related [services](terms#footnote-services), regardless of any conflict of laws rules. These disputes will be resolved exclusively in the federal or state courts of Santa Clara County, California, USA, and you and Google consent to personal jurisdiction in those courts.
 
 ![](https://www.gstatic.com/identity/boq/policies/privacy/tos_2024/12-about-these-terms-lightmode.svg)
 
