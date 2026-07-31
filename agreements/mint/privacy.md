@@ -5,7 +5,7 @@ selector: ".o-base__content"
 
 # Privacy Notice
 
-**Last Updated: October 13, 2025**
+**Last Updated: July 30, 2026**
 
 This Privacy Notice (“Privacy Notice”) of Mint Mobile, LLC (collectively, “Mint Mobile,” “we,” “us” or “our”) describes the information we collect through our websites  or otherwise from Mint Mobile customers, and is incorporated into and made a part of the Mint Mobile [Plan Terms and Conditions](https://www.mintmobile.com/plan-terms-and-conditions/), the [Site Terms of Use](https://www.mintmobile.com/site-terms-of-use/), and [Mobile Application End User License Agreement](https://www.mintmobile.com/app-end-user-license-agreement/).
 
@@ -64,10 +64,10 @@ This Site may display advertisements and links for third-party websites, product
 
 For privacy related questions, comments and requests, please contact Mint Mobile at:  
 Mint Mobile, LLC  
-Attn: Customer Service  
-17870 Newhope Street #104-155  
-Fountain Valley, CA 92708  
-Phone: (800) 683-7392
+Attn: Chief Privacy Officer  
+12920 SE 38th Street  
+Bellevue, WA 98006  
+Phone: (800) 683-7329
 
 **9\. California **Consumer Privacy Act (CCPA)****  
 California has a data protection law called the California Consumer Privacy Act (CCPA). It gives California consumers the right to tell companies to not sell or share their personal information. We extend this same privacy choice to all our customers regardless of their state of residence. 
