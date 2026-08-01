@@ -19,14 +19,14 @@ selector: "#main"
 10.  [10\. Feedback and Reviews](#10-feedback-and-reviews)
 11.  [11\. Intellectual Property Infringement](#11-intellectual-property-infringement)
 12.  [12\. Privacy and Data Protection](#12-privacy-and-data-protection)
-13.  [13\. Shopify Contracting Party](#13-shopify-contracting-party)
+13.  [13\. Shopify Contracting Party and Forum](#13-shopify-contracting-party-and-forum)
 14.  [14\. Term and Termination](#14-term-and-termination)
 15.  [15\. Modifications](#15-modifications)
 16.  [16\. General Conditions](#16-general-conditions)
 
 * * *
 
-Last updated on: May 11, 2026
+Last updated on: August 1, 2026
 
 Welcome to Shopify! By signing up for a Shopify Account (as defined in Section 1) or by using any Shopify Services (as defined below), you are agreeing to be bound by the following terms and conditions (the "**Terms of Service**").
 
@@ -365,15 +365,7 @@ Shopify allows you to add pixels to your Shopify Store to enable you or a third 
 1.  In addition to the terms applicable to your use of the Services generally (including these Terms of Service, Shopify's Acceptable Use Policy, and Privacy Policy), the following terms apply to your access to and use of the Shopify Pixel Manager; a. You will comply with all applicable laws and obtain all necessary consents from every site visitor and customer whose events you track; b. If you provide Shopify with any data collected using pixels, including names, email addresses, phone numbers, or other data that personally identifies an individual, you will obtain all necessary rights and consents prior to providing Shopify with the foregoing information; c. You agree that Shopify may disable any pixels that Shopify identifies as malicious, in Shopify's sole discretion; and d. You will not, and will not allow any third parties to, use pixels; i. to engage in or promote any unlawful, infringing, defamatory or otherwise harmful activity; or ii. to disable, interfere with or circumvent any aspect of the Services.
 2.  Shopify may collect information associated with the Shopify Pixel Manager, such as how pixels are used, and how and what scripts are added. Shopify may use this data to improve, maintain, protect and develop the Shopify Pixel Manager.
 
-**9.12 Gift Cards Services**
-
-### Which means
-
-Additional rules apply if you sell gift cards or issue store credit.
-
-If you sell gift cards or issue store credit, your use is subject to the [Gift Card & Store Credit Service Terms](/legal/terms-gift-cards).
-
-**9.13 Audiences**
+**9.12 Audiences**
 
 ### Which means
 
@@ -381,7 +373,7 @@ Additional rules apply if you use Shopify Audiences.
 
 If you use Shopify Audiences, your use is subject to the [Shopify Audiences Terms and Conditions](https://admin.shopify.com/apps/shopify-audiences/settings/terms).
 
-**9.14 Shopify Checkout Extensibility**
+**9.13 Shopify Checkout Extensibility**
 
 ### Which means
 
@@ -392,7 +384,7 @@ If you use Checkout Extensions, you're responsible for your own compliance, whic
 2.  Shopify may collect information associated with Shopify Checkout Extensibility in accordance with the [Privacy Policy](/legal/privacy/merchants).
     
 
-**9.15 Agentic Storefronts**
+**9.14 Agentic Storefronts**
 
 ### Which means
 
@@ -431,32 +423,57 @@ Shopify's use and collection of your personal information is governed by our Mer
 4.  Shopify complies with applicable Payment Card Industry Data Security Standards ("**PCI DSS**") in its provision of the Services to you. You can review Shopify's current PCI DSS Attestation of Compliance [here](/legal/compliance/reports). Where the Services involve Shopify storing, processing or transmitting "Account Data" (as defined under PCI DSS) on your behalf, Shopify acknowledges that it is responsible for securing such Account Data in accordance with the applicable PCI DSS requirements. If you store, process or transmit Account Data, you must also ensure that you are at all times compliant with PCI DSS, and agree to provide Shopify with documentation evidencing your compliance with PCI DSS upon request. You agree not to impair the security of Account Data, including, without limitation, by: a. modifying, bypassing or circumventing the technical limitations of the Services; b. using third-party proxies or other interventions that impair the security of Account Data; or c. using the Services otherwise in violation of these Terms of Service. To the extent that you impair the security of Account Data, Shopify cannot ensure PCI DSS compliance and is not responsible for the security of Account Data. Information on PCI DSS can be found on the PCI Council's [website](https://www.pcisecuritystandards.org/).
     
 
-## 13\. Shopify Contracting Party
+## 13\. Shopify Contracting Party and Forum
 
-1.  If the billing address of your Store is located in the United States or Canada, this Section 13(1) applies to you:
+1.  Contracting Party. You are contracting with the Shopify Contracting Party or Parties below, based on the billing address of your Store.
     
-    1.  "**Shopify Contracting Party**" means Shopify Inc., a Canadian corporation, with offices located at 151 O'Connor Street, Ground floor, Ottawa, Ontario, K2P 2L8.
-        
-    2.  Where the Services include payment activities that are regulated under the Canadian Retail Payment Activities Act (collectively, "**Regulated Payment Services**"), solely with respect to the provision of such Regulated Payment Services to you, "Shopify Contracting Party" shall mean Shopify Payment Activities Inc., a Canadian corporation, with offices located at 151 O'Connor Street, Ground floor, Ottawa, Ontario, K2P 2L8.
-        
-2.  If the billing address of your Store is located in the United States or Canada, this Section 13(2) applies to you:
+2.  Forum Selection. Any dispute or claim relating to the Services or these Terms of Service can only be brought in the courts listed in the table below. Those courts have exclusive jurisdiction, and each party agrees to that jurisdiction and will not object to it.
     
-    1.  "**Shopify Contracting Party**" means Shopify Inc., a Canadian corporation, with offices located at 151 O'Connor Street, Ground floor, Ottawa, Ontario, K2P 2L8.
-        
-    2.  The parties irrevocably and unconditionally submit to the exclusive jurisdiction of the courts of the Province of Ontario with respect to any dispute or claim arising out of or in connection with the Terms of Service. The United Nations Convention on Contracts for the International Sale of Goods will not apply to these Terms of Service and is hereby expressly excluded.
-        
-3.  If the billing address of your Store is located in [the Asia Pacific region](/legal/country-list) (including Australia, New Zealand, China, Japan, Singapore), this Section 13(3) applies to you:
+
+Merchant Billing Address Region
+
+Shopify Contracting Party/Parties
+
+Registered Office
+
+Forum
+
+United States or Canada
+
+Shopify Inc., a Canadian corporation
+
+151 O'Connor Street, Ground floor, Ottawa, Ontario, K2P 2L8, Canada
+
+Courts of the Province of Ontario, Canada
+
+Shopify Technology (USA) Inc., a Nevada corporation
+
+Shopify Technology (USA): 85 10th Ave, Suite 800, New York, NY 10011, USA.
+
+Shopify Payment Activities Inc., a Canadian corporation, for Regulated Payment Services, as defined Section 13.4 below.
+
+151 O'Connor Street, Ground floor, Ottawa, Ontario, K2P 2L8, Canada
+
+Asia Pacific (including Australia, New Zealand, China, Japan, and Singapore)
+
+Shopify Commerce Singapore Pte. Ltd, a corporation formed under the laws of Singapore
+
+77 Robinson Road, #13-00 Robinson 77, Singapore 068896
+
+Courts of Singapore
+
+All other jurisdictions (including EMEA, Europe, the Middle East, Africa, South America, the Caribbean, and Mexico)
+
+Shopify International Limited, a private company limited by shares incorporated in Ireland under registration number 560279 (VAT number IE 3347697KH)
+
+The Sidings, 4th Floor, Grand Canal Quay, Dublin D02 E7K8, Ireland
+
+Courts of Ireland
+
+3.  Billing and Collection. Shopify Inc. may act as the billing agent for Shopify Technology (USA) Inc. and/or another Shopify Contracting Party, including to collect and remit Fees and remit taxes in some jurisdictions, as applicable.
     
-    1.  "**Shopify Contracting Party**" means Shopify Commerce Singapore Pte. Ltd, a corporation formed under the laws of Singapore, with offices located at 77 Robinson Road, #13-00 Robinson 77, Singapore 068896.
-        
-    2.  The parties irrevocably agree that the courts of Singapore are to have exclusive jurisdiction to settle any dispute which may arise out of or in connection with the Terms of Service and that accordingly any proceedings arising out of or in connection with the Terms of Service will be brought in such courts. The United Nations Convention on Contracts for the International Sale of Goods will not apply to these Terms of Service and is hereby expressly excluded.
-        
-4.  If the billing address of your Store is located in [EMEA region](/legal/country-list) or other jurisdictions not listed in Section 13(1) or 13(2), including Europe and Russia, the Middle East, Africa, South America, Caribbean, or Mexico this Section 13(4) applies to you:
+4.  Regulated Payment Services (Canada). The Shopify Contracting Party shall be Shopify Payment Activities Inc., solely with respect to any aspect of the Services that are payment activities regulated under the Canadian Retail Payment Activities Act ("**Regulated Payment Services**").
     
-    1.  "**Shopify Contracting Party**" means Shopify International Limited, a private company limited by shares, incorporated in Ireland under registration number 560279, with its registered offices located at 2nd Floor Victoria Buildings, 1-2 Haddington Road, Dublin 4, D04 XN32, Ireland, VAT number IE 3347697KH and its website is at [https://shopify.com/](https://shopify.com/).
-        
-    2.  You irrevocably and unconditionally agree to submit to the jurisdiction of Irish courts, which have jurisdiction to settle any disputes which may arise out of or in connection with the validity, effect, interpretation or performance of these Terms of Service and you similarly irrevocably and unconditionally waive any objection to any claim that any suit, action or proceeding has been brought by Shopify in any other jurisdiction. The United Nations Convention on Contracts for the International Sale of Goods will not apply to these Terms of Service and is hereby expressly excluded.
-        
 
 ## 14\. Term and Termination
 
@@ -506,7 +523,7 @@ If we make a material change to the Terms of Service that adversely affects your
     
 3.  Save for Shopify and its affiliates, you or anyone accessing Shopify Services pursuant to these Terms of Service, unless otherwise provided in these Terms of Service, no person or entity who is not a party to these Terms of Service will have any right to enforce any term of these Terms of Service, regardless of whether such person or entity has been identified by name, as a member of a class or as answering a particular description. For the avoidance of doubt, this will not affect the rights of any permitted assignee or transferee of these Terms.
     
-4.  The Terms of Service will be governed by and interpreted in accordance with the laws of the Province of Ontario and the laws of Canada applicable therein, without regard to principles of conflicts of laws.
+4.  The Terms of Service will be governed by and interpreted in accordance with the laws of the Province of Ontario and the laws of Canada applicable therein, without regard to principles of conflicts of laws. The United Nations Convention on Contracts for the International Sale of Goods will not apply to these Terms of Service.
     
 5.  The Terms of Service may be available in languages other than English. To the extent of any inconsistencies or conflicts between these English Terms of Service and Shopify's Terms of Service available in another language, the most current English version of the Terms of Service at [https://www.shopify.com/legal/aup](https://www.shopify.com/legal/aup) will prevail. Any disputes arising out of these Terms of Service will be resolved in English unless otherwise determined by Shopify (acting in its sole discretion) or as required by applicable law.
     
