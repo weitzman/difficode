@@ -7,7 +7,9 @@ selector: "main"
 
 Download PDF
 
-**Yahoo Terms of Service**
+*On 6 May 2025 the name of the company providing the sites and apps you use changed from Yahoo EMEA Limited to Yahoo International Limited.*
+
+*In addition, under the EU Digital Services Act, we are required to provide users residing within the European Union with certain additional terms - see subsection* [*14.13.o.*](#s14.13.o) *below.*
 
 1.  #### Welcome to Yahoo
     
@@ -26,7 +28,7 @@ Download PDF
     1.  *Authority.* You agree that you are permitted to use the Services under applicable law. If you are using the Services on behalf of a company, business or other entity, you represent that you have the legal authority to accept these Terms on behalf of that entity, in which case that entity accepts these Terms, and "you" means that entity. If you are accessing an account(s) on behalf of the account owner (e.g., as an administrator, consultant, analyst, etc.), the Terms apply to your activities on behalf of the account owner.
     2.  *Indemnity.* If you are using the Services on behalf of a company, business or other entity, or if you are using the Services for commercial purposes, you and the entity will hold harmless and indemnify the Yahoo Entities (defined in Section 8 below) from any suit, claim or action arising from or related to the use of the Services or violation of these Terms, including any liability or expense arising from claims (including claims for negligence), losses, damages, suits, judgments, litigation costs and attorneys’ fees.
     3.  *Age.* If you are under the Minimum Age (as defined for your country or region in Section 14) you may not register for an account. Unless you are the holder of an existing account in the United States that is a Yahoo [Family Account](https://help.yahoo.com/kb/SLN5679.html), you must be at least the Minimum Age to use the Services. Certain portions of the Services contain adult and/or mature content. Please do not access that content unless you are an adult (i.e., at least the age of majority in your country) or unless otherwise expressly indicated.
-    4.  *Member conduct.* You agree not to use the Services in any manner that violates these Terms or our [Community Guidelines](/us/en/yahoo/guidelines/index.html) (or assist, facilitate, or support others in doing so), including to:
+    4.  *Member conduct.* You agree not to use the Services in any manner that violates these Terms or our [Community Guidelines](../../guidelines/index.html) (or assist, facilitate, or support others in doing so), including to:
         1.  obtain or attempt to obtain unauthorized access to the Services or to our servers, systems, network, or data;
         2.  make available any content that is harmful to children, threatening, abusive, harassing, tortious, defamatory, vulgar, obscene, libelous, invasive of another's privacy, hateful, or racially, ethnically, or otherwise objectionable;
         3.  violate any applicable laws or regulations;
@@ -239,10 +241,11 @@ Download PDF
              2.  Minimum Age: 13 years old (however, if you are between 13 and 18 years old, you must have parental or legal guardian permission in order to agree with our Terms and to use the Service).
          2.  *Services Provided*: Yahoo Mail and Yahoo Search. If you use any of these services while you are within Brazil, or are otherwise contracting with Yahoo do Brasil Internet Ltda., the services are provided by Yahoo do Brasil Internet Ltda. The region specific provisions in Section 14.4 shall apply to such use and supersede anything to the contrary in Section 1 or Section 13(a) of these Terms.
          3.  *Other Services*: Services not listed in Section 14.4(b) are not provided by Yahoo do Brasil Internet Ltda., which has no powers or capabilities to take any measures in relation to them, including accessing or disclosing user data and/or removing user generated content.
-         4.  *Choice of Law*. The Terms and the relationship between you and Yahoo do Brasil Internet Ltda. will be governed by the laws of Federative Republic of Brazil without regard to its conflict of law provisions.
-         5.  *Customer Support*. For customer support, see [this page](https://help.yahoo.com/kb/index?locale=pt_BR&page=product&y=PROD_ACCT).
-         6.  Protecting our systems and our users' information is paramount to ensuring that Yahoo users enjoy a secure user experience and maintaining our users' trust. To learn more about security, including the steps we have taken and steps you can take, please read our online article by clicking [here](https://legal.yahoo.com/br/pt/yahoo/privacy/topics/security/index.html).
-         7.  YOU UNDERSTAND AND AGREE THAT YOUR USE AND THE PROVISION OF THE SERVICES INVOLVE THE COLLECTION, STORAGE, PROCESSING, USE AND DISCLOSURE OF INFORMATION AND USER DATA, INCLUDING THE TRANSFER OF INFORMATION AND DATA TO OTHER COMPANIES AND TERRITORIES, AS STATED IN THE PRIVACY POLICY.
+         4.  *Paid Services*: Any additional paid services made available within the Services Provided described on item 14.4(b) fall under item 14.4(c) and are in accordance with Section 11.
+         5.  *Choice of Law*. The Terms and the relationship between you and Yahoo do Brasil Internet Ltda. will be governed by the laws of Federative Republic of Brazil without regard to its conflict of law provisions.
+         6.  *Customer Support*. For customer support, see [this page](https://help.yahoo.com/kb/index?locale=pt_BR&page=product&y=PROD_ACCT).
+         7.  Protecting our systems and our users' information is paramount to ensuring that Yahoo users enjoy a secure user experience and maintaining our users' trust. To learn more about security, including the steps we have taken and steps you can take, please read our online article by clicking [here](https://legal.yahoo.com/br/pt/yahoo/privacy/topics/security/index.html).
+         8.  YOU UNDERSTAND AND AGREE THAT YOUR USE AND THE PROVISION OF THE SERVICES INVOLVE THE COLLECTION, STORAGE, PROCESSING, USE AND DISCLOSURE OF INFORMATION AND USER DATA, INCLUDING THE TRANSFER OF INFORMATION AND DATA TO OTHER COMPANIES AND TERRITORIES, AS STATED IN THE PRIVACY POLICY.
      5.  ##### Canada (ca and cf):
          
          1.  *Defined Terms*
@@ -368,7 +371,7 @@ Download PDF
                    1.  Yahoo is a personal email service that users can access through a web interface or an app, and through a variety of devices and operating systems. An internet connection is required to send or receive emails via our Mail Services.
                    2.  Yahoo International Limited is established at The EXO Building, North Wall Quay, Dublin 1, D01 W5Y2, Ireland and provides the Mail Services to you. You can contact Yahoo on this postal address, including raising any complaints about the Mail Services. Additionally, you can also reach out to us with any customer queries and for assistance via the Yahoo account help pages online/accessible via your Mail account. You can close your Mail account at any point in time.
                    3.  Yahoo can take action in response to credible reports that a Mail account is being used in a way that compromises the security of our Services (e.g. Mail accounts associated with spam, scam advertisements, ransomware and malware), including terminating Mail accounts following human review.
-                   4.  The European Accessibility Act ("EAA") applies to Mail Services provided by Yahoo in the European Economic Area. You can read the EAA Statement we are required to publish for Yahoo Mail [here](../european-accessibility-act/index.html). Additional details on Yahoo's global commitment to accessibility are available at [https://www.yahooinc.com/accessibility](https://www.yahooinc.com/accessibility).
+                   4.  The European Accessibility Act ("EAA") applies to Mail Services provided by Yahoo in the European Economic Area. You can read the EAA Statement we are required to publish for Yahoo Mail [here](/ie/en/yahoo/terms/european-accessibility-act/index.html). Additional details on Yahoo's global commitment to accessibility are available at [https://www.yahooinc.com/accessibility](https://www.yahooinc.com/accessibility).
                6.  Paid-for Mail Services.
                    1.  Characteristics of paid-for Mail Services:
                        1.  *Availability*. In some jurisdictions, Yahoo offers paid-for Mail Services such as Yahoo Mail Plus and Yahoo Mail Pro, which include additional features, the details of which you can find in the settings of your Mail account. We reserve the right to make changes to features of Mail Services from time to time.
@@ -392,7 +395,7 @@ Download PDF
           13.  *Our liability*. Despite Section 9, we accept responsibility for fraudulent representations made by us or if you are injured or die as a direct result of our negligence in connection with the Services.
           14.  Additional terms for 1) Italian users can be found [here](/ie/it/yahoo/terms/additionalterms/index.html), 2) German users [here](/ie/de/yahoo/terms/additionalterms/index.html), 3) French users [here](/ie/fr/yahoo/terms/additionalterms/legal-guarantee/index.html) and 4) Austrian users [here](/ie/de/yahoo/terms/additionalterms/austria/index.html).
           15.  *EU Digital Services Act*
-               1.  Restrictions on use of our Services. The EU Digital Services Act (‘DSA’) requires us to provide users in the European Union with details of any restrictions we may impose on the use of certain Services. These restrictions enable us to take action to address content on our Services that is illegal and/or in violation of our [Community Guidelines](../../guidelines/index.html).
+               1.  Restrictions on use of our Services. The EU Digital Services Act (‘DSA’) requires us to provide users in the European Union with details of any restrictions we may impose on the use of certain Services. These restrictions enable us to take action to address content on our Services that is illegal and/or in violation of our [Community Guidelines](/ie/en/yahoo/guidelines/index.html).
                    1.  For Yahoo Search:
                        1.  Use of algorithmic tools to restrict the visibility of search results containing adult content in certain cases, including where users are identified as under 18 years;
                        2.  Use of algorithmic tools to restrict the visibility of search results containing illegal content;
@@ -417,4 +420,4 @@ Download PDF
                    1.  If you are a representative of a Member State of the European Union, the European Commission or the European Board for Digital Services you can communicate with us at the following email address: dsa\[@\]yahooinc.com. Our preferred language of communication is English.
                    2.  If you are a user residing within the European Union, the most direct way for us to address any query, concern, or complaint you may have under the DSA is by completing our [DSA contact form](https://uk.help.yahoo.com/kb/account?locale=en_GB&sclb=1&ct=TOP_HIDE_INHELP_EMEA_DSA&sbct=ISS_EMEA_DSA). Alternatively you may send an email to dsaquery\[@\]yahooinc.com with the following required information: your country of residence; the Yahoo service you are contacting us about; a brief explanation of your query, concern or complaint. These points of contact cannot be used for any matter that is not related to the Digital Services Act.
 
-*Last updated: 29 April 2026*
+*Last updated: 4 August 2026*
