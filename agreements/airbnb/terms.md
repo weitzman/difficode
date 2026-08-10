@@ -5,6 +5,10 @@ selector: "#react-application"
 
 [](/)[Help Center](/help)
 
+Search
+
+Suggestions will show after typing in the search input. Use the up and down arrows to review. Use enter to select. If the selection is a phrase, that phrase will be submitted to search. If the suggestion is a link, the browser will navigate to that page.
+
 1.  [Home](/help)
 2.  [All topics](/help/all-topics)
 3.  [Legal Terms](/help/topic/1578)
