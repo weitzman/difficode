@@ -13,7 +13,7 @@ Select language:
 
 English
 
-Last modified: 6/9/2026
+Last modified: 8/12/2026
 
 # U.S. Terms of Use
 
