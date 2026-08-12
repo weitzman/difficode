@@ -234,6 +234,10 @@ Cisco has a comprehensive Privacy Statement and provides you with details on how
 
 We may update this Privacy Statement from time to time. If we modify our Privacy Statement, we will post the revised version here with an updated revision date. If we make material changes to our Privacy Statement, we may also notify you by other means, such as by posting a notice on our websites or sending you a notification. By continuing to use our website after such revisions are in effect, you accept and agree to the revisions and to abide by them.
 
+### SMS policy
+
+We will not share your opt-in to an SMS campaign with any third party for purposes unrelated to providing you with the services of that campaign. We may share your Personal Data, including your SMS opt-in or consent status, with third parties that help us provide our messaging services, including but not limited to platform providers, phone companies, and any other vendors who assist us in the delivery of text messages. All the above categories exclude text messaging originator opt-in data and consent; this information will not be shared with any third parties.
+
 ### The Cisco Privacy Statement was revised and effective as of April 29, 2026
 
 Click [here](/c/en/us/about/legal/privacy-full/previous-2025-26.html) for the previous version of the Privacy Statement.  
