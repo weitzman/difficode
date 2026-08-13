@@ -1404,7 +1404,7 @@ In complying with such laws, you and any Teen User will:
 *   implement and maintain all appropriate security measures for the processing of personal data; and
 *   not knowingly do anything or permit anything to be done which might lead to a breach of any privacy data protection laws by us.
 
-       
+        
 
 If you accept cookies, we’ll use them to improve and customize your experience and enable our partners to show you personalized ads when you visit other sites. [Manage cookies and learn more](#)
 
