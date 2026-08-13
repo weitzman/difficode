@@ -2143,6 +2143,8 @@ ATTN: Privacy Operations
 
 Menlo Park, CA 94025
 
+Contact the [Data Protection Officer](https://help.meta.com/support/privacy/?entry_point=POLICY_SECTION%3A13-HowToContactMeta) for Meta Platforms, Inc.
+
 [Return to top![](https://static.xx.fbcdn.net/rsrc.php/yB/r/vDK-9_qzobV.webp)](#)
 
 # Why and how we process your information
