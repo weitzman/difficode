@@ -1224,6 +1224,10 @@ We and other organisations, including parties that accept PayPal, may also share
 4.  Legal Compliance: to help them comply with anti-money laundering and counter-terrorist financing verification requirements.
 5.  Service Providers: to enable service providers under contract with us to support our business operations, such as fraud prevention, bill collection, marketing, customer service and technology services. Our contracts dictate that these service providers only use your information in connection with the services they perform for us and not for their own benefit.
 
+### **Status Disclosure**
+
+PayPal UK Ltd is authorised and regulated by the Financial Conduct Authority (FCA) as an electronic money institution (firm reference number 994790); in relation to its regulated consumer credit activities (firm reference number 996405); and for the provision of cryptocurrency services (firm reference number 1000741). Some products and services, such as PayPal Working Capital, are not regulated by the FCA and may offer a lower level of protection. Please read product terms for further details. PayPal UK Ltd's company number is 14741686. Its registered office is 5 Fleet Place, London, United Kingdom, EC4M 7RD.
+
 # PayPal Privacy Statement
 
 ## Disclosures for Individuals in Mexico
