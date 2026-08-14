@@ -69,13 +69,17 @@ Our Privacy Policy now includes more details about AI integrations, how we perso
 
 ![](https://static.xx.fbcdn.net/rsrc.php/yG/r/O0My_p0z_D0.webp)](#11)[
 
-## How to contact Meta with questions
+## Privacy notice for United States residents
 
 ![](https://static.xx.fbcdn.net/rsrc.php/yG/r/O0My_p0z_D0.webp)](#12)[
 
+## How to contact Meta with questions
+
+![](https://static.xx.fbcdn.net/rsrc.php/yG/r/O0My_p0z_D0.webp)](#13)[
+
 ## Why and how we process your information
 
-![](https://static.xx.fbcdn.net/rsrc.php/yG/r/O0My_p0z_D0.webp)](#13)
+![](https://static.xx.fbcdn.net/rsrc.php/yG/r/O0My_p0z_D0.webp)](#14)
 
 ## Other policies[
 
@@ -90,6 +94,8 @@ Our Privacy Policy now includes more details about AI integrations, how we perso
 # What is the Privacy Policy and what does it cover?
 
 Effective July 23, 2026
+
+Read the [United States Regional Privacy Notice](https://www.facebook.com/privacy/policies/uso/) for more details about how we handle Personal Information and how to exercise your rights.
 
 ## Highlights
 
@@ -2129,6 +2135,12 @@ We'll notify you before we make material changes to this Policy. You’ll have t
 
 [Return to top![](https://static.xx.fbcdn.net/rsrc.php/yB/r/vDK-9_qzobV.webp)](#)
 
+# Privacy notice for United States residents
+
+You can learn more about the consumer privacy rights that may be available to you by reviewing the [United States Regional Privacy Notice](https://www.facebook.com/privacy/policies/uso?entry_point=POLICY_SECTION%3A12-PrivacyNoticeForUnitedStates).
+
+[Return to top![](https://static.xx.fbcdn.net/rsrc.php/yB/r/vDK-9_qzobV.webp)](#)
+
 # How to contact Meta with questions
 
 You can learn more about how privacy works on [Facebook](https://www.facebook.com/help/238318146535333?entry_point=POLICY_SECTION%3A13-HowToContactMeta) and on *Dynamic link removed* and in the [Facebook Help Center](https://www.facebook.com/help/?entry_point=POLICY_SECTION%3A13-HowToContactMeta). If you have questions about this Policy or have questions, complaints or requests regarding your information, you can contact us as described below.
@@ -2142,8 +2154,6 @@ ATTN: Privacy Operations
 1 Meta Way
 
 Menlo Park, CA 94025
-
-Contact the [Data Protection Officer](https://help.meta.com/support/privacy/?entry_point=POLICY_SECTION%3A13-HowToContactMeta) for Meta Platforms, Inc.
 
 [Return to top![](https://static.xx.fbcdn.net/rsrc.php/yB/r/vDK-9_qzobV.webp)](#)
 
