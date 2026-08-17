@@ -45,7 +45,7 @@ selector: "div.page"
 
 [EEA, Switzerland, and the United Kingdom](/privacy/policy/staterights#eea)
 
-Effective April 23, 2026 | [Download PDF (English)](https://assets.xfinity.com/assets/dotcom/privacy-center/PP_04232026.pdf) | [Download PDF (Spanish)](https://assets.xfinity.com/assets/dotcom/privacy-center/PP_SP_04232026.pdf)
+Effective April 23, 2026 | [Download PDF (English)](https://assets.comcast.com/assets/dotcom/privacy-center/PP_04232026.pdf) | [Download PDF (Spanish)](https://assets.comcast.com/assets/dotcom/privacy-center/PP_SP_04232026.pdf)
 
   
 
