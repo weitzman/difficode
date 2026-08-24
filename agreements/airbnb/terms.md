@@ -5,10 +5,6 @@ selector: "#react-application"
 
 [](/)[Help Center](/help)
 
-Search
-
-Suggestions will show after typing in the search input. Use the up and down arrows to review. Use enter to select. If the selection is a phrase, that phrase will be submitted to search. If the suggestion is a link, the browser will navigate to that page.
-
 1.  [Home](/help)
 2.  [All topics](/help/all-topics)
 3.  [Legal Terms](/help/topic/1578)
@@ -1420,7 +1416,7 @@ Airbnb Ireland UC\*\*
 
 25 North Wall Quay, Dublin 1, D01 H104, Ireland
 
-[Company details page](https://news.airbnb.com/about-us/)
+[Company details page](https://www.airbnb.ie/about/company-details)
 
 \*\* If you book or offer an accommodation located in Israel or the Palestinian Territories, on or after April 20, 2026, you are contracting with Airbnb Limited LLC located at 888 Brannan Street, San Francisco, CA 94103, United States.
 
