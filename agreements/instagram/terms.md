@@ -9,11 +9,13 @@ selector: "#help-center-faq-page-container"
 
 Copy link
 
-What are Instagram's Terms of Use?
+What is the Instagram Service?
 
 How is Instagram funded?
 
-What is Instagram's Privacy Policy?
+What is the Instagram Privacy Policy?
+
+What are Instagram's Terms of Use?
 
 I have a different question
 
