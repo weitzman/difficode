@@ -238,7 +238,7 @@ We may update this Privacy Statement from time to time. If we modify our Privacy
 
 We will not share your opt-in to an SMS campaign with any third party for purposes unrelated to providing you with the services of that campaign. We may share your Personal Data, including your SMS opt-in or consent status, with third parties that help us provide our messaging services, including but not limited to platform providers, phone companies, and any other vendors who assist us in the delivery of text messages. All the above categories exclude text messaging originator opt-in data and consent; this information will not be shared with any third parties. (Business Texting available in US & Canada only)
 
-### The Cisco Privacy Statement was revised and effective as of April 29, 2026
+### The Cisco Privacy Statement was revised and is effective as of August 18, 2026
 
 Click [here](/c/en/us/about/legal/privacy-full/previous-2025-26.html) for the previous version of the Privacy Statement.  
 
