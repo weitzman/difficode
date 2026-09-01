@@ -161,7 +161,7 @@ On our [Products\[3\]](?entry_point=POLICY_SUBPAGE%3A1.subpage.1-YourActivityAnd
 *   Interactions with our features that are part of [AI at Meta](https://www.facebook.com/privacy/genai?entry_point=POLICY_SUBPAGE%3A1.subpage.1-YourActivityAndInformation) and related metadata. For example, information like content and messages you or others exchange with these features. [Learn more.\[8\]](?entry_point=POLICY_SUBPAGE%3A1.subpage.1-YourActivityAndInformation#annotation-8)
 *   Types of content, including ads, you view or interact with, and how you interact with it.
 *   Apps and features you use, and what actions you take in them. [See examples\[9\]](?entry_point=POLICY_SUBPAGE%3A1.subpage.1-YourActivityAndInformation#annotation-9).
-*   Information about websites that you visit or interact with, and your activity on them, when you use our in-app browser. [Learn more](https://www.facebook.com/business/help/206578174518231?entry_point=POLICY_SUBPAGE%3A1.subpage.1-YourActivityAndInformation)
+*   Information about websites that you visit or interact with, and your activity on them, when you use our in-app browser. [Learn more](https://www.facebook.com/help/1601749424720842/?entry_point=POLICY_SUBPAGE%3A1.subpage.1-YourActivityAndInformation)
 *   Purchases or other transactions you make, such as through Meta checkout experiences, including credit card information. [Learn more\[10\]](?entry_point=POLICY_SUBPAGE%3A1.subpage.1-YourActivityAndInformation#annotation-10).
 *   Hashtags you use.
 *   The time, frequency and duration of your activities on our Products.
@@ -371,7 +371,7 @@ When you or others use, or exchange information with these features, or when the
 *   Responses and other information you receive from these features. Sometimes these are provided with the help of our [AI integrations](?entry_point=POLICY_ANNOTATION%3A1.ex.62-InformationYouOrOthersExchange#4.subpage.15-AiIntegrations)
 *   Information relating to the actions these features take, like booking you a restaurant reservation or sending an email, including the data these features access or share to take these actions
 *   Feedback you give to these features and responses to your feedback
-*   [Information we collect](?entry_point=POLICY_ANNOTATION%3A1.ex.62-InformationYouOrOthersExchange#1-WhatInformationDoWe) to personalize these features. [See examples](https://mbasic.facebook.com/privacy/policy/printable/?annotations%5B0%5D=1.ex.63-PersonalizeAIFeatures&entry=0&entry_point=POLICY_ANNOTATION%3A1.ex.62-InformationYouOrOthersExchange)
+*   [Information we collect](?entry_point=POLICY_ANNOTATION%3A1.ex.62-InformationYouOrOthersExchange#1-WhatInformationDoWe) to personalize these features. [See examples](?entry_point=POLICY_ANNOTATION%3A1.ex.62-InformationYouOrOthersExchange#2.subpage.5-HowWeUseInformationAI)
 *   Information about you and others from third party apps and services that you connect to Meta Products to enhance your experience, including our features that are part of AI at Meta. [Learn more](?entry_point=POLICY_ANNOTATION%3A1.ex.62-InformationYouOrOthersExchange#4.subpage.15-AiIntegrations)
 
 9
@@ -1329,7 +1329,7 @@ When you or others use, or exchange information with these features, or when the
 *   Responses and other information you receive from these features. Sometimes these are provided with the help of our [AI integrations](?entry_point=POLICY_ANNOTATION%3A1.ex.62-InformationYouOrOthersExchange#4.subpage.15-AiIntegrations)
 *   Information relating to the actions these features take, like booking you a restaurant reservation or sending an email, including the data these features access or share to take these actions
 *   Feedback you give to these features and responses to your feedback
-*   [Information we collect](?entry_point=POLICY_ANNOTATION%3A1.ex.62-InformationYouOrOthersExchange#1-WhatInformationDoWe) to personalize these features. [See examples](https://mbasic.facebook.com/privacy/policy/printable/?annotations%5B0%5D=1.ex.63-PersonalizeAIFeatures&entry=0&entry_point=POLICY_ANNOTATION%3A1.ex.62-InformationYouOrOthersExchange)
+*   [Information we collect](?entry_point=POLICY_ANNOTATION%3A1.ex.62-InformationYouOrOthersExchange#1-WhatInformationDoWe) to personalize these features. [See examples](?entry_point=POLICY_ANNOTATION%3A1.ex.62-InformationYouOrOthersExchange#2.subpage.5-HowWeUseInformationAI)
 *   Information about you and others from third party apps and services that you connect to Meta Products to enhance your experience, including our features that are part of AI at Meta. [Learn more](?entry_point=POLICY_ANNOTATION%3A1.ex.62-InformationYouOrOthersExchange#4.subpage.15-AiIntegrations)
 
 46
