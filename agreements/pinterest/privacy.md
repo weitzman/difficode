@@ -7,6 +7,8 @@ selector: "main"
 
 Privacy Policy
 
+*We're updating our Privacy Policy, effective November 12, 2026. You can preview the updated Privacy Policy [here](https://policy.pinterest.com/privacy-policy-preview).*
+
 # State Privacy Law Disclosure & Notice at Collection
 
 **This [U.S. State Privacy Law Disclosure & Notice at Collection](https://policy.pinterest.com/notice-at-collection-preview) applies only if you are a resident of a U.S. state governed by a state-level privacy law. This page also serves as our California Notice at Collection.**
