@@ -3,6 +3,8 @@ url: "https://www.dropbox.com/privacy"
 selector: "#main-content"
 ---
 
+Dropbox’s Privacy Policy will be changing effective January 1, 2027. Click [here](/privacy2026) to review.
+
 If your organization signed a Dropbox Business, Dropbox Services, or Dropbox Enterprise Agreement with Dropbox, that Agreement may have modified the privacy policy below. Please [contact your organization’s Admin](https://help.dropbox.com/teams-admins/team-member/find-admin) for details.  
 
 Dropbox Privacy Policy
