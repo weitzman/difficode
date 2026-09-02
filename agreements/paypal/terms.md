@@ -9,7 +9,7 @@ selector: "#content-wrapper"
 
 PAYPAL USER AGREEMENT
 
-Last updated on June 29, 2026
+Last updated on September 1, 2026
 
 ## About Your Account
 
@@ -284,6 +284,14 @@ The fees applicable to sending personal transactions to an eligible PayPal accou
 If you send money to a friend’s or family member’s eligible PayPal account from a third party (non-PayPal) website or by using a third party’s product or service, then the third party will determine if the sender or recipient pays the fee. This will be disclosed to you by the third party before the payment is initiated.
 
 You can also use the Send Money feature in your PayPal account to pay another PayPal account for goods or services. You will not be charged any transaction fee for sending money to purchase goods or services as long as you send the money as a commercial transaction (often referred to as using the “Send Money for Goods and Services” feature in your PayPal account). In that case, the seller will pay a fee. You must not send money as a personal transaction (often referred to as using the “Send Money to a Friend or Family Member” feature in your PayPal account) when you are paying for goods or services. Note that the “Send Money to a Friend or Family Member” feature may not be available when sending money to a business account as such accounts may not be eligible to receive personal transactions.
+
+## Payments for Goods or Services Sent from Business Account
+
+Business accounts may use the Send Money feature to send payments for goods or services to recipients with or without PayPal accounts. Different terms, conditions, and fees apply depending on whether the recipient has a PayPal account.
+
+If you send money from your PayPal business account using the Send Money for Goods and Services feature to a recipient with a PayPal account, the recipient will pay the fees applicable to [commercial transactions](https://www.paypal.com/us/business/paypal-business-fees#statement-2).
+
+If you send money for goods and services from your PayPal business account using the Send Money feature to a recipient without a PayPal account, the payment will be processed as a [Bill Pay for Business Accounts](https://www.paypal.com/us/legalhub/paypal/bill-pay-business?country.x=US&locale.x=en_US) transaction. In that case, you will pay the applicable [Bill Pay for Business Accounts fees](https://www.paypal.com/us/business/paypal-business-fees#BillPay-BusinessAccountsTransactionRates).
 
 ## Buying Something From, Donating to, or Returning Something to, a Seller Who Accepts PayPal
 
