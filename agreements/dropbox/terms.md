@@ -3,6 +3,8 @@ url: "https://www.dropbox.com/terms"
 selector: "#main-content"
 ---
 
+Dropbox’s Terms of Service will be changing effective January 1, 2027. Click [here](/terms2026) to review the new terms.
+
 For users with a separate DocSend or Dropbox Sign account, the DocSend Terms of Service can be found [here](https://www.docsend.com/terms-of-service/), and the Dropbox Sign Terms of Service can be found [here](https://www.hellosign.com/terms).
 
 Dropbox Terms of Service
