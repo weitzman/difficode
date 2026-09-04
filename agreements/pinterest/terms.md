@@ -7,6 +7,36 @@ selector: "main"
 
 Terms of Service
 
+Table of Contents
+
+[Thank you for using Pinterest!](/en/terms-of-service#section-thank-you-for-using-pinterest)
+
+[1\. The Service](/en/terms-of-service#section-1-the-service)
+
+[2\. Using Pinterest](/en/terms-of-service#section-2-using-pinterest)
+
+[3\. Your User Content](/en/terms-of-service#section-3-your-user-content)
+
+[4\. Intellectual Property](/en/terms-of-service#section-4-intellectual-property)
+
+[5\. Security](/en/terms-of-service#section-5-security)
+
+[6\. Third party links, sites, and services](/en/terms-of-service#section-6-third-party-links-sites-and-services)
+
+[7\. Termination](/en/terms-of-service#section-7-termination)
+
+[8\. Indemnity](/en/terms-of-service#section-8-indemnity)
+
+[9\. Disclaimers](/en/terms-of-service#section-9-disclaimers)
+
+[10\. Limitation of Liability](/en/terms-of-service#section-10-limitation-of-liability)
+
+[11\. Arbitration](/en/terms-of-service#section-11-arbitration)
+
+[12\. Governing law and jurisdiction](/en/terms-of-service#section-12-governing-law-and-jurisdiction)
+
+[13\. General terms](/en/terms-of-service#section-13-general-terms)
+
 *We're updating our Terms of Service, effective November 12, 2026. You can preview the updated Terms of Service [here](https://policy.pinterest.com/terms-of-service-preview).*
 
 # Thank you for using Pinterest!
