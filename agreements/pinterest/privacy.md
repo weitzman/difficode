@@ -7,6 +7,36 @@ selector: "main"
 
 Privacy Policy
 
+Table of Contents
+
+[State Privacy Law Disclosure & Notice at Collection](/en/privacy-policy#section-state-privacy-law-disclosure-notice-at-collection)
+
+[Summary of changes](/en/privacy-policy#section-summary-of-changes)
+
+[Thank you for using Pinterest!](/en/privacy-policy#section-thank-you-for-using-pinterest)
+
+[Scope of the Privacy Policy](/en/privacy-policy#section-scope-of-the-privacy-policy)
+
+[We collect information in a few different ways](/en/privacy-policy#section-we-collect-information-in-a-few-different-ways)
+
+[How we use the info we collect](/en/privacy-policy#section-how-we-use-the-info-we-collect)
+
+[Additional Info for EEA, Swiss and UK Data Subjects: Legal bases we rely on where we use your information](/en/privacy-policy#section-additional-info-for-eea-swiss-and-uk-data-subjects-legal-bases-we-rely-on-where-we-use-your-information)
+
+[Your Rights and Choices](/en/privacy-policy#section-your-rights-and-choices)
+
+[How and when we share information](/en/privacy-policy#section-how-and-when-we-share-information)
+
+[Transferring your information](/en/privacy-policy#section-transferring-your-information)
+
+[How long we keep your information](/en/privacy-policy#section-how-long-we-keep-your-information)
+
+[Our policy on children's information](/en/privacy-policy#section-our-policy-on-childrens-information)
+
+[How we make changes to this policy](/en/privacy-policy#section-how-we-make-changes-to-this-policy)
+
+[Contact us](/en/privacy-policy#section-contact-us)
+
 *We're updating our Privacy Policy, effective November 12, 2026. You can preview the updated Privacy Policy [here](https://policy.pinterest.com/privacy-policy-preview).*
 
 # State Privacy Law Disclosure & Notice at Collection
