@@ -69,13 +69,17 @@ Our Privacy Policy now includes more details about AI integrations, how we perso
 
 ![](https://static.xx.fbcdn.net/rsrc.php/yG/r/O0My_p0z_D0.webp)](#11)[
 
-## How to contact Meta with questions
+## Privacy notice for United States residents
 
 ![](https://static.xx.fbcdn.net/rsrc.php/yG/r/O0My_p0z_D0.webp)](#12)[
 
+## How to contact Meta with questions
+
+![](https://static.xx.fbcdn.net/rsrc.php/yG/r/O0My_p0z_D0.webp)](#13)[
+
 ## Why and how we process your information
 
-![](https://static.xx.fbcdn.net/rsrc.php/yG/r/O0My_p0z_D0.webp)](#13)
+![](https://static.xx.fbcdn.net/rsrc.php/yG/r/O0My_p0z_D0.webp)](#14)
 
 ## Other policies[
 
@@ -90,6 +94,8 @@ Our Privacy Policy now includes more details about AI integrations, how we perso
 # What is the Privacy Policy and what does it cover?
 
 Effective July 23, 2026
+
+Read the [United States Regional Privacy Notice](https://www.facebook.com/privacy/policies/uso/) for more details about how we handle Personal Information and how to exercise your rights.
 
 ## Highlights
 
@@ -1611,14 +1617,9 @@ Visit your [Ad preferences](https://accountscenter.facebook.com/ad_preferences?e
 
 We advertise our own products and services on non-Meta ad platforms. We use marketing vendors to deliver these ads. If we use your activity on our Products to tailor these ads, you can opt out of this type of use.
 
-If you have an account:
-
-*   Visit your [Ad preferences](https://accountscenter.facebook.com/ads/ads_about_meta/?entry_product=ad_profile_center&entry_point=POLICY_ANNOTATION%3A6.ex.5-AdPreferences) to opt out.
-
-If you don't have an account:
-
-*   You can use the *Dynamic link removed* industry opt-out platform on your web browser. If you live in Canada, you can use the *Dynamic link removed* industry opt-out platform. Certain ad blockers and tools to restrict cookies can interfere with your ability to opt out.
-*   Check your mobile device settings. Device manufacturers provide different ways to opt out.
+*   For cookies on your web browser, you can use the *Dynamic link removed* industry opt-out platform. If you live in Canada, you can use the *Dynamic link removed* industry opt-out platform. Certain ad blockers and tools to restrict cookies can interfere with your ability to opt out.
+*   For your mobile device, check your mobile device settings. Different device manufacturers provide different ways to opt out.
+*   **Other online identifiers:** You may use the *Dynamic link removed* industry opt-out platform.
 
 [Return to top![](https://static.xx.fbcdn.net/rsrc.php/yB/r/vDK-9_qzobV.webp)](#)
 
@@ -1806,14 +1807,9 @@ Visit your [Ad preferences](https://accountscenter.facebook.com/ad_preferences?e
 
 We advertise our own products and services on non-Meta ad platforms. We use marketing vendors to deliver these ads. If we use your activity on our Products to tailor these ads, you can opt out of this type of use.
 
-If you have an account:
-
-*   Visit your [Ad preferences](https://accountscenter.facebook.com/ads/ads_about_meta/?entry_product=ad_profile_center&entry_point=POLICY_ANNOTATION%3A6.ex.5-AdPreferences) to opt out.
-
-If you don't have an account:
-
-*   You can use the *Dynamic link removed* industry opt-out platform on your web browser. If you live in Canada, you can use the *Dynamic link removed* industry opt-out platform. Certain ad blockers and tools to restrict cookies can interfere with your ability to opt out.
-*   Check your mobile device settings. Device manufacturers provide different ways to opt out.
+*   For cookies on your web browser, you can use the *Dynamic link removed* industry opt-out platform. If you live in Canada, you can use the *Dynamic link removed* industry opt-out platform. Certain ad blockers and tools to restrict cookies can interfere with your ability to opt out.
+*   For your mobile device, check your mobile device settings. Different device manufacturers provide different ways to opt out.
+*   **Other online identifiers:** You may use the *Dynamic link removed* industry opt-out platform.
 
 64
 
@@ -2126,6 +2122,12 @@ We may preserve your information where we deem it necessary for reasons related 
 # How will you know the Policy has changed?
 
 We'll notify you before we make material changes to this Policy. You’ll have the opportunity to review the revised Policy before you choose to continue using our Products.
+
+[Return to top![](https://static.xx.fbcdn.net/rsrc.php/yB/r/vDK-9_qzobV.webp)](#)
+
+# Privacy notice for United States residents
+
+You can learn more about the consumer privacy rights that may be available to you by reviewing the [United States Regional Privacy Notice](https://www.facebook.com/privacy/policies/uso?entry_point=POLICY_SECTION%3A12-PrivacyNoticeForUnitedStates).
 
 [Return to top![](https://static.xx.fbcdn.net/rsrc.php/yB/r/vDK-9_qzobV.webp)](#)
 
