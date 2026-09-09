@@ -254,7 +254,7 @@ Download PDF
          2.  *Choice of Law*. These Terms and the relationship between the parties, including any claim or dispute that might arise between the parties, whether sounding in contract, tort or otherwise, shall be governed by the laws of the province of Ontario without regard to its conflict of law provisions. In no event shall the parties bring claims against one another under the laws of another jurisdiction.
          3.  *Forum*. Any claim against us shall be brought exclusively in the courts located in the City of Toronto, Ontario, and agree to waive any and all objections to the exercise of jurisdiction over the parties by such courts and to a venue in such courts.
          4.  Customer Support. Below are links for customer support.
-             1.  [Customer Support (English)](http://ca.help.yahoo.com/kb/account)
+             1.  [Customer Support (English)](https://ca.help.yahoo.com/kb/account)
              2.  [Customer Support (French)](https://fr-ca.aide.yahoo.com/kb/account)
          5.  *Updates*. We may automatically download and install the latest version of the Services on your device once a new version or feature is available.
          6.  Some provinces and territories do not allow for the exclusion of warranties (including the province of Quebec). In these provinces and territories, you have only the warranties that are expressly required to be provided in accordance with applicable law.
