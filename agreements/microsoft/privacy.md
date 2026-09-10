@@ -7,7 +7,7 @@ selector: "main"
 
  
 
-Last Updated: July 2026
+Last Updated: September 2026
 
 [What's New?](https://go.microsoft.com/fwlink/p/?LinkId=780766)
 
@@ -17,7 +17,7 @@ Last Updated: July 2026
 
 Expand All Collapse All
 
-### Microsoft Privacy Statement
+## Microsoft Privacy Statement
 
 *   [Personal data we collect](#mainpersonaldatawecollectmodule)
 *   [How we use personal data](#mainhowweusepersonaldatamodule)
@@ -143,7 +143,7 @@ The data we collect can include the following:
 
 **Interactions**. Information about your use of Microsoft products, including features you use, searches, commands given, error reports, and support requests.
 
-*   **Device and usage data**. Data about your device and product features you use, hardware and software details, product performance, and your settings. For example:
+*   **Device and usage data**. Data about your device and product features you use, hardware and software details, product performance, your interactions with our websites and apps, and your settings. For example:
     *   **Payment and account history**.
     *   **Browsing history**.
     *   **Device, connectivity, and configuration data**. For example, IP addresses, device identifiers, nearby networks, and other information about the operating systems and other software installed on your device.
@@ -301,7 +301,7 @@ In some cases, your ability to access or control your personal data will be limi
 The tools most useful to access and control your personal data that Microsoft has obtained depends on our interactions with you and your use of our products. The following is a general list of tools we provide to help you control your personal data; specific products may provide additional controls. Please refer to the product specific sections below for more information about how you can access your data through other in-product features.
 
 *   **Bing.** If you are signed into Bing with your Microsoft account, you can view and clear your stored search and chat history on your [privacy dashboard](https://account.microsoft.com/privacy). If you are not signed in, you can view and clear stored search history associated with your device in your [Bing settings](https://www.bing.com/profile/history).
-*   **Microsoft Copilot and Microsoft 365 Copilot**. If you are signed into Microsoft Copilot or Microsoft 365 Copilot with your Microsoft account, you can view, access, export and delete Copilot activity history from your [privacy dashboard](https://account.microsoft.com/privacy/). You can also use in-product controls to manage your data within the Microsoft Copilot [website](https://copilot.microsoft.com/) or app.
+*   **Microsoft Copilot**. If you are signed into Microsoft Copilot with your Microsoft account, you can view, access, export and delete Copilot activity history from your [privacy dashboard](https://account.microsoft.com/privacy/). You can also use in-product controls to manage your data within the Microsoft Copilot [website](https://copilot.microsoft.com/) or app.
 *   **Microsoft account.** You can visit the [Microsoft account website](https://account.microsoft.com/) if you want to access, edit, or remove your account’s profile and payment information, change your password, add security information or close your account.
 *   **Microsoft privacy dashboard**. You can control some of the data Microsoft processes via your Microsoft account on the [Microsoft privacy dashboard](https://account.microsoft.com/privacy). For example, you can view and clear the browsing, search, and location data associated with your Microsoft account.
 *   **Microsoft Store.** You can access your Microsoft Store profile and account information by visiting [Microsoft Store](https://www.microsoftstore.com/) and selecting **View account** or **Order history.**
@@ -460,7 +460,7 @@ Microsoft offers Family Safety tools that allow parents to connect their childre
 
 For users under the age of 13 or as specified by law in their jurisdiction, certain Microsoft products and services will either block users under that age or require parental or guardian consent or authorization before use, including when creating an account. See the [How we use personal data](#mainhowweusepersonaldatamodule) section for more information about how we provide age appropriate experiences.
 
-When we receive parental consent or authorization, the child's account is treated much like any other account, and the child will be able to use Microsoft services such as Outlook, Bing, Copilot, and XBOX, and communicate or share data with other users. We will not knowingly ask children under the age of consent to provide more data than is necessary to provide the product.
+When we receive parental consent or authorization, the child's account is treated much like any other account, and the child will be able to use Microsoft services such as Outlook, Bing, and XBOX, and communicate or share data with other users. We will not knowingly ask children under the age of consent to provide more data than is necessary to provide the product.
 
 As mentioned in the [Advertising](https://privacy.microsoft.com/privacystatement#mainadvertisingmodule) section, we do not deliver personalized advertising to children whose birthdate in their Microsoft account identifies them as under 18 years of age. For more details, see the [Microsoft account](https://privacy.microsoft.com/privacystatement#mainmicrosoftaccountmodule) section of this privacy statement and [Learn more about parental consent and Microsoft child accounts](https://support.microsoft.com/help/4090274/microsoft-account-parental-consent-and-child-accounts).
 
@@ -607,23 +607,23 @@ The Microsoft Copilot family of services, products, and solutions leverages gene
 
 Our use of AI is subject to Microsoft’s [AI Principles](https://aka.ms/RAI) and Microsoft’s [Responsible AI Standard](https://aka.ms/RAIStandardPDF), and our collection and use of personal data in developing and deploying our AI features is consistent with our commitments outlined throughout our privacy statement. You can find out more about the tools, practices, and policies Microsoft has created to uphold our responsible AI principles [here](https://aka.ms/RAI).
 
-**The Microsoft Copilot [website](https://copilot.microsoft.com/) and app** (on Windows, Mac, iOS, and Android) are the core of the consumer Copilot experience, where you can search the web, create content, and interact with features like Copilot Vision, as well as let Microsoft Copilot interact with other apps, services, and websites to take actions on your behalf. When you use Microsoft Copilot, it will use your prompts, location, language, and related settings to provide helpful responses and improve services (including to provide relevant advertising).
+**The Microsoft Copilot [website](https://copilot.microsoft.com/) and app** (on Windows, Mac, iOS, and Android) are the core of the consumer Copilot experience, where you can search the web, create content, and interact with features like Copilot Vision, as well as let Microsoft Copilot interact with other apps, services, and websites to take actions on your behalf. When you use Microsoft Copilot, it will use your prompts, location, language, and related settings to provide helpful responses and improve services.
 
-For signed-in users in some markets, Microsoft Copilot can use your conversation history to personalize your experience. You can opt-out of personalization at any time. Microsoft Copilot also uses prompts and related data to provide and improve services, including relevant advertising. You can manage your prompt history in product and on the Microsoft Privacy Dashboard, and can adjust your location, language, and other additional privacy settings in product. For more information about these capabilities and your choices, see the [Microsoft Copilot FAQ](https://support.microsoft.com/topic/privacy-faq-for-microsoft-copilot-27b3a435-8dc9-4b55-9a4b-58eeb9647a7f).
+For users in some markets, Microsoft Copilot can use your conversation history (including any memories you save) to personalize your experience. We may also offer you the ability to personalize your Microsoft Copilot experience using your interactions with our other products and services, like Bing, Edge, and MSN. You can manage your memories and control personalization features using the settings in Microsoft Copilot at any time.
 
-We will also use your conversation data to monitor performance, troubleshoot and fix bugs and issues, prevent abuse, and to provide and improve Microsoft Copilot. In some markets, this data can help train our AI models in Microsoft Copilot unless you opt out. Learn more about your choices and data protection [here](https://support.microsoft.com/topic/microsoft-copilot-privacy-controls-8e479f27-6eb6-48c5-8d6a-c134062e2be6). Please also review the [Transparency Note for Microsoft Copilot](https://support.microsoft.com/topic/transparency-note-for-microsoft-copilot-c1541cad-8bb4-410a-954c-07225892dbc2) for information on our safety practices and our efforts to ensure that Copilot is consistent with our Responsible AI principles.
+Microsoft Copilot also uses prompts and related data to provide and improve services, including relevant advertising. You can manage your prompt history in product and on the Microsoft Privacy Dashboard, and can adjust your location, language, and other additional privacy settings in product. For more information about these capabilities and your choices, see [Microsoft Copilot for individuals: your privacy controls and choices](https://go.microsoft.com/fwlink/?LinkId=2371068).
+
+We also use your conversation data to monitor performance, troubleshoot and fix bugs and issues, prevent abuse, and to provide and improve Microsoft Copilot. Please review the [Transparency Note for Microsoft Copilot](https://support.microsoft.com/topic/transparency-note-for-microsoft-copilot-c1541cad-8bb4-410a-954c-07225892dbc2) for information on our safety practices and our efforts to ensure that Microsoft Copilot is consistent with our Responsible AI principles.
 
 Microsoft Copilot also appears in other Microsoft products like Microsoft Edge and XBOX. In these cases, data is generally used according to each product’s primary uses. For more information, see the [Microsoft Edge](#mainmsedgemodule) and [XBOX](#mainxboxmodule) sections of this privacy statement.
 
 If you use Microsoft Copilot in third-party products and services, such as messaging platforms, Microsoft processes your data as described here, but the third party’s privacy policies and data processing activities may also apply.
 
-**Microsoft 365 Copilot** is a consumer Copilot offering available to Microsoft 365 Family and Microsoft 365 Personal subscribers. When integrated with Microsoft 365, Copilot handles data as described in the Productivity and Communications section of this privacy statement.
+For enterprise customers, Microsoft Copilot offers enhanced data protection and customization. Data is collected and used as described in the Enterprise and Developer Products section.
 
-For enterprise customers, Microsoft 365 Copilot offers enhanced data protection and customization. Data is collected and used as described in the Enterprise and Developer Products section.
+The Microsoft Copilot features that appear in Microsoft 365 apps as part of a Microsoft 365 Personal, Microsoft 365 Family, or Microsoft 365 Premium subscription provide AI-powered productivity capabilities through real-time conversational experiences. We do so by applying large language model (LLM) processing on the content you choose to provide in Microsoft 365 apps including Word, Excel, OneNote, Outlook, and PowerPoint. Microsoft Copilot in Microsoft 365 is not available for use in Office desktop licenses. When used with available Microsoft 365 apps, Microsoft Copilot will use the content in your files only when you ask it to perform a specific action on that specific content – for example, when you ask Microsoft Copilot to help you rewrite a paragraph in a Word document or ask Microsoft Copilot to generate a to-do list from your notes in OneNote. Similar to connected experiences, required service data is collected during your use of Microsoft Copilot which includes information related to its operation that is needed to keep the underlying service secure, up to date, and performing as expected. If you use Microsoft Copilot features in Microsoft 365 apps, Microsoft Copilot handles data as described in the Productivity and Communications section of this privacy statement.
 
-The Copilot features that appear in Microsoft 365 apps as part of a Microsoft 365 Personal, Microsoft 365 Family, or Microsoft 365 Premium subscription provide AI-powered productivity capabilities through real-time conversational experiences. We do so by applying large language model (LLM) processing on the content you choose to provide in Microsoft 365 apps including Word, Excel, OneNote, Outlook, and PowerPoint. Copilot in Microsoft 365 is not available for use in Office desktop licenses. When used with available Microsoft 365 apps, Copilot will use the content in your files only when you ask it to perform a specific action on that specific content – for example, when you ask Copilot to help you rewrite a paragraph in a Word document or ask Copilot to generate a to-do list from your notes in OneNote. Similar to connected experiences, required service data is collected during your use of Copilot which includes information related to its operation that is needed to keep the underlying service secure, up to date, and performing as expected.
-
-See [Copilot in Microsoft 365 apps for your home: your data and privacy – Microsoft Support](https://go.microsoft.com/fwlink?linkid=2258434) and [Frequently asked questions about Copilot in Microsoft 365 subscriptions](https://support.microsoft.com/office/frequently-asked-questions-about-copilot-in-microsoft-365-subscriptions-bda0d6e8-346d-41ce-ab1e-f6af6229c462) for more information.
+See the [Microsoft Copilot Privacy Center](https://go.microsoft.com/fwlink/?LinkId=2375302) and [Frequently asked questions about Copilot in Microsoft 365 subscriptions](https://support.microsoft.com/office/frequently-asked-questions-about-copilot-in-microsoft-365-subscriptions-bda0d6e8-346d-41ce-ab1e-f6af6229c462) for more information.
 
 **Copilot Health** is a consumer Copilot offering specifically developed to provide personalized assistance focused on health and wellness. Copilot Health allows you to upload health-related data including your personal health records and data from wearable devices. Copilot Health can use that data, along with your prompts and chat history, to provide you with personalized information and recommendations.
 
@@ -1424,7 +1424,9 @@ We collect limited information about children, including their name, birthdate, 
 
 **Camera and Microphone**. While using XBOX, you can use the device’s capabilities such as the microphone, camera, and screen recording to improve your gaming experience.
 
-**XBOX diagnostic data**. Diagnostic data has two categories: required and optional. If your child uses an XBOX console, only the minimum required diagnostic data is sent to Microsoft to help keep XBOX safe, secure, and performing as expected. Optional diagnostic data collection is turned off for child accounts. Please see the [Diagnostic data](#maindiagnosticdatamodule) section for more information.
+**XBOX diagnostic data**. Diagnostic data has two categories: required and optional. Required diagnostic data for XBOX includes information about your device, service performance, how you use our products, apps and services, game activity, and your settings and capabilities.
+
+If your child uses an XBOX console, only the minimum required diagnostic data is sent to Microsoft to help keep XBOX safe, secure, and performing as expected. Optional diagnostic data collection is turned off for child accounts. Please see the [Diagnostic data](#maindiagnosticdatamodule) section for more information.
 
 Learn more at [Manage settings for optional data sharing](https://www.xbox.com/managedatacollection).
 
