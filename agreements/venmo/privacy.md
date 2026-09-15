@@ -615,7 +615,7 @@ J. Sensitive Personal Information
 *   third parties for our business purposes or as permitted or required by law
 *   law enforcement, government officials, or other third parties
 
-       
+        
 
 If you accept cookies, we’ll use them to improve and customize your experience and enable our partners to show you personalized ads when you visit other sites. [Manage cookies and learn more](#)
 
