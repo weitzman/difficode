@@ -757,3 +757,6 @@ General Terms of Use Hyperlinked Document List (listed in order of mention above
 14.  Image Use Rights: [https://www.adobe.com/legal/permissions/image-notice.html](/legal/permissions/image-notice.html)
 15.  Adobe Customer Care: [https://helpx.adobe.com/contact.html?step=CCSN\_membership-account-payment\_cancel-your-membership](https://helpx.adobe.com/contact.html?step=CCSN_membership-account-payment_cancel-your-membership)
 16.  Intellectual Property Removal Policy: [https://www.adobe.com/legal/dmca.html](/legal/dmca.html)
+
+*   [Home](/)
+*   [Legal](/legal.html)
