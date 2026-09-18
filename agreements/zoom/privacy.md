@@ -3,7 +3,258 @@ url: "https://zoom.us/privacy"
 selector: "#policy"
 ---
 
-This Privacy Statement describes the personal data we collect and/or process (which may include collecting, organizing, structuring, storing, using, or disclosing) to provide products and services offered directly by Zoom Communications, Inc. (“Zoom”), including Zoom’s websites, its meetings, webinars, and messaging platform, related collaborative features, and Zoom App Marketplace (“Zoom products and services” or “products and services”). Zoom products and services covered in this Privacy Statement do not include products or services developed by Zoom that are covered under a separate privacy policy (including those listed [here](https://explore.zoom.us/en/trust/privacy/policies/)). California residents, please see our [California Privacy Notice at Collection](#_qhklx843v2z1), and [California & Other U.S. State Privacy Rights sections](#_hfpe4383ebbs).
+     
+
+  
+
+[Skip to main content](#main) Skip to help chat[](https://www.zoom.com/)
+
+*   Products
+*   ![ai-companion-icon.svg](https://media.zoom.com/images/assets/ai-companion-icon.svg/Zz04M2M4M2E4NjAxZWExMWYxOWQyMjJlNzdhOWY1OTUwYw==)AI
+*   Solutions
+*   [Pricing](https://zoom.us/pricing)
+*   [Support](https://support.zoom.com/hc/en)
+*   English
+
+[Sign In](https://zoom.us/signin) [Contact Sales](/en/contact/contact-sales/)
+
+Get in touch
+
+[+1.888.799.9666](tel:+18887999666) / [+1.888.303.1012](tel:+1.888.303.1012)
+
+[Sign Up Free](https://zoom.us/signup) [Contact Sales](/en/contact/contact-sales/)
+
+[![](https://media.zoom.com/images/assets/apple-logo+1.png/Zz04Yjg3MTBjODVmNzExMWYxOTFlNWZhNmU0NmI5ZmQyZg==)
+
+Download on the App Store
+
+](https://www.zoom.us/download)
+
+[![](https://media.zoom.com/images/assets/playstore+1+%283%29.png/Zz1iYTM4ODY4MjVmM2UxMWYxOTU5Y2E2OWE2OWRjZGI4Mw==)
+
+Get it on Google Play
+
+](https://www.zoom.us/download)
+
+Search
+
+[English](/en/trust/privacy/privacy-statement/) [Deutsch](/de/trust/privacy/privacy-statement/) [Français](/fr/trust/privacy/privacy-statement/) [Español](/es/trust/privacy/privacy-statement/) [Svenska](/sv/trust/privacy/privacy-statement/) [Nederlands](/nl/trust/privacy/privacy-statement/) [Tiếng Việt](/vi/trust/privacy/privacy-statement/) [Türkçe](/tr/trust/privacy/privacy-statement/) [Русский](/ru/trust/privacy/privacy-statement/) [Português](/pt/trust/privacy/privacy-statement/) [Polski](/pl/trust/privacy/privacy-statement/) [한국어](/ko/trust/privacy/privacy-statement/) [日本語](/ja/trust/privacy/privacy-statement/) [Italiano](/it/trust/privacy/privacy-statement/) [Indonesia](/id/trust/privacy/privacy-statement/) [中文（繁體，台灣）](/zh-tw/trust/privacy/privacy-statement/) [中文（简体，中国）](/zh-cn/trust/privacy/privacy-statement/)
+
+Meet
+
+[Join a meeting](https://zoom.us/join) [Host a meeting](https://zoom.us/start/videomeeting) [Download app](https://zoom.us/download)
+
+[Sign In](https://zoom.us/signin) [Support](https://support.zoom.com/hc/en)
+
+[Contact Sales](/en/contact/contact-sales/) [Sign Up Free](https://zoom.us/signup)
+
+Zoom Workplace
+
+[View All](/en/products/)
+
+[Meetings](/en/products/virtual-meetings/)[Chat](/en/products/team-chat/)[Phone](/en/products/voip-phone/)[Mail & Calendar](/en/products/email-calendar/)[Scheduler](/en/products/appointment-scheduler/)[Whiteboard](/en/products/online-whiteboard/)[Clips](/en/products/screen-recorder/)[Zoom Marketplace](https://marketplace.zoom.us/)
+
+Business Services
+
+[Revenue Accelerator](/en/products/conversation-intelligence/)[Webinars & Events](/en/products/webinars/)[Bonsai](/en/products/bonsai/)[BrightHire](/en/products/brighthire/)
+
+Zoom CX
+
+[Contact Center](/en/products/contact-center/)[AI Expert Assist](/en/products/ai-expert-assist/)[Workforce Management](/en/products/workforce-management/)[Quality Management](/en/products/quality-management/)[CX Insights](/en/products/cx-insights/)
+
+Zoom AI
+
+[ZoomMate](/en/products/ai-assistant/)[My Notes](/en/products/ai-assistant/features/ai-note-taking/)[Virtual Agent](/en/products/virtual-agent/)[AI Services](/en/products/ai-services/)[AI On-Prem](/en/products/on-premise-ai/)[AI Productivity Suite](https://www.zoom.com/en/products/ai-productivity-suite)[Canvas](/en/products/collaborative-docs/)[Slides](/en/products/ai-slides/)[Sheets](/en/products/ai-sheets/)[Paper](https://www.zoom.com/en/products/ai-productivity-suite/paper)
+
+Developers
+
+[Overview](https://developers.zoom.us/docs/build/)[Video SDK](/en/video-sdk/)[Co-Browse](https://developers.zoom.us/docs/cobrowse-sdk/)
+
+[Contact Sales](/en/contact/contact-sales/)
+
+0
+
+*   Popular
+    
+*   Zoom Workplace
+    
+    Zoom Workplace
+    
+    Collaboration tools in an AI-first work platform.[Learn more](/en/products/collaboration-tools/)
+    
+    Communication
+    
+    [Meetings](/en/products/virtual-meetings/)[Chat](/en/products/team-chat/)[Phone](/en/products/voip-phone/)[Mail & Calendar](/en/products/email-calendar/)[Scheduler](/en/products/appointment-scheduler/)
+    
+    Productivity
+    
+    [Canvas](/en/products/collaborative-docs/)[Whiteboard](/en/products/online-whiteboard/)[Clips](/en/products/screen-recorder/)[Hub](/en/products/hub/)[Video Management](/en/products/video-management/)
+    
+    Spaces
+    
+    [Rooms](/en/products/meeting-rooms/)[Workspace Reservation](/en/products/meeting-rooms/features/workspace/)[Digital Signage](/en/products/digital-signage/)[Visitor Management](/en/products/visitor-management/)
+    
+    Employee Engagement
+    
+    [Workvivo](/en/products/workvivo/)
+    
+*   Zoom Business Services
+    
+    Zoom Business Services
+    
+    Tools designed to help organizations build and grow more efficiently across teams.[Learn more](/en/products/business-services/)
+    
+    Sales & Marketing
+    
+    [Revenue Accelerator](/en/products/conversation-intelligence/)[Webinars & Events](/en/products/webinars/)[Bonsai](/en/products/bonsai/)
+    
+    Human Resources
+    
+    [BrightHire](/en/products/brighthire/)
+    
+*   Zoom CX
+    
+    Zoom CX
+    
+    Powerful solutions to help Customer Experience teams deliver better, more impactful customer service.[Learn more](/en/audiences/cx/)
+    
+    [Contact Center](/en/products/contact-center/)[Workforce Management](/en/products/workforce-management/)[Virtual Agent](/en/products/virtual-agent/)[Quality Management](/en/products/quality-management/)[AI Expert Assist](/en/products/ai-expert-assist/)[CX Insights](/en/products/cx-insights/)
+    
+*   Zoom AI
+    
+    Zoom AI
+    
+    AI that turns conversations into action.[Learn more](/en/products/ai-assistant/)
+    
+    [ZoomMate](/en/products/ai-assistant/)[AI Services](/en/products/ai-services/)[My Notes](/en/products/ai-assistant/features/ai-note-taking/)[AI On-Prem](https://www.zoom.com/en/products/on-premise-ai/)[Virtual Agent](/en/products/virtual-agent/)
+    
+    AI Productivity Suite
+    
+    Turn inspired discussions into impressive deliverables.[Learn more](https://www.zoom.com/en/products/ai-productivity-suite/)
+    
+    [Canvas](/en/products/collaborative-docs/)[Sheets](/en/products/ai-sheets/)[Slides](/en/products/ai-slides/)[Paper](https://www.zoom.com/en/products/ai-productivity-suite/paper)
+    
+*   Developers
+    
+    Developers
+    
+    APIs and SDKs for developers.[Learn more](https://developers.zoom.us/)
+    
+    Build
+    
+    Embed Zoom technology into your product
+    
+    [Video SDK](/en/video-sdk/)[Co-Browse](https://developers.zoom.us/docs/cobrowse-sdk/)[AI Services](/en/products/ai-services/)
+    
+    Integrate
+    
+    Connect your tools and Zoom
+    
+    [Zoom Marketplace](https://marketplace.zoom.us/)[MCP](https://developers.zoom.us/docs/mcp/)[Realtime Media Streams](/en/realtime-media-streams/)[APIs](https://developers.zoom.us/docs/api/)[Zoom Apps](https://developers.zoom.us/docs/zoom-apps/)[Meeting SDK](https://developers.zoom.us/docs/meeting-sdk/)
+    
+*   Apps and Integrations
+    
+    Apps and Integrations
+    
+    Get more done wherever you work.[Learn more](/en/zoom-apps/)
+    
+    [Microsoft](/en/zoom-apps/zoom-microsoft/)[ServiceNow](https://marketplace.zoom.us/apps/4r6YYvN4TFSqDRrD_bNMwg)[Google](https://marketplace.zoom.us/apps/VG_p3Bb_TwWe_bgZmPUaXw)[Oracle](https://marketplace.zoom.us/apps/YxstDm-OR7WlNME1Z3jK1A)[Salesforce](https://marketplace.zoom.us/apps/ozGm-qsFRBqBkYYzJg4Y6g)[Atlassian](https://marketplace.zoom.us/apps/wc9NSSgESB-qLJed0RSZjQ)
+    
+    Explore thousands of possibilities on the [Zoom Marketplace.](https://marketplace.zoom.us/)
+    
+
+Popular
+
+What’s hot, what’s trending, what’s building buzz — the solutions Zoom customers are into right now.
+
+[My Notes](/en/products/ai-assistant/features/ai-note-taking/)[Meetings](/en/products/virtual-meetings/)[ZoomMate](/en/products/ai-assistant/)[Rooms](/en/products/meeting-rooms/)[Phone](/en/products/voip-phone/)[Canvas](/en/products/collaborative-docs/)[Contact Center](/en/products/contact-center/)[CX Insights](/en/products/cx-insights/)[Bonsai](/en/products/bonsai/)
+
+[![](https://media.zoom.com/images/assets/apple-logo+1.png/Zz04Yjg3MTBjODVmNzExMWYxOTFlNWZhNmU0NmI5ZmQyZg==)
+
+Download on the App Store
+
+](https://www.zoom.us/download)
+
+[![](https://media.zoom.com/images/assets/playstore+1+%283%29.png/Zz1iYTM4ODY4MjVmM2UxMWYxOTU5Y2E2OWE2OWRjZGI4Mw==)
+
+Get it on Google Play
+
+](https://www.zoom.us/download)
+
+[Get in touch](#)
+
+[+1.888.799.9666](tel:+18887999666) / [+1.888.303.1012](tel:+1.888.303.1012)
+
+[Contact Sales](/en/contact/contact-sales/)
+
+*   AI at Zoom
+    
+    AI at Zoom
+    
+    AI that turns conversations into action.[Learn more](/en/products/ai-assistant/)
+    
+    [ZoomMate](/en/products/ai-assistant/)[AI Services](/en/products/ai-services/)[My Notes](/en/products/ai-assistant/features/ai-note-taking/)[AI On-Prem](https://www.zoom.com/en/products/on-premise-ai/)[Virtual Agent](/en/products/virtual-agent/)
+    
+    AI Productivity Suite
+    
+    Turn inspired discussions into impressive deliverables.[Learn more](https://www.zoom.com/en/products/ai-productivity-suite/)
+    
+    [Canvas](/en/products/collaborative-docs/)[Sheets](/en/products/ai-sheets/)[Slides](/en/products/ai-slides/)[Paper](https://www.zoom.com/en/products/ai-productivity-suite/paper)
+    
+*   AI Resources
+    
+    AI Resources
+    
+    Learn more about AI at Zoom.[Get AI support](https://support.zoom.com/hc/en/ai-companion?id=ai_companion)
+    
+    [Success Guides: Zoom AI](https://community.zoom.com/success-guides-workplace-86)[Success Guides: ZoomMate](https://community.zoom.com/success-guides-zoommate-85)[AI Privacy and Security](/en/products/ai-assistant/resources/privacy-security/)[AI ROI Calculator](/en/products/ai-assistant/resources/roi-calculator/)[AI Research](/en/ai-research/)
+    
+
+[By industry](/en/industry/)
+
+[Education](/en/industry/education/)[Financial Services](/en/industry/finance/)[Professionals](/en/small-business/professional-services/)[Government](/en/industry/government/)[Healthcare](/en/industry/healthcare/)[Manufacturing](/en/industry/manufacturing/)[Retail](/en/industry/retail/)[Broadcast](/en/audiences/broadcast/)
+
+By audience
+
+[Small and midsize business](/en/small-business/)
+
+Enterprise
+
+[Information Technology](/en/audiences/information-technology/)[Customer Experience](/en/audiences/cx/)[Sales and Revenue](/en/audiences/sales-and-revenue/)[Facilities](/en/audiences/av-facilities/)[Marketing and Events](/en/audiences/marketing-events/)
+
+[For Developer](https://developers.zoom.us/docs/)
+
+Build
+
+[Video SDK](/en/video-sdk/)[Co-Browse](https://developers.zoom.us/docs/cobrowse-sdk/)[AI Services](/en/products/ai-services/)
+
+Integrate
+
+[Zoom Marketplace](https://marketplace.zoom.us/)[MCP](https://developers.zoom.us/docs/mcp/)[Realtime Media Streams](/en/realtime-media-streams/)[APIs](https://developers.zoom.us/docs/api/)[Zoom Apps](/en/zoom-apps/)[Meeting SDK](https://developers.zoom.us/docs/meeting-sdk/)
+
+[For partners](https://partner.zoom.com/)
+
+[Partner Solutions](https://partner.zoom.com/solutions/)[Find a Partner](https://partner.zoom.com/partner-locator)[Become a Partner](https://partner.zoom.com/)[Partner Portal](https://mypartnerportal.zoom.us/)[Partner Learning Center](https://mypartnerportal.zoom.us/s/)
+
+Select a language
+
+[English](/en/trust/privacy/privacy-statement/)[Deutsch](/de/trust/privacy/privacy-statement/)[Français](/fr/trust/privacy/privacy-statement/)[Español](/es/trust/privacy/privacy-statement/)[Svenska](/sv/trust/privacy/privacy-statement/)[Nederlands](/nl/trust/privacy/privacy-statement/)[Tiếng Việt](/vi/trust/privacy/privacy-statement/)[Türkçe](/tr/trust/privacy/privacy-statement/)[Русский](/ru/trust/privacy/privacy-statement/)[Português](/pt/trust/privacy/privacy-statement/)[Polski](/pl/trust/privacy/privacy-statement/)[한국어](/ko/trust/privacy/privacy-statement/)[日本語](/ja/trust/privacy/privacy-statement/)[Italiano](/it/trust/privacy/privacy-statement/)[Indonesia](/id/trust/privacy/privacy-statement/)[中文（繁體，台灣）](/zh-tw/trust/privacy/privacy-statement/)[中文（简体，中国）](/zh-cn/trust/privacy/privacy-statement/)
+
+[Install on desktop](https://www.zoom.us/download) [Download center](https://www.zoom.us/download)
+
+Get in touch
+
+[+1.888.799.9666](tel:+18887999666) / [+1.888.303.1012](tel:+1.888.303.1012)
+
+[Contact Sales](/en/contact/contact-sales/)
+
+[Download on the App Store](https://www.zoom.us/download) [Get it on Google Play](https://www.zoom.us/download)
+
+# Zoom Privacy Statement
+
+Last updated: September 17, 2026
+
+This Privacy Statement describes the personal data we collect and/or process (which may include collecting, organizing, structuring, storing, using, or disclosing) to provide products and services offered directly by Zoom Communications, Inc. (“Zoom”), including Zoom’s websites, its meetings, webinars, and messaging platform, related collaborative features, and Zoom App Marketplace (“Zoom products and services” or “products and services”). Zoom products and services covered in this Privacy Statement do not include products or services developed by Zoom that are covered under a separate privacy policy (including those listed [here](/en/trust/privacy/policies/)). California residents, please see our [California Privacy Notice at Collection](#_qhklx843v2z1), and [California & Other U.S. State Privacy Rights sections](#_hfpe4383ebbs).
 
 [What Personal Data Do We Receive?](#_qhklx843v2zq)
 
@@ -93,7 +344,6 @@ When you send messages or join meetings and webinars or use other collaborative 
     *   **Registration Information:** Information provided during registration for a webinar, meeting, Zoom Room, or recording hosted by the account.
     *   **Zoom Chat and Out-of-Meeting Collaborations:**  If enabled on their account, account owners and those they authorize can see information about who sent and received Zoom Chat messages, including synced in-meeting messages (e.g., from a dedicated meeting group chat that is synced with Zoom Chat), to users on their account, along with information about the message (for example, date and time, and number of members or participants). Depending on their settings, account owners also can see sender and receiver information, and other messaging data, along with the content of messages sent to and from users on their account (including from in-meeting chat where dedicated meeting group chats are enabled), unless the account owner has enabled [Advanced Chat Encryption](https://support.zoom.us/hc/en-us/articles/207599823-Advanced-chat-encryption#h_01EHSZCH6FEXV4QC90GBJ52AVF). Depending on their settings, account owners and those they authorize may also see the content shared through collaborative features, including whiteboards, files, and images shared in Zoom Chat.
     *   **In-Meeting/Webinar Messages:**  Depending on their settings, account owners can see sender and receiver information, along with the content of messages sent to and from users on their account, in the following circumstances:  
-          
         *   Messages sent to Everyone in a meeting that is recorded
         *   Messages sent to the meeting group chat in a meeting when a dedicated meeting group chat is enabled
         *   Messages sent to panelists in a webinar that is recorded
@@ -107,8 +357,7 @@ When you send messages or join meetings and webinars or use other collaborative 
 *   **Webinar Panelists and Attendees:** Only panelists may be visible to attendees during a webinar, but attendees who agree to unmute can be heard by other attendees. If an attendee agrees to become a panelist during a webinar, they may be visible to other attendees, depending on settings. Panelists and attendees may be able to see the name of a participant who asks a question during a Q&A, along with their question, unless the participant submits the question anonymously.
 *   **Intelligent Features:** Users may be able to access, based on underlying permissions, customer content and context from meetings, webinars, messaging, and other collaborative features through their use of intelligent features.
 *   **Livestreams:** Meeting and webinar hosts can choose to livestream to a third-party site or service, which means anyone with access to the livestream will be able to see the meeting or webinar.
-*   **Apps and Integrations:**    
-      
+*   **Apps and Integrations:**    
     *   Account owners can choose to add Zoom-developed apps and third-party apps to their account and the Zoom products they use, including via use of the Zoom App Marketplace, and they can also control whether their users can add and use specific Zoom and third-party apps, including in meetings, webinars, and chats hosted on their account.
     *   Account owners can also choose to integrate other content from third-party services – such as third-party email communications, calendar entries, files and other information – with apps and services that they use.
     *   Depending on their settings, account owners’, users’ and guests’ personal data and content may be shared with apps and integrations, including Zoom-developed apps, approved by account owners, which may include all of the personal data categories listed above, such as account information, profile and contact information, registration information, participants list, settings, content, product usage, device information, or third-party emails that have been shared with the app.
@@ -137,7 +386,7 @@ In order to exercise any of your rights as to personal data controlled by Zoom, 
 
 Zoom does not allow children under the age of 16 to sign up for a Zoom account.
 
-For educational organizations that use Zoom products and services to provide educational services to children under 18, Zoom’s Children’s Educational Privacy Statement is available [here](https://explore.zoom.us/en/schools-privacy-statement/).
+For educational organizations that use Zoom products and services to provide educational services to children under 18, Zoom’s Children’s Educational Privacy Statement is available [here](/en/trust/schools-privacy-statement/).
 
 ## [](#)How to Contact Us
 
@@ -219,7 +468,7 @@ We protect your personal data in accordance with this Privacy Statement wherever
 
 Zoom complies with the EU-U.S. Data Privacy Framework (EU-U.S. DPF), the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF) as set forth by the U.S. Department of Commerce. Zoom has certified to the U.S. Department of Commerce that it adheres to the EU-U.S. Data Privacy Framework Principles (EU-U.S. DPF Principles) with regard to the processing of personal data received from the European Union in reliance on the EU-U.S. DPF and from the United Kingdom (and Gibraltar) in reliance on the UK Extension to the EU-U.S. DPF. Zoom has certified to the U.S. Department of Commerce that it adheres to the Swiss-U.S. Data Privacy Framework Principles (Swiss-U.S. DPF Principles) with regard to the processing of personal data received from Switzerland in reliance on the Swiss-U.S. DPF. If there is any conflict between the terms in this Privacy Statement and the EU-U.S. DPF Principles and/or the Swiss-U.S. DPF Principles, the Principles shall govern. To learn more about the Data Privacy Framework (DPF) program, and to view our certification, please visit [https://www.dataprivacyframework.gov/](https://www.dataprivacyframework.gov/).
 
-In compliance with the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF, Zoom commits to resolve DPF Principles-related complaints about our collection and use of your personal information. EU and UK and Swiss individuals with inquiries or complaints regarding our handling of personal data received in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF should first contact Zoom at: privacy@zoom.us.
+In compliance with the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF, Zoom commits to resolve DPF Principles-related complaints about our collection and use of your personal information. EU and UK and Swiss individuals with inquiries or complaints regarding our handling of personal data received in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF should first contact Zoom at: [privacy@zoom.us](mailto:privacy@zoom.us).
 
 In compliance with the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF, Zoom commits to cooperate and comply respectively with the advice of the panel established by the EU data protection authorities (DPAs) and the UK Information Commissioner’s Office (ICO) and the Gibraltar Regulatory Authority (GRA) and the Swiss Federal Data Protection and Information Commissioner (FDPIC) with regard to unresolved complaints concerning our handling of personal data received in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF. Please contact us if you’d like us to direct you to your data protection authority contacts.
 
@@ -248,7 +497,8 @@ Under some U.S. state laws, including the California Consumer Privacy Act of 201
 *   **Access** the categories and specific pieces of personal data Zoom has collected, the categories of sources from which the personal data is collected, the business purpose(s) for collecting the personal data, and the categories of third parties with whom Zoom has shared personal data, and **obtain the personal data** in a portable and, to the extent technically feasible, readily usable format;
 *   **Delete** personal data under certain circumstances;
 *   **Correct** personal data under certain circumstances; and
-*   **Opt out of the “sale” of personal data or “sharing” of personal data for targeted advertising purposes.** We do not sell your personal data in the conventional sense. However, like many companies, we may use advertising and analytics services that are intended to analyze your interactions with our website or app, based on information obtained from cookies and similar technologies, including for delivering advertising to you (such as interest-based, targeted, or cross-context behavioral advertising). You can get more information and opt out of the use of cookies and similar technologies on our website and app by clicking the [Cookies Settings](#) or Your Privacy Choices, also on our homepage, and setting your preferences. You will need to set your preferences from each device and each web browser from which you wish to opt out. This feature uses a cookie to remember your preference, so if you clear all cookies from your browser, you will need to re-select your preferred settings. Residents of California, Colorado, Connecticut, Montana, Nebraska, New Hampshire, and Texas may also set the Global Privacy Control (GPC) to opt out of the “sale” or “sharing” of your personal information for targeted advertising for each participating browser system that you use. Zoom does not have actual knowledge that it “sells” or “shares” the personal information of consumers under 16 years of age.
+*   **Opt out of the “sale” of personal data or “sharing” of personal data for targeted advertising purposes.** We do not sell your personal data governed by this Privacy Statement in the conventional sense. Sales of business contact related data may occur through our Zoom Common Room offering. Please see [Zoom Common Room Privacy Statement](/en/trust/privacy/zoom-common-room-privacy-statement/) for more information. However, like many companies, we may use advertising and analytics services that are intended to analyze your interactions with our website or app, based on information obtained from cookies and similar technologies, including for delivering advertising to you (such as interest-based, targeted, or cross-context behavioral advertising). You can get more information and opt out of the use of cookies and similar technologies on our website and app by clicking the [Cookies Settings](#) or Your Privacy Choices, also on our homepage, and setting your preferences. You will need to set your preferences from each device and each web browser from which you wish to opt out. This feature uses a cookie to remember your preference, so if you clear all cookies from your browser, you will need to re-select your preferred settings. Residents of California, Colorado, Connecticut, Montana, Nebraska, New Hampshire, and Texas may also set the Global Privacy Control (GPC) to opt out of the “sale” or “sharing” of your personal information for targeted advertising for each participating browser system that you use. Zoom does not have actual knowledge that it “sells” or “shares” the personal information of consumers under 16 years of age.
+    
 *   **Appeal** a denial of your request. Some states provide additional rights to their residents. If we decline to process your request, you may have the right to appeal our decision. You can do so by replying directly to our denial or emailing [privacy@zoom.us](mailto:privacy@zoom.us).
 
 Zoom will not discriminate against you for exercising any of these rights, which is further in line with your rights under state law.
@@ -261,7 +511,7 @@ We will acknowledge receipt of your request within 10 business days, and provide
 
 These rights are not absolute, are subject to exceptions and limitations, and may not be afforded to residents of all states. In certain cases, we may decline requests to exercise these rights where permitted by law. We will need to verify your identity to process your access, deletion, and correction requests and reserve the right to confirm your state residency. To verify your identity, we may require you to log into your existing Zoom account (if applicable), give a declaration as to your identity under penalty of perjury, and/or provide additional information, such as providing at least two pieces of personal information relating to your account (which will be compared to information we have, such as profile information) or as we otherwise may already have in our possession, such as your email address and phone number. We will verify your consumer request by comparing the information you provide to information already in our possession, and take additional steps to minimize the risk of fraud. You may designate an authorized agent to submit your verified consumer request by providing written permission and verifying your identity, or through proof of power of attorney.
 
-To see our Disclosure of Privacy Rights Requests, please click [here](https://explore.zoom.us/en/disclosure-of-privacy-rights-requests/).
+To see our Disclosure of Privacy Rights Requests, please click [here](/en/trust/disclosure-of-privacy-rights-requests/).
 
 **California’s Shine the Light Law**
 
@@ -271,11 +521,194 @@ Under California’s Shine the Light law, you may also ask companies with whom y
 
 We may update this Privacy Statement periodically to account for changes in our collection and/or processing of personal data, and will post the updated Privacy Statement on our website, with a “Last Updated” date at the top and an Update Note at the bottom. If we make material changes to this Privacy Statement, we will notify you and provide you an opportunity to review before you choose to continue using our products and services.
 
-**Privacy Statement Update Notes (July 27, 2026):**
+**Privacy Statement Update Notes (September 17, 2026):**
 
-\- Add statement for 10DLC Compliance that Zoom will not share opt-in or consent data related to messaging campaigns  
-\- Update EU/UK Representatives  
-\- Update data transfer mechanisms to include frameworks beyond the EU Standard Contractual Clauses (SCCs)  
-\- Provide an option for data subjects to contact Zoom for information on how to reach their local data protection authorities  
-\- Clarify that users may submit DSAR via phone  
-\- Clarify that users may set privacy preferences for cookies as well as similar technologies
+*   Clarify that this Privacy Statement does not cover sales of business contact data, which may occur through our Zoom Common Room offering (see the [Zoom Common Room Privacy Statement](/en/trust/privacy/zoom-common-room-privacy-statement/) for details).
+
+ 
+
+Discover More
+
+*   [One platform for limitless human connection](https://www.zoom.com/en/products/)
+*   [Collaboration with Leading Dutch Research and...](https://www.zoom.com/en/blog/surf-zoom-dpia/)
+*   [Tables that help you go from data to decision, fast](https://www.zoom.com/en/products/collaborative-docs/features/data-tables/)
+*   [Zoom Releases Simpler, Clearer Privacy Statement](https://www.zoom.com/en/blog/updated-zoom-privacy-statement/)
+*   [What is workforce management? A 2026 guide for...](https://www.zoom.com/en/blog/what-is-workforce-management/)
+*   [The CX leader's checklist: Self-service, data,...](https://www.zoom.com/en/blog/the-cx-leaders-checklist/)
+
+[![logo-zoom-white@2x.png](https://media.zoom.com/images/assets/logo-zoom-white%402x.png/Zz00MjVhNzc4ZWM2YWUxMWYwOWNhMjEyMGQ4NTViMmE1ZQ==)](https://www.zoom.com/)
+
+Get in touch
+
+[+1.888.799.9666](tel:+18887999666)
+
+[+1.888.303.1012](tel:+1.888.303.1012)
+
+[
+
+![Zoom Workplace for Apple](https://media.zoom.com/images/assets/image+4.svg/Zz1jNjdkM2FmNjUyNWExMWYwYWRjMjY2ZmI4ZWVmODNhMw==)
+
+Download on Apple Store
+
+Zoom Workplace for Apple
+
+
+
+](https://www.zoom.us/download)
+
+[
+
+![Zoom Workplace for Android](https://media.zoom.com/images/assets/playstore+1+%283%29.png/Zz1iYTM4ODY4MjVmM2UxMWYxOTU5Y2E2OWE2OWRjZGI4Mw==)
+
+Download on Google Play
+
+Zoom Workplace for Android
+
+
+
+](https://zoom.us/download)
+
+[
+
+Download Center
+
+Get the most out of Zoom
+
+
+
+](https://zoom.us/download)
+
+Language
+
+English ![](https://media.zoom.com/images/assets/CaretDown.svg/Zz0wMWM5Y2RjYzUzMjMxMWYwYjJjY2IyYTMwMzI4ZmQzZQ==) 
+
+*   [Deutsch](/de/trust/privacy/privacy-statement/)
+*   [English](/en/trust/privacy/privacy-statement/)
+*   [Español](/es/trust/privacy/privacy-statement/)
+*   [Français](/fr/trust/privacy/privacy-statement/)
+*   [Indonesia](/id/trust/privacy/privacy-statement/)
+*   [Italiano](/it/trust/privacy/privacy-statement/)
+*   [日本語](/ja/trust/privacy/privacy-statement/)
+*   [한국어](/ko/trust/privacy/privacy-statement/)
+*   [Nederlands](/nl/trust/privacy/privacy-statement/)
+*   [Polski](/pl/trust/privacy/privacy-statement/)
+*   [Português](/pt/trust/privacy/privacy-statement/)
+*   [Русский](/ru/trust/privacy/privacy-statement/)
+*   [Svenska](/sv/trust/privacy/privacy-statement/)
+*   [Türkçe](/tr/trust/privacy/privacy-statement/)
+*   [Tiếng Việt](/vi/trust/privacy/privacy-statement/)
+*   [中文（简体，中国）](/zh-cn/trust/privacy/privacy-statement/)
+*   [中文（繁體，台灣）](/zh-tw/trust/privacy/privacy-statement/)
+
+Currency
+
+US Dollar $ ![](https://media.zoom.com/images/assets/CaretDown.svg/Zz0wMWM5Y2RjYzUzMjMxMWYwYjJjY2IyYTMwMzI4ZmQzZQ==) 
+
+*   US Dollar $
+
+Get in touch
+
+[+1.888.799.9666](tel:+18887999666)
+
+[+1.888.303.1012](tel:+1.888.303.1012)
+
+[About](/en/about/ "About")
+
+*   [Zoom Blog Zoom Blog](/en/blog/ "Zoom Blog")
+*   [Customers](/en/customer-stories/all/ "Customers")
+*   [Our Team](/en/about/team/ "Our Team")
+*   [Careers](https://careers.zoom.us/home "Careers")
+*   [Integrations](https://marketplace.zoom.us/ "Integrations")
+*   [Analyst Coverage Analyst Coverage](/en/about/analyst-coverage/ "Analyst Coverage")
+*   [Partners](https://partner.zoom.us/ "Partners")
+*   [Investors](https://investors.zoom.us/ "Investors")
+*   [Press](https://news.zoom.us/ "Press")
+*   [Sustainability & ESG](/en/about/esg-impact-report/ "Sustainability & ESG")
+*   [Zoom Cares Zoom Cares](/en/zoom-cares/)
+*   [Media Kit](/en/about/media-kit/ "Media Kit")
+*   [Developer Platform](https://developers.zoom.us/ "Developer Platform")
+*   [AI Research AI Research](/en/ai-research/ "AI Research")
+*   [Zoom Ventures](/en/zoom-ventures/ "Zoom Ventures")
+*   [Zoom Merchandise Store Zoom Merchandise Store](https://shophappy.zoom.us/)
+
+[Download](https://zoom.us/download "Download")
+
+*   [Zoom Workplace App Zoom Workplace App](https://zoom.us/download "Zoom Workplace App")
+*   [Zoom Rooms App Zoom Rooms App](https://zoom.us/download#room_client "Zoom Rooms App")
+*   [Zoom Rooms Controller](https://zoom.us/download#room_controller "Zoom Rooms Controller")
+*   [Browser Extension](https://zoom.us/download#chrome_ext "Browser Extension")
+*   [Outlook Plug-in](https://zoom.us/download#outlook_plugin "Outlook Plug-in")
+*   [iPhone/iPad App iPhone/iPad App](https://zoom.us/download#client_iphone "iPhone/iPad App")
+*   [Android App Android App](https://zoom.us/download#mobile_app "Android App")
+*   [Zoom Virtual Backgrounds](/en/products/virtual-meetings/features/virtual-background-library/ "Zoom Virtual Backgrounds")
+
+[Sales](/en/contact/contact-sales/ "Sales")
+
+*   [+1.888.799.9666 Click to call](tel:18887999666)
+*   [+1.888.303.1012 +1.888.303.1012](tel:+18883031012)
+*   [Contact Sales](/en/contact/contact-sales/ "Contact Sales")
+*   [Plans & Pricing](https://zoom.us/pricing "Plans and Pricing")
+*   [Request a Demo](/en/contact/live-demo/ "Request a Demo")
+*   [Webinars and Events](https://ev.zoom.us/ "Webinars and Events")
+*   [Zoom Experience Center Zoom Experience Center](https://ebc.zoom.us/ "Zoom Experience Center")
+*   [Zoom for Startups Zoom for Startups](/en/lp/zoom-for-startups/ "Zoom for Startups")
+
+[Support Support](https://support.zoom.com/hc/en "Support")
+
+*   [Test Zoom](https://zoom.us/test "Test Zoom")
+*   [Account](https://zoom.us/account "Account")
+*   [Support Center Support Center](https://support.zoom.com/hc/en "Support Center")
+*   [Learning Center](https://learning.zoom.us/learn "Learning Center")
+*   [Zoom Community](https://community.zoom.com/ "Zoom Community")
+*   [Technical Content Library Technical Content Library](/en/products/resources/tech-library/ "Technical Content Library")
+*   [Feedback](https://zoom.us/feed "Feedback")
+*   [Contact Us Contact Us](https://support.zoom.com/hc/en/contact?id=contact_us "Contact Us")
+*   [Accessibility](/en/accessibility/ "Accessibility")
+*   [How To Videos](https://learn-zoom.us/show-me "How To Videos")
+*   [Developer Support](https://developers.zoom.us/support/ "Developer Support")
+*   [Privacy, Security, Legal Policies, and Modern Slavery Act Transparency Statement](/en/trust/legal-compliance/ "Privacy, Security, Legal Policies, and Modern Slavery Act Transparency Statement")
+
+*   [![](https://media.zoom.com/images/assets/social-linkedin.svg/Zz1kMWM5ZTI4NmEzY2MxMWVkOWJmZTU2NjcwZmJiNzBlNQ==?t=20260918120000)](https://www.linkedin.com/company/zoom/ "Linked In")
+*   [![](https://media.zoom.com/images/assets/twitter-x.svg/Zz0yMTQxYzM5NDVkMzQxMWVlYmZjMGQ2ZWM3ZWM3MGU2OQ==?t=20260918120000)](https://twitter.com/zoom "Twitter")
+*   [![](https://media.zoom.com/images/assets/social-youtube.svg/Zz1kMWViYTM5NGEzY2MxMWVkYmExMGJhNjNmYjRkMmQyYQ==?t=20260918120000)](https://www.youtube.com/zoommeetings "YouTube")
+*   [![](https://media.zoom.com/images/assets/social-facebook.svg/Zz1kMWMzYzNlMmEzY2MxMWVkYjhkYzU2NjcwZmJiNzBlNQ==?t=20260918120000)](https://www.facebook.com/zoom "Facebook")
+*   [![](https://media.zoom.com/images/assets/social-instagram.svg/Zz1kMWNiMGZmOGEzY2MxMWVkODkwM2U2ZWE4YmQ4Y2E3MQ==?t=20260918120000)](https://www.instagram.com/zoom/ "Instagram")
+
+Language
+
+English ![](https://media.zoom.com/images/assets/CaretDown.svg/Zz0wMWM5Y2RjYzUzMjMxMWYwYjJjY2IyYTMwMzI4ZmQzZQ==) 
+
+*   [Deutsch](/de/trust/privacy/privacy-statement/)
+*   [English](/en/trust/privacy/privacy-statement/)
+*   [Español](/es/trust/privacy/privacy-statement/)
+*   [Français](/fr/trust/privacy/privacy-statement/)
+*   [Indonesia](/id/trust/privacy/privacy-statement/)
+*   [Italiano](/it/trust/privacy/privacy-statement/)
+*   [日本語](/ja/trust/privacy/privacy-statement/)
+*   [한국어](/ko/trust/privacy/privacy-statement/)
+*   [Nederlands](/nl/trust/privacy/privacy-statement/)
+*   [Polski](/pl/trust/privacy/privacy-statement/)
+*   [Português](/pt/trust/privacy/privacy-statement/)
+*   [Русский](/ru/trust/privacy/privacy-statement/)
+*   [Svenska](/sv/trust/privacy/privacy-statement/)
+*   [Türkçe](/tr/trust/privacy/privacy-statement/)
+*   [Tiếng Việt](/vi/trust/privacy/privacy-statement/)
+*   [中文（简体，中国）](/zh-cn/trust/privacy/privacy-statement/)
+*   [中文（繁體，台灣）](/zh-tw/trust/privacy/privacy-statement/)
+
+Currency
+
+US Dollar $ ![](https://media.zoom.com/images/assets/CaretDown.svg/Zz0wMWM5Y2RjYzUzMjMxMWYwYjJjY2IyYTMwMzI4ZmQzZQ==) 
+
+*   US Dollar $
+
+Copyright ©2026 Zoom Communications, Inc. All rights reserved.
+
+*   [Terms](/en/trust/terms/ "Terms")
+*   [Privacy](/en/trust/privacy/privacy-statement/ "Privacy")
+*   [Trust Center](/en/trust/ "Trust Center")
+*   [Acceptable Use Guidelines](/en/trust/acceptable-use-guidelines/ "Acceptable Use Guidelines")
+*   [Legal & Compliance](/en/trust/legal-compliance/ "Legal and Compliance")
+*    ![](https://media.zoom.com/images/assets/privacyoptions.png/Zz0xMzFhOTdlYTM1MzUxMWVlOTBjN2UyZTQ3MjNmN2MyMg==) Your Privacy Choices
+*   Cookie Preferences
+*   [Site Map Site Map](/en/sitemap/)
