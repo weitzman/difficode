@@ -527,15 +527,6 @@ We may update this Privacy Statement periodically to account for changes in our 
 
  
 
-Discover More
-
-*   [One platform for limitless human connection](https://www.zoom.com/en/products/)
-*   [Collaboration with Leading Dutch Research and...](https://www.zoom.com/en/blog/surf-zoom-dpia/)
-*   [Tables that help you go from data to decision, fast](https://www.zoom.com/en/products/collaborative-docs/features/data-tables/)
-*   [Zoom Releases Simpler, Clearer Privacy Statement](https://www.zoom.com/en/blog/updated-zoom-privacy-statement/)
-*   [What is workforce management? A 2026 guide for...](https://www.zoom.com/en/blog/what-is-workforce-management/)
-*   [The CX leader's checklist: Self-service, data,...](https://www.zoom.com/en/blog/the-cx-leaders-checklist/)
-
 [![logo-zoom-white@2x.png](https://media.zoom.com/images/assets/logo-zoom-white%402x.png/Zz00MjVhNzc4ZWM2YWUxMWYwOWNhMjEyMGQ4NTViMmE1ZQ==)](https://www.zoom.com/)
 
 Get in touch
