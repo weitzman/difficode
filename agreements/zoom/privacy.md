@@ -659,11 +659,11 @@ Get in touch
 *   [Developer Support](https://developers.zoom.us/support/ "Developer Support")
 *   [Privacy, Security, Legal Policies, and Modern Slavery Act Transparency Statement](/en/trust/legal-compliance/ "Privacy, Security, Legal Policies, and Modern Slavery Act Transparency Statement")
 
-*   [![](https://media.zoom.com/images/assets/social-linkedin.svg/Zz1kMWM5ZTI4NmEzY2MxMWVkOWJmZTU2NjcwZmJiNzBlNQ==?t=20260918120000)](https://www.linkedin.com/company/zoom/ "Linked In")
-*   [![](https://media.zoom.com/images/assets/twitter-x.svg/Zz0yMTQxYzM5NDVkMzQxMWVlYmZjMGQ2ZWM3ZWM3MGU2OQ==?t=20260918120000)](https://twitter.com/zoom "Twitter")
-*   [![](https://media.zoom.com/images/assets/social-youtube.svg/Zz1kMWViYTM5NGEzY2MxMWVkYmExMGJhNjNmYjRkMmQyYQ==?t=20260918120000)](https://www.youtube.com/zoommeetings "YouTube")
-*   [![](https://media.zoom.com/images/assets/social-facebook.svg/Zz1kMWMzYzNlMmEzY2MxMWVkYjhkYzU2NjcwZmJiNzBlNQ==?t=20260918120000)](https://www.facebook.com/zoom "Facebook")
-*   [![](https://media.zoom.com/images/assets/social-instagram.svg/Zz1kMWNiMGZmOGEzY2MxMWVkODkwM2U2ZWE4YmQ4Y2E3MQ==?t=20260918120000)](https://www.instagram.com/zoom/ "Instagram")
+*   [![](https://media.zoom.com/images/assets/social-linkedin.svg/Zz1kMWM5ZTI4NmEzY2MxMWVkOWJmZTU2NjcwZmJiNzBlNQ==?t=20260922120000)](https://www.linkedin.com/company/zoom/ "Linked In")
+*   [![](https://media.zoom.com/images/assets/twitter-x.svg/Zz0yMTQxYzM5NDVkMzQxMWVlYmZjMGQ2ZWM3ZWM3MGU2OQ==?t=20260922120000)](https://twitter.com/zoom "Twitter")
+*   [![](https://media.zoom.com/images/assets/social-youtube.svg/Zz1kMWViYTM5NGEzY2MxMWVkYmExMGJhNjNmYjRkMmQyYQ==?t=20260922120000)](https://www.youtube.com/zoommeetings "YouTube")
+*   [![](https://media.zoom.com/images/assets/social-facebook.svg/Zz1kMWMzYzNlMmEzY2MxMWVkYjhkYzU2NjcwZmJiNzBlNQ==?t=20260922120000)](https://www.facebook.com/zoom "Facebook")
+*   [![](https://media.zoom.com/images/assets/social-instagram.svg/Zz1kMWNiMGZmOGEzY2MxMWVkODkwM2U2ZWE4YmQ4Y2E3MQ==?t=20260922120000)](https://www.instagram.com/zoom/ "Instagram")
 
 Language
 
