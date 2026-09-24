@@ -16,13 +16,13 @@ selector: "#policy"
 *   [Support](https://support.zoom.com/hc/en)
 *   English
 
-[Sign In](https://zoom.us/signin) [Contact sales](/en/contact/contact-sales/)
+[Sign In](https://zoom.us/signin) [Contact Sales](/en/contact/contact-sales/)
 
 Get in touch
 
 [+1.888.799.9666](tel:+18887999666) / [+1.888.303.1012](tel:+1.888.303.1012)
 
-[Sign Up Free](https://zoom.us/signup) [Contact sales](/en/contact/contact-sales/)
+[Sign Up Free](https://zoom.us/signup) [Contact Sales](/en/contact/contact-sales/)
 
 [![](https://media.zoom.com/images/assets/apple-logo+1.png/Zz04Yjg3MTBjODVmNzExMWYxOTFlNWZhNmU0NmI5ZmQyZg==)
 
@@ -46,7 +46,7 @@ Meet
 
 [Sign In](https://zoom.us/signin) [Support](https://support.zoom.com/hc/en)
 
-[Contact sales](/en/contact/contact-sales/) [Sign Up Free](https://zoom.us/signup)
+[Contact Sales](/en/contact/contact-sales/) [Sign Up Free](https://zoom.us/signup)
 
 Zoom Workplace
 
@@ -78,7 +78,7 @@ New Meeting
 
 [Join](https://zoom.us/join) [Schedule](https://zoom.us/meeting/schedule)
 
-[Contact sales](/en/contact/contact-sales/)
+[Contact Sales](/en/contact/contact-sales/)
 
 0
 
@@ -667,11 +667,11 @@ Get in touch
 *   [Developer Support](https://developers.zoom.us/support/ "Developer Support")
 *   [Privacy, Security, Legal Policies, and Modern Slavery Act Transparency Statement](/en/trust/legal-compliance/ "Privacy, Security, Legal Policies, and Modern Slavery Act Transparency Statement")
 
-*   [![](https://media.zoom.com/images/assets/social-linkedin.svg/Zz1kMWM5ZTI4NmEzY2MxMWVkOWJmZTU2NjcwZmJiNzBlNQ==?t=20260923120000)](https://www.linkedin.com/company/zoom/ "Linked In")
-*   [![](https://media.zoom.com/images/assets/twitter-x.svg/Zz0yMTQxYzM5NDVkMzQxMWVlYmZjMGQ2ZWM3ZWM3MGU2OQ==?t=20260923120000)](https://twitter.com/zoom "Twitter")
-*   [![](https://media.zoom.com/images/assets/social-youtube.svg/Zz1kMWViYTM5NGEzY2MxMWVkYmExMGJhNjNmYjRkMmQyYQ==?t=20260923120000)](https://www.youtube.com/zoommeetings "YouTube")
-*   [![](https://media.zoom.com/images/assets/social-facebook.svg/Zz1kMWMzYzNlMmEzY2MxMWVkYjhkYzU2NjcwZmJiNzBlNQ==?t=20260923120000)](https://www.facebook.com/zoom "Facebook")
-*   [![](https://media.zoom.com/images/assets/social-instagram.svg/Zz1kMWNiMGZmOGEzY2MxMWVkODkwM2U2ZWE4YmQ4Y2E3MQ==?t=20260923120000)](https://www.instagram.com/zoom/ "Instagram")
+*   [![](https://media.zoom.com/images/assets/social-linkedin.svg/Zz1kMWM5ZTI4NmEzY2MxMWVkOWJmZTU2NjcwZmJiNzBlNQ==?t=20260924120000)](https://www.linkedin.com/company/zoom/ "Linked In")
+*   [![](https://media.zoom.com/images/assets/twitter-x.svg/Zz0yMTQxYzM5NDVkMzQxMWVlYmZjMGQ2ZWM3ZWM3MGU2OQ==?t=20260924120000)](https://twitter.com/zoom "Twitter")
+*   [![](https://media.zoom.com/images/assets/social-youtube.svg/Zz1kMWViYTM5NGEzY2MxMWVkYmExMGJhNjNmYjRkMmQyYQ==?t=20260924120000)](https://www.youtube.com/zoommeetings "YouTube")
+*   [![](https://media.zoom.com/images/assets/social-facebook.svg/Zz1kMWMzYzNlMmEzY2MxMWVkYjhkYzU2NjcwZmJiNzBlNQ==?t=20260924120000)](https://www.facebook.com/zoom "Facebook")
+*   [![](https://media.zoom.com/images/assets/social-instagram.svg/Zz1kMWNiMGZmOGEzY2MxMWVkODkwM2U2ZWE4YmQ4Y2E3MQ==?t=20260924120000)](https://www.instagram.com/zoom/ "Instagram")
 
 Language
 
