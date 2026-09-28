@@ -3,27 +3,25 @@ url: "https://stripe.com/legal/ssa"
 selector: "main"
 ---
 
-The Stripe Services Agreement governs the use of Stripe by our business users. It is divided into General Terms, which apply to every user, and product-specific [Services Terms](https://stripe.com/legal/ssa-services-terms), which only apply based on the specific services you use.
+The Stripe Services Agreement governs the use of Stripe by our business users. It is divided into General Terms, which apply to every user, and product-specific [Service Terms](https://stripe.com/legal/ssa-service-terms), which only apply based on the specific services you use.
 
 *Read more about the Stripe Services Agreement and its structure in our* [*Overview & FAQs*](https://stripe.com/legal/ssa-overview)*.*
 
 *For informational purposes only, we have translated the Stripe Services Agreement into* [*selected languages*](https://stripe.com/legal/ssa-translations)*.*
 
-*Read more about the* [*changes made November 18, 2025*](https://support.stripe.com/questions/stripe-user-terms-update-november-18-2025)*.*
+*Read more about the* [*changes made September 28, 2026*](https://support.stripe.com/questions/stripe-user-terms-update-september-28-2026)*.*
 
-The Stripe Services Agreement (the “**Agreement**”) is an agreement between you or the entity you represent (“**User**”) and the applicable Stripe entity specified in Section 12 (Definitions) (“**Stripe**”) and governs User’s access to and use of the Services and Stripe Technology. The Agreement consists of the General Terms (which apply to all Services and Stripe Technology), all Service Terms that apply to User’s use of specific Services and Stripe Technology, and any other terms incorporated into the Agreement. The Regional Terms located in Section 13 (Regional Terms) of the General Terms apply based on User’s Stripe Account Country.
+The Stripe Services Agreement (the “**Agreement**”) is an agreement between you or the entity you represent (“**User**”) and the applicable Stripe entity specified in Section 12 (Definitions) (“**Stripe**”) and governs User’s access to and use of the Services and Stripe Technology. The Agreement consists of the General Terms, which contain the terms that apply to all Services and Stripe Technology, all Service Terms, which apply to User’s use of specific Services and Stripe Technology, and any other terms incorporated into the Agreement. Capitalized terms are defined in Section 12 (Definitions), Service Terms, and inline. The Regional Terms in Section 13 (Regional Terms) apply based on User’s Stripe Account Country.
 
-This Agreement is effective when User first accesses or uses the Services or Stripe Technology (the “**Effective Date**”) and continues until User or Stripe terminates it (the “**Term”).**
+This Agreement is effective when User first accesses or uses the Services or Stripe Technology (the “**Effective Date**”) and continues until User or Stripe terminates it under Section 10.1 (Suspension and Termination) or other provision allowing for termination (the “**Term”).**
 
 If you are accepting the Agreement on behalf of User, you represent that you have full authority to legally bind User to this Agreement. If User is a sole proprietor, both User and Representative agree to be bound by the terms of the Agreement.
 
 Disputes between User and Stripe are subject to a class action waiver and will be resolved by individual binding arbitration, except as stated otherwise in this Agreement. Please read the arbitration provision in Section 11.4 (Dispute Resolution; Agreement to Arbitrate) as it affects User’s rights under this Agreement.
 
-Capitalized terms used in this Agreement that are not defined inline are defined in Section 12 (Definitions).
-
 ## **General Terms**
 
-Last modified: November 18, 2025
+Last modified: September 28, 2026
 
 ### **1\. Services.**
 
@@ -63,21 +61,25 @@ Stripe (and its Affiliates, as applicable) will make the Services available to U
 
 **1.3 Support.**
 
-Stripe will provide User with basic business and technical support for issues relating to User’s Stripe Account and use of the Services through support channels and Documentation that Stripe makes available on the Stripe Website. Stripe also offers optional paid support plans that may include priority support and response times that exceed the basic business and technical support. Stripe is not obligated to provide support to Customers.
+Stripe will provide User with standard technical support for issues relating to User’s Stripe Account and use of the Services through support channels and Documentation that Stripe makes available on the Stripe Website. Stripe also offers optional paid support plans that may include priority support and response times that exceed the standard technical support. Stripe is not obligated to provide support to Customers.
 
 **1.4 Preview Services.**
 
-Stripe may make a Preview Service available to User. Stripe will indicate to User, via the Stripe Dashboard, Stripe Website, or otherwise, whether a Service, or part of it, is a Preview Service. By their nature, Preview Services may be feature-incomplete, unstable, or contain bugs, and use of the Preview Services is at User’s own risk and discretion. User should not use Preview Services in a production environment unless User understands and accepts the limitations of the Preview Service. Unless Stripe otherwise agrees in writing, User’s use of Preview Services is confidential, and User must provide timely Feedback on the Preview Services in response to Stripe requests. Stripe may add or remove features of the Preview Services, or suspend or terminate User’s access to Preview Services at any time. Stripe may communicate Fees for a Preview Service in writing outside of the Stripe Pricing Page. Notwithstanding anything else in this Agreement, to the maximum extent permitted by Law, Stripe provides no warranty, indemnity, or support for Preview Services and Stripe’s aggregate liability for Preview Services is limited to USD$1,000.
+Stripe may make a Preview Service available to User. Stripe will indicate to User, via the Stripe Dashboard, Stripe Website, or otherwise, whether a Service, or part of it, is a Preview Service. Stripe may specify additional requirements or use restrictions that apply to User´s use of Preview Services in Preview Service Terms or Documentation. Unless Stripe otherwise agrees in writing, User’s use of Preview Services is confidential, and User will provide timely Feedback on the Preview Services if requested byStripe. Stripe may add or remove features of the Preview Services, or suspend or terminate User’s access to Preview Services at any time. By their nature, Preview Services may be feature-incomplete, unstable, or contain bugs, and use of the Preview Services is at User’s own risk and discretion.  User should not use Preview Services in a production environment unless User understands and accepts the limitations of the Preview Service. Stripe may communicate Fees for a Preview Service in writing outside of the Stripe Pricing Page. Notwithstanding anything else in this Agreement, to the maximum extent permitted by Law, Stripe provides no warranty, indemnity, or support for Preview Services. Stripe’s aggregate liability for Preview Services is limited to the lesser of the total Fees paid by User to Stripe (excluding all pass-through fees levied by Financial Providers) during the 12 month period before the first event giving rise to liability and USD $1,000.
 
 **1.5 Modifications; Updates.**
 
-(a) *Modifications.* Stripe may modify or discontinue any aspect of the Services or Stripe Technology, including imposing conditions on use of the Services or Stripe Technology or ceasing to offer a Service or Stripe Technology in a specific country or region. Stripe will provide User reasonable notice if the modification or discontinuation would materially reduce the functionality of a Service or Stripe Technology that User is then using, except where Stripe determines such notice would (i) create a security risk for Stripe; or (ii) cause Stripe (or its Affiliates, as applicable) to violate Law or breach an obligation to a Governmental Authority or Financial Provider.
+(a) *Modifications.* Stripe may modify or discontinue any aspect of the Services or Stripe Technology, including imposing conditions on use of the Services or Stripe Technology or ceasing to offer a Service or Stripe Technology in a specific country or region. Stripe will provide User reasonable notice if the modification or discontinuation would materially reduce the functionality of a Service or Stripe Technology that User is then using, except where Stripe determines such notice would (i) create or increase a security risk for Stripe, its users, or its Financial Providers; or (ii) cause Stripe (or its Affiliates, as applicable) to violate Law or breach an obligation to a Governmental Authority or Financial Provider. 
 
 (b) *Updates.* Stripe is not obligated to provide any Updates, but may do so at its discretion. If Stripe makes an Update available, User must implement it by the deadline stated in Stripe’s notice. If no deadline is stated, then User must implement the Update within 30 days of the notice date.
 
 **1.6 Third-Party Services.**
 
 Stripe may reference, allow User to access, or promote Third-Party Services. User’s use of any Third-Party Service is subject to that Third-Party Service’s terms of use and privacy policies, and is at User’s sole risk. Stripe does not approve, endorse, or recommend any Third-Party Services to User and disclaims all responsibility and liability for use of any Third-Party Service.
+
+**1.7 AI Agent.**
+
+If User uses an AI Agent to access the Stripe Services, User is solely responsible for each action initiated by or through the AI Agent. User acknowledges that: (a) an AI Agent constitutes an "electronic agent” or equivalent concept as defined or recognized under the Uniform Electronic Transactions Act (UETA) and similar Laws; and (b) actions initiated or completed by an AI Agent are legally binding on User.
 
 ### **2\. License to Stripe Technology.**
 
@@ -95,7 +97,7 @@ User acknowledges that open source software included in the Stripe Technology ma
 
 **2.4 Modifications and Reverse Engineering.**
 
-Except to the extent that the following restriction is not permitted under Law, User must not (and User must not enable others to) decompile, reverse engineer, disassemble, attempt to derive the source code of, decrypt, tamper, translate, modify, or create derivative works of all or any part of the Stripe Technology or any services provided by Stripe. User agrees not to remove, obscure, or alter any proprietary notices (including trademark and copyright notices) that may be affixed to or contained within the Stripe Technology.
+Except to the extent that the following restriction is not permitted under Law, User must not (and User must not enable or allow any third party to) decompile, reverse engineer, disassemble, attempt to derive the source code of, decrypt, tamper, translate, modify, or create derivative works of all or any part of the Stripe Technology or any services provided by Stripe. User agrees not to remove, obscure, or alter any proprietary notices (including trademark and copyright notices) that may be affixed to or contained within the Stripe Technology.
 
 **2.5 Transfer.**
 
@@ -115,9 +117,9 @@ Each party will comply with the [DPA](https://stripe.com/legal/dpa), including t
 
 User will use Stripe Data only as expressly permitted by this Agreement or other written agreements between Stripe and User (or their Affiliates).
 
-**4.3 Data Breach Notification.**
+**4.3 Data Incident Notification.**
 
-User must notify Stripe immediately if User becomes aware of any unauthorized acquisition, modification, disclosure, access to, or loss of Personal Data on User’s systems that was provided to or used by Stripe in connection with the Services.
+If User experiences a Data Incident ***that is reasonably likely to impact*** Stripe or its Affiliates, User must notify Stripe without undue delay, which will be no later than 48 hours, after becoming aware of the Data Incident.  In this notice, User shall provide Stripe with the following information: (a) the type of Personal Data that was the subject of the Data Incident; (b) the categories and potential number of individuals or records affected (including their countries); and (c) the status of User’s investigation and current or planned remediation. 
 
 **4.4 Retention of Data.**
 
@@ -129,7 +131,11 @@ If User enables Services or functionality that provide Stripe access to data, in
 
 **4.6 Controls.**
 
-Each party will maintain commercially reasonable administrative, technical, and physical safeguards designed to protect data in its possession or under its control from unauthorized access, accidental loss, and unauthorized modification. Stripe will comply with its obligations in the Data Security Exhibit to the DPA.
+Each party will maintain commercially reasonable administrative, technical, and physical safeguards designed to protect data in its possession or under its control from unauthorized access, accidental loss, and unauthorized modification. Stripe will comply with its obligations in the Data Security Exhibit.
+
+**4.7 Stripe Output Data.** 
+
+User’s use of Stripe Output Data is limited to User’s own internal business purposes and for its intended purpose as may be described in the applicable Service Terms or Documentation. User must not use Stripe Output Data: (a) as the sole input into User’s decision making process (e.g., automated decision making, profiling)  about engaging, ceasing to engage, or refraining from engaging in a business relationship with any Customer; (b) as a factor in determining a person’s eligibility for credit, insurance, housing or employment; or in any way that could cause Stripe to be a “consumer reporting agency” (as defined in FCRA) or cause the Stripe Output Data to constitute a “consumer report” (as defined in FCRA) or any comparable concept under Law; (c) to discriminate based on race, gender, or other protected characteristics, or take any “adverse action” (as defined in FCRA); (d) in a manner that constitutes a prohibited AI practice under the EU AI Act or in a manner that would cause Stripe to be characterized as a provider or co-deployer of a high-risk AI system; or (e) to develop, test, validate, train, enhance or deploy any machine learning models or algorithms that are a substitute for, or substantially similar to, the Services. User must not sell (including, as defined in the CCPA), rent, transfer, make available, or communicate orally or through other means Stripe Output Data. User must delete Stripe Output Data promptly upon Stripe's reasonable written request.
 
 ### **5\. Intellectual Property.**
 
@@ -143,7 +149,7 @@ Each party will maintain commercially reasonable administrative, technical, and 
 
 **5.2 Feedback.**
 
-During the Term, User may provide Feedback to Stripe and its Affiliates, which Stripe may use without restriction or obligation. Except as indicated in Section 1.4, Feedback is voluntary and User grants to Stripe, on behalf of itself and its Affiliates, a perpetual, worldwide, non-exclusive, irrevocable, royalty-free license to use that Feedback for any purpose.
+During the Term, User may provide Feedback to Stripe and its Affiliates, which Stripe may use without restriction or obligation. Feedback is voluntary and User grants to Stripe, on behalf of itself and its Affiliates, a perpetual, worldwide, non-exclusive, irrevocable, royalty-free license to use that Feedback for any purpose.
 
 **5.3 Marks Usage.**
 
@@ -163,7 +169,21 @@ When using User’s Marks, Stripe must comply with the usage terms or guidelines
 
 ### **6\. Confidentiality.**
 
-The recipient will use reasonable care to prevent the disclosure of the discloser's Confidential Information. The recipient may disclose Confidential Information only to its and its Affiliates' directors, employees, contractors, agents, professional advisors, and third-party auditors (and where Stripe is the recipient, to Financial Providers and their respective Affiliates, and Stripe’s third-party service providers, as reasonably necessary to perform the Services), who have a legitimate need to know it and are subject to confidentiality obligations at least as protective as this Agreement. The recipient may disclose Confidential Information if required by Law, subpoena, or court order, or if directed by a Governmental Authority, as long as (if permitted by Law) it notifies the discloser in advance (to the extent legally permitted) and provides reasonable assistance, at the discloser's cost, if the discloser wishes to contest the disclosure. These confidentiality obligations do not apply to information that the recipient can prove through written documentation: (a) is or becomes publicly available through no fault of the recipient; (b) it knew or possessed without restriction prior to receiving it from the discloser; (c) it received from was a third party without breach of confidentiality obligations; or (d) it independently developed without using the discloser’s Confidential Information.
+**6.1 Use; Protection.**
+
+Stripe and User (each, a “**Recipient**”) will use reasonable care, and no less than the same degree of care that the recipient uses to protect its own confidential information of a similar nature, to prevent the unauthorized disclosure of the other party’s (the “**Discloser**”) Confidential Information. 
+
+**6.2 Permitted Disclosures.**
+
+A Recipient may disclose Confidential Information only to its and its Affiliates' directors, employees, contractors, agents, professional advisors, and third-party auditors who have a legitimate need to know it and are subject to confidentiality obligations at least as protective as this Agreement. Additionally, Stripe may disclose User’s Confidential Information to Financial Providers, their respective Affiliates, and Stripe’s third-party service providers as reasonably necessary to perform the Services. 
+
+**6.3 Required Disclosures**
+
+ARecipient may disclose Confidential Information if required by Law, subpoena, or court order, or if directed by a Governmental Authority. Subject to Stripe’s obligations under the DPA, Recipient will use reasonable efforts to provide Discloser with advance notice of the required disclosure (if permitted by Law). Any assistance provided by Recipient to help Discloser contest the disclosure will be at Discloser’s sole expense.
+
+**6.3 Exclusions.**
+
+These confidentiality obligations do not apply to information that: (a) is or becomes publicly available through no fault of the Recipient; (b) was known or possessed without restriction prior to receipt from the Discloser; (c) was received from a third party without breach of confidentiality obligations; or (d) was independently developed without using the Discloser’s Confidential Information.
 
 ### **7\. Fees; Taxes; User Bank Account.**
 
@@ -173,11 +193,11 @@ The recipient will use reasonable care to prevent the disclosure of the disclose
 
 (b) *Subscriptions.* Subscription Services are governed by the terms of the applicable Subscription Plan. If User exceeds the entitlement scope in the Subscription Plan, then except as stated otherwise in the Subscription Plan or agreed in writing between the parties, Stripe will charge User for the increased scope of use according to the Fees stated on the Stripe Pricing Page.
 
-(c) *Updates to Fees and Subscription Plans.* Subject to the requirements of Law, Stripe may revise the Fees and Subscription Plans at any time. Stripe will provide User with at least 30 days notice (or longer period if Law requires) of any increase in a Fee or any new Fees for any Service provided to User, or any materially adverse change in a Subscription Plan.
+(c) *Updates to Fees and Subscription Plans.* Subject to the requirements of Law, Stripe may revise the Fees and Subscription Plans at any time. Stripe will provide User with at least 30 days’ notice of any increase in a Fee or any new Fees for any Service that User is using, or any materially adverse change in a Subscription Plan.
 
 (d) *Fee Waivers.* Stripe may offer a Service without charge, or waive a Fee for that Service, and may start charging a Fee for that Service upon at least 30 days notice (or longer period if Law requires) to User. Taxes may still be collected on waived Fees.
 
-(e) *Free Trials.* Stripe may make certain Services available to User on a trial basis free of charge until (i) the expiration or termination of the free trial, at which point the Fees stated on the Stripe Pricing Page will apply, or (ii) the start of any Subscription Plan that User has purchased, at which point that Subscription Plan will automatically commence. Free trials may be subject to additional Taxes, terms and conditions, as communicated to User by Stripe.
+(e) *Trials and Promotions.* Stripe may make certain Services available to User on a trial or promotional basis free of charge, or at a discount, until (i) the expiration or termination of the trial or promotion, at which point the Fees stated on the Stripe Pricing Page will apply, or (ii) the start of any Subscription Plan that User has purchased, at which point that Subscription Plan will automatically commence. Trials and promotions may be subject to additional Taxes, terms and conditions, as communicated to User by Stripe.
 
 (f) *Fee Credits.* If User receives a Fee Credit, then the Stripe Fee Credit Terms apply to the Fee Credit.
 
@@ -205,9 +225,9 @@ The recipient will use reasonable care to prevent the disclosure of the disclose
 
 (c) *Payment of Taxes.*
 
-(i) If Stripe is required by Law to collect or withhold any Taxes, Stripe may deduct those Taxes from the amount otherwise owed to User and pay those Taxes to the appropriate taxing authority. If User is exempt from paying, or is otherwise eligible to pay a reduced rate on, those Taxes, User may provide to Stripe a copy of the original certificate that satisfies applicable legal requirements attesting to its tax-exempt status or reduced rate eligibility, in which case Stripe will not deduct the Taxes that certificate covers.
+(i) If Stripe is required by Law to collect or withhold any Taxes, Stripe may deduct those Taxes from the amount otherwise owed to User or charge those Taxes, as the case may be, and pay those Taxes to the appropriate taxing authority. If User is exempt from paying, or is otherwise eligible to pay a reduced rate on, those Taxes, User may provide to Stripe a copy of the original certificate that satisfies applicable legal requirements attesting to its tax-exempt status or reduced rate eligibility, in which case Stripe will not deduct the Taxes that certificate covers.
 
-(ii) User must provide accurate information regarding its tax affairs as Stripe reasonably requests, and must promptly notify Stripe if any information that Stripe prepopulates is inaccurate or incomplete. Stripe may send documents to User and taxing authorities for transactions processed using the Services; specifically, Stripe may be required under Law to file periodic informational returns with taxing authorities related to User’s use of the Services. User agrees that Stripe may send tax-related information electronically to User.
+(ii) User must provide accurate information regarding its tax affairs as Stripe reasonably requests, and must promptly notify Stripe if any information that Stripe prepopulates is inaccurate or incomplete. Stripe may send documents to User and Governmental Authorities for transactions processed using the Services; specifically, Stripe may be required under Law to file periodic informational returns with Governmental Authorities related to User’s use of the Services. User agrees that Stripe may send tax-related information electronically to User.
 
 **7.4 User Bank Account.**
 
@@ -237,7 +257,7 @@ Except for Excluded Claims, to the maximum extent permitted by Law, neither part
 
 **8.4 Liability Cap.**
 
-Except for Excluded Claims, a party’s total aggregate liability for damages and Losses for all claims arising out of or relating to the Agreement (including Data Incident Losses) is limited to the total Fees User paid to Stripe (excluding all pass-through fees levied by Financial Providers) during the 12 month period before the first event giving rise to liability. User’s payment obligations, including Fees, Assessed Fines and Taxes are not limited by this Section 8.4.
+Except for Excluded Claims, a party’s total aggregate liability for damages and Losses arising out of or relating to the Agreement is limited to the total Fees paid by User  (excluding all pass-through fees levied by Financial Providers) during the 12 month period before the first event giving rise to liability. User’s payment obligations, including Fees, Assessed Fines and Taxes are not limited by this Section 8.4.
 
 ### **9\. Indemnification.**
 
@@ -259,7 +279,7 @@ An indemnifying party’s obligations under Section 9.1 do not apply to the exte
 
 **9.3 Defense of Claims.**
 
-If the indemnified party seeks to enforce an indemnity under this Agreement, it must promptly notify the indemnifying party of the applicable Claim and allow the indemnifying party to take exclusive control of its defense and settlement. The indemnified party must cooperate with and provide reasonable assistance to the indemnifying party in conducting such defense and settlement, at the indemnifying party's expense. The indemnifying party will control the defense and settlement at its expense, but will not enter into any settlement that imposes any obligation on the indemnified party (other than payment of money, which the indemnifying party must pay) without the indemnified party’s prior written consent. An indemnified party’s delay or failure in notifying the indemnifying party of a Claim will not relieve the indemnifying party of its indemnity obligations, except to the extent the indemnifying party has been prejudiced by such delay or failure.
+If the indemnified party seeks to enforce an indemnity under this Agreement, it must promptly notify the indemnifying party of the applicable Claim and allow the indemnifying party to take exclusive control of its defense and settlement. The indemnified party must cooperate with and provide reasonable assistance to the indemnifying party in conducting such defense and settlement, at the indemnifying party's expense, and will not take any actions that prejudice the defense. The indemnifying party will control the defense (including choice of counsel) and settlement at its expense, but will not enter into any settlement that imposes any obligation on the indemnified party (other than payment of money, which the indemnifying party must pay) without the indemnified party’s prior written consent. An indemnified party’s delay or failure in notifying the indemnifying party of a Claim will not relieve the indemnifying party of its indemnity obligations, except to the extent the indemnifying party has been prejudiced by such delay or failure.
 
 ### **10\. Suspension; Termination.**
 
@@ -275,19 +295,19 @@ If the indemnified party seeks to enforce an indemnity under this Agreement, it 
 
 (i) *Suspension.* Stripe may immediately suspend User’s access to the Stripe Technology and use of any or all of the Services if:
 
-(1) Stripe reasonably believes that by providing the Services to User, Stripe or User will violate any Law or Governmental Authority requirement or directive or, if applicable, Financial Provider Terms;
+(1) Stripe reasonably believes that by providing the Services to User, Stripe or User has violated, or is reasonably likely to violate, any Law or Governmental Authority requirement or directive or, if applicable, Financial Provider Terms or Financial Provider directive;
 
-(2) a User Insolvency Event occurs;
+(2) User experiences an Insolvency Event;
 
 (3) User breaches this Agreement or any other agreement between the parties;
 
-(4) Stripe reasonably believes User’s activity degrades, or may degrade, the security, privacy, stability or reliability of the Stripe services, Stripe Technology or any third party’s system (e.g., User’s involvement in a distributed denial of service attack);
+(4) Stripe reasonably believes User’s acts or omissions degrade, or may degrade, the security, privacy, stability or reliability of the Stripe services, Stripe Technology or any third party’s system (e.g., User’s involvement in a distributed denial of service attack);
 
 (5) Stripe reasonably believes User is engaged in a business or activity that may be unlawful, enables or facilitates (or may enable or facilitate) illegal or prohibited transactions, may be harmful to a third party, or otherwise presents an unacceptable risk to Stripe;
 
 (6) Stripe reasonably believes User’s activity increases, or may increase, the rate of fraud that Stripe observes;
 
-(7) User does not promptly respond to Stripe’s request for User Information; or
+(7) User does not promptly respond to Stripe’s request for, or fails to provide, User Information; or
 
 (8) User does not promptly update its implementation of the Services or Stripe Technology to the latest production version Stripe recommends or requires.
 
@@ -295,7 +315,7 @@ If the indemnified party seeks to enforce an indemnity under this Agreement, it 
 
 (1) *Termination for Convenience.* Unless otherwise agreed in writing, Stripe may terminate this Agreement or close User’s Stripe Account at any time. Stripe will notify User in accordance with Law.
 
-(2) *Termination for Cause*. Stripe may immediately terminate this Agreement or revoke access to any part of the Services or Stripe Technology if (A) User materially breaches this Agreement and, if capable of cure, does not cure the breach within 10 days after receiving notice specifying the breach or (B) any event listed in Section 10.1(b)(i) of these General Terms occurs. Stripe will notify User in accordance with Law.
+(2) *Termination for Cause*. Stripe may immediately terminate this Agreement or revoke access to any part of the Services or Stripe Technology if (A) User materially breaches this Agreement and, if capable of cure, does not cure the breach within 10 days after receiving notice specifying the breach; (B) User experiences an Insolvency Event and Law allows for termination; (C) any event listed in Section 10.1(b)(i) of these General Terms occurs; or (D) Law requires, or a Governmental Authority or Financial Provider directs Stripe to do so. Stripe will notify User in accordance with Law.
 
 **10.2 Effect of Termination.**
 
@@ -307,7 +327,7 @@ The following will survive termination of this Agreement:
 
 (a) User’s obligation to pay Fees;
 
-(b) Sections 3 (Stripe Account Security), 5.1 (Ownership; Intellectual Property Rights), 5.2 (Feedback), 7 (Fees; Taxes; User Bank Account), to the extent applicable to Services provided or to Transactions submitted during the Term; 8 (Limitation of Liability), 9 (Indemnification), 10.2 (Effect of Termination),11.2 (Notices and Communications), 11.3 (Governing Law); 11.4 (Dispute Resolution; Agreement to Arbitrate), 11.7 (Entire Agreement), 11.8 (Modification), 11.9 (Order of Precedence), 11.10 (Assignment), 11.11 (Severability), 11.12 (Waivers), 11.13 (Force Majeure), 11.14 (No Agency), 11.15 (Cumulative Rights; Injunctions), 11.17 (Interpretation), 12 (Definitions), to the extent used in a surviving clause, 13 (Regional Terms);
+(b) Sections 3 (Stripe Account Security), 5.1 (Ownership; Intellectual Property Rights), 5.2 (Feedback), 7 (Fees; Taxes; User Bank Account), to the extent applicable to Services provided or to Transactions submitted during the Term, 8 (Limitation of Liability), 9 (Indemnification), 10.2 (Effect of Termination),11.2 (Notices and Communications), 11.3 (Governing Law), 11.4 (Dispute Resolution; Agreement to Arbitrate), 11.7 (Entire Agreement), 11.8 (Modification), 11.9 (Order of Precedence), 11.10 (Assignment), 11.11 (Severability), 11.12 (Waivers), 11.13 (Force Majeure), 11.14 (No Agency), 11.15 (Cumulative Rights; Injunctions), 11.17 (Interpretation), 12 (Definitions), to the extent used in a surviving clause, 13 (Regional Terms);
 
 (c) Section 4 (Privacy and Data Use), for so long as Stripe or User holds Stripe Data or Personal Data, as applicable;
 
@@ -323,7 +343,7 @@ Each party must comply with all Laws applicable to its business in its performan
 
 **11.2 Notices and Communications.**
 
-Notices to Stripe. Unless this Agreement states otherwise, for notices to Stripe, contact Stripe. A notice User sends to Stripe is deemed to be received when Stripe receives it.
+Notices to Stripe. Except as may be required by Applicable Law or unless this Agreement states otherwise, for notices to Stripe, [contact Stripe](https://stripe.com/contact). A notice User sends to Stripe is deemed to be received when Stripe receives it.
 
 Communications to User. User consents to electronic communications as described in the [E-SIGN Disclosure](https://stripe.com/legal/e-sign-disclosure), which is incorporated into this Agreement by this reference. Stripe also may send User Communications by physical mail or delivery service to the postal address listed in the applicable Stripe Account. A Communication Stripe sends to User is deemed received by User on the earliest of (i) when posted to the Stripe Website or Stripe Dashboard; (ii) when sent by text message or email; and (iii) three business days after being sent by physical mail or when delivered, if sent by delivery service.
 
@@ -377,7 +397,7 @@ If any term in these General Terms conflicts with a term in any Service Terms or
 
 **11.10 Assignment.**
 
-User may not assign or transfer any of its rights or obligations under this Agreement without Stripe’s prior consent (which consent will not be unreasonably withheld or delayed). However, User may assign this Agreement in its entirety to its successor resulting from a merger, acquisition, or sale of all or substantially all of User’s assets or voting securities, provided that User provides Stripe with prompt written notice of the assignment and the assignee agrees in writing to assume all of User’s obligations under this Agreement and complies with Stripe’s procedural and documentation requirements to give effect to the assignment. To request Stripe’s consent to assign this Agreement, please contact us. Any attempt by User to transfer or assign this Agreement, except as expressly authorized above, will be void. Stripe may assign and transfer its rights and obligations under this Agreement (in whole or in part) without User’s consent. This Agreement will be binding on, inure to the benefit of, and be enforceable by the parties and their permitted assigns.
+User may not assign or transfer any of its rights or obligations under this Agreement without Stripe’s prior consent (which consent will not be unreasonably withheld or delayed). However, User may assign this Agreement in its entirety to its successor resulting from a merger, acquisition, or sale of all or substantially all of User’s assets or voting securities, provided that (i) User provides Stripe with prompt written notice of the proposed assignment, (ii)the assignee agrees in writing to assume all of User’s obligations under this Agreement, and (iii) the assignee complies with Stripe’s procedural and documentation requirements to give effect to the assignment. To request Stripe’s consent to assign this Agreement, please [contact Stripe](https://stripe.com/contact). Any attempt by User to transfer or assign this Agreement, except as expressly authorized above, will be void. Stripe and its Affiliates may assign and transfer its rights and obligations under this Agreement (in whole or in part) without User’s consent. This Agreement will be binding on, inure to the benefit of, and be enforceable by the parties and their permitted assigns.
 
 **11.11 Severability.**
 
@@ -399,7 +419,7 @@ Each party to this Agreement, and each Financial Provider (if applicable), is an
 
 The rights and remedies of the parties under this Agreement are cumulative. Each party may exercise any of its rights or remedies under this Agreement, along with all other rights and remedies available to it at Law or in equity. Any material breach by a party of Sections 2, 4, 5, and 6 could cause the non-breaching party irreparable harm for which the non-breaching party has no adequate remedies at Law. Accordingly, the non-breaching party is entitled to seek specific performance or injunctive relief for the breach.
 
-**11.16 Subcontractor and Affiliates.**
+**11.16 Subcontractors and Affiliates.**
 
 Stripe may use subcontractors or its Affiliates in the performance of its obligations under this Agreement. Stripe remains responsible for its overall performance under this Agreement and for having appropriate written agreements in place with its subcontractors and Affiliates to enable Stripe to meet its obligations under this Agreement.
 
@@ -537,17 +557,21 @@ Stripe Technology Company Limited\*\*\*
 
 “**Affiliate**” means an entity that directly or indirectly Controls, is Controlled by, or is under common Control with another entity.
 
+“**AI Agent**” means any software, computer or other automated technology, including any such technology that operates through, in conjunction with, or by invoking other automated systems, platforms, APIs or agents, whether or not User has direct control over or visibility into each intermediate system in the chain, that is capable of, designed for, or employed for the purpose of independently or semi-independently acting as User’s delegate, proxy, intermediary, or agent in any transactional activity, whether in a single transaction or across multiple ongoing transactions.
+
 “**API**” means application programming interface.
 
 “**Assessed Fines**” means assessments, penalties, fines, and fees imposed by Governmental Authorities or Financial Providers arising out of or relating to the use of the Services.
 
 “**Business Purpose**” means the operational activities, functions, or objectives of User, including, but not limited to, activities relevant to carrying out its organizational, commercial, non-profit, or governmental mission.
 
+"**CCPA**" means California Consumer Privacy Act of 2018, Cal. Civ. Code Sections 1798.100-1798.199, and its implementing regulations.
+
 “**Change of Control**” means (a) an event in which any third party or group acting together, directly or indirectly, acquires or becomes the beneficial owner of, more than 50% of a party’s voting securities or interests; (b) a party’s merger with one or more third parties; (c) a party’s sale, lease, transfer, or other disposal of all or substantially all of its assets; or (d) the entry into any transaction or arrangement that would have the same or similar effect as a transaction referred to in (a)-(c) of this definition; but, does not include an initial public offering or listing.
 
 “**Claim**” means any claim, demand, government investigation, or legal proceeding that a third party makes or brings against any indemnified party.
 
-"**Communication**” means any written or electronic transmission of information or communication, including a notice, approval, consent, authorization, agreement, disclosure, or instruction.
+"**Communication**” has the meaning given to it in the E-SIGN Disclosure.
 
 “**Confidential Information**” means all information disclosed by a party (“**Disclosing Party**”) to the other party (“**Receiving Party**”), whether orally or in writing, that is designated as confidential or that reasonably should be understood to be confidential given the nature of the information and the circumstances of disclosure.
 
@@ -559,15 +583,17 @@ Stripe Technology Company Limited\*\*\*
 
 “**Data Incident**” means an unauthorized or unlawful processing, use, access, loss, disclosure, destruction, or alteration of Personal Data in a party’s or its Affiliate’s, or a party’s or its Affiliate’s subcontractor’s, agent’s, or representative’s, possession or control.
 
-“**Data Incident Losses**” means Losses arising from a Data Incident to the extent caused by (a) the indemnifying party’s material breach of this Agreement; (b) the indemnified party’s compliance with any instruction the indemnifying party gives related to Personal Data; or (c) the indemnifying party’s material violation of Law.
-
-“**Documentation**” means the sample code, instructions, requirements, and other documentation (a) available on the Stripe Website, the first page of which is located at www.docs.stripe.com; and (b) included in the Stripe SDKs.
+“**Documentation**” means the sample code, instructions, requirements, and other documentation (a) available on the Stripe Website, the first page of which is located at https://docs.stripe.com; and (b) included in the Stripe SDKs.
 
 “**DPA**” means the data processing agreement located at [www.stripe.com/legal/dpa](https://www.stripe.com/legal/dpa).
 
 **“E-SIGN Disclosure**” means the E-SIGN Disclosure terms found on the Stripe Website.
 
-“**Excluded Claims**” means: (a) a party’s gross negligence, fraud, or willful misconduct, (b) User’s breach of Section 1.2 (Restrictions), (c) a party’s breach of Section 6 (Confidentiality) but excluding Data Incident Losses, or (d) amounts payable under Section 9.1 (Indemnities).
+"**EU AI Act**" means Regulation (EU) 2024/1689 of the European Parliament and of the Council of 13 June 2024, laying down harmonized rules on artificial intelligence, as amended or supplemented from time to time.
+
+“**Excluded Claims**” means: (a) a party’s gross negligence, fraud, or willful misconduct; (b) User’s breach of Section 1.2 (Restrictions); (c) a party’s breach of Section 6 (Confidentiality), except that a breach arising from a Data Incident is not an Excluded Claim under this clause (c); or (d) amounts payable under Section 9.1 (Indemnities).
+
+"**FCRA**" means the Fair Credit Reporting Act, 15 U.S.C. § 1681, *et seq.*, as amended.
 
 “**Feedback**” means ideas, suggestions, comments, observations, and other input regarding the Services and the Stripe Technology.
 
@@ -575,7 +601,7 @@ Stripe Technology Company Limited\*\*\*
 
 “**Financial Provider**” means an entity that provides financial services and with which a Stripe Entity interacts to provide the Services.
 
-“**Force Majeure Event**” means an event beyond the reasonable control of the affected party, including a strike or other labor dispute or labor shortage, stoppage, or slowdown; supply chain disruption; embargo or blockade; telecommunication breakdown; power outage or shortage; inadequate transportation service; inability or delay in obtaining adequate supplies; weather; earthquake; fire; flood; natural disaster; act of God; riot; civil disorder; civil or government calamity; epidemic; pandemic; state, national, or international health crisis; war; invasion; hostility (whether war is declared or not); terrorism threat or act; Law; or act of a Governmental Authority.
+“**Force Majeure Event**” means an event beyond the reasonable control of the affected party, including a strike or other labor dispute or labor shortage, stoppage, or slowdown; supply chain disruption; embargo or blockade; cyberattack or other harmful third-party interference with information systems, including through the use of artificial intelligence; telecommunication breakdown; power outage or shortage; inadequate transportation service; inability or delay in obtaining adequate supplies; weather; earthquake; fire; flood; natural disaster; act of God; riot; civil disorder; civil or government calamity; epidemic; pandemic; state, national, or international health crisis; war; invasion; hostility (whether war is declared or not); terrorism threat or act; Law; or act of a Governmental Authority.
 
 “**General Terms**” means the preamble and Sections 1 through 13 of this Stripe Services Agreement.
 
@@ -584,6 +610,28 @@ Stripe Technology Company Limited\*\*\*
 “**High-Risk Jurisdiction**” means any jurisdiction or administrative region that Stripe has deemed to be of particularly high risk, as identified in [Stripe's Prohibited and Restricted Businesses List](https://stripe.com/legal/restricted-businesses).
 
 “**High-Risk Person**” means any individual or entity that Stripe has deemed to be of particularly high risk, as identified in [Stripe's Prohibited and Restricted Businesses List](https://stripe.com/legal/restricted-businesses).
+
+“**Insolvency Event**” means, with respect to a party, the occurrence or reasonable likelihood of any of the following (or any analogous procedure or step):
+
+(a) a party is unable to pay its debts or is deemed unable to pay its debts or is deemed unable to pay its debts as they fall due under applicable Law;
+
+(b) a party is the subject of an involuntary petition or proceeding for winding up, bankruptcy, liquidation, administration, or equivalent proceedings, which is not dismissed or stayed within 30 days;
+
+(c) a party passes a resolution or takes formal corporate action for its winding up, dissolution, liquidation, or administration (except for the purposes of a solvent amalgamation, reconstruction, or reorganization);
+
+(d) a party stops, or threatens to stop, carrying on all or substantially of its business;
+
+(e) a liquidator, receiver, administrator, or similar officer is appointed over the whole or a material part of a party’s assets;
+
+(f) a party is the subject of a petition, application, or order for its administration, or a notice of intention to appoint an administrator is given, or any equivalent step is taken by any person under applicable Law with a view to the administration of a party;
+
+(g) the party enters into, or commences formal negotiations for, a composition, assignment, or restructuring arrangement with its creditors generally (or any class of them), due to actual or anticipated financial distress, or a moratorium is declared in respect of any of its indebtedness;
+
+(h) the appointment of, or any formal step taken to appoint, a liquidator, receiver, administrative receiver, administrator, or similar officer over a party or a material part of its assets (provided that any involuntary step or proceeding is not dismissed or stayed within 30 days);
+
+(i) any security is enforced, or any legal process (including execution, attachment, lien, or levy) is levied, against a material part of a party’s assets and is not discharged or stayed within 30 days; or
+
+(j) any material subsidiary of a party is subject to any of the events listed in this definition.
 
 “**IP Claim**” means:
 
@@ -595,7 +643,7 @@ Stripe Technology Company Limited\*\*\*
 
 “**Law**” means all applicable laws, rules, regulations, and other binding requirements of any Governmental Authority.
 
-“**Losses**” means all amounts finally awarded to the third party making a Claim, and all penalties, fines, and reasonable third-party costs (including reasonable legal fees) paid by the indemnified parties, to the extent arising from the Claim.
+“**Losses**” means all amounts finally awarded or settled to the third party making a Claim, and all penalties, fines, and reasonable third-party costs (including reasonable legal fees) paid by the indemnified parties, to the extent arising from the Claim.
 
 “**Mark**” means a trademark, service mark, design mark, logo or stylized script.
 
@@ -612,6 +660,8 @@ Stripe Technology Company Limited\*\*\*
 “**Preview**” means the product release phase “proof of concept”, “alpha”, “beta”, “pilot”, “invite only”, “private preview”, “private developer preview”, “public preview”, “developer preview”, or similar designation.
 
 “**Preview Service**” means any Preview feature or portion of the Services or Stripe Technology.
+
+“**Privacy Policy**” means any or all of a publicly posted privacy policy, privacy notice, data policy, cookies policy, cookies notice, or other similar public policy or public notice that addresses a party’s Personal Data practices and commitments.
 
 “**Prohibited and Restricted Business List**” means the list of Prohibited and Restricted Businesses accessible from the Stripe Legal Page.
 
@@ -653,6 +703,8 @@ Stripe Technology Company Limited\*\*\*
 
 “**Stripe Legal Page**” means [www.stripe.com/legal](https://www.stripe.com/legal).
 
+“**Stripe Output Data**” means any data User receives through the Stripe Services which has been produced or returned by or through the Services, including the Orchestrated Output Data and Stripe Radar Data.
+
 “**Stripe Parties**” means Stripe and its Affiliates, and the directors, employees, and agents of each Stripe Entity.
 
 “**Stripe Pricing Page**” means www.stripe.com/\[countrycode\]/pricing, where “\[countrycode\]” means the two-letter abbreviation for the country where a Stripe Account is located, and any other pages on the Stripe Website that are accessible from that page.
@@ -661,7 +713,7 @@ Stripe Technology Company Limited\*\*\*
 
 “**Stripe Website**” means [www.stripe.com](https://www.stripe.com).
 
-“**Subscription Plan**” means a Subscription Service’s entitlement scope, term length, and pricing plan, as stated on the Stripe Pricing Page, online sign-up page, Documentation, or as otherwise agreed between User and Stripe (e.g., via the Stripe Dashboard).
+“**Subscription Plan**” means a Subscription Service’s entitlement scope, term length, and pricing plan, as stated on the Stripe Pricing Page, online sign-up page, Documentation, or as otherwise agreed between User and Stripe, including via the Stripe Dashboard.  
 
 “**Subscription Service**” means a Service or combination of Services, as applicable, that User pays for on a recurring basis.
 
@@ -675,7 +727,7 @@ Stripe Technology Company Limited\*\*\*
 
 “**Update**” means a modification, feature enhancement, or update to the Services or Stripe Technology that requires User to take some action, which may include changing User’s implementation of the Services or Stripe Technology.
 
-“**User Bank Account**” means a bank or other financial institution account User identifies to Stripe.
+“**User Bank Account**” means a bank or other financial institution account User designates to Stripe.
 
 “**User Bank Account Debit Authorization**” means a debit authorization on the terms specified at [www.stripe.com/legal/bank-debit-authorizations](https://www.stripe.com/legal/bank-debit-authorizations).
 
@@ -791,6 +843,10 @@ The class action waiver in the preamble does not apply.
 
 Nothing in this Agreement will preclude Stripe from making any application or issuing any legal or insolvency proceeding in an appropriate court under insolvency law in the User’s jurisdiction.
 
+**13.3 Assignment.**
+
+Stripe may novate or transfer this Agreement, or any rights and obligations under it, to any Stripe Affiliate without the User's prior written consent. Stripe may not novate or transfer this Agreement, or its rights and obligations under it, to any other party without the User's prior written consent, which must not be unreasonably withheld or delayed.
+
 #### **Australia.**
 
 The following Regional Terms apply for Users in Australia.
@@ -899,7 +955,7 @@ Subsections 8.3 and 8.4 of Section 8 (Limitation of Liability) are replaced by t
 
 8.3 *Excluded Damages*. Except for Excluded Claims, to the maximum extent permitted by Law, neither party will be liable to the other party or to the other party’s Affiliates in connection with this Agreement or the Services, whether during or after the Term, for any lost profits, personal injury, property damage, loss of data, business interruption, or any damages that do not arise directly and immediately from any act or omission of such party (such as indirect, incidental, consequential, exemplary, moral, loss of a chance, or punitive damages), even if such losses, damages, or costs were foreseeable or even if User or Stripe have been advised of their possibility.
 
-8.4 *Limitation of Liability*. Except for Excluded Claims, to the maximum extent permitted by Law, neither party will be liable to the other party or to the other party’s Affiliates in connection with this Agreement or the Services (including Data Incident Losses), whether during or after the Term, for any losses, damages, or costs that, in the aggregate, exceed the greater of: (i) the amount of fees actually paid by User to Stripe (excluding fees passed on to Financial Providers) in the 12 months period before the event giving rise to the liability; and (ii) R$2,500.00. User’s payment obligations, including Fees, Assessed Fines and Taxes are not limited by this Section 8.4.
+8.4 *Limitation of Liability*. Except for Excluded Claims, to the maximum extent permitted by Law, neither party will be liable to the other party or to the other party’s Affiliates in connection with this Agreement or the Services, whether during or after the Term, for any losses, damages, or costs that, in the aggregate, exceed the greater of: (i) the amount of fees actually paid by User to Stripe (excluding fees passed on to Financial Providers) in the 12 months period before the event giving rise to the liability; and (ii) R$2,500.00. User’s payment obligations, including Fees, Assessed Fines and Taxes are not limited by this Section 8.4.
 
 **13.9 Processing of Personal Data by Stripe, LLC**
 
@@ -1019,7 +1075,7 @@ This document is an electronic record in terms of Information Technology Act, 20
 
 Stripe will send User a tax invoice but User is solely responsible for (a) providing Stripe the information necessary to populate the tax invoice in a timely manner; and (b) the accuracy of the information User provides (including the tax registration ID). Without limiting the previous paragraph, User is responsible for paying to the tax authorities the Tax Deducted at Source (“**TDS**”) due on the Fees. In order to do so, User must determine the appropriate rate, file the appropriate forms, and make the appropriate TDS payments. After filing and paying the appropriate TDS amount, User will receive a tax certificate from the tax authorities, which shows the exact TDS amount paid under Stripe’s Permanent Account Number (AAXCS5874N). If User submits the certificate to Stripe at priority-support-in@stripe.com within 30 days of the certificate’s issue date, Stripe will reimburse User for the TDS that User has paid (as shown on the certificate).
 
-Stripe may, in its sole discretion, pay User an advance monthly TDS reimbursement if User provides Stripe a valid Tax Deductor Account Number (TAN). User will file the appropriate forms, make the appropriate TDS payments to the tax authorities, and promptly send Stripe the tax certificate User receives for that payment. If, due to User’s acts or omissions, Stripe cannot claim or does not receive a full credit for any TDS that Stripe previously reimbursed to User, Stripe may deduct a corresponding amount from User’s Stripe Account. Stripe is not liable for any Taxes, interest or penalty incurred caused by User’s acts or omissions (including User’s delay or non-payment of TDS to the tax authorities).
+Stripe may, in its sole discretion, pay User an advance monthly TDS reimbursement if User provides Stripe a valid Tax Deductor Account Number (TAN). User will file the appropriate forms, make the appropriate TDS payments to the tax authorities, and promptly send Stripe the tax certificate User receives for that payment. If, due to User’s acts or omissions, Stripe cannot claim or does not receive a full credit for any TDS that Stripe previously reimbursed to User, Stripe may deduct a corresponding amount from User’s Stripe Account. Stripe is not liable for any Taxes, interest or penalty incurred or caused by User’s acts or omissions (including User’s delay or non-payment of TDS to the tax authorities).
 
 **13.5 Security Incident Reporting.**
 
@@ -1363,7 +1419,7 @@ The parties acknowledge that they have required this Agreement and all related d
 
 **13.6 Additional Tax Provisions.**
 
-Stripe may, in its sole discretion, pay User an advance monthly withholding tax reimbursement. User will file the appropriate forms, make the appropriate withholding tax payments to the tax authorities, and promptly send Stripe the tax certificate for that payment. If, due to User’s acts or omissions, Stripe cannot claim or does not receive a full credit for any withholding tax that Stripe previously reimbursed to User, Stripe may deduct a corresponding amount from User’s Stripe Account. Stripe is not liable for any taxes, interest or penalty incurred caused by User’s acts or omissions (including User’s delay or non-payment of withholding tax to the tax authorities).
+User must settle Fees and other amounts due to Stripe for a given month on the first of the following month, or, if we notify User of another date, on that date. Unless Stripe notifies User of another method of settlement, the settlement will be made by deducting or setting off amounts that User owes from User’s Stripe Account balance, debiting a User Bank Account, or as this Agreement otherwise permits. Stripe may, in its sole discretion, pay User an advance monthly withholding tax reimbursement. User will file the appropriate forms, make the appropriate withholding tax payments to the tax authorities, and promptly send Stripe the tax certificate for that payment. If, due to User’s acts or omissions, Stripe cannot claim or does not receive a full credit for any withholding tax that Stripe previously reimbursed to User, Stripe may deduct a corresponding amount from User’s Stripe Account. Stripe is not liable for any taxes, interest or penalty incurred or caused by User’s acts or omissions (including User’s delay or non-payment of withholding tax to the tax authorities).
 
 **13.7 Processing of Personal Data by Stripe Payments Europe, Limited.**
 
@@ -1405,6 +1461,30 @@ If for any reason a claim or dispute proceeds in court rather than through arbit
 
 To the extent Law permits, any dispute arising out of or relating to this Agreement, whether in arbitration or in court, will be conducted only on an individual basis and not in a class, consolidated or representative action. Notwithstanding any other provision of this Agreement or the ICC Rules, disputes regarding the interpretation, applicability, or enforceability of this class waiver may be resolved only by a court and not by an arbitrator. If this waiver of class or consolidated actions is deemed invalid or unenforceable, neither party is entitled to arbitration.
 
-**13.3 Provision of Services from Systems located outside of the United Arab Emirates.**
+**13.3 Processing, Disclosure and Transfer of Data Outside the United Arab Emirates.**
 
-Stripe will provide some or all of the Services from systems located within the United States or other countries outside of the United Arab Emirates. As such, it is User’s obligation to disclose to User’s customers that payment data may be transferred, processed and stored outside of the United Arab Emirates and, as set forth in Stripe’s Privacy Policy and in accordance with the laws of Ireland, exclusive of conflict or choice of law rules, may be subject to disclosure as required by applicable Laws including Federal Law No. 4 of 2002, Federal Law 1 of 2006 Article 5 and Federal Law 4 of 2002 and to obtain from User’s customers all necessary consents under applicable Laws in relation to the foregoing.
+User acknowledges and agrees that Stripe may provide some or all of the Services from systems located in the United States or other countries outside the United Arab Emirates as listed in the Stripe Sub-processors List (as defined in the DPA). In connection with the Services, Stripe and its Affiliates may collect, access, use, process, store, disclose and transfer outside the United Arab Emirates: (a) Protected Data; (b) Content; (c) Third Party Data; and (d) other data and information relating to User, User’s business, User’s representatives, employees, contractors and other personnel, Customers, and transactions processed through the Services.
+
+Stripe may disclose or transfer this data and information to its Affiliates, Financial Providers, payment method providers, Card Networks, service providers, professional advisers and Governmental Authorities, including the Central Bank of the United Arab Emirates, as necessary to:
+
+(a) provide, operate, secure, support and improve the Services;
+
+(b) process transactions and perform related reconciliation, settlement, reporting and support activities;
+
+(c) comply with Law, regulatory requirements, Card Network Rules, and requests from Governmental Authorities;
+
+(d) prevent, detect, investigate and manage fraud, money laundering, terrorist financing, security incidents and other unlawful or prohibited activity;
+
+(e) perform identity, verification, credit, risk and compliance checks;
+
+(f) provide products or services requested or enabled by User;
+
+(g) obtain professional advice or services from persons subject to appropriate confidentiality obligations;
+
+(h) facilitate an actual or proposed financing, investment, reorganisation, sale, merger, assignment or other transfer of all or part of Stripe’s business or assets, subject to appropriate confidentiality obligations; and
+
+(i) otherwise to provide the Services as set out in the Agreement.
+
+User must provide Customers and other relevant individuals (including Connected Accounts) with all notices required by Law and obtain all rights, permissions and consents necessary to enable Stripe and the recipients described in this section to Process, disclose and transfer their data as described above.
+
+To the extent any data described in this section is Personal Data, the DPA, including the Data Transfers Addendum, governs its processing.
