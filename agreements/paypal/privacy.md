@@ -9,7 +9,7 @@ selector: "#content-wrapper"
 
 PayPal Privacy Statement
 
-Last updated on July 6, 2026
+Last updated on September 28, 2026
 
 ## Overview
 
@@ -29,7 +29,7 @@ We may revise this Privacy Statement from time to time to reflect changes to our
 
 ## Non-Account Holders
 
-Our Services may be accessed by individuals without a PayPal account or profile. We will collect Personal Information from you even if you are a non-account holder when you use our Services, such as when you use our Pay without a PayPal Account, use Unbranded Payment Services (e.g., Braintree), use a Fastlane profile, or when you receive a payment through the Visa+ service from a PayPal account holder or a payment from a payor using the Hyperwallet services. If you Pay without a PayPal account, we may link your transaction information with your PayPal account if you create a PayPal account later.
+Our Services may be accessed by individuals without a PayPal account or profile. We will collect Personal Information from you even if you are a non-account holder when you use our Services, such as when you use our Pay without a PayPal Account, use Unbranded Payment Services (e.g., Braintree), use a Fastlane profile, or when you receive a payment from a PayPal account holder (through the Visa+ service or other third party wallets, payment networks, and processors) or a payment from a payor using the Hyperwallet services. If you Pay without a PayPal account, we may link your transaction information with your PayPal account if you create a PayPal account later.
 
 # PayPal Privacy Statement
 
@@ -77,6 +77,7 @@ We may collect Personal Information to:
 *   *Provide our Services*. We may use Personal Information to help you send, receive or request money, initiate a payment, add monetary value to an account, pay a bill, administer your purchases, display shipping options and associated costs when you check out, show you your profile, account and payment information, send and receive transactions and prove that they have been executed, to assess your creditworthiness in connection with our Services, confirm your identity (also through the use of electronic signature) and your contact information, to authenticate your access to your account or profile and to confirm your account or profile and financial information are accurate and up to date.
 
 *   For Visa+, we will receive the recipient's name and payment information from Visa and third-party Visa+ participating digital wallets for the purpose of processing and matching Visa+ payment transactions between participating digital wallets and PayPal.
+*   We will use information from third parties, including third-party wallets, payment networks, and processors, to process PayPal World transactions.
 *   If you are using Fastlane, we may recognize you as a Fastlane user when you shop on participating Partner and Merchant sites, and we may prompt you to engage in participating Partner or Merchant interactions, such as registering for a store or loyalty account using your Fastlane profile. We will also use your Personal Information and payment method details to determine whether the payment you are making with a participating Partner or Merchant is authorized by you and likely to be successfully authorized by the payment method you choose to use when you make a purchase using details from your Fastlane profile.
 
 *   *Provide receipts in connection with PayPal Point of Sale (formerly Zettle by PayPal) services.* For buyers using our PayPal Point of Sale services (including Venmo Tap to Pay), you may choose to provide us your contact details so that we can send you digital receipts. If you provide your e-mail address or mobile number to a Partner or Merchant who uses PayPal Point of Sale, we may remember your details for the next time you buy something from a Merchant who uses PayPal Point of Sale in its physical store, if you use the same payment card. This is regardless of whether you have previously bought something from this Merchant or not. This means that your e-mail address or mobile number will be pre-filled in the receipt view for your convenience the next time you buy something from a Merchant who uses PayPal Point of Sale in its physical store.
@@ -109,7 +110,7 @@ We disclose your Personal Information with service providers and third parties, 
 
 *   **Members of the PayPal corporate group** from time to time, such as the PayPal family of companies listed in [**Our Contact Information**](#contact), for purposes including (but not limited to) providing the Services you have requested or authorized, managing risk, helping us to detect and prevent potentially illegal and fraudulent acts and other violations of our policies and agreements, and helping us to manage the availability and connectivity of PayPal products, services, and communications.
 *   **Excluded Services**. We may disclose Personal Information to the Excluded Services (as defined below), including Venmo to provide you with the Services, personalize your use of the Services, and to manage our business, or with PayPal Honey to manage our Rewards program.
-*   **Authorities**. We may disclose Personal Information with authorities if compelled by a subpoena, court order, or similar legal procedure, when necessary to comply with law, or where the disclosure of Personal Information is reasonably necessary to prevent physical harm or financial loss, report suspected illegal activity, or investigate violations of the relevant agreement, or as otherwise required by law. Such authorities include courts, governments, law enforcement, and regulators. We may also be required to provide other third parties information about your use of our Services, for example, to comply with card association rules, to investigate or enforce violations of our user agreement, or to prevent physical harm or illegal activity.
+*   **Authorities**. We may disclose Personal Information with authorities if compelled by a subpoena, court order, or similar legal procedure, when necessary to comply with law, or where the disclosure of Personal Information is reasonably necessary to prevent physical harm or financial loss, report suspected illegal activity, or investigate violations of the relevant agreement, or as otherwise required by law. Such authorities include courts, governments, law enforcement, and regulators. We may also be required to provide other third parties information about your use of our Services, for example, to comply with card association rules, to investigate or enforce violations of our user agreement, or to prevent physical harm or illegal activity. In some cases, PayPal may not be permitted to provide you with information about such disclosures.
 *   **Other financial institutions**. We may disclose Personal Information with financial institutions to jointly offer a product, such as PayPal Credit, PayPal Savings, PayPal Cashback Mastercard and PayPal Extra Mastercard.
 *   **Payment networks and processors**. We may disclose Personal Information with payment networks and processors to facilitate payment processing or to add cards to your electronic wallet. For payment transactions, your Personal Information will be shared with the provider of the payment services for the participating Partner and Merchant to enable the processing of the payment transaction. The payment provider for the Partner and Merchant may be PayPal or a third party payment provider.
 *   **Fraud prevention and identity verification agencies**. We may disclose Personal Information with fraud prevention and identity verification agencies and other companies across industries to assist in detecting activities suggestive of fraud.
@@ -119,7 +120,7 @@ We disclose your Personal Information with service providers and third parties, 
 *   **Other Users if you have a business profile**. If you have a business profile, we will display a payment link and disclose certain information about you to other Users, including your name or business name, profile picture or logo, and the city associated with your PayPal account, as well as total time selling with us, total number of followers, and total number of unique Users that have paid you in the past year. If you have a business profile, you can choose to display other information to other Users, such as your street address, phone number, email and website, in accordance with your business profile settings.
 *   **Your agent or legal representative**. We may disclose Personal Information to your agent or legal representative, such as the holder of a power of attorney that you grant, or a guardian appointed by you.
 *   **Linked accounts**. If you choose to link your PayPal account with a third-party account, we may disclose Personal Information with third-parties who facilitate that linking.
-*   **Partners and Merchants, their service providers and others involved in a transaction**. We may disclose Personal Information with these parties involved in a transaction such as your user name, address, phone number, email address to enable the purchase and delivery of the goods in the transaction. For example, when you use the Services to initiate online purchases, save your payment information with Fastlane, pay other Users using the Services, pay recipients using Visa+, return goods, or when you participate in transactions through the payment network, we may disclose information about you and your account or Fastlane profile with the other parties (or their service providers) involved in processing your transactions. If you choose to interact with participating Partners and Merchants, we will disclose your profile information with the participating Partners and Merchants and their service providers, and facilitate your transaction, shopping experience or other interaction with participating Partners and Merchants sites. This also applies when you interact with ads or offers we provide relating to one of our Partners and Merchants. Please note that once Personal Information is shared with Partners and Merchants (or their service providers) involved in a transaction, the handling of your Personal Information by the Partners and Merchants (or their service provider) is subject to the Partners' and Merchants' own privacy policies and procedures.
+*   **Partners and Merchants, their service providers and others involved in a transaction**. We may disclose Personal Information with these parties involved in a transaction such as your user name, address, phone number, email address to enable the purchase and delivery of the goods in the transaction. For example, when you use the Services to initiate online purchases, save your payment information with Fastlane, pay other Users using the Services, pay recipients using Visa+, pay using PayPal World, return goods, or when you participate in transactions through the payment network, we may disclose information about you and your account or Fastlane profile with the other parties (or their service providers) involved in processing your transactions. If you choose to interact with participating Partners and Merchants, we will disclose your profile information with the participating Partners and Merchants and their service providers, and facilitate your transaction, shopping experience or other interaction with participating Partners and Merchants sites. This also applies when you interact with ads or offers we provide relating to one of our Partners and Merchants. Please note that once Personal Information is shared with Partners and Merchants (or their service providers) involved in a transaction, the handling of your Personal Information by the Partners and Merchants (or their service provider) is subject to the Partners' and Merchants' own privacy policies and procedures.
 
 *   We may also disclose Personal Information to Partners and Merchants to enable their use of our Services to facilitate your transactions. For example, when you visit a participating Partners and Merchants site or app, the Partners and Merchants can check whether you are a user of PayPal services and present a recommended payment method to you to simplify your checkout process.
 
@@ -314,14 +315,14 @@ We operate in many countries, and we (or our service providers) may transfer you
 *   **Automated Decision** and **Automated Decision Making** refers to the process of making a decision by automated means without or limited human involvement, depending on applicable law. In some cases, these decisions could have a legal or similarly significant effect on you as an individual. These terms also mean like concepts under applicable laws.
 *   **Cookies** means tracking technologies such as cookies, pixel tags, web beacons, and widgets.
 *   **Device Information** means data that can be automatically collected from any device used to access the Services. Such information may include, but is not limited to, your device type, your device’s network connections, your device’s name, your device IP address, information about your device’s web browser and internet connection you use to access the Services, geolocation information, and information about apps downloaded to your device.
-*   **Excluded Services** means companies or separate brands, affiliates, or subsidiaries of PayPal, who process Personal Information in accordance with their own terms of service and separate privacy statements. Examples include Venmo, Honey Science LLC, Chargehound LLC, Paidy Inc., Simility, Swift Financial LLC, and Bill Me Later, Inc.
+*   **Excluded Services** means companies or separate brands, affiliates, or subsidiaries of PayPal, who process Personal Information in accordance with their own terms of service and separate privacy statements. Examples include Venmo, Honey Science LLC, Chargehound LLC, Paidy Inc., Swift Financial LLC, and Bill Me Later, Inc.
 *   **Fastlane** means the online tool whereby individuals can store their payment methods and other Personal Information with PayPal so that they can complete the checkout process faster, create a store or loyalty account, or facilitate other transactions at participating Partners and Merchants with payment card, contact information, shipping data or other data they save in their Fastlane profile as relevant to the specific interaction, participating Partners and Merchants, all without having to manually input payment method details and other Personal Information each time they check out.
 *   **Hyperwallet** means the PayPal technology and online service that allows payout capabilities for businesses of all shapes and sizes through a single integration.
 *   **Partners and Merchants** means our partners and the merchants, partners or businesses that our Users transact with for the purpose of obtaining goods or services.
 *   **Pay without a PayPal Account** means our Services may be accessed by individuals without using a PayPal account, a Fastlane profile, or the Unbranded Payment Services. Pay without a PayPal account does not include Venmo, which is subject to its own terms of service and separate privacy statement.
 *   **Personal Information** in this Privacy Statement means any information that directly or indirectly identifies you or is reasonably capable of being associated with you or your household information about you, including your identity, finances and online behavior, or such broader meanings as given under the definitions of personal information, personal data, personally identifiable information, or other like terms under applicable privacy laws.
 *   **Profiling** means analysis of an individual’s personality, behavior, interest and habits to make predictions or decisions about them, including like terms under applicable laws.
-*   **Services** refers to all PayPal-branded or unbranded payment, financial, and personalization products and solutions, including transactions, rewards, advertising (including PayPal Ads), PayPal Groups, Fastlane, Xoom, Pool, Hyperwallet, credit and financing (including Partner and Merchant offerings), merchant tools, and emerging financial technologies (including Fastlane), with the exception of Excluded Services. It also includes all related websites, platforms, applications, and future innovations offered or supported by PayPal. Your use of Services includes interaction with our Sites.
+*   **Services** refers to all PayPal-branded or unbranded payment, financial, and personalization products and solutions, including transactions, rewards, advertising (including PayPal Ads), PayPal Groups, Fastlane, Xoom, Pool, Hyperwallet, credit and financing (including Partner and Merchant offerings), cryptocurrency services offered by PayPal Digital Inc. (a PayPal affiliate company), merchant tools, and emerging financial technologies (including Fastlane), with the exception of Excluded Services. It also includes all related websites, platforms, applications, and future innovations offered or supported by PayPal. Your use of Services includes interaction with our Sites.
 *   **Sites** means the websites, mobile apps, official social network platforms, or other online properties through which PayPal offers the Services and which has posted or linked to this Privacy Statement.
 *   **Unbranded Payment Services** means when you are interacting with and making payments to Partners and Merchants using our card processing and/or ACH origination services that do not carry the PayPal brand or when you use our Braintree services.
 *   **Users** means other account holders and non-account holders of the PayPal Services.
@@ -472,7 +473,7 @@ Contact [**Online**](https://www.paypal.com/my/smarthelp/contact-us/privacy) fo
 Mexico
 
 Operadora PayPal de México, S. de R.L. de C.V  
-Avenida General Mariano Escobedo 476, 14th Floor, Colonia Nueva Anzures, Miguel Hidalgo, Mexico City, Mexico 11590  
+Boulevard Manuel Ávila Camacho 137, Piso 7, Polanco I Sección, Alcaldía Miguel Hidalgo, C.P. 11550, Ciudad de México, México  
 Contact [**Online**](https://www.paypal.com/mx/smarthelp/contact-us/privacy) for Privacy queries
 
 Norway
@@ -820,7 +821,7 @@ The following Notice for Consumers of Financial Products and Services does not a
 
   
 
-Rev. November 17, 2025
+Rev. September 28, 2026
 
 **FACTS**
 
@@ -882,15 +883,15 @@ No
 **For our affiliates' everyday business purposes –**  
 information about your creditworthiness
 
-Yes
+No
 
-Yes
+We don't share
 
 **For our affiliates to market to you**
 
-Yes
+No
 
-Yes
+We don't share
 
 **For our nonaffiliates to market to you**
 
@@ -1024,6 +1025,7 @@ The data controller of your Personal Information is the PayPal entity establishe
 *   to promote the security of the Services;
 *   to comply with applicable laws, such as AML and bookkeeping laws and rules issued by our designated banks and relevant card networks;
 *   specifically for Visa+, we will receive the recipient’s name and payment information from Visa and third-party Visa+ participating digital wallets for the purpose of processing and matching Visa+ payment transactions between participating digital wallets and PayPal;
+*   We will use information from third parties, including third-party wallets, payment networks, and processors, to process PayPal World transactions.
 *   For Fastlane users, we may recognize you as a Fastlane user when you shop on participating Partner and Merchant sites, and we may prompt you to engage in participating Partner or Merchant interactions, such as registering for a store or loyalty account using your Fastlane profile. We will also use your Personal Information and payment method details to determine whether the payment you are making with a participating Partner or Merchant is authorized by you and likely to be successfully authorized by the payment method you choose to use when you make a purchase using details from your Fastlane profile; and
 *   provide receipts in connection with PayPal Point of Sale services. For buyers using our PayPal Point of Sale services (including Venmo Tap to Pay), you may choose to provide us your contact details so that we can send you digital receipts. If you provide your e-mail address or mobile number to a Partner or Merchant who uses PayPal Point of Sale, we may remember your details for the next time you buy something from a Merchant who uses PayPal Point of Sale in its physical store, if you use the same payment card. This is regardless of whether you have previously bought something from this Merchant or not. This means that your e-mail address or mobile number will be pre-filled in the receipt view for your convenience the next time you buy something from a Merchant who uses PayPal Point of Sale in its physical store.
 
