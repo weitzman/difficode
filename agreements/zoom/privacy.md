@@ -38,7 +38,7 @@ Get it on Google Play
 
 Search
 
-[English](/en/trust/privacy/privacy-statement/) [Deutsch](/de/trust/privacy/privacy-statement/) [Français](/fr/trust/privacy/privacy-statement/) [Español](/es/trust/privacy/privacy-statement/) [Svenska](/sv/trust/privacy/privacy-statement/) [Nederlands](/nl/trust/privacy/privacy-statement/) [Tiếng Việt](/vi/trust/privacy/privacy-statement/) [Türkçe](/tr/trust/privacy/privacy-statement/) [Русский](/ru/trust/privacy/privacy-statement/) [Português](/pt/trust/privacy/privacy-statement/) [Polski](/pl/trust/privacy/privacy-statement/) [한국어](/ko/trust/privacy/privacy-statement/) [日本語](/ja/trust/privacy/privacy-statement/) [Italiano](/it/trust/privacy/privacy-statement/) [Indonesia](/id/trust/privacy/privacy-statement/) [中文（繁體，台灣）](/zh-tw/trust/privacy/privacy-statement/) [中文（简体，中国）](/zh-cn/trust/privacy/privacy-statement/)
+[Deutsch](/de/trust/privacy/privacy-statement/) [English](/en/trust/privacy/privacy-statement/) [Español](/es/trust/privacy/privacy-statement/) [Français](/fr/trust/privacy/privacy-statement/) [Indonesia](/id/trust/privacy/privacy-statement/) [Italiano](/it/trust/privacy/privacy-statement/) [日本語](/ja/trust/privacy/privacy-statement/) [한국어](/ko/trust/privacy/privacy-statement/) [Nederlands](/nl/trust/privacy/privacy-statement/) [Polski](/pl/trust/privacy/privacy-statement/) [Português](/pt/trust/privacy/privacy-statement/) [Русский](/ru/trust/privacy/privacy-statement/) [Svenska](/sv/trust/privacy/privacy-statement/) [Türkçe](/tr/trust/privacy/privacy-statement/) [Tiếng Việt](/vi/trust/privacy/privacy-statement/) [中文（简体，中国）](/zh-cn/trust/privacy/privacy-statement/) [中文（繁體，台灣）](/zh-tw/trust/privacy/privacy-statement/)
 
 Meet
 
@@ -175,7 +175,7 @@ Popular
 
 What’s hot, what’s trending, what’s building buzz — the solutions Zoom customers are into right now.
 
-[My Notes](/en/products/ai-assistant/features/ai-note-taking/)[Meetings](/en/products/virtual-meetings/)[ZoomMate](/en/products/ai-assistant/)[Rooms](/en/products/meeting-rooms/)[Phone](/en/products/voip-phone/)[Canvas](/en/products/collaborative-docs/)[Contact Center](/en/products/contact-center/)[CX Insights](/en/products/cx-insights/)[Bonsai](/en/products/bonsai/)
+[My Notes](/en/products/ai-assistant/features/ai-note-taking/)[Meetings](/en/products/virtual-meetings/)[ZoomMate](/en/products/ai-assistant/)[Rooms](/en/products/meeting-rooms/)[Phone](/en/products/voip-phone/)[Canvas](/en/products/collaborative-docs/)[Contact Center](/en/products/contact-center/)[CX Insights](/en/products/cx-insights/)[Bonsai](/en/products/bonsai/)[Webinar](/en/products/webinars/)
 
 [![](https://media.zoom.com/images/assets/apple-logo+1.png/Zz04Yjg3MTBjODVmNzExMWYxOTFlNWZhNmU0NmI5ZmQyZg==)
 
@@ -246,7 +246,7 @@ Integrate
 
 Select a language
 
-[English](/en/trust/privacy/privacy-statement/)[Deutsch](/de/trust/privacy/privacy-statement/)[Français](/fr/trust/privacy/privacy-statement/)[Español](/es/trust/privacy/privacy-statement/)[Svenska](/sv/trust/privacy/privacy-statement/)[Nederlands](/nl/trust/privacy/privacy-statement/)[Tiếng Việt](/vi/trust/privacy/privacy-statement/)[Türkçe](/tr/trust/privacy/privacy-statement/)[Русский](/ru/trust/privacy/privacy-statement/)[Português](/pt/trust/privacy/privacy-statement/)[Polski](/pl/trust/privacy/privacy-statement/)[한국어](/ko/trust/privacy/privacy-statement/)[日本語](/ja/trust/privacy/privacy-statement/)[Italiano](/it/trust/privacy/privacy-statement/)[Indonesia](/id/trust/privacy/privacy-statement/)[中文（繁體，台灣）](/zh-tw/trust/privacy/privacy-statement/)[中文（简体，中国）](/zh-cn/trust/privacy/privacy-statement/)
+[Deutsch](/de/trust/privacy/privacy-statement/)[English](/en/trust/privacy/privacy-statement/)[Español](/es/trust/privacy/privacy-statement/)[Français](/fr/trust/privacy/privacy-statement/)[Indonesia](/id/trust/privacy/privacy-statement/)[Italiano](/it/trust/privacy/privacy-statement/)[日本語](/ja/trust/privacy/privacy-statement/)[한국어](/ko/trust/privacy/privacy-statement/)[Nederlands](/nl/trust/privacy/privacy-statement/)[Polski](/pl/trust/privacy/privacy-statement/)[Português](/pt/trust/privacy/privacy-statement/)[Русский](/ru/trust/privacy/privacy-statement/)[Svenska](/sv/trust/privacy/privacy-statement/)[Türkçe](/tr/trust/privacy/privacy-statement/)[Tiếng Việt](/vi/trust/privacy/privacy-statement/)[中文（简体，中国）](/zh-cn/trust/privacy/privacy-statement/)[中文（繁體，台灣）](/zh-tw/trust/privacy/privacy-statement/)
 
 [Install on desktop](https://www.zoom.us/download) [Download center](https://www.zoom.us/download)
 
@@ -667,11 +667,11 @@ Get in touch
 *   [Developer Support](https://developers.zoom.us/support/ "Developer Support")
 *   [Privacy, Security, Legal Policies, and Modern Slavery Act Transparency Statement](/en/trust/legal-compliance/ "Privacy, Security, Legal Policies, and Modern Slavery Act Transparency Statement")
 
-*   [![](https://media.zoom.com/images/assets/social-linkedin.svg/Zz1kMWM5ZTI4NmEzY2MxMWVkOWJmZTU2NjcwZmJiNzBlNQ==?t=20260924120000)](https://www.linkedin.com/company/zoom/ "Linked In")
-*   [![](https://media.zoom.com/images/assets/twitter-x.svg/Zz0yMTQxYzM5NDVkMzQxMWVlYmZjMGQ2ZWM3ZWM3MGU2OQ==?t=20260924120000)](https://twitter.com/zoom "Twitter")
-*   [![](https://media.zoom.com/images/assets/social-youtube.svg/Zz1kMWViYTM5NGEzY2MxMWVkYmExMGJhNjNmYjRkMmQyYQ==?t=20260924120000)](https://www.youtube.com/zoommeetings "YouTube")
-*   [![](https://media.zoom.com/images/assets/social-facebook.svg/Zz1kMWMzYzNlMmEzY2MxMWVkYjhkYzU2NjcwZmJiNzBlNQ==?t=20260924120000)](https://www.facebook.com/zoom "Facebook")
-*   [![](https://media.zoom.com/images/assets/social-instagram.svg/Zz1kMWNiMGZmOGEzY2MxMWVkODkwM2U2ZWE4YmQ4Y2E3MQ==?t=20260924120000)](https://www.instagram.com/zoom/ "Instagram")
+*   [![](https://media.zoom.com/images/assets/social-linkedin.svg/Zz1kMWM5ZTI4NmEzY2MxMWVkOWJmZTU2NjcwZmJiNzBlNQ==?t=20260929120000)](https://www.linkedin.com/company/zoom/ "Linked In")
+*   [![](https://media.zoom.com/images/assets/twitter-x.svg/Zz0yMTQxYzM5NDVkMzQxMWVlYmZjMGQ2ZWM3ZWM3MGU2OQ==?t=20260929120000)](https://twitter.com/zoom "Twitter")
+*   [![](https://media.zoom.com/images/assets/social-youtube.svg/Zz1kMWViYTM5NGEzY2MxMWVkYmExMGJhNjNmYjRkMmQyYQ==?t=20260929120000)](https://www.youtube.com/zoommeetings "YouTube")
+*   [![](https://media.zoom.com/images/assets/social-facebook.svg/Zz1kMWMzYzNlMmEzY2MxMWVkYjhkYzU2NjcwZmJiNzBlNQ==?t=20260929120000)](https://www.facebook.com/zoom "Facebook")
+*   [![](https://media.zoom.com/images/assets/social-instagram.svg/Zz1kMWNiMGZmOGEzY2MxMWVkODkwM2U2ZWE4YmQ4Y2E3MQ==?t=20260929120000)](https://www.instagram.com/zoom/ "Instagram")
 
 Language
 
