@@ -395,7 +395,13 @@ PayPal do Brasil Instituição de Pagamento Ltda.
 Attention: Legal Department Avenida Paulista, 1048  
 13th Floor, CEP 01310-100  
 Sio Paulo, SP – Brazil  
-Contact [**Online**](https://www.paypal.com/br/smarthelp/contact-us/privacy) for Privacy queries
+Contact [**Online**](https://www.paypal.com/br/smarthelp/contact-us/privacy) for Privacy queries  
+  
+In compliance with LGPD article 41, the identity and contact information of the Data Protection Officer (DPO) and of his deputy (Deputy DPO) are the following:  
+Data Protection Officer (DPO): Daniel Douglas Diniz  
+DPO contact e-mail: [**latamdpo@paypal.com**](mailto: latamdpo@paypal.com)  
+Deputy Data Protection Officer: Fabiana Moreira Chaves  
+Deputy DPO contact e-mail: [**latamdpo@paypal.com**](mailto: latamdpo@paypal.com)
 
 Brunei
 
