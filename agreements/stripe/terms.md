@@ -5,7 +5,7 @@ selector: "main"
 
 Welcome!
 
-Last updated: July 9, 2026
+Last updated: September 30, 2026
 
 ### 1\. Introduction and Scope
 
@@ -246,7 +246,7 @@ If you would like access to the newest Link products and services, you can opt i
     *   We will determine whether an error occurred within 10 business days after we hear from you and will correct any error promptly. 
     *   We will tell you the results after completing our investigation. If we decide that there was no error, we will send you a written explanation. You may ask for copies of the documents that we used in our investigation.
 
-## Link Balance Terms
+## Link Balance Terms (Custodial)
 
 ### **1\. Registration, Access, and Use**
 
@@ -304,6 +304,96 @@ In the event your access to Link Balance has been terminated, you will be permit
 
 Link is required to identify users registering for and using Link Balance. This ensures Link remains in compliance with applicable KYC/AML laws, which is necessary to continue offering Supported Digital Asset and Link Balance services to our customers. Link collects and verifies information about you in order to: (i) protect Link and the community from fraudulent users; and (ii) to keep appropriate records of Link's customers. Link may require you to provide or verify additional information, engage in enhanced due diligence, or to wait some amount of time after completion of a transaction, before permitting you to use any Link Balance service and/or before permitting you to engage in transactions.
 
+## Link Balance Terms (Non-Custodial Wallet)
+
+### **1\. Registration, Access, and Use**
+
+You must sign up for a Link Account or have an existing Link Account to use Link Balance Self-Custody Wallet (“Link Balance NCW”). You will need to complete certain verification procedures before you are permitted to use Link Balance NCW. While your Link Balance NCW remains connected to your Link Account, your Link Account will be the sole means of accessing your Link Balance NCW. Link Balance NCW may provide you and ability to purchase Supported Digital Assets as well as spend those Supported Digital Assets using a virtual card. By purchasing Supported Digital Assets via Link or creating a virtual card, you also agree to the Fiat-to-Crypto Onramp [Terms](https://stripe.com/legal/crypto-onramp) and Link Virtual Card [Terms](https://stripe.com/legal/consumer#link-virtual-card-terms). 
+
+By using Link Balance NCW, you agree that you will use it only for yourself and not on behalf of any third party. You are fully responsible for all activity that occurs on your Link Account, including Link Balance NCW activity. You are solely responsible for maintaining the security of your device and your Link Account credentials. Link is not liable for any loss or liability resulting from unauthorized access to your Link Balance NCW that occurs as a result of your failure to keep your credentials or device secure, or due to a compromise of your device, email, or phone number.
+
+### **2\. Self-Custody and Ownership**
+
+Link Balance NCW is a neutral technology service that enables you to access your on-chain Supported Digital Assets. You retain ownership of your Supported Digital Assets and control over the cryptographic credentials used to authorize transactions from your on-chain wallet. Link does not hold or control those Supported Digital Assets as a custodian. You may grant Link permission to initiate or sign transactions using Link Balance NCW as described in Section 6. Any such authority is limited to the scope of the permissions you approve, including any applicable transaction limits, conditions, and duration. Link may exercise those permissions while you are not actively using Link.
+
+Granting a permission does not transfer ownership of your Supported Digital Assets to Link. You may revoke permissions through the applicable process described when you enable the feature. Revocation is subject to the timing and effects described in Section 6.
+
+Link Balance NCW uses wallet infrastructure provided by Privy. By using a Link Balance NCW, you also agree to the Privy [User Terms](https://www.privy.io/user-terms-of-service). Link and Privy provide technology that enables you to create and access your on-chain wallet and authorize transactions. You are ultimately legally responsible for all transactions and bear the risk of loss, including loss due to fluctuations in asset value or fraudulent or unauthorized transactions. Supported Digital Assets are recorded on the applicable blockchain rather than held by the Link Balance NCW service or in your Link Account. A balance displayed in your Link Account represents information about your on-chain Supported Digital Assets and is not a deposit with, or a promise of repayment by, Stripe or Privy. 
+
+### **3\. Export and Independent Access** 
+
+You may export the private key or other credentials needed to control your on-chain wallet and its Supported Digital Assets by following the process described [here](https://support.link.com/questions/export-the-private-key-for-your-link-balance-self-custodial-wallet).
+
+Exporting the private key or other credentials creates additional security risks. Anyone who obtains those private keys or credentials may be able to control your on-chain wallet and its Supported Digital Assets. If you lose or disclose an exported private key or other wallet credential, Link may be unable to restore access to your wallet. Transactions made using compromised credentials may be irreversible, and Link may be unable to recover the transferred Supported Digital Assets.If you access your wallet through another application using exported credentials, that application’s terms apply, and Link features may not be available. 
+
+### **4\. Balance Information and Blockchain Transactions** 
+
+You will be able to view and manage your on-chain Supported Digital Assets via Link Balance NCW on the Link app. Information you will be able to view include: (i) the amount (and currency) of each Supported Digital Asset transaction; (ii) a reference and description of the Supported Digital Asset transaction; (iii) if applicable, any fees charged; (iv) if applicable, the rate of exchange, and the amount (in the new currency) after exchange; and (v) the date of each Supported Digital Asset Transaction.
+
+Blockchain transactions are processed by the applicable software protocol. Once submitted, a transaction may not be capable of cancellation or modification. Once confirmed, a blockchain transaction ordinarily cannot be reversed. Any available refund must be made as a separate transaction by the recipient or applicable service provider.
+
+We do not guarantee that a transaction will be accepted, confirmed or completed within a particular time. Network congestion, outages, protocol changes and other circumstances may cause transactions to be delayed or fail.
+
+### **5\. Wallet Security and Recovery**
+
+You are responsible for securing your devices, accounts, authentication credentials and any private keys or recovery information that you export or receive. Do not disclose private keys or secret recovery information to anyone, including anyone claiming to provide customer support.
+
+If your authentication or recovery methods are lost, unavailable, or compromised, you may lose access to Link Balance NCW, your on-chain wallet, or your Supported Digital Assets, or another person may be able to authorize transactions from your on-chain wallet. **Loss of access may result in the permanent loss of your Supported Digital Assets**. Resetting your Link Account credentials does not necessarily restore access to your on-chain wallet or Supported Digital Assets.
+
+### **6\. Transaction Authorization**
+
+You are responsible for reviewing the details of each transaction or permission request before approving it, including the Supported Digital Asset, amount, blockchain network, destination address and applicable fees. An incorrect address or network may result in permanent loss.
+
+Certain features allow you to authorize Link or another service to initiate or sign transactions within permissions you approve, including when you are not actively using Link Balance NCW. We will describe the scope of those permissions and how to revoke them before you enable the feature. Revocation prevents future use of the revoked permission once effective, but does not undo transactions already submitted or separately revoke permissions granted.
+
+### **7\. Transaction Settings, Delegated Authority and Policies**
+
+Link Balance NCW may allow you to configure transaction-related settings, parameters, rules, conditions, schedules, triggers, or other logic through your Link Account. Link will submit on-chain transactions from your on-chain wallet through Link Balance NCW solely in accordance with your configured settings and policies. You may modify or disable these settings through Link or other supported means.
+
+You are responsible for reviewing, configuring, updating, and maintaining the transaction settings and permissions you select, including any transaction limits, approved recipients, schedules, triggers, and approval requirements. Before enabling or changing a setting or permission, you should ensure that it reflects your intended instructions.
+
+### **8\. Withdrawals from Link Balance NCW**
+
+Link Balance NCW may allow you to withdraw your Supported Digital Assets by converting them to fiat currency for deposit into your personal bank account. Withdrawal requests are subject to applicable policies and may be delayed, suspended, or prevented by events beyond our reasonable control, including blockchain congestion or outages, internet or telecommunications failures, cyberattacks, governmental actions, changes to an underlying protocol, and failures of third-party service providers. Once you initiate a withdrawal, you cannot cancel or reverse it.
+
+We make no guarantees regarding the amount of time it may take to complete a transfer or withdrawal of Supported Digital Assets. You acknowledge that the blockchain networks underlying the Supported Digital Assets are decentralized and outside of our control. Network congestion, high transaction volumes, or issues with the underlying protocol may cause transactions to be delayed, suspended, or fail. Link is not responsible for any losses or damages caused by such delays or failures.
+
+### **9\. Fees**
+
+By using Link Balance NCW, you agree that Link may charge fees, including service fees, pass-through fees from sub-processors, gas fees, foreign exchange fees, and any other fees associated with the storage and withdrawal of the applicable Supported Digital Asset in your Link Balance NCW (collectively, “Fees”). You grant Link a standing authorization to automatically deduct all applicable Fees directly from your on-chain Supported Digital Assets or from the proceeds of a specific transaction at the time the liability is incurred, without further notice to you. Fees may be debited from your on-chain Supported Digital Assets for a specific transaction and will be reflected in your Link Balance NCW information.
+
+### **10\. Supported Digital Assets**
+
+Link Balance NCW currently supports access to USD Coin (“USDC”) and may support other digital assets in the future. USDC and any other digital assets supported by Link Balance NCW are referred to collectively as “Supported Digital Assets” and individually as a “Supported Digital Asset.” Supported Digital Assets do not include fiat currency.
+
+USDC is issued by Circle and is designed to maintain a value of one U.S. dollar per USDC, but its market price may be higher or lower. The amount you receive when converting, selling, or withdrawing USDC may differ because of market conditions, liquidity, fees, and the applicable exchange rate. Link does not guarantee that any Supported Digital Asset will maintain a particular value, remain liquid or available, or be convertible or redeemable at any particular price.
+
+### **11\. No Deposit Insurance**
+
+You acknowledge that your Link Balance NCW service is not a bank account or a deposit account. Supported Digital Assets accessed with your Link Balance NCW are not legal tender, are not backed by any government, and are not insured by the Federal Deposit Insurance Corporation (FDIC) or any other governmental agency.
+
+### **12\. Taxes**
+
+Transactions involving Supported Digital Assets may have tax consequences. You are responsible for determining and satisfying any tax obligations that apply to your use of Link Balance NCW, including any applicable reporting and payment obligations. Tax laws relating to digital assets may change. This section does not limit any reporting, withholding, or other obligations imposed on Link or a service provider by applicable law.
+
+### **13\. Operation of Digital Asset Protocols**
+
+Link does not own or control the underlying software protocols which govern the operation of the Supported Digital Assets. Link assumes no responsibility for the operation of the underlying protocols and does not guarantee the functionality or security of network operations. In particular, the underlying protocols may be subject to sudden changes in operating rules (including “forks”). Any such changes may materially affect the availability, value, functionality, or name of the Supported Digital Assets accessed through Link Balance NCW. 
+
+### **14\. Payment Service Partners**
+
+Link may use a third-party payment processor to process withdrawals of fiat currency to your local bank account following the conversion of your Supported Digital Assets through Link Balance NCW. Link may add or change third-party payment processors used to provide Link Balance NCW services at any time.
+
+### **15\. Suspension, Termination, and Closure**
+
+Link may suspend, restrict, or terminate your access to Link Balance NCW through Link in accordance with these terms, including for security reasons, suspected misuse, or compliance with applicable law.
+
+Restriction or termination of access through Link **does not transfer ownership** of your Supported Digital Assets to Link or expand Link’s authority over them.  It may, however, affect your ability to use Link’s interface, authentication, or other features. Before closing your Link Account, you should transfer your Supported Digital Assets or complete the export process and confirm that you can access your wallet independently. Closing your Link Account does not itself transfer your Supported Digital Assets, erase blockchain records or revoke permissions previously granted.
+
+### **16\. Verification Procedures**
+
+Link is required to identify users registering for and using certain functionality of Link Balance NCW. This ensures Link remains in compliance with applicable KYC/AML laws, which is necessary to continue offering Supported Digital Asset and Link Balance NCW services to our customers. Link may require you to provide or verify additional information, engage in enhanced due diligence, or to wait some amount of time after completion of a transaction, before permitting you to use any Link Balance NCW service and/or before permitting you to engage in transactions.
+
 ## Link Virtual Card Terms
 
 ### 1\. Scope and Applicability
@@ -312,7 +402,7 @@ These Link Consumer Prepaid Debit Card Terms of Service (“Virtual Card Terms�
 
 Stripe works with one or more banks (each, an “Issuing Bank”) to provide the Consumer Prepaid Cardholder Services. In connection with your use of the Consumer Prepaid Cardholder Services, the Issuing Bank directly issues your Card. You may access the Consumer Prepaid Cardholder Services through your Link Account. These Virtual Card Terms govern your relationship with Stripe only. 
 
-Your Card is a consumer prepaid debit card. It is not a credit card or a gift card, and it does not provide any overdraft, line of credit, or other credit feature. Your ability to use the Card is limited to the available balance in your Link Balance. The terms for participating in Link Balance are governed by the Link Balance Terms found [here](https://link.com/terms#link-balance-terms). Your Card is governed by the Issuing Bank Terms (defined below), which contain important information about your rights and obligations, including applicable fees, transaction limits, error resolution procedures, and liability protections for unauthorized transactions.
+Your Card is a consumer prepaid debit card. It is not a credit card or a gift card, and it does not provide any overdraft, line of credit, or other credit feature. Your ability to use the Card is limited to the available balance in your Link Balance (for the purposes of this section, Link Balance refers to both Link Balance (Custodial) and Link Balance NCW). The terms for participating in Link Balance are governed by the Link Balance Terms found [here](https://link.com/terms#link-balance-terms). Your Card is governed by the Issuing Bank Terms (defined below), which contain important information about your rights and obligations, including applicable fees, transaction limits, error resolution procedures, and liability protections for unauthorized transactions.
 
 To receive a Card, you must first agree to the Issuing Bank’s cardholder terms found [here](https://link.com/terms/prepaid-debit-cardholder-agreement) (“Issuing Bank Terms”). Your continued use of that Card is subject to (a) those Issuing Bank Terms, (b) these Virtual Card Terms, (c) the Link Balance Terms, and (d) any other Link Consumer Services used in connection or combination with the Consumer Prepaid Cardholder Services. In the event of a conflict between these Virtual Card Terms and the Issuing Bank Terms regarding your Card, your rights under applicable federal or state law, or your rights to error resolution or protections for unauthorized transactions, the Issuing Bank Terms will control. 
 
