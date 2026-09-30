@@ -11,12 +11,6 @@ Terms of use
 *   [Accessibility](/digital/resources/accessibility)
 *   [Customer Service](/digital/customer-service)
 
-*   [Privacy and security](/digital/resources/privacy-security)
-*   [Terms of use](/digital/resources/terms-of-use)
-*   [Social media terms](/digital/resources/social-media-terms)
-*   [Accessibility](/digital/resources/accessibility)
-*   [Customer Service](/digital/customer-service)
-
 # About us  
 Terms of use
 
