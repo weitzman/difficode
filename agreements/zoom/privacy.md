@@ -52,7 +52,7 @@ Zoom Workplace
 
 [View All](/en/products/)
 
-[Meetings](/en/products/virtual-meetings/)[Chat](/en/products/team-chat/)[Phone](/en/products/voip-phone/)[Mail & Calendar](/en/products/email-calendar/)[Scheduler](/en/products/appointment-scheduler/)[Whiteboard](/en/products/online-whiteboard/)[Clips](/en/products/screen-recorder/)[Zoom Marketplace](https://marketplace.zoom.us/)
+[Meetings](/en/products/virtual-meetings/)[Chat](/en/products/team-chat/)[Phone](/en/products/voip-phone/)[Mail & Calendar](/en/products/email-calendar/)[Scheduler](/en/products/appointment-scheduler/)[Whiteboard](/en/products/online-whiteboard/)[Clips](/en/products/screen-recorder/)[Rooms](/en/products/meeting-rooms/)[Zoom Marketplace](https://marketplace.zoom.us/)
 
 Business Services
 
@@ -175,7 +175,7 @@ Popular
 
 What’s hot, what’s trending, what’s building buzz — the solutions Zoom customers are into right now.
 
-[My Notes](/en/products/ai-assistant/features/ai-note-taking/)[Meetings](/en/products/virtual-meetings/)[ZoomMate](/en/products/ai-assistant/)[Rooms](/en/products/meeting-rooms/)[Phone](/en/products/voip-phone/)[Canvas](/en/products/collaborative-docs/)[Contact Center](/en/products/contact-center/)[CX Insights](/en/products/cx-insights/)[Bonsai](/en/products/bonsai/)[Webinar](/en/products/webinars/)
+[My Notes](/en/products/ai-assistant/features/ai-note-taking/)[Meetings](/en/products/virtual-meetings/)[ZoomMate](/en/products/ai-assistant/)[Rooms](/en/products/meeting-rooms/)[Phone](/en/products/voip-phone/)[Canvas](/en/products/collaborative-docs/)[Contact Center](/en/products/contact-center/)[CX Insights](/en/products/cx-insights/)[Bonsai](/en/products/bonsai/)[Webinars & Events](/en/products/webinars/)
 
 [![](https://media.zoom.com/images/assets/apple-logo+1.png/Zz04Yjg3MTBjODVmNzExMWYxOTFlNWZhNmU0NmI5ZmQyZg==)
 
