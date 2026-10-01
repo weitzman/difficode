@@ -1450,8 +1450,10 @@ In complying with such laws, you and any Teen User will:
 *   implement and maintain all appropriate security measures for the processing of personal data; and
 *   not knowingly do anything or permit anything to be done which might lead to a breach of any privacy data protection laws by us.
 
+Venmo's crypto services are provided by PayPal Digital, Inc. (doing business as Venmo Digital; NMLS ID #: 2610315). Venmo Digital is chartered as a limited purpose trust company by the New York State Department of Financial Services to engage in virtual currency business. It is located at 117 Barrow St, New York, NY 10014.
+
         
 
-If you accept cookies, we’ll use them to improve and customize your experience and enable our partners to show you personalized ads when you visit other sites. [Manage cookies and learn more](#)
+We currently use cookies to improve and customize your experience on our site. If you accept, we’ll also use marketing cookies to show you personalized ads. [Manage your cookies and learn more.](#)
 
-AcceptDecline
+Yes, I acceptNo, I decline
