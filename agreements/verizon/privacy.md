@@ -82,7 +82,7 @@ Open all
     
     6\. How our network and your devices are working
     
-    We monitor the condition of our networks, including Fios and Frontier Internet Wi-Fi, such as traffic flow, speed, capacity, power, quality and environmental conditions including nearby Wi-Fi access points and the temperature and operating status of home internet equipment. We may also collect test information from or take pictures or a video of equipment we install or repair, and, if you allow it, create floorplans of your home analyzing Wi-Fi connectivity.
+    We monitor the condition of our networks, including Fios, Frontier and Visible Fiber Internet Wi-Fi such as traffic flow, speed, capacity, power, quality and environmental conditions including nearby Wi-Fi access points and the temperature and operating status of home internet equipment. We may also collect test information from or take pictures or a video of equipment we install or repair, and, if you allow it, create floorplans of your home analyzing Wi-Fi connectivity.
     
     We install system software on some wireless devices which may:
     
@@ -433,7 +433,6 @@ Open all
     
     *   Verizon Wireless and Home services customers can visit the Verizon [Your Privacy Choices](https://www.verizon.com/privacy/your-privacy-choices) page to opt out.
     *   Verizon Value customers, can opt out by visiting the [Your Privacy Choices 23](#) page available from the link at the bottom of the website of the Verizon Value brand that you use.
-    *   Visible Wireless customers can opt out at the [Visible Your Privacy Choices](https://www.visible.com/legal/privacy-choices) page. Visible Merch or Visible Offers customers can click the “Your Privacy Choices” link at the footer of the [Visible Merch](https://www.visiblemerch.com/) or [Visible Offers](https://www.visibleoffers.com/#/home) websites.
     *   Frontier customers can opt out using the “Do Not Sell or Share My Personal Information” link at the bottom of the Frontier website at [frontier.com](http://frontier.com/) or by filling out our [Frontier Privacy Webform](https://frontier.com/pages/california-privacy-law).
     *   Teachers who access Verizon Innovative Learning HQ can visit the [Verizon Innovative Learning Your Privacy Choices page](/learning/your-privacy-choices) to opt out.
     *   Individuals who use the Verizon AI Skills for America website can visit the [AI Skills Your Privacy Choices page](/ai-skills/your-privacy-choices) to opt out.
@@ -442,6 +441,8 @@ Open all
     
     23\. Your Privacy Choices
     
+    *   Visible Wireless customers can opt out at the [Visible Your Privacy Choices](https://www.visible.com/legal/privacy-choices) page.
+    *   Visible Merch or Visible Offers customers can click the “Your Privacy Choices” link at the footer of the [Visible Merch](https://www.visiblemerch.com/) or [Visible Offers](https://www.visibleoffers.com/#/home) websites.
     *   Tracfone: [https://www.tracfone.com/ccpa/home?reqType=dns](https://www.tracfone.com/ccpa/home?reqType=dns)
     *   StraightTalk: [https://www.straighttalk.com/ccpa/home?reqType=dns](https://www.straighttalk.com/ccpa/home?reqType=dns)
     *   Simple Mobile: [https://www.simplemobile.com/ccpa/home?reqType=dns](https://www.simplemobile.com/ccpa/home?reqType=dns)
@@ -693,7 +694,6 @@ Open all
     
     *   Verizon Wireless or Home services customers can opt out by visiting [Your Privacy Choices![](/about/privacy/sites/default/files/2022-12/your-privacy-choices-icon.png)](https://www.verizon.com/privacy/your-privacy-choices).
     *   Verizon Value customers can opt out by visiting the [Your Privacy Choices 33](#) page available from the link at the bottom of the website of the Verizon Value brand that you use.
-    *   Visible Wireless customers can opt out at the Visible [Your Privacy Choices](https://www.visible.com/legal/privacy-choices) page. Visible Merch or Visible Offers customers can click the “Your Privacy Choices” link at the footer of the [Visible Merch](https://www.visiblemerch.com/) or [Visible Offers](https://www.visibleoffers.com/#/home) websites.
     *   Frontier customers can opt out using the “Do Not Sell or Share My Personal Information” link at the bottom of the Frontier website at [frontier.com](http://frontier.com/) or by filling out our [Frontier Privacy Webform](https://frontier.com/pages/california-privacy-law).
     *   Teachers who access Verizon Innovative Learning HQ can visit the [Verizon Innovative Learning Your Privacy Choices page to opt out](/learning/your-privacy-choices).
     *   Individuals who use the Verizon AI Skills for America website can visit the [AI Skills Your Privacy Choices page](/ai-skills/your-privacy-choices) to opt out.
@@ -702,6 +702,8 @@ Open all
     
     33\. Your Privacy Choices
     
+    *   Visible Wireless customers can opt out at the Visible [Your Privacy Choices](https://www.visible.com/legal/privacy-choices) page.
+    *   Visible Merch or Visible Offers customers can click the “Your Privacy Choices” link at the footer of the [Visible Merch](https://www.visiblemerch.com/) or [Visible Offers](https://www.visibleoffers.com/#/home) websites.
     *   Tracfone: [https://www.tracfone.com/ccpa/home?reqType=dns](https://www.tracfone.com/ccpa/home?reqType=dns)
     *   StraightTalk: [https://www.straighttalk.com/ccpa/home?reqType=dns](https://www.straighttalk.com/ccpa/home?reqType=dns)
     *   Simple Mobile: [https://www.simplemobile.com/ccpa/home?reqType=dns](https://www.simplemobile.com/ccpa/home?reqType=dns)
@@ -727,7 +729,7 @@ Open all
     ### You can limit the ways we may send marketing offers to you.
     
     **Telemarketing**   
-    Opt out of [marketing-related calls 35](#) by calling 1-800-922-0204 (or for Fios customers by calling 1-800-VERIZON). It can take up to 10 days to remove you from existing marketing campaigns. Frontier customers may opt out of marketing-related calls by calling 1-800-921-8101. For additional information, please review the [Frontier Do Not Call Policy](https://content.frontier.com/-/media/documents/corporate/policies/do-not-call.pdf).
+    Opt out of [marketing-related calls 35](#) by calling 1-800-922-0204 (or for Fios customers by calling 1-800-VERIZON). It can take up to 10 days to remove you from existing marketing campaigns. Frontier customers may opt out of marketing-related calls by calling 1-866-403-3606. For additional information, please review the [Frontier Do Not Call Policy](https://content.frontier.com/-/media/documents/corporate/policies/do-not-call.pdf).
     
     Close×
     
@@ -742,10 +744,10 @@ Open all
     Opt out of receiving marketing-related texts by following the unsubscribe instructions included in texts you receive.
     
     **Postal mail**  
-    Opt out of receiving marketing-related mail by calling 1-800-922-0204 (or for Fios customers, by calling 1-800-VERIZON). Frontier customers may opt out of marketing-related calls by calling 1-800-921-8101. Note that even if you unsubscribe, you could still receive mail when we use a bulk mailing service that delivers to all homes within a ZIP code.
+    Opt out of receiving marketing-related mail by calling 1-800-922-0204 (or for Fios customers, by calling 1-800-VERIZON). Frontier customers may opt out of marketing-related calls by calling 1-866-403-3606. Note that even if you unsubscribe, you could still receive mail when we use a bulk mailing service that delivers to all homes within a ZIP code.
     
     **Door-to-door marketing**  
-    Opt out of door-to-door marketing by calling 1-800-922-0204 (or for Fios customers by calling 1-800-VERIZON). Frontier customers may opt out of marketing-related calls by calling 1-800-921-8101.
+    Opt out of door-to-door marketing by calling 1-800-922-0204 (or for Fios customers by calling 1-800-VERIZON). Frontier customers may opt out of marketing-related calls by calling 1-866-403-3606.
     
     ### You have choices about whether certain information may be used within Verizon for specific marketing purposes.
     
@@ -1002,7 +1004,7 @@ Open all
     *   Demographic and interest data, as well as device type, carrier, city and state information, and fraud indicators we obtain from outside companies are used to help us understand our customers and our markets, better personalize your experiences, provide marketing and advertising; test for bias; and create inferences and business insights. We use fraud indicators we receive from other companies to help detect and prevent fraud.
     *   And other information that may identify, relate to, describe, or is capable of being associated with you, for example, information you provide to us, or grant us permission to collect such as through our mobile applications. This may include contacts, profile photos, motion activity, vehicle information or in limited circumstances, we may collect your insurance policy number if it is needed for processing damage claims.
     
-    We use the information we collect for [business and commercial purposes 45](#) as they are defined by the CCPA. We disclose information to [service providers who do work on our behalf 46](#); and others for credit and collections, directory assistance and caller ID purposes;, with your consent; and as further described in other sections of this policy. Certain Verizon Value brands also may share information that identifies you with a partner who facilitates your interactions with third parties, including for verifying your identity and providing information to assist with a decision on a credit application you have submitted to a bank or other third party. We may also disclose information with your consent and as further described in other sections of this policy.
+    We use the information we collect for [business and commercial purposes 45](#) as they are defined by the CCPA. We disclose information to [service providers who do work on our behalf 46](#); and others for credit and collections, directory assistance and caller ID purposes; with your consent; and as further described in other sections of this policy. Certain Verizon Value brands also may share information that identifies you with a partner who facilitates your interactions with third parties, including for verifying your identity and providing information to assist with a decision on a credit application you have submitted to a bank or other third party. We may also disclose information with your consent and as further described in other sections of this policy.
     
     Close×
     
@@ -1096,6 +1098,8 @@ Open all
     
     51\. Your Privacy Choices
     
+    *   Visible: Visible [Your Privacy Choices](https://www.visible.com/legal/privacy-choices) ![](/about/privacy/sites/default/files/2022-12/your-privacy-choices-icon.png)page.
+    *   Visible Merch or Visible Offers: Click the “Your Privacy Choices” link at the footer of the [Visible Merch](https://www.visiblemerch.com/) or [Visible Offers](https://www.visibleoffers.com/#/home) websites.
     *   Tracfone: [https://www.tracfone.com/ccpa/home?reqType=dns](https://www.tracfone.com/ccpa/home?reqType=dns)
     *   StraightTalk: [https://www.straighttalk.com/ccpa/home?reqType=dns](https://www.straighttalk.com/ccpa/home?reqType=dns)
     *   Simple Mobile: [https://www.simplemobile.com/ccpa/home?reqType=dns](https://www.simplemobile.com/ccpa/home?reqType=dns)
@@ -1106,15 +1110,6 @@ Open all
     *   Go Smart Mobile: [https://www.gosmartmobile.com/ccpa/home?reqType=dns](https://www.gosmartmobile.com/ccpa/home?reqType=dns)
     *   Page Plus and Clearway Wireless for Business do not engage in this activity
     
-    Visible Wireless customers can opt out at the Visible [Your Privacy Choices](https://www.visible.com/legal/privacy-choices) ![](/about/privacy/sites/default/files/2022-12/your-privacy-choices-icon.png) page. If you are a Visible Merch or Visible Offers customer you can [opt out on these sites 52](#). Our selling and sharing activity for these sites and customers is limited to cookies and other web technologies on the site to better tailor our advertising to you.
-    
-    Close×
-    
-    52\. opt out on these sites
-    
-    *   Visible Merch customers can click the Your Privacy Choices link at the footer of the [Visible Merch](https://www.visiblemerch.com/) websites.
-    *   Visible Offers customers can opt out of selling and sharing of your activity by turning off “Functional and Performance” and “Advertising” cookies in the cookie settings that can be accessed from the Your Privacy Choices link in the footer of the Visible Offers site, or by managing your settings through the cookie banner that displays on your first visit to the site. If you opt out of Functional and Performance and Advertising cookies, only web tech that is required for the site to function will operate during your visit.
-    
     Frontier customers can opt out using the “Do Not Sell or Share My Personal Information” link at the bottom of the Frontier website at [frontier.com](http://frontier.com/) or by filling out our [Frontier Privacy Webform](https://frontier.com/pages/california-privacy-law).
     
     Teachers who access Verizon Innovative Learning HQ can visit the [Verizon Innovative Learning Your Privacy Choices page](/learning/your-privacy-choices) to opt out.
@@ -1123,19 +1118,19 @@ Open all
     
     We also honor [Global Privacy Control](https://globalprivacycontrol.org/) opt out preference signals you may set on your browser. If you are not logged in or don’t have an account and use a GPC on your visit to one of our websites, we will stop third-party cookies, pixels, and similar technology on that site from collecting, using, and sharing information from your site visit for purposes of targeting ads to you based on your online behavior and activity. This opt out will apply to your activity on our website for the browser and on the device you are using when the GPC signal is on. We will need more information to identify you and apply your opt out to your account, phone number and email information. If you are a customer and you’re logged in to your account from a browser with the GPC signal on, we will block third-party cookies, pixels, and similar technology on our site and we will opt you out of selling and sharing of personal information associated with your line. We do not respond to Do Not Track signals.
     
-    **You have the right to not be discriminated against.** We do not [discriminate 53](#) against you if you exercise any rights described in this section.
+    **You have the right to not be discriminated against.** We do not [discriminate 52](#) against you if you exercise any rights described in this section.
     
     Close×
     
-    53\. discriminate
+    52\. discriminate
     
     We will not deny goods or services, charge different prices or rates for goods or services or provide you a different level or quality of goods and services. You also have the right to receive information about any financial incentives we offer to you.
     
-    **Where to exercise your rights.** You or your [authorized agent 54](#) can exercise your right to know, access, delete, and correct data as follows:
+    **Where to exercise your rights.** You or your [authorized agent 53](#) can exercise your right to know, access, delete, and correct data as follows:
     
     Close×
     
-    54\. authorized agent
+    53\. authorized agent
     
     You may designate a business or individual as your agent. Verizon Wireless or Home Services, and Verizon Value customers can appoint an authorized agent using our [Privacy Dashboard](/privacy/your-data) to “Assign and manage your authorized agent.” Visible Merch customers can assign an authorized agent by contacting us at [VisibleMerch@Halo.com](mailto:VisibleMerch@Halo.com) with your name, email address and mailing address, and the name, address and email of your authorized agent. Frontier customers may appoint an authorized agent by completing our [Frontier Privacy Webform](https://frontier.com/california-privacy-law) or by calling 1-866-403-3606.
     
@@ -1148,11 +1143,11 @@ Open all
     *   Visible  
         Submit a [privacy inquiry form](/about/privacy/privacy-inquiries)
     
-    If you use the Visible Merch websites please follow [these instructions 55](#) to exercise your right to know, access, delete, and correct data.
+    If you use the Visible Merch websites please follow [these instructions 54](#) to exercise your right to know, access, delete, and correct data.
     
     Close×
     
-    55\. these instructions
+    54\. these instructions
     
     *   **Visible Merch Customers:** Contact our trusted website service provider, HALO Branded Solutions by emailing [VisibleMerch@halo.com](mailto:VisibleMerch@halo.com), by calling 1-855-425-6266 or by sending a request via U.S. Postal Mail to Halo Branded Solutions, Attn: HALO.COM Customer Service, 1500 HALO Way, Sterling, IL 61081
     
@@ -1162,12 +1157,14 @@ Open all
     
     Users of the Verizon AI Skills for America learning platform can submit requests through the [guest portal on the Verizon Privacy Dashboard](/privacy/your-data/guest-landing).
     
-    Verizon Wireless or Home services customers can exercise your right to opt-out of selling and sharing by visiting [Your Privacy Choices ![](/about/privacy/sites/default/files/2022-12/your-privacy-choices-icon.png)](https://www.verizon.com/privacy/your-privacy-choices) . Verizon Value customers can opt out by visiting the [Your Privacy Choices 56](#) page available from the link at the bottom of the website of the Verizon Value brand that you use.
+    Verizon Wireless or Home services customers can exercise your right to opt-out of selling and sharing by visiting [Your Privacy Choices ![](/about/privacy/sites/default/files/2022-12/your-privacy-choices-icon.png)](https://www.verizon.com/privacy/your-privacy-choices) . Verizon Value customers can opt out by visiting the [Your Privacy Choices 55](#) page available from the link at the bottom of the website of the Verizon Value brand that you use.
     
     Close×
     
-    56\. Your Privacy Choices
+    55\. Your Privacy Choices
     
+    *   Visible: Visible [Your Privacy Choices](https://www.visible.com/legal/privacy-choices) page.
+    *   Visible Merch or Visible Offers: Click the “Your Privacy Choices” link at the footer of the [Visible Merch](https://www.visiblemerch.com/) or [Visible Offers](https://www.visibleoffers.com/#/home) websites.
     *   Tracfone: [https://www.tracfone.com/ccpa/home?reqType=dns](https://www.tracfone.com/ccpa/home?reqType=dns)
     *   StraightTalk: [https://www.straighttalk.com/ccpa/home?reqType=dns](https://www.straighttalk.com/ccpa/home?reqType=dns)
     *   Simple Mobile: [https://www.simplemobile.com/ccpa/home?reqType=dns](https://www.simplemobile.com/ccpa/home?reqType=dns)
@@ -1178,14 +1175,7 @@ Open all
     *   Go Smart Mobile: [https://www.gosmartmobile.com/ccpa/home?reqType=dns](https://www.gosmartmobile.com/ccpa/home?reqType=dns)
     *   Page Plus and Clearway Wireless for Business do not engage in this activity
     
-    Visible Wireless customers can opt out at the Visible [Your Privacy Choices](https://www.visible.com/legal/privacy-choices) ![](/about/privacy/sites/default/files/2022-12/your-privacy-choices-icon.png)page. If you are a Visible Merch or Visible Offers customer you can [opt out on these sites 57](#). Our selling and sharing activity for these sites and customers is limited to cookies and other web technologies on the site to better tailor our advertising to you.
-    
-    Close×
-    
-    57\. opt out on these sites
-    
-    *   Visible Merch customers can click the Your Privacy Choices link at the footer of the [Visible Merch](https://www.visiblemerch.com/) websites.
-    *   Visible Offers customers can opt out of selling and sharing of your activity by turning off “Functional and Performance” and “Advertising” cookies in the cookie settings that can be accessed from the Your Privacy Choices link in the footer of the Visible Offers site, or by managing your settings through the cookie banner that displays on your first visit to the site. If you opt out of Functional and Performance and Advertising cookies, only web tech that is required for the site to function will operate during your visit.
+    Frontier customers can opt out using the “Do Not Sell or Share My Personal Information” link at the bottom of the Frontier website at [frontier.com](http://frontier.com/) or by filling out our [Frontier Privacy Webform](https://frontier.com/pages/california-privacy-law).
     
     Teachers who access Verizon Innovative Learning HQ can visit the Verizon Innovative Learning Your Privacy Choices page to opt out.
     
@@ -1201,20 +1191,20 @@ Open all
     
     ### Additional California Privacy Rights
     
-    California customers may [request 58](#), that we provide the identity of any third parties with whom we have disclosed personal information for the third parties’ direct marketing purposes within the previous calendar year, along with the type of personal information disclosed. Verizon does not disclose personal information to third parties for their own [direct marketing purposes. 59](#)
+    California customers may [request 56](#), that we provide the identity of any third parties with whom we have disclosed personal information for the third parties’ direct marketing purposes within the previous calendar year, along with the type of personal information disclosed. Verizon does not disclose personal information to third parties for their own [direct marketing purposes. 57](#)
     
     Close×
     
-    59\. direct marketing purposes
+    57\. direct marketing purposes
     
       
     “Direct marketing purposes” means the use of personal information to solicit or induce a purchase, rental, lease, or exchange of products, goods, property, or services directly to individuals by means of the mail, telephone, or electronic mail for their personal, family, or household purposes.
     
-    California residents under age 18 who are registered users of online sites, services or applications may [request 60](#) and obtain removal of content or information they have publicly posted. Your request should include a detailed description of the specific content or information to be removed. Please be aware that your request does not guarantee complete or comprehensive removal of content or information posted online and that the law may not permit or require removal in certain circumstances.
+    California residents under age 18 who are registered users of online sites, services or applications may [request 58](#) and obtain removal of content or information they have publicly posted. Your request should include a detailed description of the specific content or information to be removed. Please be aware that your request does not guarantee complete or comprehensive removal of content or information posted online and that the law may not permit or require removal in certain circumstances.
     
     Close×Close×
     
-    60\. 58\. request
+    58\. 56\. request
     
     California residents can make a request by submitting a [privacy inquiry form](/about/privacy/privacy-inquiries) or writing to us at:  
       
@@ -1228,11 +1218,11 @@ Open all
     
     Colorado, Connecticut, Delaware, Indiana, Iowa, Kentucky, Maryland, Minnesota, Montana, Nebraska, New Hampshire, New Jersey, Oregon, Rhode Island, Tennessee, Texas, Utah and Virginia have comprehensive privacy laws that provide residents with additional specific rights. 
     
-    **Your right to know what personal information we collect, how we use** **and disclose it, and how long we keep it.** This [privacy policy](/about/privacy/full-privacy-policy) provides details about our collection and use practices. The state laws generally require that we provide you information about the [categories of personal information we collect and the purposes for which we collect each category 61](#). 
+    **Your right to know what personal information we collect, how we use** **and disclose it, and how long we keep it.** This [privacy policy](/about/privacy/full-privacy-policy) provides details about our collection and use practices. The state laws generally require that we provide you information about the [categories of personal information we collect and the purposes for which we collect each category 59](#). 
     
     Close×
     
-    61\. categories of personal information we collect and the purposes for which we collect each category
+    59\. categories of personal information we collect and the purposes for which we collect each category
     
     *   Contact and device information (including, name, phone number, billing and email address, mobile device identifiers and device type, online identifiers, IP address, account credentials, business customer representative contact information); information about the products and services you purchase or consider; information about browsing, search and other activity on our sites and apps, your interactions with our sites, apps and advertisements; your rewards program activity; and information about your devices and how they are working, including performance on our network. We use this information to provide you with products and services, operate our business, communicate with you and provide customer service, personalize your experience, improve our services, provide marketing and advertising, create business insights, debug and audit our processes and services, short term transient uses, research, security, fraud and legal reasons. 
     *   We use demographic and interest information you provide or that we obtain from third parties to help us understand our customers and our markets, better personalize your experiences, provide marketing and advertising; test for bias and create inferences and business insights. We use fraud indicators we receive from other companies to help detect and prevent fraud.  
@@ -1242,17 +1232,17 @@ Open all
     *   Audio, electronic, visual or similar information, such as voice recordings of customer service calls, images and message content you provide for scam detection, and photographs of customer equipment. We use this information to troubleshoot service, improve our service and for quality assurance, help us better understand our customers and our markets, personalize your experiences, authenticate you, provide marketing and advertising, test for bias, create business insights and for security and fraud prevention.
     *   Other information that may identify, relate to, describe, or is capable of being associated with you, for example, in limited circumstances, we may collect your insurance policy number if it is needed for processing damage claims, or information that you provide when you interact with us in stores or online chats.
     
-    We collect personal information [when you interact with us 62](#) and use our products and services, from certain third-party sources and from our network and the devices you use. Some of the information we collect is considered [sensitive personal information under the state laws 63](#). We retain information only as long as reasonably necessary for business, accounting, tax or legal purposes and then securely delete it.
+    We collect personal information [when you interact with us 60](#) and use our products and services, from certain third-party sources and from our network and the devices you use. Some of the information we collect is considered [sensitive personal information under the state laws 61](#). We retain information only as long as reasonably necessary for business, accounting, tax or legal purposes and then securely delete it.
     
     Close×
     
-    63\. sensitive personal information under the state laws
+    61\. sensitive personal information under the state laws
     
     The laws describe sensitive data to include some or all of the following types of information: personal data revealing racial or ethnic origin, national origin, religious beliefs, mental or physical health condition or diagnosis (including pregnancy), sex life or sexual orientation, status as transgender or nonbinary, citizenship or immigration status, processing biometric data for the purpose of uniquely identifying you, personal data collected from a known child, precise geolocation information, certain financial information, and status as a crime victim. Depending on the products and services you use and the information you choose to share, we may have this information about you.
     
     Close×
     
-    62\. when you interact with us
+    60\. when you interact with us
     
     You may interact with us in different ways, for example, when you place an order or have questions about your account or services; work with Verizon as a representative of a business customer; contact us on social media; seek technical support; enter a Verizon-sponsored or affiliated contest, sweepstakes or promotion; or register to receive news or public policy updates. We may use information we collect to derive inferences about you. For example, we may make inferences about your approximate location (e.g., city and state) based on your IP address or infer that you are looking to purchase certain products based on your activity on our sites or past purchases.
     
@@ -1269,11 +1259,11 @@ Open all
     *   Visible  
         Submit a [privacy inquiry form](/about/privacy/privacy-inquiries).
     
-    Visible Merch customers should follow these [instructions to submit requests 64](#) to access or correct information.
+    Visible Merch customers should follow these [instructions to submit requests 62](#) to access or correct information.
     
     Close×
     
-    64\. instructions for submitting requests
+    62\. instructions for submitting requests
     
     **Visible Merch.** If you are Visible Merch customer, you can request access to personal information we have about you or that we correct inaccurate information by contacting our trusted website service provider, HALO Branded Solutions:  
       
@@ -1288,27 +1278,27 @@ Open all
     
     Users of the Verizon AI Skills for America learning platform can submit requests through the [guest portal on the Verizon Privacy Dashboard](/privacy/your-data/guest-landing).
     
-    We will provide this information to you in a portable and readily usable format. You can use this same contact information to request that we delete personal information we have about you, [unless we need it for reasons specified by the laws 65](#), and to correct inaccurate personal information we have about you. 
+    We will provide this information to you in a portable and readily usable format. You can use this same contact information to request that we delete personal information we have about you, [unless we need it for reasons specified by the laws 63](#), and to correct inaccurate personal information we have about you. 
     
-    Delaware residents may request a list of the [categories of third parties 66](#) with whom we disclose information.
+    Delaware residents may request a list of the [categories of third parties 64](#) with whom we disclose information.
     
     Close×
     
-    66\. categories of third parties
+    64\. categories of third parties
     
     We disclose personal information to third-party advertising and ad measurement companies as described in detail in the section titled “You have a right to tell us not to sell personal information or process it for certain targeted advertising purposes.” We also disclose personal information to third parties for other purposes, such as with your consent or as required by law, as detailed in the section of this policy titled, “Does Verizon disclose information it has about me?”
     
     Close×
     
-    65\. unless we need it for reasons specified by the laws
+    63\. unless we need it for reasons specified by the laws
     
     These state privacy law describe these reasons slightly differently, but generally, they include: needing the information to provide the services you use and the internal operations needed to maintain an ongoing business relationship or perform a contract with you, maintaining information security, preventing fraud, and exercising our legal rights including defending against legal claims, complying with laws and cooperating with law enforcement in good faith. 
     
-    **Use of sensitive personal information**. These state laws prohibit us from using sensitive personal information without your consent, except as [specified in the law 67](#). We use sensitive personal information as authorized by the law or after we obtain your express consent.  
+    **Use of sensitive personal information**. These state laws prohibit us from using sensitive personal information without your consent, except as [specified in the law 65](#). We use sensitive personal information as authorized by the law or after we obtain your express consent.  
     
     Close×
     
-    67\. specified in the law
+    65\. specified in the law
     
     The reasons vary slightly within these different state privacy laws, but generally include: complying with laws, rules, regulations, investigative subpoena or summons by governmental authorities; cooperating with law enforcement; investigating, establishing, preparing or defending against legal claims; providing and maintaining the products and services you use, preventing and responding to security and other significant incidents; taking immediate steps to protect an interest that is essential for the life or physical safety; and using information for short-term transient purposes such as displaying relevant information to you based on your activity during a single interaction.
     
@@ -1318,11 +1308,11 @@ Open all
     
     **You have a right to tell us not to sell personal information or process it for certain targeted advertising purposes.** The laws vary in the way they define sale and certain targeted advertising, but generally, they require that we provide you with the ability to limit activities that involve disclosing personal information for monetary or other valuable consideration and using personal information about you from your activity across other websites or apps to target ads to you. The definitions do not cover all disclosure of personal information. We do not knowingly sell personal information related to children under 18 years of age, or knowingly use such information for targeted advertising purposes.
     
-    We engage in selling or targeted advertising activities when we disclose, or allow certain third-party advertising and ad measurement companies (including social networks) to collect your hashed email address, information about your purchase of products and services from us, and information about your activity on our sites and in our apps. They can use that information to help us provide more relevant Verizon advertising on our own and on non-Verizon sites and apps. These companies may combine that information with information they collect elsewhere to determine whether you or someone with similar interests may fit into an audience that advertisers, including Verizon, are trying to reach, to serve targeted advertising to you on our sites and other sites and platforms, or to find other potential customers. This occurs through the use of cookies, pixels, tags, beacons, tags, scripts, identifier matching, application programming interfaces and similar technologies. We may also engage in selling or targeted advertising activities when we obtain personal information from other companies to better target ads to you, to find others like you who might value our services, or when we use personal information as part of [our own programs 68](#). If you are a Verizon Value customer, we may disclose information that identifies you with a partner, Prove, who facilitates your interactions with third parties, including for identity verification and providing information to assist with a decision on a credit application you have submitted to a bank or other third party.
+    We engage in selling or targeted advertising activities when we disclose, or allow certain third-party advertising and ad measurement companies (including social networks) to collect your hashed email address, information about your purchase of products and services from us, and information about your activity on our sites and in our apps. They can use that information to help us provide more relevant Verizon advertising on our own and on non-Verizon sites and apps. These companies may combine that information with information they collect elsewhere to determine whether you or someone with similar interests may fit into an audience that advertisers, including Verizon, are trying to reach, to serve targeted advertising to you on our sites and other sites and platforms, or to find other potential customers. This occurs through the use of cookies, pixels, tags, beacons, tags, scripts, identifier matching, application programming interfaces and similar technologies. We may also engage in selling or targeted advertising activities when we obtain personal information from other companies to better target ads to you, to find others like you who might value our services, or when we use personal information as part of [our own programs 66](#). If you are a Verizon Value customer, we may disclose information that identifies you with a partner, Prove, who facilitates your interactions with third parties, including for identity verification and providing information to assist with a decision on a credit application you have submitted to a bank or other third party.
     
     Close×
     
-    68\. our own programs
+    66\. our own programs
     
     Our programs include Custom Experience, Custom Experience Plus, Relevant TV Advertising, Relevant Online Advertising, and Fios TV market research and audience measurement.
     
@@ -1332,12 +1322,14 @@ Open all
     
     Verizon Wireless or Home services customers can opt out of the sale and use of personal information for certain targeted advertising by accessing our [Your Privacy Choices](https://www.verizon.com/privacy/your-privacy-choices) page.
     
-    Verizon Value customers can opt out by visiting the [Your Privacy Choices 69](#) page available from the link at the bottom of the website of the Verizon Value brand that you use.
+    Verizon Value customers can opt out by visiting the [Your Privacy Choices 67](#) page available from the link at the bottom of the website of the Verizon Value brand that you use.
     
     Close×
     
-    69\. Your Privacy Choices
+    67\. Your Privacy Choices
     
+    *   Visible: Visible [Your Privacy Choices](https://www.visible.com/legal/privacy-choices) page.
+    *   Visible Merch or Visible Offers customers can click the “Your Privacy Choices” link at the footer of the [Visible Merch](https://www.visiblemerch.com/) or [Visible Offers](https://www.visibleoffers.com/#/home) websites.
     *   Tracfone: [https://www.tracfone.com/ccpa/home?reqType=dns](https://www.tracfone.com/ccpa/home?reqType=dns)
     *   StraightTalk: [https://www.straighttalk.com/ccpa/home?reqType=dns](https://www.straighttalk.com/ccpa/home?reqType=dns)
     *   Simple Mobile: [https://www.simplemobile.com/ccpa/home?reqType=dns](https://www.simplemobile.com/ccpa/home?reqType=dns)
@@ -1347,15 +1339,6 @@ Open all
     *   SafeLink: [https://www.safelinkwireless.com/en/#!/ypc](https://www.safelinkwireless.com/en/#!/ypc)
     *   Go Smart Mobile: [https://www.gosmartmobile.com/ccpa/home?reqType=dns](https://www.gosmartmobile.com/ccpa/home?reqType=dns)
     *   Page Plus and Clearway Wireless for Business do not engage in this activity
-    
-    Visible Wireless customers can opt out at the Visible [Your Privacy Choices](https://www.visible.com/legal/privacy-choices)![](/about/privacy/sites/default/files/2022-12/your-privacy-choices-icon.png) page. If you are a Visible Merch or Visible Offers customer you can [opt out on these sites 70](#). Our selling and sharing activity for these sites and customers is limited to cookies and other web technologies on the site to better tailor our advertising to you.
-    
-    Close×
-    
-    70\. opt out on these sites
-    
-    *   Visible Merch customers can click the Your Privacy Choices ![](/about/privacy/sites/default/files/2022-12/your-privacy-choices-icon.png) link at the footer of the [Visible Merch](https://www.visiblemerch.com/) websites.
-    *   Visible Offers customers can opt out of selling and sharing of your activity by turning off “Functional and Performance” and “Advertising” cookies in the cookie settings that can be accessed from the Your Privacy Choices link in the footer of the Visible Offers site, or by managing your settings through the cookie banner that displays on your first visit to the site. If you opt out of Functional and Performance and Advertising cookies, only web tech that is required for the site to function will operate during your visit.
     
     Frontier customers can opt out using the “Do Not Sell or Share My Personal Information” link at the bottom of the Frontier website at [frontier.com](http://frontier.com/) or by filling out our [Frontier Privacy Webform](https://frontier.com/pages/california-privacy-law).
     
@@ -1373,19 +1356,19 @@ Open all
     *   Verizon Value or Visible customers: follow the instructions listed in the denial communication, or submit a request through our [privacy inquiry form](/about/privacy/privacy-inquiries).
     *   Frontier customers: complete our [Frontier Privacy Webform](https://frontier.com/california-privacy-law) or email us at [FTR-privacy@verizon.com](mailto:FTR-privacy@verizon.com.%20).
     
-    **You have the right to not be discriminated against.** We do not [discriminate 71](#) against you if you exercise any rights provided to you by state law. You also have the right to receive information about financial incentives we offer you.
+    **You have the right to not be discriminated against.** We do not [discriminate 68](#) against you if you exercise any rights provided to you by state law. You also have the right to receive information about financial incentives we offer you.
     
     Close×
     
-    71\. discriminate
+    68\. discriminate
     
     We will not deny goods or services, charge different prices or rates for goods or services or provide you a different level or quality of goods and services. You also have the right to receive information about any financial incentives we offer to you.
     
-    **Where to exercise your rights.** You may submit a request to know, access, delete, and correct data, or you may appoint an [authorized agent 72](#) to submit certain requests on your behalf.
+    **Where to exercise your rights.** You may submit a request to know, access, delete, and correct data, or you may appoint an [authorized agent 69](#) to submit certain requests on your behalf.
     
     Close×
     
-    72\. authorized agent
+    69\. authorized agent
     
     You may designate a business or individual as your agent. Verizon Wireless or Home Services, and Verizon Value customers can appoint an authorized agent using our [Privacy Dashboard](/privacy/your-data) to “Assign and manage your authorized agent.” Visible Merch customers can appoint an authorized agent by contacting us at [VisibleMerch@Halo.com](mailto:VisibleMerch@Halo.com) with your name, address and email, and the name, address and email of your authorized agent. Frontier customers may appoint an authorized agent by emailing us at [FTR-privacy@verizon.com](mailto:FTR-privacy@verizon.com). We may require additional proof that you granted the authority.
     
@@ -1398,11 +1381,11 @@ Open all
     *   Visible  
         Submit a [privacy inquiry form](/about/privacy/privacy-inquiries)
     
-    Visible Merch customers should follow [these instructions 73](#) to exercise your right to know, access, delete, and correct data.
+    Visible Merch customers should follow [these instructions 70](#) to exercise your right to know, access, delete, and correct data.
     
     Close×
     
-    73\. these instructions
+    70\. these instructions
     
     *   Contact our trusted website service provider, HALO Branded Solutions by emailing [VisibleMerch@halo.com](mailto:VisibleMerch@halo.com), [by](mailto:VisibleMerch@halo.com) calling 1-855-425-6266 or by sending a request via U.S. Postal Mail to Halo Branded Solutions, Attn: HALO.COM Customer Service, 1500 HALO Way, Sterling, IL 61081
     
@@ -1412,12 +1395,14 @@ Open all
     
     Users of the Verizon AI Skills for America learning platform can submit requests through the [guest portal on the Verizon Privacy Dashboard](/privacy/your-data/guest-landing).
     
-    Verizon Wireless or Home services customers can exercise your right to opt-out of selling and sharing by visiting; [Your Privacy Choices ![](/about/privacy/sites/default/files/2022-12/your-privacy-choices-icon.png)](https://www.verizon.com/privacy/your-privacy-choices) . Value customers can opt out by visiting the [Your Privacy Choices 74](#) page available from the link at the bottom of the website of the Verizon Value brand that you use.
+    Verizon Wireless or Home services customers can exercise your right to opt-out of selling and sharing by visiting; [Your Privacy Choices ![](/about/privacy/sites/default/files/2022-12/your-privacy-choices-icon.png)](https://www.verizon.com/privacy/your-privacy-choices) . Value customers can opt out by visiting the [Your Privacy Choices 71](#) page available from the link at the bottom of the website of the Verizon Value brand that you use.
     
     Close×
     
-    74\. Your Privacy Choices
+    71\. Your Privacy Choices
     
+    *   Visible: Visible [Your Privacy Choices](https://www.visible.com/legal/privacy-choices) page.
+    *   Visible Merch or Visible Offers customers can click the “Your Privacy Choices” link at the footer of the [Visible Merch](https://www.visiblemerch.com/) or [Visible Offers](https://www.visibleoffers.com/#/home) websites.
     *   Tracfone: [https://www.tracfone.com/ccpa/home?reqType=dns](https://www.tracfone.com/ccpa/home?reqType=dns)
     *   StraightTalk: [https://www.straighttalk.com/ccpa/home?reqType=dns](https://www.straighttalk.com/ccpa/home?reqType=dns)
     *   Simple Mobile: [https://www.simplemobile.com/ccpa/home?reqType=dns](https://www.simplemobile.com/ccpa/home?reqType=dns)
@@ -1428,15 +1413,6 @@ Open all
     *   Go Smart Mobile: [https://www.gosmartmobile.com/ccpa/home?reqType=dns](https://www.gosmartmobile.com/ccpa/home?reqType=dns)
     *   Page Plus and Clearway Wireless for Business do not engage in this activity
     
-    Visible Wireless customers can opt out at the Visible [Your Privacy Choices](https://www.visible.com/legal/privacy-choices) ![](/about/privacy/sites/default/files/2022-12/your-privacy-choices-icon.png) page. If you are a Visible Merch or Visible Offers customer you can [opt out on these sites 75](#). Our selling and sharing activity for these sites and customers is limited to cookies and other web technologies on the site to better tailor our advertising to you.
-    
-    Close×
-    
-    75\. opt out on these sites
-    
-    *   Visible Merch customers should click the Your Privacy Choices link at the footer of the [Visible Merch](https://www.visiblemerch.com/) websites.
-    *   Visible Offers customers can opt out of selling and sharing of your activity by turning off “Functional and Performance” and “Advertising” cookies in the cookie settings that can be accessed from the Your Privacy Choices link in the footer of the Visible Offers site, or by managing your settings through the cookie banner that displays on your first visit to the site. If you opt out of Functional and Performance and Advertising cookies, only web tech that is required for the site to function will operate during your visit.
-    
     Frontier customers can opt out using the “Do Not Sell or Share My Personal Information” link at the bottom of the Frontier website at [frontier.com](http://frontier.com/) or by filling out our [Frontier Privacy Webform](https://frontier.com/pages/california-privacy-law).
     
     Teachers who access Verizon Innovative Learning HQ can visit the [Verizon Innovative Learning Your Privacy Choices page](/learning/your-privacy-choices) to opt out.
@@ -1445,12 +1421,14 @@ Open all
     
     If you are an Android user you can use the “Your Privacy Choices” link at the bottom of notifications pushed to your device to opt out of personalized app recommendations.
     
-    If you are a Verizon Wireless or Home services customer, your authorized agent can exercise your right to opt-out to limit the sale of personal information or the use of personal information for targeted advertising by following the instructions at [Your Privacy Choices](/privacy/your-privacy-choices)![](/about/privacy/sites/default/files/2022-12/your-privacy-choices-icon.png). If you are a Verizon Value customer, your authorized agent can exercise this opt out right by visiting the [Your Privacy Choices 76](#) page available from the “Privacy Choices for Authorized Agents” link on the website of the Verizon Value brand that you use.
+    If you are a Verizon Wireless or Home services customer, your authorized agent can exercise your right to opt-out to limit the sale of personal information or the use of personal information for targeted advertising by following the instructions at [Your Privacy Choices](/privacy/your-privacy-choices)![](/about/privacy/sites/default/files/2022-12/your-privacy-choices-icon.png). If you are a Verizon Value customer, your authorized agent can exercise this opt out right by visiting the [Your Privacy Choices 72](#) page available from the “Privacy Choices for Authorized Agents” link on the website of the Verizon Value brand that you use.
     
     Close×
     
-    76\. opt out on these sites
+    72\. opt out on these sites
     
+    *   Visible: Visible [Your Privacy Choices](https://www.visible.com/legal/privacy-choices) page.
+    *   Visible Merch or Visible Offers customers can click the “Your Privacy Choices” link at the footer of the [Visible Merch](https://www.visiblemerch.com/) or [Visible Offers](https://www.visibleoffers.com/#/home) websites.
     *   Tracfone: [https://www.tracfone.com/ccpa/home?reqType=dns](https://www.tracfone.com/ccpa/home?reqType=dns)
     *   StraightTalk: [https://www.straighttalk.com/ccpa/home?reqType=dns](https://www.straighttalk.com/ccpa/home?reqType=dns)
     *   Simple Mobile: [https://www.simplemobile.com/ccpa/home?reqType=dns](https://www.simplemobile.com/ccpa/home?reqType=dns)
@@ -1465,11 +1443,11 @@ Open all
     
     If you would like to opt out of the collection and use of information through web-based tools such as cookies, pixels, beacons, tags, scripts and similar technology, please visit the Your Privacy Choices link above for the websites that you use, or the Do Not Sell or Share My Personal Information link in the footer of the Frontier website, in addition to having your authorized agent contact us. This will associate your opt out with your browser.
     
-    For requests to access, delete or correct information we require you to [verify your identity 77](#) using the processes we describe in the dashboard before we fulfill your request. 
+    For requests to access, delete or correct information we require you to [verify your identity 73](#) using the processes we describe in the dashboard before we fulfill your request. 
     
     Close×
     
-    77\. verify your identity
+    73\. verify your identity
     
     For example, you may have to prove access to your mobile phone, to your email address on file with us, or to a government-issued ID.
     
@@ -1477,62 +1455,62 @@ Open all
     
     ### Colorado & Illinois Biometric Information Privacy
     
-    The Colorado Privacy Act applies to [Biometric Identifiers and Biometric Data 78](#) and the Illinois Biometric Information Privacy Act applies to [Biometric Identifiers and Biometric Information 79](#)
+    The Colorado Privacy Act applies to [Biometric Identifiers and Biometric Data 74](#) and the Illinois Biometric Information Privacy Act applies to [Biometric Identifiers and Biometric Information 75](#)
     
     Close×
     
-    79\. Biometric Identifiers and Biometric Information
+    75\. Biometric Identifiers and Biometric Information
     
     In Illinois, “Biometric Identifiers" means a retina or iris scan, fingerprint, voiceprint, or scan of your hand or face geometry. Biometric Identifiers do not include writing samples, written signatures, photographs, demographic data, tattoo descriptions or physical descriptions such as height or weight. “Biometric Information” means information that is based on an individual’s biometric identifier used to identify an individual.
     
     Close×
     
-    78\. Biometric Identifiers and Biometric Data
+    74\. Biometric Identifiers and Biometric Data
     
     In Colorado, “Biometric Identifiers” means data generated by the technological processing, measurement, or analysis of biological, physical, or behavioral characteristics, which can be processed for the purpose of uniquely identifying someone, and includes fingerprints; voiceprints; scans or records of an eye retina or iris; facial maps, facial geometry, or facial templates; or other unique biological, physical or behavioral patterns or characteristics. “Biometric Data” means one or more Biometric Identifiers that are used or intended to be used, for identification purposes.
     
-    **What we collect and how we use it.** We may collect and use certain Biometric Data or Biometric Information (“Biometric Information”) to verify or authenticate your identity; to protect against fraud; and for safety and other security purposes. We collect Biometric Information when you consent to voice or facial authentication. When you permit us to scan your face geometry or create a voiceprint, we turn it into a stored numerical representation (the “template”). Each time you scan your face geometry or later when you speak to one of our representatives, we compare your face or your voice to the stored template associated with your account. If they match, we are able to authenticate you so that you can access account information, complete account transactions, get assistance from a Verizon representative, or visit a Verizon corporate office.
+    **What we collect and how we use it.** We may collect and use certain Biometric Data or Biometric Information (“Biometric Information”) to verify or authenticate your identity; to protect against fraud; and for safety and other security purposes. We collect Biometric Information when you consent to facial authentication. When you permit us to scan your face geometry, we turn it into a stored numerical representation (the “template”). Each time you scan your face geometry we compare your face to the stored template associated with your account. If they match, we are able to authenticate you so that you can access account information, complete account transactions, get assistance from a Verizon representative, or visit a Verizon corporate office.
     
     **When we** **disclose Biometric Information.** We may disclose Biometric Information to service providers who work on our behalf. These service providers may use the Biometric Information disclosed to them only for purposes related to providing service to Verizon, and are required to delete the information when it is no longer needed to provide the service. We may also disclose Biometric Information to comply with law as described in the Does Verizon Disclose Information section of this Policy.
     
     **How long we retain Biometric Information and information security.** We retain Biometric Information as follows (unless we are legally required to retain it longer):
     
-    *   We retain scans of your face geometry or voiceprint very briefly. We permanently delete the first scan after we use it to generate the stored template. Each time you authenticate, we retain your face geometry or voiceprint scan long enough to compare it to the template, then we permanently delete the scan.
-    *   We retain the stored template until the purpose for collecting it is satisfied. For instance, Verizon Wireless retains templates for approximately 90 days, and Total Wireless retains templates for approximately 180 days from the date that you provided it. We retain voiceprints for as long as you are an active customer and are enrolled in voice authentication. Voiceprints are deleted approximately 24 hours after unenrollment or termination of service.
+    *   We retain scans of your face geometry very briefly. We permanently delete the first scan after we use it to generate the stored template. Each time you authenticate, we retain your face geometry scan long enough to compare it to the template, then we permanently delete the scan.
+    *   We retain the stored template until the purpose for collecting it is satisfied. For instance, Verizon Wireless retains templates for approximately 90 days, and Total Wireless retains templates for approximately 180 days from the date that you provided it.
     *   We may also retain biometric data as otherwise required to comply with applicable law or valid legal/judicial process.
     *   We use technical, administrative and physical safeguards as set forth in this Privacy Policy to help protect against unauthorized access to, use or disclosure of information we collect or store. We use our security and incident response plans to handle incidents involving data we process.
     
-    **Where to exercise your rights.** Colorado residents may submit a request to know or access biometric data by visiting our [Privacy Dashboard](/privacy/your-data). Verizon Wireless or Home services customers may also call 1-800-333-3972. Total Wireless customers may submit a  [privacy inquiry form](/about/privacy/privacy-inquiries).
+    **Where to exercise your rights.** Colorado residents may submit a request to know or access biometric data by visiting our [Privacy Dashboard](/privacy/your-data). Verizon Wireless or Home services customers may also call 1-800-333-3972. Total Wireless customers may submit a [privacy inquiry form](/about/privacy/privacy-inquiries).
     
     ### Maine Broadband Customer Privacy Rights
     
-    The [Maine Broadband Internet Access Service Customer Privacy Act 80](#), effective on July 1, 2020, gives you additional privacy rights when we are your broadband Internet access service provider. The Maine law gives you the right to control certain ways that we use or disclose information we have about you and requires that we provide you with a notice of your rights and our obligations under this law. We do this in this section.
+    The [Maine Broadband Internet Access Service Customer Privacy Act 76](#), effective on July 1, 2020, gives you additional privacy rights when we are your broadband Internet access service provider. The Maine law gives you the right to control certain ways that we use or disclose information we have about you and requires that we provide you with a notice of your rights and our obligations under this law. We do this in this section.
     
     Close×
     
-    80\. Maine Broadband Internet Access Service Customer Privacy Act
+    76\. Maine Broadband Internet Access Service Customer Privacy Act
     
     The law applies to current or former subscribers of mass market broadband Internet access service in Maine. It also applies to applicants for this service. 
     
-    The Maine law also requires us to take reasonable measures to protect [customer personal information 81](#). We describe this in an earlier section of this [privacy policy](/about/privacy/full-privacy-policy?scroll#acc-item-35).
+    The Maine law also requires us to take reasonable measures to protect [customer personal information 77](#). We describe this in an earlier section of this [privacy policy](/about/privacy/full-privacy-policy?scroll#acc-item-35).
     
     Close×
     
-    81\. customer personal information
+    77\. customer personal information
     
     Maine law defines “customer personal information” as personally identifying information about a customer or information from a customer’s use of broadband Internet access service. 
     
-    We will not use, disclose, sell, or permit access to your Maine broadband customer personal information except for [purposes allowed under the Maine law 82](#) or with your affirmative consent. We may ask you for this consent when we interact with you. For example, we may ask to use broadband customer personal information to market [additional services 83](#) to you when you call us or come into our stores.
+    We will not use, disclose, sell, or permit access to your Maine broadband customer personal information except for [purposes allowed under the Maine law 78](#) or with your affirmative consent. We may ask you for this consent when we interact with you. For example, we may ask to use broadband customer personal information to market [additional services 79](#) to you when you call us or come into our stores.
     
     Close×
     
-    82\. Purposes allowed under the Maine law
+    78\. Purposes allowed under the Maine law
     
     Maine law allows us to use and disclose broadband customer personal information to provide and maintain your broadband services; market and advertise our communications-related services to you; comply with lawful court orders; bill and collect; protect users from fraudulent, abusive, or unlawful use of or subscription to such services; or provide location information in response to certain emergency situations**.**
     
     Close×
     
-    83\. additional services
+    79\. additional services
     
     By “additional services,” we mean Verizon or partner services that are not communications-related.
     
@@ -1542,11 +1520,11 @@ Open all
     
     ### Nevada Privacy Rights
     
-    Nevada law allows consumers to opt out of the [sale of personally identifiable information 84](#) by online service providers such as website operators.
+    Nevada law allows consumers to opt out of the [sale of personally identifiable information 80](#) by online service providers such as website operators.
     
     Close×
     
-    84\. sale of personally identifiable information
+    80\. sale of personally identifiable information
     
     Nevada law defines "sale" as the exchange of certain personally identifiable customer information for money. Personally identifiable information includes name, address, phone number, SSN, or any identifier that can be used to contact you electronically.  
     
@@ -1558,11 +1536,11 @@ Open all
     
     ### Additional Information for Oregon Residents
     
-    [These Verizon entities 85](#) are registered as active with the Oregon Secretary of State:
+    [These Verizon entities 81](#) are registered as active with the Oregon Secretary of State:
     
     Close×
     
-    85\. These Verizon entities
+    81\. These Verizon entities
     
     Alltel Corporation
     
@@ -1619,11 +1597,11 @@ Open all
     *   Visible  
         Submit a [privacy inquiry form](/about/privacy/privacy-inquiries)
     
-    Visible Merch customers should follow these [instructions for submitting requests 86](#) to access or correct information.
+    Visible Merch customers should follow these [instructions for submitting requests 82](#) to access or correct information.
     
     Close×
     
-    86\. instructions for submitting requests
+    82\. instructions for submitting requests
     
     If you are Visible Merch customer, you can request access to personal information we have about you or that we correct inaccurate information by contacting our trusted website service provider, HALO Branded Solutions:
     
@@ -1636,15 +1614,21 @@ Open all
     
     Frontier customers can submit a request by completing our [Frontier Privacy Webform](https://frontier.com/california-privacy-law), by emailing [FTR-privacy@verizon.com](mailto:FTR-privacy@verizon.com) or by calling 1-866-403-3606. You can submit our [privacy inquiry form](/about/privacy/privacy-inquiries) if you need assistance with your request.
     
-    ### Additional Information for Rhode Island Residents
+    ### Additional Information for Connecticut, Delaware, Minnesota, Oregon and Rhode Island Residents
     
-    Rhode Island's privacy law requires that a business identify the third parties to whom it has [sold or may sell 87](#) personally identifiable consumer information. Verizon, Verizon Value, and Visible may sell the personal information of Rhode Island consumers to the third parties included in the following Third-Party Privacy Disclosures.
+    Privacy laws in Delaware, Minnesota and Oregon provide residents with the right to request a list of the [third parties 83](#) to whom Verizon may disclose consumer personal information. Connecticut and Rhode Island privacy laws require that a business identify the third parties to whom it has [sold or may sell 84](#) personally identifiable consumer information. Verizon, Verizon Value, and Visible may disclose or sell the personal information of Connecticut, Delaware, Minnesota, Oregon and Rhode Island consumers to the third parties included in the following Third-Party Privacy Disclosures.
     
     Close×
     
-    87\. sold or may sell
+    83\. third parties
     
-    Rhode Island defines "sale" as the exchange of personal data for monetary or other valuable consideration.
+    “Third party” is defined as a person, a public agency/corporation, or a public body other than a consumer, a controller, a processor, or an affiliate of a controller or processor.
+    
+    Close×
+    
+    84\. sold or may sell
+    
+    Connecticut and Rhode Island defines "sale" as the exchange of personal data for monetary or other valuable consideration.
     
       
     *   [Verizon](/about/privacy/third-party-privacy-disclosure)
@@ -1670,9 +1654,7 @@ Open all
     
     We may make changes to this privacy policy, so please check back periodically. You will be able to see that we made changes by checking the effective date below. You can also read about [recent changes](/about/privacy/changes-privacy-policy). If we decide to use or disclose information that identifies you personally in a way that is materially different from what we stated in our privacy policy at the time we collected that information from you, we will give you a choice about the new use or disclosure by appropriate means, which may include an opportunity to opt-out.
     
-    Updated August 2026
-    
-    © 2025 Verizon. All rights reserved.
+    Updated September 2026
     
 
 ## Related topics
