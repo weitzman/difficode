@@ -3,7 +3,7 @@ url: "https://www.facebook.com/legal/commercial_terms"
 selector: "div[role="main"]"
 ---
 
-*We're updating the Meta Commercial Terms. These updates will go into effect on **October 30, 2026.**[Read the updated Terms](https://www.facebook.com/legal/commercial_terms_preview).*
+*We're updating the Meta Commercial Terms. These updates will go into effect on **October 30, 2026.** [Read the updated Terms](https://www.facebook.com/legal/commercial_terms_preview).*
 
   
 
