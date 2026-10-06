@@ -9,16 +9,6 @@ selector: "#help-center-faq-page-container"
 
 Copy link
 
-What is the Instagram Service?
-
-How is Instagram funded?
-
-What is the Instagram Privacy Policy?
-
-What are Instagram's Terms of Use?
-
-I have a different question
-
 Welcome to Instagram!  
   
 These Terms of Use (or “Terms”) govern your access and use of Instagram, except where we expressly state that separate terms (and not these) apply, and provide information about the Instagram Service (the “Service”), outlined below. The Meta Terms of Service do not apply to this Service.  
@@ -171,14 +161,6 @@ We may change our Service and policies, and we may need to make changes to these
 
 Effective Date: 1 January 2025
 
-## 
-
-Was this helpful?
-
-Yes
-
-No
-
 ## Related Articles
 
 [Intellectual Property](/535503073130320/?helpref=related_articles)
@@ -240,9 +222,3 @@ Information for law enforcement
 More information about Standard Contractual Clauses
 
 ](/272603474673152/?helpref=related_articles)
-
-## Other ways to get help
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
