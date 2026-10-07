@@ -1168,7 +1168,7 @@ In addition, you have the right to complain to your local Supervisory Authority 
 
 In EEA, you may lodge a complaint with our lead supervisory authority for data protection, Luxemburg National Commission for Data Protection (CNPD) by post at Commission Nationale pour la Protection des Donnees, Service des plaints, 15, Boulevard du Jazz, L-4370 Belvaux, Luxembourg.
 
-In the UK, you may also lodge a complaint with your local data protection authority, which is the Information Commissioner’s Office: website: [**https://ico.org.uk/**](https://ico.org.uk/), address: Wycliffe House, Water Lane, Wilmslow, Cheshire, SK9 5AF.
+In the UK, you may also lodge a complaint with your local data protection authority, which is the Information Commissioner’s Office: website: [**https://ico.org.uk/**](https://ico.org.uk/), address: ICO Head Office, 4th Floor, No.3 Circle Square, 5 Hawkshaw Street, Manchester, M1 7BL.
 
 However, while you are not required to do so, we ask that you contact us first to give us the opportunity to address your concerns directly before speaking with your Supervisory Authority.
 
