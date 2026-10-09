@@ -257,3 +257,7 @@ More information about Standard Contractual Clauses
 Chat with Meta AI support assistant
 
 Resolve issues, make changes and get support in real time
+
+Get a call from Meta AI assistant
+
+Get help from Meta AI assistant by phone
