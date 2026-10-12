@@ -9,7 +9,7 @@ selector: "#content-wrapper"
 
 PayPal Privacy Statement
 
-Last updated on September 28, 2026
+Last updated on October 12, 2026
 
 ## Overview
 
@@ -549,8 +549,8 @@ Contact [**Online**](https://www.paypal.com/th/smarthelp/contact-us/privacy) fo
 UK
 
 PayPal UK Ltd  
-5 Fleet Place  
-London, UK EC4M 7RD  
+76 Upper Ground  
+London, United Kingdom, SE1 9PZ  
 Contact [**Online**](https://www.paypal.com/uk/smarthelp/contact-us/privacy) for Privacy queries
 
 United Arab Emirates
@@ -1234,7 +1234,7 @@ We and other organisations, including parties that accept PayPal, may also share
 
 ### **Status Disclosure**
 
-PayPal UK Ltd is authorised and regulated by the Financial Conduct Authority (FCA) as an electronic money institution (firm reference number 994790); in relation to its regulated consumer credit activities (firm reference number 996405); and for the provision of cryptocurrency services (firm reference number 1000741). Some products and services, such as PayPal Working Capital, are not regulated by the FCA and may offer a lower level of protection. Please read product terms for further details. PayPal UK Ltd's company number is 14741686. Its registered office is 5 Fleet Place, London, United Kingdom, EC4M 7RD.
+PayPal UK Ltd is authorised and regulated by the Financial Conduct Authority (FCA) as an electronic money institution (firm reference number 994790); in relation to its regulated consumer credit activities (firm reference number 996405); and for the provision of cryptocurrency services (firm reference number 1000741). Some products and services, such as PayPal Working Capital, are not regulated by the FCA and may offer a lower level of protection. Please read product terms for further details. PayPal UK Ltd's company number is 14741686. Its registered office is 76 Upper Ground, London, United Kingdom, SE1 9PZ.
 
 # PayPal Privacy Statement
 
