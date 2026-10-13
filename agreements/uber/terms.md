@@ -7,7 +7,7 @@ selector: "[data-testid='content-group-dynamic']"
 
 Select jurisdiction:
 
-US
+United States
 
 Select language:
 
