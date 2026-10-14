@@ -1396,7 +1396,11 @@ Close
 Close
 
 1.  [About](/site/us/en/about/index.html) 
-2.  [Legal](https://www.cisco.com/c/en/us/about/legal.html) 
+
+...
+
+3.  [About](/site/us/en/about/index.html) 
+4.  [Legal](https://www.cisco.com/c/en/us/about/legal.html) 
 
 # Cisco Privacy Statement
 
@@ -1703,7 +1707,7 @@ Expand the window to see more details and enjoy a clearer chat!
     
 *   Rate your experience:
     
-    [](https://ciscocx.qualtrics.com/jfe/form/SV_8Bu9KmzrohUSltc?conversation_id=7ce5f51b-26e3-4c9c-854c-bc2d52396035&cp_gutc=23.54.116.107.325681791910214293)Helpful [](https://ciscocx.qualtrics.com/jfe/form/SV_8rmfXKDd6pISWbk?conversation_id=7ce5f51b-26e3-4c9c-854c-bc2d52396035&cp_gutc=23.54.116.107.325681791910214293)Unhelpful
+    [](https://ciscocx.qualtrics.com/jfe/form/SV_8Bu9KmzrohUSltc?conversation_id=ffe7da0f-89e7-47b0-9758-560e620a493f&cp_gutc=23.200.94.211.333491791987966887)Helpful [](https://ciscocx.qualtrics.com/jfe/form/SV_8rmfXKDd6pISWbk?conversation_id=ffe7da0f-89e7-47b0-9758-560e620a493f&cp_gutc=23.200.94.211.333491791987966887)Unhelpful
     
 
 Label 
