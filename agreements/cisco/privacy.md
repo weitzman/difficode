@@ -1649,7 +1649,7 @@ We may update this Privacy Statement from time to time. If we modify our Privacy
 
 We will not share your opt-in to an SMS campaign with any third party for purposes unrelated to providing you with the services of that campaign. We may share your Personal Data, including your SMS opt-in or consent status, with third parties that help us provide our messaging services, including but not limited to platform providers, phone companies, and any other vendors who assist us in the delivery of text messages. All the above categories exclude text messaging originator opt-in data and consent; this information will not be shared with any third parties. (Business Texting available in US & Canada only)
 
-The Cisco Privacy Statement was revised and is effective as of August 14, 2026
+The Cisco Privacy Statement was revised and is effective as of August 18, 2026
 
 [Previous version of the Privacy Statement](https://www.cisco.com/c/en/us/about/legal/privacy-full/previous-2025-26.html)
 
@@ -1703,7 +1703,7 @@ Expand the window to see more details and enjoy a clearer chat!
     
 *   Rate your experience:
     
-    [](https://ciscocx.qualtrics.com/jfe/form/SV_8Bu9KmzrohUSltc?conversation_id=9a7a8240-e4b7-48b3-ab73-8cd5713300ac&cp_gutc=23.212.7.102.347401792073038514)Helpful [](https://ciscocx.qualtrics.com/jfe/form/SV_8rmfXKDd6pISWbk?conversation_id=9a7a8240-e4b7-48b3-ab73-8cd5713300ac&cp_gutc=23.212.7.102.347401792073038514)Unhelpful
+    [](https://ciscocx.qualtrics.com/jfe/form/SV_8Bu9KmzrohUSltc?conversation_id=f19a585d-bcbe-4af4-a23c-7a94d5b2fc0c&cp_gutc=23.202.113.11.20862221792158734538)Helpful [](https://ciscocx.qualtrics.com/jfe/form/SV_8rmfXKDd6pISWbk?conversation_id=f19a585d-bcbe-4af4-a23c-7a94d5b2fc0c&cp_gutc=23.202.113.11.20862221792158734538)Unhelpful
     
 
 Label 
