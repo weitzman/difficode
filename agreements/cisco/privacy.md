@@ -31,11 +31,11 @@ Get started with the right security solution for you. Try out our security solut
 
 [Start a free trial](https://www.cisco.com/site/us/en/products/security/trials-offers.html)
 
-### Discover Cisco IQ
+### Services for a resilient infrastructure
 
-See more, move faster, go farther. Human expertise meets agentic intelligence in every Cisco Services engagement.
+See, remediate, modernize, and defend AI threats at machine speed using Cisco Resilient Infrastructure Services, powered by Cisco IQ. 
 
-[Read the blog](https://blogs.cisco.com/news/cisco-iq-is-generally-available-heres-what-that-actually-means)
+[Explore how](/site/us/en/services/resilient-infrastructure.html)
 
 1.  Networking
 2.  Security
@@ -281,11 +281,11 @@ Close
 
 * * *
 
-### Discover Cisco IQ
+### Services for a resilient infrastructure
 
-See more, move faster, go farther. Human expertise meets agentic intelligence in every Cisco Services engagement.
+See, remediate, modernize, and defend AI threats at machine speed using Cisco Resilient Infrastructure Services, powered by Cisco IQ. 
 
-[Read the blog](https://blogs.cisco.com/news/cisco-iq-is-generally-available-heres-what-that-actually-means)
+[Explore how](/site/us/en/services/resilient-infrastructure.html)
 
 ### Get expert guidance
 
@@ -1703,7 +1703,7 @@ Expand the window to see more details and enjoy a clearer chat!
     
 *   Rate your experience:
     
-    [](https://ciscocx.qualtrics.com/jfe/form/SV_8Bu9KmzrohUSltc?conversation_id=f19a585d-bcbe-4af4-a23c-7a94d5b2fc0c&cp_gutc=23.202.113.11.20862221792158734538)Helpful [](https://ciscocx.qualtrics.com/jfe/form/SV_8rmfXKDd6pISWbk?conversation_id=f19a585d-bcbe-4af4-a23c-7a94d5b2fc0c&cp_gutc=23.202.113.11.20862221792158734538)Unhelpful
+    [](https://ciscocx.qualtrics.com/jfe/form/SV_8Bu9KmzrohUSltc?conversation_id=de6316d6-b793-41ee-8723-77e920acb1f4&cp_gutc=23.55.171.211.343971792241433246)Helpful [](https://ciscocx.qualtrics.com/jfe/form/SV_8rmfXKDd6pISWbk?conversation_id=de6316d6-b793-41ee-8723-77e920acb1f4&cp_gutc=23.55.171.211.343971792241433246)Unhelpful
     
 
 Label 
