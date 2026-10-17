@@ -42,7 +42,7 @@ Open all
     
     1\. Verizon
     
-    This policy applies to Verizon Wireless and Verizon Value customers, and to the visitors of websites where this policy is posted, including for example, within mobile apps we offer. Verizon Value includes Clearway Wireless for Business, GoSmart Mobile, Net10 Wireless, Page Plus, SafeLink Wireless, Simple Mobile, Straight Talk Wireless, Total Wireless, Tracfone, Visible and Walmart Family Mobile.
+    This policy applies to Verizon Wireless and Verizon Value customers, and to the visitors of websites where this policy is posted, including for example, within mobile apps we offer. Verizon Value includes Clearway Wireless for Business, GoSmart Mobile, Net10 Wireless, Page Plus, SafeLink Wireless, Simple Mobile, Straight Talk, Total Wireless, Tracfone, Visible and Walmart Family Mobile.
     
     Close×
     
@@ -395,12 +395,12 @@ Open all
     21\. Your Privacy Choices
     
     *   Tracfone: [https://www.tracfone.com/ccpa/home?reqType=dns](https://www.tracfone.com/ccpa/home?reqType=dns)
-    *   StraightTalk: [https://www.straighttalk.com/ccpa/home?reqType=dns](https://www.straighttalk.com/ccpa/home?reqType=dns)
+    *   Straight Talk: [https://www.straighttalk.com/ccpa/home?reqType=dns](https://www.straighttalk.com/ccpa/home?reqType=dns)
     *   Simple Mobile: [https://www.simplemobile.com/ccpa/home?reqType=dns](https://www.simplemobile.com/ccpa/home?reqType=dns)
     *   Net10 Wireless: [https://www.net10wireless.com/ccpa/home?reqType=dns](https://www.net10wireless.com/ccpa/home?reqType=dns)
     *   Walmart Family Mobile: [https://www.myfamilymobile.com/ccpa/home?reqType=dns](https://www.myfamilymobile.com/ccpa/home?reqType=dns)
     *   Total Wireless: [https://www.totalwireless.com/ccpa/home?reqType=dns](https://www.totalwireless.com/ccpa/home?reqType=dns)
-    *   SafeLink: [https://www.safelinkwireless.com/en/#!/ypc](https://www.safelinkwireless.com/en/#!/ypc)
+    *   SafeLink Wireless: [https://www.safelinkwireless.com/en/#!/ypc](https://www.safelinkwireless.com/en/#!/ypc)
     *   Go Smart Mobile: [https://www.gosmartmobile.com/ccpa/home?reqType=dns](https://www.gosmartmobile.com/ccpa/home?reqType=dns)
     
     If you are a Walmart Family Mobile customer, we work with Walmart Stores, Inc. (“Walmart”) to offer the Walmart Family Mobile service. Any information you provide directly to Walmart is subject to Walmart's Privacy Policy, including information you provide to Walmart in connection with your device purchase, upgrade, return, replacement, or technical support whether in its stores, by phone or online. In addition, if you activate Walmart Family Mobile communications services at a Walmart store, Walmart may request personal information from you that is disclosed to Verizon Value as a necessary part of the activation process, and which may also be retained by Walmart. You can learn more by [visiting Walmart's Privacy Policy](https://corporate.walmart.com/privacy-security/walmart-privacy-policy).
@@ -441,15 +441,15 @@ Open all
     
     23\. Your Privacy Choices
     
-    *   Visible Wireless customers can opt out at the [Visible Your Privacy Choices](https://www.visible.com/legal/privacy-choices) page.
-    *   Visible Merch or Visible Offers customers can click the “Your Privacy Choices” link at the footer of the [Visible Merch](https://www.visiblemerch.com/) or [Visible Offers](https://www.visibleoffers.com/#/home) websites.
+    *   Visible: [Visible Your Privacy Choices](https://www.visible.com/legal/privacy-choices) page.
+    *   Visible Merch or Visible Offers: Click the “Your Privacy Choices” link in the footer of the [Visible Merch](https://www.visiblemerch.com/) or [Visible Offers](https://www.visibleoffers.com/#/home) websites.
     *   Tracfone: [https://www.tracfone.com/ccpa/home?reqType=dns](https://www.tracfone.com/ccpa/home?reqType=dns)
     *   StraightTalk: [https://www.straighttalk.com/ccpa/home?reqType=dns](https://www.straighttalk.com/ccpa/home?reqType=dns)
     *   Simple Mobile: [https://www.simplemobile.com/ccpa/home?reqType=dns](https://www.simplemobile.com/ccpa/home?reqType=dns)
     *   Net10 Wireless: [https://www.net10wireless.com/ccpa/home?reqType=dns](https://www.net10wireless.com/ccpa/home?reqType=dns)
     *   Walmart Family Mobile: [https://www.myfamilymobile.com/ccpa/home?reqType=dns](https://www.myfamilymobile.com/ccpa/home?reqType=dns)
     *   Total Wireless: [https://www.totalwireless.com/ccpa/home?reqType=dns](https://www.totalwireless.com/ccpa/home?reqType=dns)
-    *   SafeLink: [https://www.safelinkwireless.com/en/#!/ypc](https://www.safelinkwireless.com/en/#!/ypc)
+    *   SafeLink Wireless: [https://www.safelinkwireless.com/en/#!/ypc](https://www.safelinkwireless.com/en/#!/ypc)
     *   Go Smart Mobile: [https://www.gosmartmobile.com/ccpa/home?reqType=dns](https://www.gosmartmobile.com/ccpa/home?reqType=dns)
     *   Page Plus and Clearway Wireless for Business do not engage in this activity.
     
@@ -702,15 +702,15 @@ Open all
     
     33\. Your Privacy Choices
     
-    *   Visible Wireless customers can opt out at the Visible [Your Privacy Choices](https://www.visible.com/legal/privacy-choices) page.
-    *   Visible Merch or Visible Offers customers can click the “Your Privacy Choices” link at the footer of the [Visible Merch](https://www.visiblemerch.com/) or [Visible Offers](https://www.visibleoffers.com/#/home) websites.
+    *   Visible: [Visible Your Privacy Choices](https://www.visible.com/legal/privacy-choices) page.
+    *   Visible Merch or Visible Offers: Click the “Your Privacy Choices” link in the footer of the [Visible Merch](https://www.visiblemerch.com/) or [Visible Offers](https://www.visibleoffers.com/#/home) websites.
     *   Tracfone: [https://www.tracfone.com/ccpa/home?reqType=dns](https://www.tracfone.com/ccpa/home?reqType=dns)
-    *   StraightTalk: [https://www.straighttalk.com/ccpa/home?reqType=dns](https://www.straighttalk.com/ccpa/home?reqType=dns)
+    *   Straight Talk: [https://www.straighttalk.com/ccpa/home?reqType=dns](https://www.straighttalk.com/ccpa/home?reqType=dns)
     *   Simple Mobile: [https://www.simplemobile.com/ccpa/home?reqType=dns](https://www.simplemobile.com/ccpa/home?reqType=dns)
     *   Net10 Wireless: [https://www.net10wireless.com/ccpa/home?reqType=dns](https://www.net10wireless.com/ccpa/home?reqType=dns)
     *   Walmart Family Mobile: [https://www.myfamilymobile.com/ccpa/home?reqType=dns](https://www.myfamilymobile.com/ccpa/home?reqType=dns)
     *   Total Wireless: [https://www.totalwireless.com/ccpa/home?reqType=dns](https://www.totalwireless.com/ccpa/home?reqType=dns)
-    *   SafeLink: [https://www.safelinkwireless.com/en/#!/ypc](https://www.safelinkwireless.com/en/#!/ypc)
+    *   SafeLink Wireless: [https://www.safelinkwireless.com/en/#!/ypc](https://www.safelinkwireless.com/en/#!/ypc)
     *   Go Smart Mobile: [https://www.gosmartmobile.com/ccpa/home?reqType=dns](https://www.gosmartmobile.com/ccpa/home?reqType=dns)
     *   Page Plus and Clearway Wireless for Business do not engage in this activity.
     
@@ -725,6 +725,8 @@ Open all
     34\. icon
     
     Clicking on this icon provides additional information on the companies and data practices that were used to deliver the ad and describes how you may opt out of these advertising programs.
+    
+    Verizon Wireless customers participating in Verizon Dollars may be offered an opportunity to earn Verizon Dollars through use of the Glance lockscreen app. If you elect to participate, we may disclose limited information to Glance to verify your eligibility, provide you with your earned Verizon Dollars, and for customer support. If you consent, Glance may collect, use and share personal information, including sensitive personal information, as described in the Glance AI [privacy policy](https://glance.com/us/ai-looks-app-privacy-policy), for purposes such as delivering interest-based advertising. You may stop participating by uninstalling the Glance app. You can learn more about the Verizon Dollars Program in the [Program Terms and Conditions](/support/verizon-dollars-legal/).
     
     ### You can limit the ways we may send marketing offers to you.
     
@@ -814,12 +816,12 @@ Open all
     37\. Your Privacy Choices
     
     *   Tracfone: [https://www.tracfone.com/ccpa/home?reqType=dns](https://www.tracfone.com/ccpa/home?reqType=dns)
-    *   StraightTalk: [https://www.straighttalk.com/ccpa/home?reqType=dns](https://www.straighttalk.com/ccpa/home?reqType=dns)
+    *   Straight Talk: [https://www.straighttalk.com/ccpa/home?reqType=dns](https://www.straighttalk.com/ccpa/home?reqType=dns)
     *   Simple Mobile: [https://www.simplemobile.com/ccpa/home?reqType=dns](https://www.simplemobile.com/ccpa/home?reqType=dns)
     *   Net10 Wireless: [https://www.net10wireless.com/ccpa/home?reqType=dns](https://www.net10wireless.com/ccpa/home?reqType=dns)
     *   Walmart Family Mobile: [https://www.myfamilymobile.com/ccpa/home?reqType=dns](https://www.myfamilymobile.com/ccpa/home?reqType=dns)
     *   Total Wireless: [https://www.totalwireless.com/ccpa/home?reqType=dns](https://www.totalwireless.com/ccpa/home?reqType=dns)
-    *   SafeLink: [https://www.safelinkwireless.com/en/#!/ypc](https://www.safelinkwireless.com/en/#!/ypc)
+    *   SafeLink Wireless: [https://www.safelinkwireless.com/en/#!/ypc](https://www.safelinkwireless.com/en/#!/ypc)
     *   Go Smart Mobile: [https://www.gosmartmobile.com/ccpa/home?reqType=dns](https://www.gosmartmobile.com/ccpa/home?reqType=dns)
     
     **Fios TV Market Research and Audience Measurement**  
@@ -1004,7 +1006,7 @@ Open all
     *   Demographic and interest data, as well as device type, carrier, city and state information, and fraud indicators we obtain from outside companies are used to help us understand our customers and our markets, better personalize your experiences, provide marketing and advertising; test for bias; and create inferences and business insights. We use fraud indicators we receive from other companies to help detect and prevent fraud.
     *   And other information that may identify, relate to, describe, or is capable of being associated with you, for example, information you provide to us, or grant us permission to collect such as through our mobile applications. This may include contacts, profile photos, motion activity, vehicle information or in limited circumstances, we may collect your insurance policy number if it is needed for processing damage claims.
     
-    We use the information we collect for [business and commercial purposes 45](#) as they are defined by the CCPA. We disclose information to [service providers who do work on our behalf 46](#); and others for credit and collections, directory assistance and caller ID purposes; with your consent; and as further described in other sections of this policy. Certain Verizon Value brands also may share information that identifies you with a partner who facilitates your interactions with third parties, including for verifying your identity and providing information to assist with a decision on a credit application you have submitted to a bank or other third party. We may also disclose information with your consent and as further described in other sections of this policy.
+    We use the information we collect for [business and commercial purposes 45](#) as they are defined by the CCPA. We disclose information to [service providers who do work on our behalf 46](#); and others for credit and collections, directory assistance and Caller ID purposes; with your consent; and as further described in other sections of this policy. Certain Verizon Value brands also may share information that identifies you with a partner who facilitates your interactions with third parties, including for verifying your identity and providing information to assist with a decision on a credit application you have submitted to a bank or other third party. We may also disclose information with your consent and as further described in other sections of this policy.
     
     Close×
     
@@ -1026,7 +1028,7 @@ Open all
     
     These reasons include: detecting security incidents; resisting malicious, deceptive, fraudulent or illegal actions; ensuring the physical safety of a person; short-term, transient uses; performing services such as maintaining or servicing accounts, providing customer service, fulfilling orders and transactions; verifying information; and verifying, maintaining or enhancing a service on a device that is owned, manufactured or controlled by us or on your device. We may also disclose information to service providers providing storage or similar services on our behalf.
     
-    Certain Verizon Value brands offer financial incentives (“Incentives”) through discounts or coupons. When you participate in an Incentive, you agree to the Incentive terms and may stop participating at any time. If you request the deletion of personal information, and if we require certain personal information to provide you the Incentive, then you may not be able to participate in the incentive. To the extent we can determine the value of the information you provide, we consider the value reasonably related to the costs associated with offering the Incentives.
+    Verizon and certain Verizon Value brands offer financial incentives (“Incentives”) through discounts or coupons, or the ability to earn discounts through our loyalty programs. When you participate in an Incentive, you agree to the Incentive terms and may stop participating at any time. If you request the deletion of personal information, and if we require certain personal information to provide you the Incentive, then you may not be able to participate in the incentive. To the extent we can determine the value of the information you provide, we consider the value reasonably related to the costs associated with offering the Incentives.
     
     Our policies require that we retain records containing personal information for as long as they are needed for legal, tax, audit, investigative, and security purposes and then securely delete or destroy them. We incorporate personal information into different types of records; it is not always retained by distinct data elements. For example, your name is part of your account, billing, technical support and call detail records. Each type of record may be retained for a different time period depending on its purpose.
     
@@ -1041,15 +1043,15 @@ Open all
     *   Visible  
         Submit a [privacy inquiry form](/about/privacy/privacy-inquiries)
     
-    Visible Merch customers should follow these [instructions to submit requests 48](#) to access or correct information.
+    Visible Merch customers, please follow [these instructions 48](#) to submit requests to know, access, delete, or correct data.
     
     Frontier customers can submit a request by completing our [Frontier Privacy Webform](https://frontier.com/california-privacy-law) or by calling 1-866-403-3606. You can submit our [privacy inquiry form](/about/privacy/privacy-inquiries) if you need assistance with your request.
     
     Close×
     
-    48\. instructions to submit requests
+    48\. these instructions
     
-    If you are Visible Merch customer, you can request access to personal information we have about you or that we correct inaccurate information by contacting our trusted website service provider, HALO Branded Solutions:
+    Contact our trusted website service provider, HALO Branded Solutions:
     
     HALO Branded Solutions  
     Attn: HALO.COM Customer Service  
@@ -1098,17 +1100,17 @@ Open all
     
     51\. Your Privacy Choices
     
-    *   Visible: Visible [Your Privacy Choices](https://www.visible.com/legal/privacy-choices) ![](/about/privacy/sites/default/files/2022-12/your-privacy-choices-icon.png)page.
-    *   Visible Merch or Visible Offers: Click the “Your Privacy Choices” link at the footer of the [Visible Merch](https://www.visiblemerch.com/) or [Visible Offers](https://www.visibleoffers.com/#/home) websites.
+    *   Visible: [Visible Your Privacy Choices](https://www.visible.com/legal/privacy-choices) page.
+    *   Visible Merch or Visible Offers: Click the “Your Privacy Choices” link in the footer of the [Visible Merch](https://www.visiblemerch.com/) or [Visible Offers](https://www.visibleoffers.com/#/home) websites.
     *   Tracfone: [https://www.tracfone.com/ccpa/home?reqType=dns](https://www.tracfone.com/ccpa/home?reqType=dns)
-    *   StraightTalk: [https://www.straighttalk.com/ccpa/home?reqType=dns](https://www.straighttalk.com/ccpa/home?reqType=dns)
+    *   Straight Talk: [https://www.straighttalk.com/ccpa/home?reqType=dns](https://www.straighttalk.com/ccpa/home?reqType=dns)
     *   Simple Mobile: [https://www.simplemobile.com/ccpa/home?reqType=dns](https://www.simplemobile.com/ccpa/home?reqType=dns)
     *   Net10 Wireless: [https://www.net10wireless.com/ccpa/home?reqType=dns](https://www.net10wireless.com/ccpa/home?reqType=dns)
     *   Walmart Family Mobile: [https://www.myfamilymobile.com/ccpa/home?reqType=dns](https://www.myfamilymobile.com/ccpa/home?reqType=dns)
     *   Total Wireless: [https://www.totalwireless.com/ccpa/home?reqType=dns](https://www.totalwireless.com/ccpa/home?reqType=dns)
-    *   SafeLink: [https://www.safelinkwireless.com/en/#!/ypc](https://www.safelinkwireless.com/en/#!/ypc)
+    *   SafeLink Wireless: [https://www.safelinkwireless.com/en/#!/ypc](https://www.safelinkwireless.com/en/#!/ypc)
     *   Go Smart Mobile: [https://www.gosmartmobile.com/ccpa/home?reqType=dns](https://www.gosmartmobile.com/ccpa/home?reqType=dns)
-    *   Page Plus and Clearway Wireless for Business do not engage in this activity
+    *   Page Plus and Clearway Wireless for Business do not engage in this activity.
     
     Frontier customers can opt out using the “Do Not Sell or Share My Personal Information” link at the bottom of the Frontier website at [frontier.com](http://frontier.com/) or by filling out our [Frontier Privacy Webform](https://frontier.com/pages/california-privacy-law).
     
@@ -1143,13 +1145,20 @@ Open all
     *   Visible  
         Submit a [privacy inquiry form](/about/privacy/privacy-inquiries)
     
-    If you use the Visible Merch websites please follow [these instructions 54](#) to exercise your right to know, access, delete, and correct data.
+    Visible Merch customers, please follow [these instructions 54](#) to submit requests to know, access, delete, or correct data.
     
     Close×
     
     54\. these instructions
     
-    *   **Visible Merch Customers:** Contact our trusted website service provider, HALO Branded Solutions by emailing [VisibleMerch@halo.com](mailto:VisibleMerch@halo.com), by calling 1-855-425-6266 or by sending a request via U.S. Postal Mail to Halo Branded Solutions, Attn: HALO.COM Customer Service, 1500 HALO Way, Sterling, IL 61081
+    Contact our trusted website service provider, HALO Branded Solutions:
+    
+    HALO Branded Solutions  
+    Attn: HALO.COM Customer Service  
+    1500 HALO Way Sterling, IL 61081  
+    (855) 425-6266  
+    [VisibleMerch@halo.com  
+    Send a message](mailto:VisibleMerch@halo.com)
     
     Frontier customers can submit a request by completing the [Frontier Privacy Webform](https://frontier.com/california-privacy-law) or by calling 1-866-403-3606.
     
@@ -1163,17 +1172,17 @@ Open all
     
     55\. Your Privacy Choices
     
-    *   Visible: Visible [Your Privacy Choices](https://www.visible.com/legal/privacy-choices) page.
-    *   Visible Merch or Visible Offers: Click the “Your Privacy Choices” link at the footer of the [Visible Merch](https://www.visiblemerch.com/) or [Visible Offers](https://www.visibleoffers.com/#/home) websites.
+    *   Visible: [Visible Your Privacy Choices](https://www.visible.com/legal/privacy-choices) page.
+    *   Visible Merch or Visible Offers: Click the “Your Privacy Choices” link in the footer of the [Visible Merch](https://www.visiblemerch.com/) or [Visible Offers](https://www.visibleoffers.com/#/home) websites.
     *   Tracfone: [https://www.tracfone.com/ccpa/home?reqType=dns](https://www.tracfone.com/ccpa/home?reqType=dns)
-    *   StraightTalk: [https://www.straighttalk.com/ccpa/home?reqType=dns](https://www.straighttalk.com/ccpa/home?reqType=dns)
+    *   Straight Talk: [https://www.straighttalk.com/ccpa/home?reqType=dns](https://www.straighttalk.com/ccpa/home?reqType=dns)
     *   Simple Mobile: [https://www.simplemobile.com/ccpa/home?reqType=dns](https://www.simplemobile.com/ccpa/home?reqType=dns)
     *   Net10 Wireless: [https://www.net10wireless.com/ccpa/home?reqType=dns](https://www.net10wireless.com/ccpa/home?reqType=dns)
     *   Walmart Family Mobile: [https://www.myfamilymobile.com/ccpa/home?reqType=dns](https://www.myfamilymobile.com/ccpa/home?reqType=dns)
     *   Total Wireless: [https://www.totalwireless.com/ccpa/home?reqType=dns](https://www.totalwireless.com/ccpa/home?reqType=dns)
-    *   SafeLink: [https://www.safelinkwireless.com/en/#!/ypc](https://www.safelinkwireless.com/en/#!/ypc)
+    *   SafeLink Wireless: [https://www.safelinkwireless.com/en/#!/ypc](https://www.safelinkwireless.com/en/#!/ypc)
     *   Go Smart Mobile: [https://www.gosmartmobile.com/ccpa/home?reqType=dns](https://www.gosmartmobile.com/ccpa/home?reqType=dns)
-    *   Page Plus and Clearway Wireless for Business do not engage in this activity
+    *   Page Plus and Clearway Wireless for Business do not engage in this activity.
     
     Frontier customers can opt out using the “Do Not Sell or Share My Personal Information” link at the bottom of the Frontier website at [frontier.com](http://frontier.com/) or by filling out our [Frontier Privacy Webform](https://frontier.com/pages/california-privacy-law).
     
@@ -1246,7 +1255,7 @@ Open all
     
     You may interact with us in different ways, for example, when you place an order or have questions about your account or services; work with Verizon as a representative of a business customer; contact us on social media; seek technical support; enter a Verizon-sponsored or affiliated contest, sweepstakes or promotion; or register to receive news or public policy updates. We may use information we collect to derive inferences about you. For example, we may make inferences about your approximate location (e.g., city and state) based on your IP address or infer that you are looking to purchase certain products based on your activity on our sites or past purchases.
     
-    We may disclose information to service providers to do work on our behalf. We may also disclose information to third parties for credit and collections, directory assistance and caller id purposes; with your consent; and as further described in other sections of this policy.
+    We may disclose information to service providers to do work on our behalf. We may also disclose information to third parties for credit and collections, directory assistance and Caller ID purposes; with your consent; and as further described in other sections of this policy.
     
     **Your rights to access, delete and correct information.** You can request access to specific personal information we have about you. 
     
@@ -1259,13 +1268,13 @@ Open all
     *   Visible  
         Submit a [privacy inquiry form](/about/privacy/privacy-inquiries).
     
-    Visible Merch customers should follow these [instructions to submit requests 62](#) to access or correct information.
+    Visible Merch customers can follow [these instructions 62](#) to submit requests to know, access, delete, or correct data.
     
     Close×
     
-    62\. instructions for submitting requests
+    62\. these these instructions
     
-    **Visible Merch.** If you are Visible Merch customer, you can request access to personal information we have about you or that we correct inaccurate information by contacting our trusted website service provider, HALO Branded Solutions:  
+    Contact our trusted website service provider, HALO Branded Solutions:  
       
     HALO Branded Solutions  
     Attn: HALO.COM Customer Service  
@@ -1302,7 +1311,7 @@ Open all
     
     The reasons vary slightly within these different state privacy laws, but generally include: complying with laws, rules, regulations, investigative subpoena or summons by governmental authorities; cooperating with law enforcement; investigating, establishing, preparing or defending against legal claims; providing and maintaining the products and services you use, preventing and responding to security and other significant incidents; taking immediate steps to protect an interest that is essential for the life or physical safety; and using information for short-term transient purposes such as displaying relevant information to you based on your activity during a single interaction.
     
-    Some of our services may offer certain loyalty programs (“Loyalty Programs”) that may require the provision of personal information and may qualify as a “bona fide loyalty program” under Colorado law. We will provide you information about any additional information processing practices when you sign up for a Loyalty Program, if applicable. When you participate in a Loyalty Program, you agree to the terms of that Loyalty Program.
+    Some of our services may offer certain loyalty programs (“Loyalty Programs”) that may require the provision of personal information and may qualify as a “bona fide loyalty program” under Colorado law. We will provide you information about any additional information processing practices when you sign up for a Loyalty Program, if applicable. When you participate in a Loyalty Program, you agree to the terms of that Loyalty Program. You can learn more about the Verizon Dollars Program in the [Program Terms and Conditions](/support/verizon-dollars-legal/).
     
     **Residents of Colorado, Connecticut, Delaware, Indiana, Kentucky, Maryland, Minnesota, Montana, Nebraska, New Hampshire, New Jersey, Oregon, Rhode Island, Tennessee, Texas, and Virginia have the right to tell us not to use personal information to create profiles about you that we use to inform decisions that have legal or similarly significant effects.** We do not use personal information to profile you to further decisions that have legal or similarly significant effects.  
     
@@ -1328,17 +1337,17 @@ Open all
     
     67\. Your Privacy Choices
     
-    *   Visible: Visible [Your Privacy Choices](https://www.visible.com/legal/privacy-choices) page.
-    *   Visible Merch or Visible Offers customers can click the “Your Privacy Choices” link at the footer of the [Visible Merch](https://www.visiblemerch.com/) or [Visible Offers](https://www.visibleoffers.com/#/home) websites.
+    *   Visible: [Visible Your Privacy Choices](https://www.visible.com/legal/privacy-choices) page.
+    *   Visible Merch or Visible Offers: Click the “Your Privacy Choices” link in the footer of the [Visible Merch](https://www.visiblemerch.com/) or [Visible Offers](https://www.visibleoffers.com/#/home) websites.
     *   Tracfone: [https://www.tracfone.com/ccpa/home?reqType=dns](https://www.tracfone.com/ccpa/home?reqType=dns)
-    *   StraightTalk: [https://www.straighttalk.com/ccpa/home?reqType=dns](https://www.straighttalk.com/ccpa/home?reqType=dns)
+    *   Straight Talk: [https://www.straighttalk.com/ccpa/home?reqType=dns](https://www.straighttalk.com/ccpa/home?reqType=dns)
     *   Simple Mobile: [https://www.simplemobile.com/ccpa/home?reqType=dns](https://www.simplemobile.com/ccpa/home?reqType=dns)
     *   Net10 Wireless: [https://www.net10wireless.com/ccpa/home?reqType=dns](https://www.net10wireless.com/ccpa/home?reqType=dns)
     *   Walmart Family Mobile: [https://www.myfamilymobile.com/ccpa/home?reqType=dns](https://www.myfamilymobile.com/ccpa/home?reqType=dns)
     *   Total Wireless: [https://www.totalwireless.com/ccpa/home?reqType=dns](https://www.totalwireless.com/ccpa/home?reqType=dns)
-    *   SafeLink: [https://www.safelinkwireless.com/en/#!/ypc](https://www.safelinkwireless.com/en/#!/ypc)
+    *   SafeLink Wireless: [https://www.safelinkwireless.com/en/#!/ypc](https://www.safelinkwireless.com/en/#!/ypc)
     *   Go Smart Mobile: [https://www.gosmartmobile.com/ccpa/home?reqType=dns](https://www.gosmartmobile.com/ccpa/home?reqType=dns)
-    *   Page Plus and Clearway Wireless for Business do not engage in this activity
+    *   Page Plus and Clearway Wireless for Business do not engage in this activity.
     
     Frontier customers can opt out using the “Do Not Sell or Share My Personal Information” link at the bottom of the Frontier website at [frontier.com](http://frontier.com/) or by filling out our [Frontier Privacy Webform](https://frontier.com/pages/california-privacy-law).
     
@@ -1381,13 +1390,20 @@ Open all
     *   Visible  
         Submit a [privacy inquiry form](/about/privacy/privacy-inquiries)
     
-    Visible Merch customers should follow [these instructions 70](#) to exercise your right to know, access, delete, and correct data.
+    Visible Merch customers can follow [these instructions 70](#) to submit requests to know, access, delete, or correct data.
     
     Close×
     
     70\. these instructions
     
-    *   Contact our trusted website service provider, HALO Branded Solutions by emailing [VisibleMerch@halo.com](mailto:VisibleMerch@halo.com), [by](mailto:VisibleMerch@halo.com) calling 1-855-425-6266 or by sending a request via U.S. Postal Mail to Halo Branded Solutions, Attn: HALO.COM Customer Service, 1500 HALO Way, Sterling, IL 61081
+    Contact our trusted website service provider, HALO Branded Solutions:
+    
+    HALO Branded Solutions  
+    Attn: HALO.COM Customer Service  
+    1500 HALO Way Sterling, IL 61081  
+    (855) 425-6266  
+    [VisibleMerch@halo.com  
+    Send a message](mailto:VisibleMerch@halo.com)
     
     Frontier customers can submit a request by completing our [Frontier Privacy Webform](https://frontier.com/california-privacy-law) or by emailing [FTR-privacy@verizon.com](mailto:FTR-privacy@verizon.com).
     
@@ -1401,17 +1417,17 @@ Open all
     
     71\. Your Privacy Choices
     
-    *   Visible: Visible [Your Privacy Choices](https://www.visible.com/legal/privacy-choices) page.
-    *   Visible Merch or Visible Offers customers can click the “Your Privacy Choices” link at the footer of the [Visible Merch](https://www.visiblemerch.com/) or [Visible Offers](https://www.visibleoffers.com/#/home) websites.
+    *   Visible: [Visible Your Privacy Choices](https://www.visible.com/legal/privacy-choices) page.
+    *   Visible Merch or Visible Offers: Click the “Your Privacy Choices” link in the footer of the [Visible Merch](https://www.visiblemerch.com/) or [Visible Offers](https://www.visibleoffers.com/#/home) websites.
     *   Tracfone: [https://www.tracfone.com/ccpa/home?reqType=dns](https://www.tracfone.com/ccpa/home?reqType=dns)
-    *   StraightTalk: [https://www.straighttalk.com/ccpa/home?reqType=dns](https://www.straighttalk.com/ccpa/home?reqType=dns)
+    *   Straight Talk: [https://www.straighttalk.com/ccpa/home?reqType=dns](https://www.straighttalk.com/ccpa/home?reqType=dns)
     *   Simple Mobile: [https://www.simplemobile.com/ccpa/home?reqType=dns](https://www.simplemobile.com/ccpa/home?reqType=dns)
     *   Net10 Wireless: [https://www.net10wireless.com/ccpa/home?reqType=dns](https://www.net10wireless.com/ccpa/home?reqType=dns)
     *   Walmart Family Mobile: [https://www.myfamilymobile.com/ccpa/home?reqType=dns](https://www.myfamilymobile.com/ccpa/home?reqType=dns)
     *   Total Wireless: [https://www.totalwireless.com/ccpa/home?reqType=dns](https://www.totalwireless.com/ccpa/home?reqType=dns)
-    *   SafeLink: [https://www.safelinkwireless.com/en/#!/ypc](https://www.safelinkwireless.com/en/#!/ypc)
+    *   SafeLink Wireless: [https://www.safelinkwireless.com/en/#!/ypc](https://www.safelinkwireless.com/en/#!/ypc)
     *   Go Smart Mobile: [https://www.gosmartmobile.com/ccpa/home?reqType=dns](https://www.gosmartmobile.com/ccpa/home?reqType=dns)
-    *   Page Plus and Clearway Wireless for Business do not engage in this activity
+    *   Page Plus and Clearway Wireless for Business do not engage in this activity.
     
     Frontier customers can opt out using the “Do Not Sell or Share My Personal Information” link at the bottom of the Frontier website at [frontier.com](http://frontier.com/) or by filling out our [Frontier Privacy Webform](https://frontier.com/pages/california-privacy-law).
     
@@ -1427,17 +1443,17 @@ Open all
     
     72\. opt out on these sites
     
-    *   Visible: Visible [Your Privacy Choices](https://www.visible.com/legal/privacy-choices) page.
-    *   Visible Merch or Visible Offers customers can click the “Your Privacy Choices” link at the footer of the [Visible Merch](https://www.visiblemerch.com/) or [Visible Offers](https://www.visibleoffers.com/#/home) websites.
+    *   Visible: [Visible Your Privacy Choices](https://www.visible.com/legal/privacy-choices) page.
+    *   Visible Merch or Visible Offers: Click the “Your Privacy Choices” link in the footer of the [Visible Merch](https://www.visiblemerch.com/) or [Visible Offers](https://www.visibleoffers.com/#/home) websites.
     *   Tracfone: [https://www.tracfone.com/ccpa/home?reqType=dns](https://www.tracfone.com/ccpa/home?reqType=dns)
-    *   StraightTalk: [https://www.straighttalk.com/ccpa/home?reqType=dns](https://www.straighttalk.com/ccpa/home?reqType=dns)
+    *   Straight Talk: [https://www.straighttalk.com/ccpa/home?reqType=dns](https://www.straighttalk.com/ccpa/home?reqType=dns)
     *   Simple Mobile: [https://www.simplemobile.com/ccpa/home?reqType=dns](https://www.simplemobile.com/ccpa/home?reqType=dns)
     *   Net10 Wireless: [https://www.net10wireless.com/ccpa/home?reqType=dns](https://www.net10wireless.com/ccpa/home?reqType=dns)
     *   Walmart Family Mobile: [https://www.myfamilymobile.com/ccpa/home?reqType=dns](https://www.myfamilymobile.com/ccpa/home?reqType=dns)
     *   Total Wireless: [https://www.totalwireless.com/ccpa/home?reqType=dns](https://www.totalwireless.com/ccpa/home?reqType=dns)
-    *   SafeLink: [https://www.safelinkwireless.com/en/#!/ypc](https://www.safelinkwireless.com/en/#!/ypc)
+    *   SafeLink Wireless: [https://www.safelinkwireless.com/en/#!/ypc](https://www.safelinkwireless.com/en/#!/ypc)
     *   Go Smart Mobile: [https://www.gosmartmobile.com/ccpa/home?reqType=dns](https://www.gosmartmobile.com/ccpa/home?reqType=dns)
-    *   Page Plus and Clearway Wireless for Business do not engage in this activity
+    *   Page Plus and Clearway Wireless for Business do not engage in this activity.
     
     Authorized agents of Visible customers can exercise your right to opt-out by clicking on the link on the [Visible Your Privacy Choices](https://www.visible.com/legal/privacy-choices) page. Authorized agents of Visible Merch customers can email us at [VisibleMerch@halo.com](mailto:VisibleMerch@halo.com) with your name, address, and email address. Authorized agents of Frontier customers can email us at [FTR-privacy@verizon.com](mailto:FTR-privacy@verizon.com).
     
@@ -1597,13 +1613,13 @@ Open all
     *   Visible  
         Submit a [privacy inquiry form](/about/privacy/privacy-inquiries)
     
-    Visible Merch customers should follow these [instructions for submitting requests 82](#) to access or correct information.
+    Visible Merch customers can follow [these instructions 82](#) to submit requests to know, access, delete, or correct data.
     
     Close×
     
-    82\. instructions for submitting requests
+    82\. these instructions
     
-    If you are Visible Merch customer, you can request access to personal information we have about you or that we correct inaccurate information by contacting our trusted website service provider, HALO Branded Solutions:
+    Contact our trusted website service provider, HALO Branded Solutions:
     
     HALO Branded Solutions  
     Attn: HALO.COM Customer Service  
@@ -1632,7 +1648,7 @@ Open all
     
       
     *   [Verizon](/about/privacy/third-party-privacy-disclosure)
-    *   [Verizon Value brands](https://www.privacy.tracfone.com/privacy-list), including GoSmart Mobile, Net10 Wireless, Page Plus, Simple Mobile, Straight Talk Wireless, Total Wireless, Tracfone, Walmart Family Mobile.
+    *   [Verizon Value brands](https://www.privacy.tracfone.com/privacy-list), including GoSmart Mobile, Net10 Wireless, Page Plus, Simple Mobile, Straight Talk, Total Wireless, Tracfone, Walmart Family Mobile.
     *   [SafeLink Wireless](https://www.privacy.tracfone.com/privacy-list-safelink)
     *   [Visible](https://www.visible.com/legal/third-party-privacy-disclosure)
     
@@ -1654,7 +1670,7 @@ Open all
     
     We may make changes to this privacy policy, so please check back periodically. You will be able to see that we made changes by checking the effective date below. You can also read about [recent changes](/about/privacy/changes-privacy-policy). If we decide to use or disclose information that identifies you personally in a way that is materially different from what we stated in our privacy policy at the time we collected that information from you, we will give you a choice about the new use or disclosure by appropriate means, which may include an opportunity to opt-out.
     
-    Updated September 2026
+    Updated October 2026
     
 
 ## Related topics
