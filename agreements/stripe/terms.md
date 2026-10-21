@@ -308,7 +308,7 @@ Link is required to identify users registering for and using Link Balance. This 
 
 ### **1\. Registration, Access, and Use**
 
-You must sign up for a Link Account or have an existing Link Account to use Link Balance Self-Custody Wallet (“Link Balance NCW”). You will need to complete certain verification procedures before you are permitted to use Link Balance NCW. While your Link Balance NCW remains connected to your Link Account, your Link Account will be the sole means of accessing your Link Balance NCW. Link Balance NCW may provide you and ability to purchase Supported Digital Assets as well as spend those Supported Digital Assets using a virtual card. By purchasing Supported Digital Assets via Link or creating a virtual card, you also agree to the Fiat-to-Crypto Onramp [Terms](https://stripe.com/legal/crypto-onramp) and Link Virtual Card [Terms](https://stripe.com/legal/consumer#link-virtual-card-terms). 
+You must sign up for a Link Account or have an existing Link Account to use Link Balance Non-Custody Wallet (“Link Balance NCW”), a self-custodial wallet (also referred to as a “self-custodied wallet”). You will need to complete certain verification procedures before you are permitted to use Link Balance NCW. While your Link Balance NCW remains connected to your Link Account, your Link Account will be the sole means of accessing your Link Balance NCW. Link Balance NCW may provide you and ability to purchase Supported Digital Assets as well as spend those Supported Digital Assets using a virtual card. By purchasing Supported Digital Assets via Link or creating a virtual card, you also agree to the Fiat-to-Crypto Onramp [Terms](https://stripe.com/legal/crypto-onramp) and Link Virtual Card [Terms](https://stripe.com/legal/consumer#link-virtual-card-terms). 
 
 By using Link Balance NCW, you agree that you will use it only for yourself and not on behalf of any third party. You are fully responsible for all activity that occurs on your Link Account, including Link Balance NCW activity. You are solely responsible for maintaining the security of your device and your Link Account credentials. Link is not liable for any loss or liability resulting from unauthorized access to your Link Balance NCW that occurs as a result of your failure to keep your credentials or device secure, or due to a compromise of your device, email, or phone number.
 
@@ -322,9 +322,9 @@ Link Balance NCW uses wallet infrastructure provided by Privy. By using a Link B
 
 ### **3\. Export and Independent Access** 
 
-You may export the private key or other credentials needed to control your on-chain wallet and its Supported Digital Assets by following the process described [here](https://support.link.com/questions/export-the-private-key-for-your-link-balance-self-custodial-wallet).
+You may export the private key or other credentials needed to control your on-chain wallet and its Supported Digital Assets by following the process described [here](https://support.link.com/questions/export-the-private-key-for-your-link-balance-self-custodial-wallet). Identity verification, transaction settlement, and dispute settlement may be required prior to completion of private key export.
 
-Exporting the private key or other credentials creates additional security risks. Anyone who obtains those private keys or credentials may be able to control your on-chain wallet and its Supported Digital Assets. If you lose or disclose an exported private key or other wallet credential, Link may be unable to restore access to your wallet. Transactions made using compromised credentials may be irreversible, and Link may be unable to recover the transferred Supported Digital Assets.If you access your wallet through another application using exported credentials, that application’s terms apply, and Link features may not be available. 
+Exporting the private key or other credentials creates additional security risks. Anyone who obtains those private keys or credentials may be able to control your on-chain wallet and its Supported Digital Assets. If you lose or disclose an exported private key or other wallet credential, Link may be unable to restore access to your wallet. Transactions made using compromised credentials may be irreversible, and Link may be unable to recover the transferred Supported Digital Assets. If you access your wallet through another application using exported credentials, that application’s terms apply, and Link features may not be available. 
 
 ### **4\. Balance Information and Blockchain Transactions** 
 
@@ -340,13 +340,13 @@ You are responsible for securing your devices, accounts, authentication credenti
 
 If your authentication or recovery methods are lost, unavailable, or compromised, you may lose access to Link Balance NCW, your on-chain wallet, or your Supported Digital Assets, or another person may be able to authorize transactions from your on-chain wallet. **Loss of access may result in the permanent loss of your Supported Digital Assets**. Resetting your Link Account credentials does not necessarily restore access to your on-chain wallet or Supported Digital Assets.
 
-### **6\. Transaction Authorization**
+### **6\. Transaction Authorization and Delegated Authority**
 
 You are responsible for reviewing the details of each transaction or permission request before approving it, including the Supported Digital Asset, amount, blockchain network, destination address and applicable fees. An incorrect address or network may result in permanent loss.
 
-Certain features allow you to authorize Link or another service to initiate or sign transactions within permissions you approve, including when you are not actively using Link Balance NCW. We will describe the scope of those permissions and how to revoke them before you enable the feature. Revocation prevents future use of the revoked permission once effective, but does not undo transactions already submitted or separately revoke permissions granted.
+Certain features allow you to authorize Link or another service to initiate or sign transactions within permissions you approve, including when you are not actively using Link Balance NCW. **You expressly authorize Link to complete transactions and transfers on your behalf, deduct applicable transaction fees and any other amounts you owe to Link from your on-chain Supported Digital Assets.** Revocation of these authorizations prevent future use of the revoked authorization once effective, but does not undo transactions already submitted or separately revoke permissions granted.
 
-### **7\. Transaction Settings, Delegated Authority and Policies**
+### **7\. Transaction Settings and Policies**
 
 Link Balance NCW may allow you to configure transaction-related settings, parameters, rules, conditions, schedules, triggers, or other logic through your Link Account. Link will submit on-chain transactions from your on-chain wallet through Link Balance NCW solely in accordance with your configured settings and policies. You may modify or disable these settings through Link or other supported means.
 
@@ -398,15 +398,15 @@ Link is required to identify users registering for and using certain functionali
 
 ### 1\. Scope and Applicability
 
-These Link Consumer Prepaid Debit Card Terms of Service (“Virtual Card Terms”) govern your use of the Link consumer prepaid debit card (“Link Virtual Card,” “Link Prepaid Debit Card,” or “Card”) related services Stripe offers for your personal use as further described in Section 3 below (the “Consumer Prepaid Cardholder Services”). 
+These Link Consumer Prepaid Debit Card Terms of Service (“Virtual Card Terms”) govern your use of the Link consumer prepaid debit card (“Link Virtual Card,” “Link Prepaid Debit Card,” or “Card”) related services Stripe offers for your personal use as further described in Section 3 below (the “Consumer Prepaid Cardholder Services”).
 
-Stripe works with one or more banks (each, an “Issuing Bank”) to provide the Consumer Prepaid Cardholder Services. In connection with your use of the Consumer Prepaid Cardholder Services, the Issuing Bank directly issues your Card. You may access the Consumer Prepaid Cardholder Services through your Link Account. These Virtual Card Terms govern your relationship with Stripe only. 
+Stripe works with one or more banks (each, an “Issuing Bank”) to provide the Consumer Prepaid Cardholder Services. In connection with your use of the Consumer Prepaid Cardholder Services, the Issuing Bank directly issues your Card. You may access the Consumer Prepaid Cardholder Services through your Link Account. These Virtual Card Terms govern your relationship with Stripe only.
 
-Your Card is a consumer prepaid debit card. It is not a credit card or a gift card, and it does not provide any overdraft, line of credit, or other credit feature. Your ability to use the Card is limited to the available balance in your Link Balance (for the purposes of this section, Link Balance refers to both Link Balance (Custodial) and Link Balance NCW). The terms for participating in Link Balance are governed by the Link Balance Terms found [here](https://link.com/terms#link-balance-terms). Your Card is governed by the Issuing Bank Terms (defined below), which contain important information about your rights and obligations, including applicable fees, transaction limits, error resolution procedures, and liability protections for unauthorized transactions.
+Your Card is a consumer prepaid debit card. It is not a credit card or a gift card, and it does not provide any overdraft, line of credit, or other credit feature. Your ability to use the Card is limited to the available balance in your Link Balance. For the purposes of this section, “Link Balance” refers to both Link Balance (Custodial) and Link Balance (NCW). Your Card is governed by the Issuing Bank Terms (defined below), which contain important information about your rights and obligations, including applicable fees, transaction limits, error resolution procedures, and liability protections for unauthorized transactions.
 
-To receive a Card, you must first agree to the Issuing Bank’s cardholder terms found [here](https://link.com/terms/prepaid-debit-cardholder-agreement) (“Issuing Bank Terms”). Your continued use of that Card is subject to (a) those Issuing Bank Terms, (b) these Virtual Card Terms, (c) the Link Balance Terms, and (d) any other Link Consumer Services used in connection or combination with the Consumer Prepaid Cardholder Services. In the event of a conflict between these Virtual Card Terms and the Issuing Bank Terms regarding your Card, your rights under applicable federal or state law, or your rights to error resolution or protections for unauthorized transactions, the Issuing Bank Terms will control. 
+To receive a Card, you must first agree to the Issuing Bank’s cardholder terms found [here](https://link.com/terms/prepaid-debit-cardholder-agreement) (“Issuing Bank Terms”). Your continued use of that Card is subject to (a) those Issuing Bank Terms, (b) these Virtual Card Terms, (c) the Link Balance Terms, and (d) any other Link Consumer Services used in connection or combination with the Consumer Prepaid Cardholder Services. In the event of a conflict between these Virtual Card Terms and the Issuing Bank Terms regarding your Card, your rights under applicable federal or state law, or your rights to error resolution or protections for unauthorized transactions, the Issuing Bank Terms will control.
 
-Your Card is linked to your Link Balance. The terms governing your Link Balance, including how funds are held and custodial arrangements, are set forth [here](https://link.com/terms#link-balance-terms). Your Card allows you to access your Link Balance to make purchases and conduct other transactions as described in the Issuing Bank Terms.
+Your Card is linked to your Link Balance. The terms governing your Link Balance, including how funds are held are set forth [here](https://link.com/terms#link-balance-terms) for custodial balances, and [here](https://link.com/terms#link-balance-terms-non-custodial) for non-custodial balances. Your Card allows you to access your Link Balance to make purchases and conduct other transactions as described in the Issuing Bank Terms.
 
 If your agreement with the Issuing Bank terminates or if your Link Balance is closed, Stripe may restrict or terminate your access to the Consumer Prepaid Cardholder Services.
 
@@ -414,7 +414,7 @@ If your agreement with the Issuing Bank terminates or if your Link Balance is cl
 
 To use the Consumer Prepaid Cardholder Services, you must:
 
-*   Sign up for a Link Account or have an existing Link Account; 
+*   Sign up for a Link Account or have an existing Link Account;
 *   Sign up for Link Balance or be an existing user of Link Balance; and
 *   Not use the Consumer Prepaid Cardholder Services for any purpose other than personal use.
 
@@ -422,7 +422,7 @@ You may not use the Consumer Prepaid Cardholder Services if Stripe has previousl
 
 In connection with your request for a Card and use of the Consumer Prepaid Cardholder Services, Stripe, on behalf of the Issuing Bank, may collect your name, address, date of birth, Social Security number or tax identification number, and other information necessary to verify your identity as required by applicable law, including applicable requirements under the USA PATRIOT Act. You agree to provide accurate and complete information and to promptly update such information as necessary.
 
-### 3\. Stripe's Role and Relationship to Your Card Account
+### 3\. Stripe’s Role and Relationship to Your Card Account
 
 Stripe provides the Consumer Prepaid Cardholder Services as the program manager. In that capacity, Stripe provides services on behalf of the Issuing Bank, including processing transactions, facilitating customer support, and providing technology and related services that enable you to access and use your Card.
 
@@ -432,18 +432,18 @@ Stripe is not the issuer of your Card. Your Card is issued by the Issuing Bank. 
 *   Facilitate the error resolution and unauthorized transaction investigation processes described in the Issuing Bank Terms, including receiving your notices of error, conducting investigations, and applying provisional credits as required by applicable law;
 *   Provide or facilitate customer support for the Consumer Prepaid Cardholder Services;
 *   Collect identity verification information on behalf of the Issuing Bank;
-*   Deliver required disclosures, notices, and other communications on behalf of the Issuing Bank; 
+*   Deliver required disclosures, notices, and other communications on behalf of the Issuing Bank;
 *   Facilitate the delivery of periodic statements as required by the Issuing Bank Terms and applicable law;
 *   Enable digital wallet functionality in connection with your Card, as described in the Issuing Bank Terms; and
 *   Perform other services as described in these Consumer Prepaid Card Terms, the Issuing Bank Terms, or as otherwise required by applicable law.
 
 When Stripe performs services described in the Issuing Bank Terms, including error resolution and unauthorized transaction protections under the Electronic Fund Transfer Act and Regulation E, Stripe does so on behalf of and as an authorized agent of the Issuing Bank. Your rights under the Issuing Bank Terms and applicable law, including your rights to error resolution and protections for unauthorized transactions, are not limited, waived, or modified by these Virtual Card Terms.
 
-### 4\. Card Information and Transaction limits
+### 4\. Card Information and Transaction Limits
 
-You will be able to view and manage information related to your Card on the Link app. Information that you will be able to view may include viewing or changing your PIN, viewing Card details, locking your Card, replacing your Card, and canceling your Card. Additional information can be found [here](https://support.link.com/topics/link-card). 
+You will be able to view and manage information related to your Card on the Link app. Information that you will be able to view may include viewing or changing your PIN, viewing Card details, locking your Card, replacing your Card, and canceling your Card. Additional information can be found [here](https://support.link.com/topics/link-card).
 
-Your Card supports a maximum transaction limit which can be found [here](https://support.link.com/topics/link-card). 
+Your Card supports a maximum transaction limit which can be found [here](https://support.link.com/topics/link-card).
 
 ### 5\. Suspension and Termination
 
@@ -451,11 +451,11 @@ Termination by Us. Stripe may terminate these Virtual Card Terms, and Stripe may
 
 Termination by You. You may terminate these Virtual Card Terms at any time and for any reason by terminating your access to the Consumer Prepaid Cardholder Services. Termination will be effective on the date that your access to the Consumer Prepaid Cardholder Services is terminated.
 
-Effect of Termination. Upon termination of these Virtual Card Terms, your right to access or use the Consumer Prepaid Cardholder Services immediately ceases, and all licenses and rights granted to you under these Virtual Card Terms automatically terminate. The disposition of any remaining available balance in your Link Balance following termination is governed by the Issuing Bank Terms and the Link Balance Terms, as applicable. 
+Effect of Termination. Upon termination of these Virtual Card Terms, your right to access or use the Consumer Prepaid Cardholder Services immediately ceases, and all licenses and rights granted to you under these Virtual Card Terms automatically terminate. The disposition of any remaining available balance in your Link Balance following termination is governed by the Issuing Bank Terms and the Link Balance Terms, as applicable.
 
 Termination does not revoke any third-party payment authorizations or your obligation to satisfy any pending transactions. You acknowledge that, subject to applicable law, Stripe has no obligation to provide you with access to any data or information submitted through the Consumer Prepaid Cardholder Services after termination, except to the extent required by the Issuing Bank Terms or applicable law, including your right to obtain your transaction history as described in the Issuing Bank Terms.
 
-The following provisions will survive even after these Consumer Prepaid Card Terms terminate: Stripe's Role and Disclaimer of Warranties.
+The following provisions will survive even after these Consumer Prepaid Card Terms terminate: Stripe’s Role and Disclaimer of Warranties.
 
 ### 6\. Disclaimer of Warranties
 
@@ -466,6 +466,10 @@ We, our affiliates, and our respective agents and contractors make no warranties
 Notwithstanding the foregoing, nothing in this section limits, waives, or modifies: (a) any rights you have under the Issuing Bank Terms; (b) any rights or protections afforded to you under the Electronic Fund Transfer Act, Regulation E, or any other applicable federal or state consumer protection law; or (c) any obligation Stripe has to you when acting on behalf of the Issuing Bank, including with respect to error resolution, unauthorized transaction protections, and the delivery of required disclosures and periodic statements.
 
 Applicable law may limit or prohibit disclaiming the warranties referred to in the previous paragraphs, or impose obligations on Stripe that it cannot eliminate with these Virtual Card Terms. In those cases, this section does not restrict, exclude or modify any consumer rights.
+
+### 7\. Agentic Transactions
+
+Link may enable you and your Agent to use your Card with agentic transactions. For the purpose of this section, “Agent” has the same definition found in the Link Agentic [Terms](https://link.com/terms#agentic-terms). As between you, Stripe, and the applicable Issuing Bank, you are responsible for all Agent-initiated transactions as if you had taken the action yourself. Your connection of an Agent to your Link Account and Card constitutes your authorization for the Agent to engage in transactions on your behalf, whether those transactions were intended by you or not; those transactions were caused by bugs, hallucinations and/or misinterpretations; or those transactions differ from your provided instructions; except in the case the transaction is the result of our technical failure or error.
 
 ## **Link Agentic Terms**
 
