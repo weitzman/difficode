@@ -26,7 +26,7 @@ selector: "#main"
 
 * * *
 
-Last updated on: August 1, 2026
+Last updated on: October 20, 2026
 
 Welcome to Shopify! By signing up for a Shopify Account (as defined in Section 1) or by using any Shopify Services (as defined below), you are agreeing to be bound by the following terms and conditions (the "**Terms of Service**").
 
@@ -179,7 +179,7 @@ A valid payment method (such as a credit card) must remain on file to pay all se
     
 10.  Shopify does not provide refunds.
      
-11.  Your access to and use of any tools that Shopify offers to you that help you calculate or estimate taxes that arise from or as a result of a sale on your Store ("**Shopify Tax**") is subject to the [Shopify Tax Terms of Service](/legal/shopify-tax-terms) or that help you file such taxes ("**Shopify Tax Automated Filing**") is subject to the [Shopify Tax Automated Filing Terms of Service](/legal/shopify-tax-filing-terms).
+11.  Your access to and use of any tax-related tools that Shopify offers to you ("**Shopify Tax**") is subject to the [Shopify Tax Terms of Service](/legal/shopify-tax-terms).
      
 
 ## 6\. Confidentiality
