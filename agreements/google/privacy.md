@@ -495,7 +495,7 @@ Some U.S. state privacy laws also require a description of data practices using 
 
 **Other people with whom you choose to share your information**, like docs or photos, videos or comments on YouTube, or health information through Fitbit’s social features and third party applications.
 
-**Third parties with your consent**, such as services that integrate with Google’s services. You can [review and manage third party apps and sites](https://myaccount.google.com/permissions?hl=en) with access to data in your Google Account. See more details about [when Google shares your information](/privacy#infosharing).
+**Third parties with your consent**, such as services that integrate with Google’s services. You can [review and manage third party apps and sites](https://myaccount.google.com/permissions) with access to data in your Google Account. See more details about [when Google shares your information](/privacy#infosharing).
 
 **Service providers**, trusted businesses, or persons that process information on Google’s behalf, based on our instructions and in compliance with our Privacy Policy and any other appropriate confidentiality and security measures.
 
