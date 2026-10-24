@@ -3,6 +3,8 @@ url: "https://stripe.com/privacy"
 selector: "main"
 ---
 
+This Privacy Policy will be updated on November 20, 2026. Please review the upcoming changes [here](https://stripe.com/privacy/preview).
+
 #### Last updated: April 28, 2026
 
 This Privacy Policy includes important information about your personal data and we encourage you to read it carefully.
