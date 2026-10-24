@@ -229,4 +229,4 @@ The Terms, including all of the policies that make up the Terms, supersede any o
 
 If you have any questions about the Terms, please email us at [legal@etsy.com](mailto:legal@etsy.com).
 
-Last updated on Sep 30, 2026
+Last updated on Oct 26, 2026
