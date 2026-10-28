@@ -617,6 +617,6 @@ J. Sensitive Personal Information
 
        
 
-We currently use cookies to improve and customize your experience on our site. If you accept, we’ll also use marketing cookies to show you personalized ads. [Manage your cookies and learn more.](#)
+If you accept cookies, we’ll use them to improve and customize your experience and enable our partners to show you personalized ads when you visit other sites. [Manage cookies and learn more](#)
 
-Yes, I acceptNo, I decline
+AcceptDecline
