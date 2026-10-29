@@ -839,11 +839,11 @@ Experience the education, inspiration, and fun of Cisco Live 2026 Melbourne.
 
 [Register now](https://www.ciscolive.com/apjc?ccid=cc008775&cid=CL26eventspage&eid=162820&oid=eprsas033263)
 
-### Cisco at NVIDIA GTC Berlin
+### Cisco at Gartner IT Symposium/Xpo™
 
-Visit us at NVIDIA GTC Berlin, Oct 20–22, to learn how to build secure, simple AI factories from core to edge.
+Join us at the Gartner IT Symposium/Xpo 2026 in Barcelona from November 9-12 to discover how Cisco is the critical infrastructure for the AI era. 
 
-[Discover more](/site/us/en/learn/events/nvidia-gtc-berlin.html)
+[Discover more](/site/us/en/learn/events/gartner-it-symposium-xpo-barcelona.html)
 
 Back
 
@@ -1703,7 +1703,7 @@ Expand the window to see more details and enjoy a clearer chat!
     
 *   Rate your experience:
     
-    [](https://ciscocx.qualtrics.com/jfe/form/SV_8Bu9KmzrohUSltc?conversation_id=904d0b00-6c66-482b-a21f-ec659bde3680&cp_gutc=23.214.21.146.1828779179320263879)Helpful [](https://ciscocx.qualtrics.com/jfe/form/SV_8rmfXKDd6pISWbk?conversation_id=904d0b00-6c66-482b-a21f-ec659bde3680&cp_gutc=23.214.21.146.1828779179320263879)Unhelpful
+    [](https://ciscocx.qualtrics.com/jfe/form/SV_8Bu9KmzrohUSltc?conversation_id=c6f1a34b-1a2a-42df-b1cd-4d69d1be3ead&cp_gutc=23.202.113.11.10046621793289496489)Helpful [](https://ciscocx.qualtrics.com/jfe/form/SV_8rmfXKDd6pISWbk?conversation_id=c6f1a34b-1a2a-42df-b1cd-4d69d1be3ead&cp_gutc=23.202.113.11.10046621793289496489)Unhelpful
     
 
 Label 
